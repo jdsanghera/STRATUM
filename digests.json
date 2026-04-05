@@ -1,5 +1,432 @@
 [
   {
+    "timestamp": "2026-04-05T19:58:09.630271+00:00",
+    "timestamp_ist": "06 Apr 2026 \u00b7 01:28 IST",
+    "story_count": 16,
+    "avg_score": 57,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 88,
+        "topic": "US-Iran Military Conflict",
+        "domain": "geopolitics",
+        "headline": "US fighter jets shot down, Trump threatens Iran infrastructure",
+        "summary": "Iran has shot down two US warplanes with at least one crew member still missing, marking an exceedingly rare assault on US military aircraft. Trump has given Iran 48 hours to reopen the Strait of Hormuz or face strikes on power plants and bridges.",
+        "signal": "Escalation risk peaks as military losses challenge Trump's invincibility narrative and deadline approaches.",
+        "sources": [
+          "BBC News",
+          "Associated Press",
+          "Bloomberg",
+          "Al Jazeera",
+          "@AJEnglish",
+          "@MarioNawfal"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-s-victory-rhetoric-undercut-by-downed-us-jet-in-iran-war",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "US President Trump has renewed his threat to unleash \"hell\" on Iran if it continues to keep Strait of Hormuz closed, saying the US will destroy the country's power plants and bridges.",
+            "score": 50,
+            "url": "https://twitter.com/AJEnglish/status/2040851966394528210"
+          },
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 He was wounded, alone, and hiding in the mountains\u2026 and people were actively hunting him. After the F-15E was hit by a shoulder-fired missile, he ejected and survived. For more than 24 hours, he",
+            "score": 45,
+            "url": "https://twitter.com/MarioNawfal/status/2040862031373283383"
+          },
+          {
+            "handle": "spectatorindex",
+            "platform": "twitter",
+            "text": "BREAKING: Trump says there is still a 'good chance' of a deal, but if Iran does not make one, 'I am blowing up everything over there', according to Axios report.",
+            "score": 45,
+            "url": "https://twitter.com/spectatorindex/status/2040877154083463366"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 75,
+        "topic": "Iran Nuclear Plant Attacks",
+        "domain": "geopolitics",
+        "headline": "Fourth strike hits Iran's Bushehr nuclear facility, kills guard",
+        "summary": "A projectile has struck near Iran's Bushehr nuclear plant, killing one security guard and damaging a support building in the fourth such attack during the war. The IAEA has issued warnings about potential nuclear accidents at the facility.",
+        "signal": "Nuclear escalation risk as repeated strikes on atomic facilities threaten catastrophic accident.",
+        "sources": [
+          "BBC News",
+          "Associated Press",
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c5y90jl8veyo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 72,
+        "topic": "Iran Negotiations Collapse",
+        "domain": "geopolitics",
+        "headline": "Iran rejects ceasefire proposal, dismisses US ultimatum terms",
+        "summary": "Iran has rejected proposals to reopen the Strait of Hormuz in exchange for a temporary ceasefire, telling mediators the US is not in a position to dictate terms. Foreign ministers from multiple countries have reached out to Iranian officials as diplomatic efforts intensify.",
+        "signal": "Negotiation breakdown increases likelihood of major escalation within Trump's 48-hour deadline.",
+        "sources": [
+          "Wall Street Journal",
+          "@spectatorindex",
+          "@MarioNawfal",
+          "@Osinttechnical"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "spectatorindex",
+            "platform": "twitter",
+            "text": "BREAKING: Iran rejected proposal to open Strait of Hormuz in exchange for temporary ceasefire, according to Wall Street Journal report.",
+            "score": 42,
+            "url": "https://twitter.com/spectatorindex/status/2040874415328797162"
+          },
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "\ud83d\udea8 BREAKING: \ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran has rejected a proposal to reopen the Strait of Hormuz in exchange for a temporary ceasefire. Source: WSJ",
+            "score": 41,
+            "url": "https://twitter.com/MarioNawfal/status/2040865022742581456"
+          },
+          {
+            "handle": "Osinttechnical",
+            "platform": "twitter",
+            "text": "Iran has refused to compromise on its demands and has rejected a proposed Hormuz opening for ceasefire deal -WSJ",
+            "score": 43,
+            "url": "https://twitter.com/Osinttechnical/status/2040861112434835840"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 4,
+        "score": 68,
+        "topic": "Soleimani Family Deportations",
+        "domain": "geopolitics",
+        "headline": "US detains, revokes visas of Soleimani relatives",
+        "summary": "The Trump administration has arrested the niece and grand-niece of deceased Iranian General Qasem Soleimani and revoked green cards of multiple Iranian nationals connected to the government. The State Department accused them of supporting Iran's regime while living in the US.",
+        "signal": "Domestic crackdown on Iranian nationals signals broader escalation beyond military conflict.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Al Jazeera",
+          "BBC News"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/us-arrests-niece-of-late-iranian-general-soleimani",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 65,
+        "topic": "Israel-Lebanon Strikes",
+        "domain": "middleeast",
+        "headline": "Israeli strikes kill 14 in Lebanon on Easter",
+        "summary": "Israeli airstrikes across Lebanon killed at least 14 people on Easter Sunday, including a 4-year-old child in Kfarhata village and four people in Beirut's Jnah neighborhood. The strikes came after Israel threatened to hit Lebanon's main Syria border crossing, forcing its closure.",
+        "signal": "Lebanese front escalation threatens to widen regional conflict beyond US-Iran war.",
+        "sources": [
+          "South China Morning Post",
+          "Al Jazeera",
+          "@MarioNawfal",
+          "@AJEnglish"
+        ],
+        "source_url": "https://www.scmp.com/news/world/middle-east/article/3349099/israeli-strikes-kill-11-lebanon-israel-announces-security-buffer",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 Easter Sunday turned into another day of strikes in Lebanon At least 11 people were killed, including a 4-year-old girl, after Israeli attacks hit Kfarhata and a residential area in Beirut near",
+            "score": 45,
+            "url": "https://twitter.com/MarioNawfal/status/2040861024539029543"
+          },
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "Israeli attacks across southern Lebanon and the capital, Beirut, have killed at least 14 people, a day after Israel threatened to hit Lebanon's main border crossing with Syria, forcing its closure.",
+            "score": 49,
+            "url": "https://twitter.com/AJEnglish/status/2040864547628822697"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 62,
+        "topic": "Haifa Missile Strike",
+        "domain": "middleeast",
+        "headline": "Iranian missile directly hits Haifa building, casualties reported",
+        "summary": "A residential building in Haifa partially collapsed after being directly hit by an Iranian ballistic missile, with 4 people missing under rubble and at least 10 wounded. Israeli authorities fear the entire structure may collapse.",
+        "signal": "Direct Iranian strikes on Israeli cities demonstrate escalating missile warfare capabilities.",
+        "sources": [
+          "@MarioNawfal",
+          "@AJEnglish"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 A residential building in Haifa, northern Israel, was directly hit by an Iranian ballistic missile. The strike caused a partial collapse, leaving 4 people missing under the rubble.",
+            "score": 45,
+            "url": "https://twitter.com/MarioNawfal/status/2040867567552860512"
+          },
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "A residential building in the Israeli city of Haifa has partially collapsed after being hit by a projectile. Israeli authorities say at least 10 people have been wounded and fear that the entire struc",
+            "score": 41,
+            "url": "https://twitter.com/AJEnglish/status/2040842763269193770"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 7,
+        "score": 58,
+        "topic": "OPEC Oil Production Increase",
+        "domain": "commodities",
+        "headline": "OPEC+ raises production quotas amid Iran war supply concerns",
+        "summary": "OPEC+ members led by Saudi Arabia and Russia agreed to increase oil production targets for May by 206,000 barrels per day. The cartel warned that repairing war-damaged energy facilities will be costly and time-consuming.",
+        "signal": "Oil supply boost signals OPEC confidence in managing war-related disruptions but highlights infrastructure vulnerability.",
+        "sources": [
+          "Bloomberg",
+          "Middle East Eye",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/iran-says-iraqi-ships-are-allowed-to-use-strait-of-hormuz",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 56,
+        "topic": "Ukraine Trump Envoy Visit",
+        "domain": "geopolitics",
+        "headline": "Ukraine expects Trump envoys Witkoff, Kushner visit this month",
+        "summary": "Ukraine's President Zelensky's chief of staff says the country expects top US envoys Steve Witkoff and Jared Kushner to lead a delegation to Kyiv this month. The visit aims to reboot peace talks as Trump manages multiple foreign crises.",
+        "signal": "Trump pivot to Ukraine negotiations may signal bandwidth limits amid Iran war escalation.",
+        "sources": [
+          "Bloomberg",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/ukraine-expects-top-us-envoys-in-kyiv-this-month-to-reboot-talks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 54,
+        "topic": "UAE Port Attack",
+        "domain": "middleeast",
+        "headline": "Iran attacks UAE's Khor Fakkan Port, ship catches fire",
+        "summary": "Iran's IRGC claimed it fired a missile at an Israel-linked ship in Dubai's Port of Jebel Ali area, causing it to catch fire. The UAE confirmed it is dealing with an incident at Khor Fakkan Port, a major container facility outside the Strait of Hormuz.",
+        "signal": "Iranian attacks on UAE infrastructure threaten Gulf state neutrality and regional shipping alternatives.",
+        "sources": [
+          "@AJEnglish",
+          "@MarioNawfal",
+          "Middle East Eye"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "BREAKING: Iran's IRGC has claimed it fired a missile at an Israel-linked ship in a channel leading to Dubai's Port of Jebel Ali, causing it to catch fire.",
+            "score": 48,
+            "url": "https://twitter.com/AJEnglish/status/2040843659877515486"
+          },
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf7 Iran attacked the port ships were using to avoid Iran's attacks. Khor Fakkan in the UAE handles 5 million containers a year and sits directly on the Gulf of Oman, outside the Strait of Hormuz",
+            "score": 47,
+            "url": "https://twitter.com/MarioNawfal/status/2040864547729506393"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 10,
+        "score": 52,
+        "topic": "India Iran Diplomacy",
+        "domain": "india",
+        "headline": "Jaishankar holds calls with Iran, Qatar, UAE ministers",
+        "summary": "External Affairs Minister S. Jaishankar spoke with Iranian Foreign Minister Abbas Araghchi amid escalating tensions, as well as leaders from Qatar and UAE. The calls covered bilateral relations and regional developments as Trump's deadline looms.",
+        "signal": "India's diplomatic outreach signals concern over regional escalation and energy security impacts.",
+        "sources": [
+          "Times of India",
+          "Indian Express",
+          "@PTI_News"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/eam-jaishankar-receives-call-from-iran-fm-araghchi-as-trumps-48-hour-threat-looms/articleshow/130043913.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "PTI_News",
+            "platform": "twitter",
+            "text": "EAM Dr S Jaishankar posts, \"Received a call from Foreign Minister Seyed Abbas Araghchi of Iran. Discussed the present situation.\"",
+            "score": 41,
+            "url": "https://twitter.com/PTI_News/status/2040864165049540911"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 48,
+        "topic": "Pakistan UAE Loan Repayment",
+        "domain": "macro",
+        "headline": "Pakistan to repay matured UAE deposits, straining reserves",
+        "summary": "Pakistan announced it will return matured loan deposits to the UAE, a move that will strain the country's foreign exchange reserves. The decision comes amid broader regional economic pressures from the Iran war.",
+        "signal": "Pakistani reserve strain highlights broader regional financial stress from war-related disruptions.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/pakistan-says-it-will-repay-matured-loan-deposits-to-uae",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 45,
+        "topic": "IMF Tokenized Finance Warning",
+        "domain": "markets",
+        "headline": "IMF warns blockchain trading could amplify market crises",
+        "summary": "The IMF cautioned that moving Wall Street's infrastructure onto blockchain systems could accelerate financial crises beyond regulators' ability to respond. While the technology promises cost cuts, it may create new systemic risks during market stress.",
+        "signal": "Financial system modernization faces regulatory scrutiny amid broader market volatility concerns.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/imf-warns-tokenized-finance-risks-amplifying-market-crises-ahead",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 42,
+        "topic": "Jewish Charity Attack London",
+        "domain": "europe",
+        "headline": "Four arrested in Jewish charity ambulance arson attack",
+        "summary": "A fourth suspect was arrested following an arson attack on Jewish charity ambulances in London. Three men have been charged and remanded in custody after appearing in court.",
+        "signal": "Rising antisemitic incidents in Europe amid Middle East conflict create domestic security concerns.",
+        "sources": [
+          "BBC News",
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/clyjrrl17j1o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 38,
+        "topic": "Peru Presidential Election",
+        "domain": "geopolitics",
+        "headline": "Peru's presidential race shifts with comedian Alvarez gaining",
+        "summary": "Peru's presidential race has shifted in final polls before the April 12 election, with outsider comedian Carlos Alvarez showing late momentum. The election comes amid regional political uncertainty.",
+        "signal": "Latin American political volatility continues with outsider candidates challenging establishments.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/peru-s-presidential-front-runners-shift-with-election-days-away",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 35,
+        "topic": "Trump Budget Request Process",
+        "domain": "markets",
+        "headline": "Trump budget trajectory unpredictable amid war spending",
+        "summary": "The congressional appropriations process has become impossible to predict as Trump manages war costs and domestic priorities. Budget Director Vought faces complex allocation decisions amid multiple crises.",
+        "signal": "Fiscal policy uncertainty rises as war spending competes with domestic priorities in budget planning.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.com/news/2026/04/04/budget-trump-omb-vought-00859077",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 53,
+        "topic": "US-Iran Backdoor Talks",
+        "domain": "geopolitics",
+        "headline": "Trump advisors reportedly texting Iran FM despite ultimatum",
+        "summary": "Trump's advisors are reportedly texting Iran's Foreign Minister Araghchi in continued negotiation attempts despite public ultimatums.",
+        "signal": "Diplomatic channels remain open even as public rhetoric escalates toward conflict.",
+        "sources": [
+          "@KobeissiLetter"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "High-credibility source reporting potential diplomatic breakthrough while public positions harden.",
+        "social_signals": [
+          {
+            "handle": "KobeissiLetter",
+            "platform": "twitter",
+            "text": "BREAKING: President Trump's advisors are reportedly texting Iran's Foreign Minister Araghchi in an attempt to continue negotiations, per Axios.",
+            "score": 53,
+            "url": "https://twitter.com/KobeissiLetter/status/2040881227217928520"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 140
+  },
+  {
     "timestamp": "2026-04-05T19:52:42.054724+00:00",
     "timestamp_ist": "06 Apr 2026 \u00b7 01:22 IST",
     "story_count": 15,
