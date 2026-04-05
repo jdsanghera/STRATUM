@@ -1,5 +1,407 @@
 [
   {
+    "timestamp": "2026-04-05T08:20:36.496678+00:00",
+    "timestamp_ist": "05 Apr 2026 \u00b7 13:50 IST",
+    "story_count": 15,
+    "avg_score": 75,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 92,
+        "topic": "US F-15 Crew Rescue Iran",
+        "domain": "geopolitics",
+        "headline": "US Rescues Missing F-15 Aircrew From Iran After Successful Operation",
+        "summary": "The United States successfully rescued both crew members from an F-15E fighter jet downed by Iran, with President Trump confirming the operation involved 'dozens of aircraft' and resulted in the airmen being 'injured but fine.' The complex rescue mission required destroying malfunctioning U.S. transport aircraft to prevent seizure and involved a CIA disinformation campaign to deceive Iranian forces.",
+        "signal": "US military rescue capability demonstrated despite escalating Iran conflict, though aircraft losses mount with 27 total lost in Operation Epic Fury.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "Al Jazeera English",
+          "@Faytuks",
+          "@MarioNawfal"
+        ],
+        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-04-2026",
+        "social_signals": [
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "BREAKING: The second crew member from the downed F-15E has been recovered after a 'heavy firefight', a US government official tells Al Jazeera",
+            "score": 53,
+            "url": "https://twitter.com/Faytuks/status/2040628423597457848"
+          },
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "Before the rescue of the missing F-15 pilot took place in Iran, the CIA launched a disinformation campaign to deceive Tehran",
+            "score": 49,
+            "url": "https://twitter.com/MarioNawfal/status/2040678320430325799"
+          },
+          {
+            "handle": "France24_en",
+            "platform": "twitter",
+            "text": "Crew member from downed US fighter jet rescued in 'miraculous' operation, says Trump",
+            "score": 41,
+            "url": "https://twitter.com/France24_en/status/2040693174247489979"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 88,
+        "topic": "Iran Attacks Gulf Infrastructure",
+        "domain": "middleeast",
+        "headline": "Iran Strikes Energy Facilities Across UAE Kuwait Bahrain",
+        "summary": "Iran launched coordinated attacks on critical energy infrastructure across Gulf states, with fires breaking out at Abu Dhabi's Borouge petrochemical plant, Kuwait's power plants, and Bahrain's Bapco refinery following missile and drone strikes. The attacks target key energy facilities as Iran escalates its regional response to U.S.-Israeli operations.",
+        "signal": "Gulf energy infrastructure under systematic Iranian attack threatens regional stability and global energy supplies beyond Strait of Hormuz closure.",
+        "sources": [
+          "Al Jazeera English",
+          "Bloomberg",
+          "@Faytuks",
+          "@PTI_News"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack",
+        "social_signals": [
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "Breaking: Two Kuwaiti power and water desalination plants attacked by Iranian drones, with them causing 'significant damage'",
+            "score": 41,
+            "url": "https://twitter.com/Faytuks/status/2040601441933336800"
+          },
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "Abu Dhabi authorities are currently responding to multiple fires at the Borouge petrochemicals plant",
+            "score": 40,
+            "url": "https://twitter.com/MarioNawfal/status/2040686474186666435"
+          },
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "Bahrain's al-Khaleej Petrochemical Industries Company has announced that several of its operational units were subjected to an attack",
+            "score": 48,
+            "url": "https://twitter.com/AJEnglish/status/2040704136547647746"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 3,
+        "score": 85,
+        "topic": "US Iran War Escalation",
+        "domain": "geopolitics",
+        "headline": "Iran War Day 36 Sees Continued Military Confrontation",
+        "summary": "The U.S.-Iran conflict enters its sixth week with Iran claiming to have downed multiple American aircraft and Trump facing mounting pressure as gas prices spike and midterm elections loom. Trump unveiled a $1.5 trillion defense spending request while contemplating ground troop deployment amid the expanding Middle East conflict.",
+        "signal": "Extended Iran conflict challenges Trump's campaign promises on ending wars and controlling costs as military losses mount and political pressure intensifies.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "The Wall Street Journal"
+        ],
+        "source_url": "https://apnews.com/article/trump-midterms-republicans-costs-iran-democrats-642b5f8fd79c980521c89afa86c4f249",
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "Losses of U.S.A.F so far in Operation Epic Fury: F-15E \u2014 4, A-10 \u2014 1, E-3 AWACS \u2014 1, KC-135 \u2014 2, C-130 \u2014 2, MQ-9 Reaper \u2014 17. Total: 27",
+            "score": 44,
+            "url": "https://twitter.com/FirstSquawk/status/2040702197164658871"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 82,
+        "topic": "Strait Hormuz Oil Crisis",
+        "domain": "commodities",
+        "headline": "Strait of Hormuz Closure Drives Oil Toward $130",
+        "summary": "The Iranian blockade of the Strait of Hormuz has effectively shut key oil transit routes, with crude prices projected to surge to $130 per barrel amid supply disruptions. OPEC+ core members agreed to increase production by 206,000 barrels daily to offset shortages as bypass pipelines reach maximum capacity.",
+        "signal": "Energy crisis deepens as Hormuz closure persists, forcing emergency production increases but insufficient to prevent oil price spike above $130.",
+        "sources": [
+          "The Wall Street Journal",
+          "@JavierBlas",
+          "@FirstSquawk"
+        ],
+        "source_url": "https://www.wsj.com/world/middle-east/trumps-mission-impossible-for-allies-reopening-the-strait-of-hormuz-d6767476",
+        "social_signals": [
+          {
+            "handle": "JavierBlas",
+            "platform": "twitter",
+            "text": "The core OPEC+ members are meeting today. With the Strait of Hormuz closed and bypass pipeline routes maxed out already",
+            "score": 46,
+            "url": "https://twitter.com/JavierBlas/status/2040700825866023259"
+          },
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "BREAKING: Crude Oil now projected to surge to $130 a barrel this month. 51% chance.",
+            "score": 45,
+            "url": "https://twitter.com/Polymarket/status/2040587257623585094"
+          },
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "core group in OPEC+ agrees in principle to increase production levels by about 206 thousand barrels daily",
+            "score": 42,
+            "url": "https://twitter.com/FirstSquawk/status/2040702312411430928"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 5,
+        "score": 80,
+        "topic": "Pam Bondi Attorney General Ouster",
+        "domain": "geopolitics",
+        "headline": "Pam Bondi Removed as Attorney General Over Prosecution Failures",
+        "summary": "Attorney General Pam Bondi was ousted from her position after failing to deliver criminal cases against President Trump's political enemies, despite Trump's expectations for prosecuting opponents. The Justice Department under Bondi struggled to placate Trump's demands for retribution against his perceived adversaries.",
+        "signal": "Trump administration's retribution agenda stalled by legal constraints, creating internal tensions and leadership instability in Justice Department.",
+        "sources": [
+          "Associated Press",
+          "The Wall Street Journal"
+        ],
+        "source_url": "https://apnews.com/article/trump-bondi-justice-department-9071b8fd9a429267732b5d4238946eff",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 78,
+        "topic": "India Assembly Elections 2026",
+        "domain": "india",
+        "headline": "Multiple Indian States Hold Assembly Elections Amid National Campaigns",
+        "summary": "Assembly elections are underway across West Bengal, Assam, Kerala, Tamil Nadu and Puducherry with major political leaders campaigning intensively. Key political battles include BJP's challenge to Mamata Banerjee in Bengal, DMK defending power in Tamil Nadu, and heated exchanges between national and regional parties.",
+        "signal": "Critical state elections test BJP's national dominance while regional parties defend strongholds amid economic and geopolitical headwinds.",
+        "sources": [
+          "The Hindu",
+          "Times of India",
+          "@PTI_News"
+        ],
+        "source_url": "https://www.thehindu.com/elections/state-assembly-elections-west-bengal-assam-kerala-puducherry-tamil-nadu-live-updates/article70825775.ece",
+        "social_signals": [
+          {
+            "handle": "PTI_News",
+            "platform": "twitter",
+            "text": "Addressing a public gathering in Biswanath, Leader of Opposition in Lok Sabha Rahul Gandhi says, 'Assam has the most corrupt, hate\u2011spreading Chief Minister of India'",
+            "score": 54,
+            "url": "https://twitter.com/PTI_News/status/2040689979916259356"
+          },
+          {
+            "handle": "PTI_News",
+            "platform": "twitter",
+            "text": "West Bengal CM Mamata Banerjee on Union Home Minister Amit Shah says, 'A person has come and is sitting here, threatening officers'",
+            "score": 54,
+            "url": "https://twitter.com/PTI_News/status/2040699949298725274"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 76,
+        "topic": "Artemis II Moon Mission",
+        "domain": "markets",
+        "headline": "Artemis II Crew Captures Earth Images 100000 Miles Out",
+        "summary": "NASA's Artemis II mission crew captured stunning Earth images while positioned 100,000 miles from the Moon, with astronauts preparing to study the lunar surface primarily through direct observation. The mission faces technical challenges including a frozen toilet vent that NASA is attempting to thaw by repositioning the spacecraft toward the Sun.",
+        "signal": "Space exploration advances despite technical setbacks, demonstrating continued U.S. technological leadership in competitive global environment.",
+        "sources": [
+          "Al Jazeera English",
+          "BBC News",
+          "@Polymarket"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission",
+        "social_signals": [
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "BREAKING: Artemis II's Orion capsule is now exactly 100,000 miles from the Moon.",
+            "score": 45,
+            "url": "https://twitter.com/Polymarket/status/2040551563438031225"
+          },
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "JUST IN: The Artemis II toilet's vent froze over, potentially causing the terrible smell astronauts reported",
+            "score": 43,
+            "url": "https://twitter.com/Polymarket/status/2040542591750484368"
+          },
+          {
+            "handle": "AFP",
+            "platform": "twitter",
+            "text": "Artemis astronauts to study the Moon using mainly their eyes Despite the technological advancements since the Apollo missions",
+            "score": 41,
+            "url": "https://twitter.com/AFP/status/2040675668833305017"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 8,
+        "score": 75,
+        "topic": "Russia Ukraine Drone Attacks",
+        "domain": "europe",
+        "headline": "Ukraine Strikes Russian Oil Infrastructure With Drones",
+        "summary": "Ukrainian drone attacks damaged oil pipelines near Russia's Baltic port of Primorsk and ignited fires at the NORSI refinery, marking an escalation in Ukraine's targeting of Russian energy infrastructure. Russia's air defenses intercepted 19 drones over Leningrad region but debris still caused significant damage to energy facilities.",
+        "signal": "Ukraine intensifies energy infrastructure attacks on Russia despite resource constraints, potentially disrupting Russian oil exports and revenue flows.",
+        "sources": [
+          "The Hindu",
+          "Times of India",
+          "@ReutersWorld"
+        ],
+        "source_url": "https://www.thehindu.com/news/international/russia-says-ukraine-attack-damages-oil-pipeline/article70826075.ece",
+        "social_signals": [
+          {
+            "handle": "ReutersWorld",
+            "platform": "twitter",
+            "text": "Fuel reservoir hit at Russia's Primorsk, NORSI refinery on fire after drone attacks",
+            "score": 49,
+            "url": "https://twitter.com/ReutersWorld/status/2040693493203390709"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 9,
+        "score": 72,
+        "topic": "OpenAI Executive Departures",
+        "domain": "corporate",
+        "headline": "OpenAI COO Shifts Role AGI CEO Takes Medical Leave",
+        "summary": "OpenAI's chief operating officer is transitioning out of their role while the AGI CEO is taking medical leave due to health reasons, marking significant executive changes ahead of a potential Wall Street debut. The leadership reshuffling comes as the AI company faces mounting pressure to demonstrate sustained growth and profitability.",
+        "signal": "Key OpenAI leadership transitions create uncertainty for potential IPO timing and strategic direction in competitive AI market.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-03/openai-coo-shifts-out-of-role-agi-ceo-taking-medical-leave",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 70,
+        "topic": "Indian Stock Market Iran Impact",
+        "domain": "markets",
+        "headline": "Indian Markets Fall Sixth Week on Iran War Concerns",
+        "summary": "Indian equity markets extended losses for a sixth consecutive week as geopolitical tensions in the Middle East weighed on investor sentiment, with the Sensex and Nifty declining amid rising oil prices. Market experts recommend selective buying in IT, metals, and defense stocks while cautioning about continued volatility from the Iran conflict.",
+        "signal": "Prolonged Middle East conflict pressures Indian markets through energy costs and risk-off sentiment, requiring defensive positioning strategies.",
+        "sources": [
+          "LiveMint Markets"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-likely-to-perform-next-week-amid-us-iran-war-11775367985838.html",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 68,
+        "topic": "Hezbollah Naval Strike Israel",
+        "domain": "middleeast",
+        "headline": "Hezbollah Claims Cruise Missile Strike on Israeli Warship",
+        "summary": "Hezbollah announced it targeted an Israeli warship with a cruise missile 68 nautical miles off Lebanon's coast, claiming the vessel was preparing to launch attacks. The strike represents an escalation in Hezbollah's maritime capabilities and extends the conflict zone further into the Mediterranean.",
+        "signal": "Hezbollah demonstrates enhanced naval strike capabilities, expanding conflict maritime domain and threatening Israeli naval operations.",
+        "sources": [
+          "Al Jazeera English",
+          "@MarioNawfal"
+        ],
+        "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges",
+        "social_signals": [
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "Hezbollah claims it hit an Israeli warship with a cruise missile off the Lebanese coast",
+            "score": 49,
+            "url": "https://twitter.com/MarioNawfal/status/2040692771254616224"
+          },
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "The Lebanese armed group Hezbollah says its fighters targeted an Israeli military vessel 68 nautical miles off Lebanon's coast",
+            "score": 50,
+            "url": "https://twitter.com/AJEnglish/status/2040688814474072577"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 12,
+        "score": 66,
+        "topic": "France Small Business Energy Support",
+        "domain": "europe",
+        "headline": "France Offers \u20ac50000 Loans to Fuel-Hit Small Businesses",
+        "summary": "The French government will provide loans of up to \u20ac50,000 to small businesses most exposed to rising fuel costs in transportation, fishing and agriculture sectors. The support package addresses mounting pressure on small enterprises from Middle East conflict-driven energy price spikes.",
+        "signal": "European governments mobilize business support as energy crisis threatens SME viability across transport and agriculture sectors.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/france-to-offer-loans-to-small-businesses-hit-by-fuel-costs",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 64,
+        "topic": "Somalia President Attack",
+        "domain": "geopolitics",
+        "headline": "Somali President Survives Mortar Attack in Baidoa",
+        "summary": "Somali President Hassan Sheikh Mohamud escaped unharmed after his entourage was subjected to a mortar shell barrage in the southern city of Baidoa on Friday. The attack highlights ongoing security challenges facing the government amid regional instability.",
+        "signal": "East African security deterioration as regional governments face increased militant pressure amid broader global conflicts.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/somalian-president-mohamud-unharmed-in-mortar-attack",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 62,
+        "topic": "Afghanistan Earthquake Casualties",
+        "domain": "geopolitics",
+        "headline": "Afghanistan Earthquake Kills Eight Family Members",
+        "summary": "A devastating earthquake in Afghanistan killed eight members of the same family, with only a young boy surviving the tremor with injuries. The natural disaster adds to Afghanistan's humanitarian crisis amid ongoing economic and political challenges.",
+        "signal": "Afghanistan faces compounding humanitarian crises as natural disasters strain already limited international aid and domestic resources.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 60,
+        "topic": "RBI Monetary Policy Meeting",
+        "domain": "india",
+        "headline": "RBI MPC Meets Amid Iran War Economic Impact",
+        "summary": "The Reserve Bank of India's Monetary Policy Committee convenes between April 6-8 to assess the economic impact of the Iran war on inflation and growth. Policymakers face difficult decisions as energy costs surge and Moody's cuts India's FY27 growth forecast to 6% citing West Asia tensions.",
+        "signal": "Indian monetary policy faces complex trade-offs between supporting growth and containing inflation as geopolitical risks intensify energy pressures.",
+        "sources": [
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.ndtvprofit.com/business/rbi-mpc-assam-and-kerala-elections-tcs-q4-results-iran-war-in-week-six-the-week-ahead-11313458",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 72
+  },
+  {
     "timestamp": "2026-04-05T07:58:40.763823+00:00",
     "timestamp_ist": "05 Apr 2026 \u00b7 13:28 IST",
     "story_count": 15,
