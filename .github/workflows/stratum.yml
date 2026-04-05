@@ -1,0 +1,42 @@
+name: STRATUM Digest
+
+on:
+  schedule:
+    - cron: '0 2,6,10,14,18 * * *'  # 7:30am, 11:30am, 3:30pm, 7:30pm, 11:30pm IST
+  workflow_dispatch:                   # Manual trigger — your refresh button
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write                  # Needed to commit digests.json back
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser anthropic requests
+
+      - name: Run STRATUM
+        env:
+          ANTHROPIC_API_KEY:    ${{ secrets.ANTHROPIC_API_KEY }}
+          NEWSAPI_KEY:          ${{ secrets.NEWSAPI_KEY }}
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+          GMAIL_FROM:           ${{ secrets.GMAIL_FROM }}
+          GMAIL_TO:             ${{ secrets.GMAIL_TO }}
+          GMAIL_PASS:           ${{ secrets.GMAIL_PASS }}
+          TELEGRAM_BOT_TOKEN:   ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:     ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python stratum_digest.py
+
+      - name: Commit digest history
+        if: always()
+        run: |
+          git config user.name  "STRATUM Bot"
+          git config user.email "stratum@github-actions"
+          git add digests.json starred.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "digest: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push || echo "Nothing to push"
