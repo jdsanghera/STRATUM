@@ -1,5 +1,378 @@
 [
   {
+    "timestamp": "2026-04-05T14:09:47.642698+00:00",
+    "timestamp_ist": "05 Apr 2026 \u00b7 19:39 IST",
+    "story_count": 12,
+    "avg_score": 76,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 92,
+        "topic": "US-Iran Military Conflict",
+        "domain": "geopolitics",
+        "headline": "US rescues airman from downed F-15E in Iran operation",
+        "summary": "The US successfully rescued a crew member from an F-15E fighter jet shot down by Iran on Friday after a complex rescue operation involving dozens of aircraft. Iran claims to have downed two US aircraft and has foiled rescue attempts, while the US continues search operations for missing personnel.",
+        "signal": "Monitor for Iranian retaliation against US rescue operations and potential escalation if more US aircraft are targeted.",
+        "sources": [
+          "Bloomberg",
+          "AP",
+          "BBC News",
+          "Al Jazeera",
+          "@PTI_News",
+          "@Faytuks",
+          "@DeItaone"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/us-searches-for-downed-airman-as-iran-keeps-striking-gulf-states",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "PTI_News",
+            "platform": "twitter",
+            "text": "VIDEO | Israeli Prime Minister Benjamin Netanyahu congratulated US President Donald Trump and the US military on the rescue of an F-15 fighter jet pilot",
+            "score": 59,
+            "url": "https://twitter.com/PTI_News/status/2040783506289422718"
+          },
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "BREAKING: US crew member on F-15E has been rescued but is 'not safe yet' as rescue operation is in progress",
+            "score": 53,
+            "url": "https://twitter.com/Faytuks/status/2040631989598855407"
+          },
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "BREAKING: The second crew member from the downed F-15E has been recovered after a 'heavy firefight'",
+            "score": 53,
+            "url": "https://twitter.com/Faytuks/status/2040628423597457848"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 91,
+        "topic": "Trump Iran Ultimatum",
+        "domain": "geopolitics",
+        "headline": "Trump threatens Iran infrastructure strikes if Hormuz closed",
+        "summary": "Trump issued expletive-filled threats to attack Iranian power plants and bridges on Tuesday if the Strait of Hormuz remains closed. He simultaneously claimed there's a 'good chance' of making a deal with Iran by Monday, saying Iran is 'negotiating now.'",
+        "signal": "Watch for Iranian response to ultimatum and oil price volatility ahead of Tuesday deadline.",
+        "sources": [
+          "Times of India",
+          "Indian Express",
+          "NDTV Profit",
+          "Middle East Eye",
+          "@PTI_News",
+          "@KobeissiLetter",
+          "@DeItaone"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/us/open-hormuz-or-youll-be-living-in-hell-trumps-expletive-laced-rant-at-iran-threatens-attack-on-tuesday/articleshow/130039019.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "PTI_News",
+            "platform": "twitter",
+            "text": "STORY | Trump vows strikes on Iran's power plants and bridges if Strait of Hormuz isn't reopened",
+            "score": 54,
+            "url": "https://twitter.com/PTI_News/status/2040776425335378343"
+          },
+          {
+            "handle": "KobeissiLetter",
+            "platform": "twitter",
+            "text": "BREAKING: President Trump says he believes he can 'get a deal with Iran' by Monday and that Iran is 'negotiating now'",
+            "score": 53,
+            "url": "https://twitter.com/KobeissiLetter/status/2040789793999663312"
+          },
+          {
+            "handle": "DeItaone",
+            "platform": "twitter",
+            "text": "TRUMP SAYS HE BELIEVES HE CAN GET A DEAL WITH IRAN BY MONDAY, IRAN NEGOTIATING NOW -FOX NEWS INTERVIEW",
+            "score": 47,
+            "url": "https://twitter.com/DeItaone/status/2040788952328626475"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 3,
+        "score": 89,
+        "topic": "Iran Attacks Gulf States",
+        "domain": "geopolitics",
+        "headline": "Iran strikes Kuwait and UAE energy infrastructure",
+        "summary": "Iranian drones and missiles hit power plants, desalination facilities and oil refineries across Kuwait, UAE and Bahrain. The UAE intercepted multiple projectiles but debris caused fires at the Borouge petrochemicals plant in Abu Dhabi.",
+        "signal": "Monitor for supply disruptions to Gulf energy exports and potential insurance premium spikes on regional infrastructure.",
+        "sources": [
+          "The National UAE",
+          "Middle East Eye",
+          "@AJEnglish",
+          "@Faytuks"
+        ],
+        "source_url": "https://www.thenationalnews.com/news/uae/2026/04/05/uae-intercepts-nine-ballistic-missiles-one-cruise-missile-and-50-drones-on-sunday/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "Iranian drone and missile attacks across the Gulf have intensified, hitting key power, desalination and energy facilities",
+            "score": 48,
+            "url": "https://twitter.com/AJEnglish/status/2040791567594582227"
+          },
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "BREAKING: The Abu Dhabi Media Office says falling debris on the Borouge petrochemicals plant has caused three fires",
+            "score": 48,
+            "url": "https://twitter.com/AJEnglish/status/2040782169056907342"
+          },
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "Breaking: Two Kuwaiti power and water desalination plants attacked by Iranian drones, causing 'significant damage'",
+            "score": 41,
+            "url": "https://twitter.com/Faytuks/status/2040601441933336800"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 4,
+        "score": 86,
+        "topic": "Iran Nuclear Facility Strike",
+        "domain": "geopolitics",
+        "headline": "Fourth attack hits Iran's Bushehr nuclear plant",
+        "summary": "A projectile struck near Iran's Bushehr nuclear facility, killing one security guard and damaging a support building. This marks the fourth time the facility has been targeted during the US-Israel war on Iran, according to the IAEA.",
+        "signal": "Nuclear facility attacks raise proliferation risks and could trigger stronger Iranian retaliation or international intervention.",
+        "sources": [
+          "Al Jazeera",
+          "Associated Press",
+          "@AJEnglish"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 85,
+        "topic": "Oil Price War Impact",
+        "domain": "commodities",
+        "headline": "Oil storms higher on Iran war escalation",
+        "summary": "Crude prices surge sharply as the Iran war drags on, with the Strait of Hormuz closure disrupting global supply chains. Multiple countries are implementing emergency fuel support measures while energy windfall profit taxes are being considered.",
+        "signal": "Monitor for oil reaching $130/barrel this month and potential energy sector profit-taking opportunities.",
+        "sources": [
+          "Bloomberg",
+          "NDTV Profit",
+          "LiveMint Markets",
+          "@Polymarket"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/world-economy-latest-oil-prices-rise-on-risk-iran-war-will-drag-on",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "BREAKING: Crude Oil now projected to surge to $130 a barrel this month. 51% chance.",
+            "score": 45,
+            "url": "https://twitter.com/Polymarket/status/2040587257623585094"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 6,
+        "score": 80,
+        "topic": "India Iran Oil Purchases",
+        "domain": "india",
+        "headline": "India acknowledges Iranian oil purchases amid war",
+        "summary": "India confirmed it is buying crude from Iran among other countries to navigate the current energy crisis, dismissing concerns about payment difficulties. The government has also stepped up LPG supply and urged calm amid Strait of Hormuz concerns.",
+        "signal": "Watch for US sanctions pressure on India and potential rupee payment mechanism developments.",
+        "sources": [
+          "Bloomberg",
+          "NDTV Profit",
+          "@PTI_News"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/india-acknowledges-iranian-oil-purchases-dismisses-payment-woes",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "PTI_News",
+            "platform": "twitter",
+            "text": "STORY | Govt steps up LPG supply, urges calm amid Hormuz concerns",
+            "score": 49,
+            "url": "https://twitter.com/PTI_News/status/2040778216143765748"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 78,
+        "topic": "IMF Tokenized Finance Warning",
+        "domain": "markets",
+        "headline": "IMF warns tokenized finance could amplify crises",
+        "summary": "The IMF cautioned that moving Wall Street's trading infrastructure onto blockchain-based systems could accelerate financial crises beyond regulators' ability to respond. Despite promised cost cuts and settlement improvements, the technology poses systemic risks during market stress.",
+        "signal": "Monitor regulatory pushback on tokenized finance adoption and potential restrictions on blockchain trading infrastructure.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/imf-warns-tokenized-finance-risks-amplifying-market-crises-ahead",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 75,
+        "topic": "Ukraine War Escalation",
+        "domain": "geopolitics",
+        "headline": "Russian drone kills five in Ukraine market attack",
+        "summary": "A Russian drone struck a busy market in Nikopol, Ukraine, killing five people and injuring 21 others. Separate attacks across Ukraine killed at least four more people, while Russia reported Ukrainian strikes on its Rostov region.",
+        "signal": "Watch for NATO response to civilian targeting and potential weapon system escalations.",
+        "sources": [
+          "BBC News",
+          "Al Jazeera",
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cp869m2gzr0o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 72,
+        "topic": "Russia VPN Banking Outage",
+        "domain": "europe",
+        "headline": "Russia's VPN crackdown triggers widespread banking outage",
+        "summary": "Russia's attempts to restrict VPNs amid a Telegram clampdown caused widespread banking system failures this week, according to Telegram founder Pavel Durov. The outage affected multiple major Russian banks during the government's tech restrictions campaign.",
+        "signal": "Monitor for further Russian financial system instability from tech restrictions and potential capital flight.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 65,
+        "topic": "Artemis II Moon Mission",
+        "domain": "markets",
+        "headline": "NASA releases stunning Earth photos from moon mission",
+        "summary": "The Artemis II crew captured spectacular images of Earth while approximately 100,000 miles away and approaching the moon. Canadian astronaut Jeremy Hansen became the first Canadian to see the dark side of the moon during the historic mission.",
+        "signal": "Watch for space economy stock momentum and potential increased space exploration funding.",
+        "sources": [
+          "Al Jazeera",
+          "BBC News",
+          "@AJEnglish",
+          "@Polymarket"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "Canadian Space Agency President Lisa Campbell expresses pride as Artemus II carries the first Canadian to the moon",
+            "score": 40,
+            "url": "https://twitter.com/AJEnglish/status/2040784019046998188"
+          },
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "BREAKING: Artemis II astronaut Jeremy Hansen officially becomes the first Canadian to see the dark side of the moon",
+            "score": 40,
+            "url": "https://twitter.com/Polymarket/status/2040785923193852313"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 11,
+        "score": 55,
+        "topic": "Trump Takes Iranian Oil",
+        "domain": "geopolitics",
+        "headline": "Trump considers taking Iranian oil if no deal",
+        "summary": "Trump stated he would consider 'blowing everything up and taking over the oil' if Iran doesn't make a deal quickly. He also mentioned ideally taking Iranian oil if Iran is unwilling to reach an agreement, escalating his threats beyond infrastructure strikes.",
+        "signal": "Monitor for oil market volatility on nationalization fears and potential Iranian response to seizure threats.",
+        "sources": [
+          "@MarioNawfal",
+          "@FirstSquawk"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Represents significant escalation beyond infrastructure threats to actual resource seizure, which could reshape energy markets.",
+        "social_signals": [
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "Trump: 'If Iran doesn't make a deal fast, I am considering blowing everything up and taking over the oil.'",
+            "score": 41,
+            "url": "https://twitter.com/MarioNawfal/status/2040788339674988672"
+          },
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "TRUMP SAYS HE IDEALLY WILL TAKE IRANIAN OIL IF IRAN IS UNWILLING TO MAKE AN AGREEMENT",
+            "score": 46,
+            "url": "https://twitter.com/FirstSquawk/status/2040791054715375676"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 12,
+        "score": 46,
+        "topic": "North Korea Crypto Hack",
+        "domain": "markets",
+        "headline": "North Korea linked to $285M Drift Protocol hack",
+        "summary": "A probe into the massive Drift Protocol crypto hack found team members were approached at conferences by North Korean-linked operatives. The breach was connected to a supply-chain attack on the widely-used LiteLLM development tool.",
+        "signal": "Watch for increased crypto security protocols and potential regulatory crackdowns on conference networking.",
+        "sources": [
+          "@Polymarket"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Shows sophisticated North Korean crypto targeting through social engineering at industry events, indicating evolved attack methods.",
+        "social_signals": [
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "JUST IN: Probe into the $285 million Drift Protocol crypto hack found team members were approached at conferences by representatives tied to a North Korean-linked operation.",
+            "score": 46,
+            "url": "https://twitter.com/Polymarket/status/2040626814494597163"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 135
+  },
+  {
     "timestamp": "2026-04-05T11:20:20.438349+00:00",
     "timestamp_ist": "05 Apr 2026 \u00b7 16:50 IST",
     "story_count": 14,
