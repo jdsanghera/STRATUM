@@ -1,5 +1,393 @@
 [
   {
+    "timestamp": "2026-04-05T06:22:14.647359+00:00",
+    "timestamp_ist": "05 Apr 2026 \u00b7 06:22 IST",
+    "story_count": 15,
+    "avg_score": 74,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 92,
+        "topic": "US-Iran Military Conflict",
+        "domain": "geopolitics",
+        "headline": "Iran Shoots Down Two US Warplanes, Crew Member Rescued",
+        "summary": "Iran shot down two US military aircraft including an F-15E fighter jet and an A-10, with one crew member rescued in a special forces operation while search continues for another. The downing represents the first successful attack on US military aircraft in over 20 years.",
+        "signal": "Military escalation between US and Iran has reached unprecedented levels, creating severe geopolitical risks for global markets.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "BBC News",
+          "@FirstSquawk",
+          "@AFP",
+          "@AJEnglish"
+        ],
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "\"WE GOT HIM!\" U.S President Donald Trump says the second missing U.S. crew member from downed fighter jet has been rescued",
+            "score": 52,
+            "url": "https://twitter.com/FirstSquawk/status/2040671451083411871"
+          },
+          {
+            "handle": "AFP",
+            "platform": "twitter",
+            "text": "BREAKING Second crew member from US fighter jet that crashed inside Iran is 'SAFE and SOUND', Trump says",
+            "score": 48,
+            "url": "https://twitter.com/AFP/status/2040650080907055221"
+          },
+          {
+            "handle": "cnnbrk",
+            "platform": "twitter",
+            "text": "A missing US service member whose fighter jet was shot down over Iran has been rescued by US forces, President Trump says. Follow live updates:",
+            "score": 48,
+            "url": "https://twitter.com/cnnbrk/status/2040647701327425638"
+          },
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "Trump said on Truth Social that a US officer shot down over Iran has been rescued and is \"safe and sound\", describing it as a \"daring\" operation. The officer was injured but is expected to recover.",
+            "score": 48,
+            "url": "https://twitter.com/AJEnglish/status/2040675990918054049"
+          },
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: President Donald Trump says service member rescued in Iran is injured but \"will be just fine\" and that US was monitoring his location. Follow AP's live updates.",
+            "score": 54,
+            "url": "https://bsky.app/profile/apnews.com/post/3mipwiqfrtv2r"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: A US government official has told Al Jazeera that the second crew member from the downed F-15E has been recovered after a \"heavy firefight\".",
+            "score": 59,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mipsymnqvl2h"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 88,
+        "topic": "Strait of Hormuz Blockade",
+        "domain": "geopolitics",
+        "headline": "Iran Blocks Strait of Hormuz, Trump Threatens Reopening",
+        "summary": "Iran has imposed a blockade on the Strait of Hormuz disrupting global oil shipments, while exempting Iraq from restrictions. President Trump claims the US can easily reopen the waterway despite European leaders calling military action unrealistic.",
+        "signal": "Critical oil chokepoint closure threatens global energy security and could trigger military confrontation between major powers.",
+        "sources": [
+          "Wall Street Journal",
+          "BBC News",
+          "South China Morning Post",
+          "@FirstSquawk"
+        ],
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Tehran says Iraq will face no restrictions in waterway, praising country's 'struggle' against the US.",
+            "score": 41,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mippdytd6i22"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 85,
+        "topic": "Energy Price Surge",
+        "domain": "commodities",
+        "headline": "Middle East War Drives Global Energy Costs Higher",
+        "summary": "Escalating tensions in the Middle East are driving up energy costs globally, with US fuel prices surging over a dollar and companies implementing surcharges. European airports face jet fuel shortages while Australia announces emergency loans for businesses affected by energy shock.",
+        "signal": "Energy supply disruptions are creating inflationary pressures that could derail economic recovery and force central bank policy adjustments.",
+        "sources": [
+          "Bloomberg",
+          "Times of India",
+          "BBC News",
+          "@ETNOWlive",
+          "@MarioNawfal",
+          "@Polymarket"
+        ],
+        "social_signals": [
+          {
+            "handle": "ETNOWlive",
+            "platform": "twitter",
+            "text": "6-month HIGH! Global food prices to go up further if Iran war drags on; here's what FAO said",
+            "score": 49,
+            "url": "https://twitter.com/ETNOWlive/status/2040653067557966115"
+          },
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "\ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf7 Italy is now seeing fuel strain caused by the Iran war, with airports in Bologna, Milan Linate, Treviso, and Venice limiting jet fuel availability for flights.",
+            "score": 40,
+            "url": "https://twitter.com/MarioNawfal/status/2040668757685920251"
+          },
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "JUST IN: Australia will provide up to A$1 billion in interest-free loans to critical businesses due to the energy shock.",
+            "score": 43,
+            "url": "https://twitter.com/Polymarket/status/2040664227782725812"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 4,
+        "score": 82,
+        "topic": "Gulf States Under Attack",
+        "domain": "geopolitics",
+        "headline": "Iranian Drones Strike UAE and Bahrain Energy Facilities",
+        "summary": "Iran launched missile and drone attacks on Gulf states including strikes on UAE's Habshan gas facility and Bahrain's Bapco energy storage, causing significant damage. Kuwait's power plants and water desalination facilities were also hit in the escalating regional conflict.",
+        "signal": "Iranian attacks on Gulf energy infrastructure threaten regional stability and global energy supplies beyond the Strait of Hormuz.",
+        "sources": [
+          "Al Jazeera English",
+          "The Hindu",
+          "The National (UAE)",
+          "Middle East Eye",
+          "@FirstSquawk"
+        ],
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "Bahrain reports that an Iranian drone targeted one of BAPCO Energies' storage facilities, with no casualties reported.",
+            "score": 46,
+            "url": "https://twitter.com/FirstSquawk/status/2040662493668970953"
+          },
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "Bapco Energies confirms an incident occurred at one of its storage facilities earlier today resulting in a tank fire, as a result of a hostile Iranian drone attack. The fire has been fully extinguished",
+            "score": 45,
+            "url": "https://twitter.com/FirstSquawk/status/2040670668338172152"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 5,
+        "score": 80,
+        "topic": "NATO Alliance Strain",
+        "domain": "geopolitics",
+        "headline": "US-Europe Alliance Reaches Breaking Point Over Iran War",
+        "summary": "Trans-Atlantic ties are reportedly reaching a breaking point over the Iran war, with President Trump reportedly considering backing out of NATO. European leaders oppose military action to reopen the Strait of Hormuz, preferring international pressure instead.",
+        "signal": "NATO unity fractures could fundamentally reshape Western alliance structures and global security architecture.",
+        "sources": [
+          "Wall Street Journal",
+          "@FirstSquawk"
+        ],
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "US-Europe alliance is reportedly reaching a \"breaking point\" over the Iran War, and President Trump has \"mused\" to aides about backing out of NATO, per WSJ.",
+            "score": 60,
+            "url": "https://twitter.com/FirstSquawk/status/2040672229873377623"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 6,
+        "score": 78,
+        "topic": "Trump Defense Budget Boost",
+        "domain": "geopolitics",
+        "headline": "Trump Seeks Record $1.5 Trillion Defense Spending Amid War",
+        "summary": "President Trump is unveiling his 2027 budget requesting $1.5 trillion in defense spending, the largest in decades, while cutting non-defense spending by 10%. The wartime budget reflects escalating military commitments in the Iran conflict.",
+        "signal": "Massive defense spending increase signals prolonged military engagement and potential fiscal pressure on US government finances.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "Bloomberg"
+        ],
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 75,
+        "topic": "Private Credit Market Exit",
+        "domain": "markets",
+        "headline": "Wealthy Investors Rush to Exit Private Credit Markets",
+        "summary": "Wealthy investors who powered the private credit boom are now rushing for exits amid market uncertainty. The exodus reflects concerns about asset quality and liquidity in the rapidly grown alternative lending sector.",
+        "signal": "Major capital flight from private credit could trigger broader alternative investment market stress and reduce corporate financing options.",
+        "sources": [
+          "Wall Street Journal"
+        ],
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 73,
+        "topic": "Vietnam Economic Slowdown",
+        "domain": "macro",
+        "headline": "Vietnam Growth Slows as Middle East Crisis Hits",
+        "summary": "Vietnam's economic momentum slowed in the first quarter as escalating Middle East tensions drive up energy costs and disrupt trade routes. The slowdown complicates leadership ambitions for double-digit growth.",
+        "signal": "Regional economic contagion from Middle East conflict spreading to Asian manufacturing hubs, threatening supply chain stability.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 71,
+        "topic": "OpenAI Executive Reshuffle",
+        "domain": "corporate",
+        "headline": "OpenAI COO Steps Down, AGI CEO Takes Medical Leave",
+        "summary": "OpenAI's chief operating officer is shifting roles while two other top executives go on medical leave, marking major changes ahead of a potential IPO. The executive reshuffling comes as the AI company prepares for a possible Wall Street debut this year.",
+        "signal": "Leadership instability at AI sector leader could impact investor confidence in artificial intelligence market valuations.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 70,
+        "topic": "Italy Economic Downturn",
+        "domain": "europe",
+        "headline": "Bank of Italy Cuts Growth Forecast to 0.5%",
+        "summary": "The Bank of Italy lowered the country's economic growth forecast for this year and next to 0.5% due to the impact of the US war on Iran. The downgrade reflects broader European economic vulnerability to Middle East conflicts.",
+        "signal": "European economic growth projections deteriorating as geopolitical risks materialize into measurable GDP impacts.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 68,
+        "topic": "Trump College Sports Order",
+        "domain": "corporate",
+        "headline": "Trump Signs Executive Order Targeting College Athletics",
+        "summary": "President Trump signed an executive order aimed at restoring order to college sports, using federal funding as leverage. The order addresses transfer rules, eligibility and pay-for-play issues in the multibillion-dollar industry.",
+        "signal": "Federal intervention in college sports could reshape athletic department revenues and university financing models.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg"
+        ],
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 66,
+        "topic": "Pam Bondi Attorney General Ouster",
+        "domain": "geopolitics",
+        "headline": "Attorney General Bondi Out After Failing Trump Prosecutions",
+        "summary": "Pam Bondi has been ousted as attorney general after failing to deliver criminal cases against President Trump's political enemies. The Justice Department struggles to meet presidential expectations for prosecuting opponents.",
+        "signal": "Political prosecutions agenda stalling could impact Trump administration's domestic policy effectiveness and legal strategy.",
+        "sources": [
+          "Associated Press",
+          "Wall Street Journal"
+        ],
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 65,
+        "topic": "India Assembly Elections 2026",
+        "domain": "india",
+        "headline": "Modi Launches BJP Campaign for West Bengal Elections",
+        "summary": "Prime Minister Modi is launching BJP's campaign for West Bengal Assembly elections from Cooch Behar, while DMK's Stalin calls party manifesto the 'superstar of 2026 election'. Multiple states are heading to polls with high stakes for regional power.",
+        "signal": "Major Indian state elections could reshape political landscape and policy direction for world's largest democracy.",
+        "sources": [
+          "The Hindu",
+          "@PTI_News"
+        ],
+        "social_signals": [
+          {
+            "handle": "PTI_News",
+            "platform": "twitter",
+            "text": "Superstar of 2026 Assembly election is DMK manifesto, says CM Stalin in Virudhunagar",
+            "score": 50,
+            "url": "https://twitter.com/PTI_News/status/2040670289642860903"
+          },
+          {
+            "handle": "PTI_News",
+            "platform": "twitter",
+            "text": "VIDEO | Assam polls: Assam BJP president Dilip Saikia says, \"BJP will secure a historic mandate in the 2026 polls. Infiltration will be completely removed from Assam\"",
+            "score": 59,
+            "url": "https://twitter.com/PTI_News/status/2040671374487019896"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 63,
+        "topic": "Pakistan-India Tensions",
+        "domain": "geopolitics",
+        "headline": "Pakistan Threatens to Strike Kolkata Amid Regional Crisis",
+        "summary": "Pakistan's Defense Minister Khawaja Asif issued fresh warnings to India, threatening to strike Kolkata. The escalation comes as Pakistan drastically hikes fuel prices despite its mediator role in the Iran war.",
+        "signal": "South Asian nuclear powers tensions rising amid broader Middle East conflict could create dangerous multi-front crisis.",
+        "sources": [
+          "Economic Times",
+          "Nikkei Asia",
+          "@ETNOWlive"
+        ],
+        "social_signals": [
+          {
+            "handle": "ETNOWlive",
+            "platform": "twitter",
+            "text": "'Will strike Kolkata if...': Pakistan's fresh WARNING to India; Here's what defence minister Khawaja Asif said",
+            "score": 50,
+            "url": "https://twitter.com/ETNOWlive/status/2040651842775077237"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 61,
+        "topic": "Artemis Moon Mission Progress",
+        "domain": "geopolitics",
+        "headline": "NASA Artemis Crew Takes Spectacular Earth Photos En Route",
+        "summary": "Artemis II crew captured stunning images of Earth from their Orion capsule as they head toward the Moon, about 100,000 miles from Earth. The mission marks significant progress in NASA's lunar exploration program despite budget pressures.",
+        "signal": "Space program advances continue amid geopolitical turmoil, potentially offering strategic advantages and technological leadership.",
+        "sources": [
+          "Al Jazeera English",
+          "BBC News",
+          "@AFP"
+        ],
+        "social_signals": [
+          {
+            "handle": "AFP",
+            "platform": "twitter",
+            "text": "Artemis astronauts to study the Moon using mainly their eyes Despite the technological advancements since the Apollo missions, NASA still relies on the eyesight of its astronauts to learn more about",
+            "score": 41,
+            "url": "https://twitter.com/AFP/status/2040675668833305017"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 61
+  },
+  {
     "timestamp": "2026-04-05T06:10:10.490721+00:00",
     "timestamp_ist": "05 Apr 2026 \u00b7 06:10 IST",
     "story_count": 15,
