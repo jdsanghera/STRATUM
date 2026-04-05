@@ -1,5 +1,377 @@
 [
   {
+    "timestamp": "2026-04-05T17:06:43.344207+00:00",
+    "timestamp_ist": "05 Apr 2026 \u00b7 22:36 IST",
+    "story_count": 15,
+    "avg_score": 70,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 94,
+        "topic": "US-Iran War Escalation",
+        "domain": "geopolitics",
+        "headline": "Trump threatens Iranian infrastructure as US rescues downed pilot",
+        "summary": "President Trump issued a 48-hour ultimatum threatening to destroy Iranian power plants and bridges if the Strait of Hormuz remains closed, as US forces successfully rescued crew members from two F-15E jets shot down by Iran. The dramatic rescue operation involved multiple aircraft and special forces in what Trump called a 'miraculous' operation.",
+        "signal": "Markets should brace for potential massive escalation if Iran rejects Trump's Tuesday evening deadline for a deal.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Trump social media",
+          "@KobeissiLetter"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-warns-iran-time-running-out-to-make-a-deal-or-open-hormuz",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "KobeissiLetter",
+            "platform": "twitter",
+            "text": "BREAKING: President Trump says \"there is a good chance [Iran makes a deal], but if they don't make a deal, I am blowing up everything over there,\" per Axios.",
+            "score": 58,
+            "url": "https://twitter.com/KobeissiLetter/status/2040821447547920805"
+          },
+          {
+            "handle": "KobeissiLetter",
+            "platform": "twitter",
+            "text": "BREAKING: President Trump says he will strike \"every power plant and every bridge\" in Iran if they do not make a deal by \"Tuesday evening,\" per WSJ.",
+            "score": 50,
+            "url": "https://twitter.com/KobeissiLetter/status/2040828560446026108"
+          },
+          {
+            "handle": "KobeissiLetter",
+            "platform": "twitter",
+            "text": "BREAKING: Iran's Speaker of the Parliament responds to President Trump's statement this morning: \"Your reckless moves are dragging the United States into a living HELL for every single family, and ou\"",
+            "score": 53,
+            "url": "https://twitter.com/KobeissiLetter/status/2040824190706561457"
+          },
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "TRUMP STATES THE WHOLE COUNTRY IS GONE IF IRAN DOES NOT REACH AN AGREEMENT - ABC",
+            "score": 36,
+            "url": "https://twitter.com/FirstSquawk/status/2040832523102806288"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 88,
+        "topic": "Iranian Nuclear Plant Strike",
+        "domain": "geopolitics",
+        "headline": "Fourth strike hits Iran's Bushehr nuclear facility, kills guard",
+        "summary": "Iran's atomic agency reported that an airstrike hit near the Bushehr nuclear facility, killing a security guard and damaging a support building. This marks the fourth time the facility has been targeted during the ongoing war, raising concerns about nuclear safety.",
+        "signal": "Watch for escalatory Iranian response as nuclear facilities represent red lines for Tehran's military doctrine.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-4-2026-b1f73e5c2a88ddcf71d93f49f9494e1b",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 85,
+        "topic": "US Military Hardware Deployment",
+        "domain": "geopolitics",
+        "headline": "US deploys entire JASSM-ER missile stockpile for Iran war",
+        "summary": "The US will commit nearly its entire inventory of stealthy JASSM-ER cruise missiles to the Iran campaign, drawing from stockpiles previously allocated to other regions. This represents a massive escalation in military commitment and potential vulnerability in other theaters.",
+        "signal": "Depletion of advanced missile stockpiles could limit US options in other potential conflicts, particularly with China.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "\ud83d\udea8 BREAKING: U.S. pilot rescue op cost: \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 2 \u00d7 HC-130J rescue aircraft ($100 million each) 4 x MH-6 Little Bird helicopters ($2-4.5 million each)",
+            "score": 57,
+            "url": "https://twitter.com/MarioNawfal/status/2040830984338223108"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 80,
+        "topic": "OPEC Oil Response",
+        "domain": "commodities",
+        "headline": "OPEC+ raises production quotas by 206,000 bpd amid war",
+        "summary": "The OPEC+ oil cartel agreed to increase production quotas by 206,000 barrels per day starting in May, responding to war-related supply disruptions. The group warned that repairing damaged energy facilities is costly and time-consuming.",
+        "signal": "Oil markets may see temporary relief, but infrastructure damage could create longer-term supply constraints.",
+        "sources": [
+          "The National (UAE)",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.thenationalnews.com/business/energy/2026/04/05/opec-does-not-raise-output-levels-as-iran-conflict-keeps-oil-markets-on-edge",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "BREAKING: Eight members of the OPEC+ oil cartel have announced they will raise oil production quotas by 206,000 barrels per day (bpd) starting in May",
+            "score": 51,
+            "url": "https://twitter.com/AJEnglish/status/2040833356095488481"
+          },
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "HEAD OF LIBYA'S NATIONAL OIL CORPORATION SAYS OIL OUTPUT HAS RISEN TO ABOUT 1.43 MILLION BPD, THE HIGHEST LEVEL IN MORE THAN A DECADE",
+            "score": 59,
+            "url": "https://twitter.com/FirstSquawk/status/2040820575262880100"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 5,
+        "score": 78,
+        "topic": "India Iran Energy Ties",
+        "domain": "india",
+        "headline": "India acknowledges Iranian oil purchases amid war tensions",
+        "summary": "India's oil ministry confirmed it is buying crude from Iran among other countries to navigate the current energy crisis, dismissing reports of payment hurdles. The Iranian envoy stated that Chabahar port development will expand rapidly in the post-war era.",
+        "signal": "India's energy security strategy may increasingly rely on discounted Iranian crude despite geopolitical risks.",
+        "sources": [
+          "Bloomberg",
+          "Times of India"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/india-acknowledges-iranian-oil-purchases-dismisses-payment-woes",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 75,
+        "topic": "Strait Hormuz Compensation",
+        "domain": "geopolitics",
+        "headline": "Iran demands war damage compensation before opening Hormuz",
+        "summary": "Iranian Deputy President Mehdi Tabatabaei stated Iran will only reopen the Strait of Hormuz after receiving compensation for war damages through a new payment mechanism. This represents a significant escalation in Iran's negotiating position beyond Trump's ultimatum.",
+        "signal": "Compensation demands suggest Iran may be preparing for prolonged closure of the strait regardless of military pressure.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/4/trump-says-iran-has-48-hours-to-make-deal-as-search-for-us-pilot-continues",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "BREAKING: Mehdi Tabatabaei, deputy for communications at the Iranian president's office, has said Iran will open the Strait of Hormuz only after receiving compensation for war damages",
+            "score": 54,
+            "url": "https://twitter.com/AJEnglish/status/2040812819671618037"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 7,
+        "score": 72,
+        "topic": "Ukraine Peace Talks",
+        "domain": "geopolitics",
+        "headline": "Ukraine expects Trump envoys Witkoff, Kushner visit this month",
+        "summary": "Ukraine anticipates top US envoys Steve Witkoff and Jared Kushner to lead a delegation to Kyiv this month as efforts to resume peace talks get underway. This signals a potential shift in Trump's approach to the Ukraine conflict amid the Iran war.",
+        "signal": "Trump may be seeking to resolve Ukraine quickly to focus resources on Iran conflict.",
+        "sources": [
+          "Bloomberg",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/ukraine-expects-top-us-envoys-in-kyiv-this-month-to-reboot-talks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 70,
+        "topic": "US Visa Revocations",
+        "domain": "geopolitics",
+        "headline": "US revokes Iranian nationals' visas, arrests Soleimani relatives",
+        "summary": "The Trump administration revoked green cards and US visas of at least four Iranian nationals connected to the Iranian government, including detaining relatives of deceased General Qassem Soleimani. Two individuals have been arrested and face deportation.",
+        "signal": "Domestic crackdown on Iranian nationals signals broader escalation beyond military action.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg"
+        ],
+        "source_url": "https://apnews.com/article/us-iran-visas-rubio-soleimani-green-cards-4d35d273b6b3cb0ae1929e8a0cf0f7e5",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 68,
+        "topic": "Israeli Lebanon Operations",
+        "domain": "middleeast",
+        "headline": "Israeli strikes kill 11 in Lebanon, hospital damaged",
+        "summary": "Israeli airstrikes killed at least 11 people in Lebanon including a 4-year-old child, while strikes damaged the Lebanese Italian Hospital in Tyre injuring 11. Israel announced plans for a 'security buffer' as ground operations advance.",
+        "signal": "Lebanon front escalation could strain Israeli resources committed to Iran operations.",
+        "sources": [
+          "Al Jazeera English",
+          "S. China Morning Post"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/4/israeli-strikes-damage-hospital-in-lebanons-tyre",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 65,
+        "topic": "UAE Port Incident",
+        "domain": "middleeast",
+        "headline": "UAE reports incident at Khor Fakkan Port",
+        "summary": "The UAE confirmed it is 'dealing with an incident' at Khor Fakkan Port with no injuries reported so far. The UK Maritime Trade Operations reported unknown projectiles near the port, suggesting potential Iranian retaliation against Gulf states.",
+        "signal": "Gulf state infrastructure attacks could disrupt regional energy exports and shipping.",
+        "sources": [
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-says-dealing-incident-khor-fakkan-port",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 62,
+        "topic": "Iranian Missile Barrage",
+        "domain": "geopolitics",
+        "headline": "Iran launches new missile wave, hits Haifa building",
+        "summary": "Iran launched a new wave of missiles after a four-hour pause, with at least one missile directly hitting a residential building in northern Haifa, injuring four people. Israel's military detected multiple incoming missiles as Iranian forces demonstrate continued strike capability.",
+        "signal": "Iranian missile arsenal remains intact despite claims of complete air defense destruction.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "BREAKING: At least four people have been injured, and a residential building has been heavily damaged in Israel's city of Haifa following Iran's latest missile attack",
+            "score": 48,
+            "url": "https://twitter.com/AJEnglish/status/2040824282159464508"
+          },
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "BREAKING: Israel's military says it has detected a new wave of missiles from Iran, the first salvo in over four hours.",
+            "score": 45,
+            "url": "https://twitter.com/AJEnglish/status/2040814376962150745"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 12,
+        "score": 58,
+        "topic": "Indian Gold Import Surge",
+        "domain": "india",
+        "headline": "India's gold imports rise 29% to $69 billion",
+        "summary": "Gold imports to India surged nearly 29% to $69 billion in April-February of FY26, accounting for over 5% of the country's total imports. This occurred despite gold prices falling 7% during the US-Iran war period.",
+        "signal": "Rising gold imports amid geopolitical tensions indicate Indian investors seeking safe havens despite price declines.",
+        "sources": [
+          "NDTV Profit",
+          "LiveMint Markets"
+        ],
+        "source_url": "https://www.ndtvprofit.com/economy/gold-imports-rise-by-nearly-29-to-69-billion-in-apr-feb-2025-26-11314850",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 55,
+        "topic": "RBI Policy Expectations",
+        "domain": "india",
+        "headline": "RBI expected to hold rates as Iran war stokes inflation",
+        "summary": "Economists expect the Reserve Bank of India to keep interest rates unchanged as the Iran war fuels inflation concerns. The central bank has cut rates by 1.25% since February 2025, but geopolitical tensions may pause the easing cycle.",
+        "signal": "Prolonged Iran conflict could force RBI into extended pause, limiting growth support measures.",
+        "sources": [
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.ndtvprofit.com/economy/rbi-mpc-preview-economists-see-rates-on-hold-as-iran-war-stokes-inflation-fears-11314735",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 52,
+        "topic": "West Bengal Election Violence",
+        "domain": "india",
+        "headline": "Three arrested after drone spotted near Mamata Banerjee helicopter",
+        "summary": "Three persons were arrested after a drone was spotted flying near West Bengal Chief Minister Mamata Banerjee's helicopter in Malda district. PM Modi cited the Malda incident to brand TMC rule as 'maha jungleraj' during election campaigning.",
+        "signal": "Security incidents during election period could escalate political tensions in key swing state.",
+        "sources": [
+          "PTI News"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "PTI_News",
+            "platform": "twitter",
+            "text": "STORY | Drone near CM's helicopter in Malda, 3 arrested Three persons have been arrested after a drone was spotted flying near the helicopter of West Bengal Chief Minister Mamata Banerjee in Malda",
+            "score": 59,
+            "url": "https://twitter.com/PTI_News/status/2040833080483881147"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 50,
+        "topic": "Air India Israel Operations",
+        "domain": "india",
+        "headline": "Air India suspends Israel flights till May 31",
+        "summary": "Air India has stopped flights to Israel until May 31 amid the Iran war, as the Indian mission in Tel Aviv assists travelers seeking alternative transportation. This reflects the broader impact of Middle East conflict on Indian aviation operations.",
+        "signal": "Extended flight suspensions indicate expectations of prolonged regional instability affecting Indian business interests.",
+        "sources": [
+          "NDTV News"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/israel-iran-war-air-india-stops-flights-to-israel-till-may-31-amid-iran-war-11314792",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 136
+  },
+  {
     "timestamp": "2026-04-05T15:51:32.334630+00:00",
     "timestamp_ist": "05 Apr 2026 \u00b7 21:21 IST",
     "story_count": 25,
