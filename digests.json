@@ -1,5 +1,355 @@
 [
   {
+    "timestamp": "2026-04-05T06:02:19.944154+00:00",
+    "timestamp_ist": "05 Apr 2026 \u00b7 06:02 IST",
+    "story_count": 15,
+    "avg_score": 72,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 88,
+        "topic": "US Airman Rescue Iran",
+        "domain": "geopolitics",
+        "headline": "US rescues missing F-15 crew member from Iran mountains",
+        "summary": "President Trump confirmed US special forces successfully rescued the weapons systems officer from a downed F-15E fighter jet in Iran's mountainous regions after a firefight. The rescue operation involved multiple aircraft and represents one of the most daring missions in US military history according to Trump.",
+        "signal": "Successful rescue demonstrates US operational capabilities in hostile territory but highlights vulnerability of air assets over Iran.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "Al Jazeera",
+          "@AJEnglish",
+          "@AFP"
+        ],
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "BREAKING: The US President Trump is now confirming the rescue of the weapons officer who went missing after his F-15E jet was shot down over Iran.",
+            "score": 59,
+            "url": "https://twitter.com/AJEnglish/status/2040648922687852625"
+          },
+          {
+            "handle": "KobeissiLetter",
+            "platform": "twitter",
+            "text": "BREAKING: President Trump announces that the second F-15E pilot who was shot down on Friday has been rescued from Iran.",
+            "score": 55,
+            "url": "https://twitter.com/KobeissiLetter/status/2040645075424735296"
+          },
+          {
+            "handle": "AFP",
+            "platform": "twitter",
+            "text": "BREAKING Second crew member from US fighter jet that crashed inside Iran is 'SAFE and SOUND', Trump says",
+            "score": 48,
+            "url": "https://twitter.com/AFP/status/2040650080907055221"
+          },
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: President Donald Trump says service member rescued in Iran is injured but 'will be just fine' and that US was monitoring his location.",
+            "score": 54,
+            "url": "https://bsky.app/profile/apnews.com/post/3mipwiqfrtv2r"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: A US government official has told Al Jazeera that the second crew member from the downed F-15E has been recovered after a 'heavy firefight'.",
+            "score": 59,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mipsymnqvl2h"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "topic": "Iran Shoots Down US Aircraft",
+        "domain": "geopolitics",
+        "headline": "Iran downs two US military aircraft in rare assault",
+        "summary": "Iran's military shot down two American warplanes including an F-15 fighter jet, marking an exceedingly rare assault on US forces that has not occurred in over 20 years. The Islamic Revolutionary Guard Corps claims additional strikes on US aircraft searching for missing crew members.",
+        "signal": "Direct Iranian attacks on US military aircraft represent significant escalation with potential for broader conflict.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera",
+          "Times of India",
+          "@AJEnglish"
+        ],
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "The IRGC says it has shot down a US aircraft that was looking for the missing officer in the southern region of Isfahan, according to Fars news agency.",
+            "score": 48,
+            "url": "https://twitter.com/AJEnglish/status/2040662325493936631"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "topic": "Trump Iran Ultimatum",
+        "domain": "geopolitics",
+        "headline": "Trump gives Iran 48-hour ultimatum threatening Hell",
+        "summary": "President Trump issued a 48-hour deadline for Iran to make a deal or face massive retaliation, claiming the US can easily reopen the Strait of Hormuz despite weeks-long Iranian blockade. Iran rejected Trump's ultimatum as a 'helpless, nervous, unbalanced and stupid action.'",
+        "signal": "Escalating rhetoric increases risk of broader military confrontation as diplomatic window narrows rapidly.",
+        "sources": [
+          "The Hindu",
+          "Al Jazeera",
+          "NDTV Profit",
+          "@ETNOWlive"
+        ],
+        "social_signals": [
+          {
+            "handle": "ETNOWlive",
+            "platform": "twitter",
+            "text": "Donald Trump's threat a 'helpless, nervous, unbalanced and stupid action': Iran rejects US President's 48 hour-ultimatum",
+            "score": 41,
+            "url": "https://twitter.com/ETNOWlive/status/2040652014171079138"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 79,
+        "topic": "Gulf Energy Infrastructure Attacks",
+        "domain": "commodities",
+        "headline": "Iranian strikes hit UAE gas facility, Kuwaiti oil headquarters",
+        "summary": "Iran targeted critical energy infrastructure across the Gulf, with significant damage to UAE's largest gas facility Habshan and drone strikes on Kuwait Petroleum headquarters. The attacks demonstrate Iran's capacity to disrupt regional energy supplies despite defensive measures.",
+        "signal": "Direct attacks on Gulf energy infrastructure threaten global supply chains and could trigger broader regional conflict.",
+        "sources": [
+          "Al Jazeera",
+          "The National UAE",
+          "NDTV Profit",
+          "@FirstSquawk"
+        ],
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "Bahrain reports that an Iranian drone targeted one of BAPCO Energies' storage facilities, with no casualties reported.",
+            "score": 46,
+            "url": "https://twitter.com/FirstSquawk/status/2040662493668970953"
+          },
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "Bapco Energies confirms an incident occurred at one of its storage facilities earlier today resulting in a tank fire, as a result of a hostile Iranian drone attack.",
+            "score": 45,
+            "url": "https://twitter.com/FirstSquawk/status/2040670668338172152"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 78,
+        "topic": "Strait Hormuz Blockade Impact",
+        "domain": "commodities",
+        "headline": "Iranian blockade strangles global energy flows for weeks",
+        "summary": "Iran's blockade of the Strait of Hormuz has strangled global energy flows, with only Iraq exempted from shipping restrictions. European leaders dismiss Trump's plans to reopen the waterway militarily as unrealistic, favoring international pressure.",
+        "signal": "Prolonged closure of critical shipping lane threatens global energy security and economic stability.",
+        "sources": [
+          "S. China Morning Post",
+          "Wall Street Journal",
+          "BBC News"
+        ],
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Tehran says Iraq will face no restrictions in waterway, praising country's 'struggle' against the US.",
+            "score": 41,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mippdytd6i22"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 76,
+        "topic": "Global Energy Price Shock",
+        "domain": "macro",
+        "headline": "War drives energy costs higher across Asia and Europe",
+        "summary": "Rising energy costs from Middle East tensions are slowing Vietnam's economic growth and forcing fuel duty extensions in the UK. Food prices hit six-month highs as the conflict threatens to push South Asian economies to the brink.",
+        "signal": "Energy shock rippling through global economy with particular impact on energy-dependent emerging markets.",
+        "sources": [
+          "Bloomberg",
+          "BBC News",
+          "S. China Morning Post",
+          "@ETNOWlive"
+        ],
+        "social_signals": [
+          {
+            "handle": "ETNOWlive",
+            "platform": "twitter",
+            "text": "6-month HIGH! Global food prices to go up further if Iran war drags on; here's what FAO said",
+            "score": 49,
+            "url": "https://twitter.com/ETNOWlive/status/2040653067557966115"
+          },
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "Italy is now seeing fuel strain caused by the Iran war, with airports in Bologna, Milan Linate, Treviso, and Venice limiting jet fuel availability for flights.",
+            "score": 40,
+            "url": "https://twitter.com/MarioNawfal/status/2040668757685920251"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 74,
+        "topic": "Trump Defense Budget Boost",
+        "domain": "markets",
+        "headline": "Trump seeks record $1.5 trillion defense spending amid war",
+        "summary": "President Trump unveiled a 2027 budget with $1.5 trillion in defense spending, the largest request in decades, alongside 10% cuts in domestic programs. The wartime presidency shift reflects changing priorities as gas prices spike.",
+        "signal": "Massive defense spending increase signals prolonged military engagement expectations and fiscal policy pivot.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "Bloomberg"
+        ],
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 72,
+        "topic": "Nuclear Facility Security Risks",
+        "domain": "geopolitics",
+        "headline": "Iran warns UN of radioactive contamination risks after strikes",
+        "summary": "Iran's foreign minister alerted the UN to grave risks of radioactive contamination following US-Israeli strikes near the Bushehr nuclear power plant. A projectile killed one staff member, prompting IAEA concerns about escalating attacks on nuclear infrastructure.",
+        "signal": "Attacks near nuclear facilities raise catastrophic risk scenarios and potential international intervention pressure.",
+        "sources": [
+          "Times of India"
+        ],
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 69,
+        "topic": "European Energy Independence Push",
+        "domain": "europe",
+        "headline": "Europe considers nuclear revival amid new energy shock",
+        "summary": "As war drives up gas and fuel prices, European nations are reconsidering nuclear power for energy independence. Five EU countries are asking Brussels to tax energy companies benefiting from the Iran crisis.",
+        "signal": "Energy security concerns accelerating European nuclear policy shifts and corporate profit redistribution debates.",
+        "sources": [
+          "BBC News",
+          "Politico Europe"
+        ],
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 68,
+        "topic": "OpenAI Executive Reshuffle",
+        "domain": "corporate",
+        "headline": "OpenAI COO shifts role as executives take medical leave",
+        "summary": "OpenAI's chief operating officer is moving to a new role while two top executives go on health-related leave, marking major changes to the leadership bench. The AGI CEO is taking medical leave ahead of a potential Wall Street debut this year.",
+        "signal": "Leadership instability at critical AI company could impact IPO timing and competitive positioning.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 67,
+        "topic": "Regional Unrest Spillover Effects",
+        "domain": "geopolitics",
+        "headline": "Bahrain crackdown intensifies as Iran war reignites protests",
+        "summary": "Bahrain is conducting harsh crackdowns as the Iran conflict reignites domestic protests, with detained protesters found dead with slash marks and bruising. Regional tensions are spilling over into domestic unrest across Gulf states.",
+        "signal": "Regional conflict catalyzing domestic instability threatens Gulf monarchy stability and security arrangements.",
+        "sources": [
+          "Associated Press"
+        ],
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 65,
+        "topic": "India IPL Cricket Matches",
+        "domain": "india",
+        "headline": "MS Dhoni sidelined as CSK faces RCB derby",
+        "summary": "Chennai Super Kings will play without MS Dhoni due to calf strain in their match against Royal Challengers Bengaluru. Rajasthan Royals secured a thrilling victory over Gujarat Titans with astute captaincy from Riyan Parag.",
+        "signal": "Major sporting events continue amid global tensions, providing economic normalcy indicators for entertainment sector.",
+        "sources": [
+          "Times of India",
+          "The Hindu",
+          "Indian Express"
+        ],
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 63,
+        "topic": "Artemis II Moon Mission",
+        "domain": "markets",
+        "headline": "NASA crew captures Earth images amid toilet malfunction",
+        "summary": "The Artemis II crew took spectacular images of Earth from 100,000 miles away as they head toward the Moon. However, the mission faces technical challenges with toilet malfunctions recurring during the journey.",
+        "signal": "Space mission progress demonstrates technological capabilities but highlights engineering challenges in long-duration flights.",
+        "sources": [
+          "Al Jazeera",
+          "BBC News",
+          "Times of India"
+        ],
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 61,
+        "topic": "Japanese Economic Conditions",
+        "domain": "japan",
+        "headline": "Japan corporate bonds hit record on retail investor demand",
+        "summary": "Japan's corporate bond issuance reached record highs driven by retail investor demand. Toyota faces labor challenges with plans requiring foreign workers to manufacture one in four cars domestically.",
+        "signal": "Strong retail investment appetite in Japan contrasts with manufacturing sector labor constraints affecting production capacity.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 58,
+        "topic": "India Market Conditions",
+        "domain": "india",
+        "headline": "Indian stocks extend losses amid geopolitical tensions",
+        "summary": "Indian markets fell for the sixth straight week due to ongoing Middle East tensions, with selective buying in IT, metals and defense stocks. Market experts recommend cautious stock picks under \u20b9100 amid volatility.",
+        "signal": "Prolonged market weakness reflects investor risk aversion but sector rotation suggests selective opportunities remain.",
+        "sources": [
+          "LiveMint Markets",
+          "NDTV Profit"
+        ],
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 61
+  },
+  {
     "timestamp": "2026-04-05T05:56:32.613331+00:00",
     "timestamp_ist": "05 Apr 2026 \u00b7 05:56 IST",
     "story_count": 15,
