@@ -1,5 +1,370 @@
 [
   {
+    "timestamp": "2026-04-05T11:20:20.438349+00:00",
+    "timestamp_ist": "05 Apr 2026 \u00b7 16:50 IST",
+    "story_count": 14,
+    "avg_score": 60,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 87,
+        "topic": "US Airman Rescued Iran",
+        "domain": "geopolitics",
+        "headline": "US rescues downed F-15E crew member from Iran",
+        "summary": "The United States successfully rescued a missing F-15E crew member from Iran after the aircraft was shot down, with President Trump calling it a 'daring' operation involving 'dozens of aircraft.' Iranian state media claims five IRGC fighters were killed during the rescue mission.",
+        "signal": "Further escalation likely as both sides claim victory in high-stakes prisoner recovery operation.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Al Jazeera",
+          "@Faytuks"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/us-searches-for-downed-airman-as-iran-keeps-striking-gulf-states",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "BREAKING: US crew member on F-15E has been rescued but is \"not safe yet\" as rescue operation is in progress",
+            "score": 53,
+            "url": "https://twitter.com/Faytuks/status/2040631989598855407"
+          },
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "BREAKING: The second crew member from the downed F-15E has been recovered after a \"heavy firefight\"",
+            "score": 53,
+            "url": "https://twitter.com/Faytuks/status/2040628423597457848"
+          },
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "BREAKING: 2nd US F-15E crew member \"rescued and safe\" after complex rescue operation",
+            "score": 47,
+            "url": "https://twitter.com/Faytuks/status/2040637515292410134"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 83,
+        "topic": "Iran Strikes Gulf Oil",
+        "domain": "commodities",
+        "headline": "Iran attacks Gulf oil facilities causing widespread damage",
+        "summary": "Iranian drone and missile strikes hit oil facilities across Kuwait, UAE, and Bahrain, with Kuwait Petroleum Corporation reporting 'severe material damage' and fires at operational units. The UAE intercepted 9 ballistic missiles, 1 cruise missile and 50 drones in Sunday's attacks alone.",
+        "signal": "Energy prices likely to surge further as Iran expands attacks on Gulf energy infrastructure.",
+        "sources": [
+          "Al Jazeera",
+          "The National",
+          "Bloomberg",
+          "@FirstSquawk"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "Kuwait Petroleum Corporation: An immoral Iranian attack on a number of our operational facilities that resulted in fires and significant material losses",
+            "score": 45,
+            "url": "https://twitter.com/FirstSquawk/status/2040741775212687454"
+          },
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "UAE Ministry of Defense: Air defenses dealt today with 9 ballistic missiles, 1 cruise missile, and 50 drones",
+            "score": 41,
+            "url": "https://twitter.com/FirstSquawk/status/2040748660435402858"
+          },
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "Breaking: Two Kuwaiti power and water desalination plants attacked by Iranian drones, with them causing 'significant damage'",
+            "score": 41,
+            "url": "https://twitter.com/Faytuks/status/2040601441933336800"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 3,
+        "score": 76,
+        "topic": "Italy Energy Diplomacy",
+        "domain": "europe",
+        "headline": "Italy's Meloni visits Middle East securing energy supplies",
+        "summary": "Italian Prime Minister Giorgia Meloni visited Qatar and the Gulf as part of a diplomatic push to secure energy supplies disrupted by the Iran war. Five EU finance ministers have called for windfall profit taxes on energy companies amid soaring fuel costs.",
+        "signal": "European energy security increasingly dependent on Gulf relationships as Iran conflict intensifies.",
+        "sources": [
+          "Bloomberg",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/italy-s-meloni-visits-doha-to-bolster-energy-supplies-hit-by-war",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 73,
+        "topic": "Ukraine Russia Strikes",
+        "domain": "geopolitics",
+        "headline": "Russia-Ukraine exchange attacks as war continues",
+        "summary": "Ukrainian drones struck Russia's Baltic Sea port of Primorsk and the NORSI oil refinery, while Russia attacked several Ukrainian regions with at least four people killed. A Russian ship in the Azov Sea was also reportedly hit by Kyiv forces.",
+        "signal": "Ukraine-Russia conflict remains active despite global focus shifting to Iran war.",
+        "sources": [
+          "Al Jazeera",
+          "Bloomberg"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/4/1997",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "Ukrainian drones have struck Russia's Baltic Sea port of Primorsk and the NORSI oil refinery in the central Nizhny Novgorod region",
+            "score": 48,
+            "url": "https://twitter.com/AJEnglish/status/2040746927617134662"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 5,
+        "score": 70,
+        "topic": "India Iran Oil Purchases",
+        "domain": "india",
+        "headline": "India acknowledges Iranian oil purchases amid energy crisis",
+        "summary": "India's oil ministry confirmed crude purchases from Iran among other countries to navigate the current energy crisis, dismissing claims of payment hurdles. The acknowledgment comes as global fuel disruptions filter into India's industries and households.",
+        "signal": "India balancing energy security needs against potential sanctions pressure from Washington.",
+        "sources": [
+          "Bloomberg",
+          "NDTV"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/india-acknowledges-iranian-oil-purchases-dismisses-payment-woes",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 65,
+        "topic": "Trump Iran Deadline",
+        "domain": "geopolitics",
+        "headline": "Trump sets Iran deadline as midterm pressures mount",
+        "summary": "President Trump faces mounting pressure as midterm elections loom with gas prices spiking and the Iran conflict expanding. Republicans grapple with Trump's wartime presidency amid promises to lower costs and end wars.",
+        "signal": "Domestic political pressure could force escalation or de-escalation in Iran conflict.",
+        "sources": [
+          "Associated Press",
+          "Wall Street Journal"
+        ],
+        "source_url": "https://apnews.com/article/trump-midterms-republicans-costs-iran-democrats-642b5f8fd79c980521c89afa86c4f249",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 58,
+        "topic": "Oracle Mass Layoffs",
+        "domain": "corporate",
+        "headline": "Oracle layoffs hit thousands after AI restructuring hints",
+        "summary": "Oracle terminated thousands of employees after its Q3 earnings report revealed the company had been restructuring product development teams into smaller groups using AI code generation. The layoffs were hinted at weeks in advance during earnings calls.",
+        "signal": "AI-driven workforce reduction accelerating across major tech companies beyond initial projections.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-company-hinted-at-current-layoffs-weeks-in-advance-in-q3-earnings-report-said-we-have-been-restructuring-our-teams-into-/articleshow/130036652.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 55,
+        "topic": "Japan Iran Mediation Role",
+        "domain": "japan",
+        "headline": "Japan urged to lead US-Iran ceasefire efforts",
+        "summary": "Mideast expert suggests Japan should spearhead efforts toward a US-Iran ceasefire, noting Iran's foreign minister had visited Japan for nuclear discussions in 2010. Pakistan has drastically hiked fuel prices despite its mediator role in the Iran war.",
+        "signal": "Asian powers positioning as potential mediators as conflict economic costs mount globally.",
+        "sources": [
+          "Japan Times",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://www.japantimes.co.jp/news/2026/04/05/japan/politics/japan-efforts-us-iran-ceasefire/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 52,
+        "topic": "Indian Market Energy Impact",
+        "domain": "markets",
+        "headline": "Indian markets decline amid energy cost pressures",
+        "summary": "Six of India's top-10 most valued companies lost nearly \u20b965,000 crore in market cap, with Bharti Airtel worst hit. Rising energy costs from the Iran war are impacting economic growth across Asia including Vietnam and India.",
+        "signal": "Energy-intensive sectors face continued pressure until Middle East supply routes stabilize.",
+        "sources": [
+          "LiveMint",
+          "Bloomberg"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/mcap-of-6-of-top-10-most-valued-companies-drops-by-nearly-65-000-crore-bharti-airtel-loses-nearly-30-000-crore-11775376271961.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 46,
+        "topic": "Crypto Drift Protocol Hack",
+        "domain": "markets",
+        "headline": "North Korean hackers targeted Drift Protocol team",
+        "summary": "Investigation into the $285 million Drift Protocol hack reveals team members were approached at conferences by representatives tied to North Korean operations.",
+        "signal": "Watch for increased cybersecurity measures at crypto conferences and team security protocols.",
+        "sources": [
+          "@Polymarket"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Significant crypto hack with state-level actor involvement warrants monitoring despite single-source reporting.",
+        "social_signals": [
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "JUST IN: Probe into the $285 million Drift Protocol crypto hack found team members were approached at conferences by representatives tied to a North Korean-linked operation.",
+            "score": 46,
+            "url": "https://twitter.com/Polymarket/status/2040626814494597163"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 11,
+        "score": 45,
+        "topic": "Oil Price Surge Prediction",
+        "domain": "commodities",
+        "headline": "Crude oil projected to hit $130 barrel",
+        "summary": "Market prediction shows 51% chance crude oil will surge to $130 per barrel this month amid escalating Iran war.",
+        "signal": "Monitor energy sector positioning and inflation hedges if oil breaks through $120 resistance.",
+        "sources": [
+          "@Polymarket"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Oil price prediction aligns with supply disruption fears from Iran conflict, worth tracking for market timing.",
+        "social_signals": [
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "BREAKING: Crude Oil now projected to surge to $130 a barrel this month. 51% chance.",
+            "score": 45,
+            "url": "https://twitter.com/Polymarket/status/2040587257623585094"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 12,
+        "score": 44,
+        "topic": "Serbia Hungary Security Alert",
+        "domain": "europe",
+        "headline": "Explosive device found on Serbia-Hungary gas pipeline",
+        "summary": "Hungarian PM Orban announced emergency defense council meeting after Serbia discovered explosive device on critical gas infrastructure linking the two countries.",
+        "signal": "Watch for broader European energy infrastructure security concerns and potential supply disruptions.",
+        "sources": [
+          "@MarioNawfal"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Energy infrastructure sabotage in Eastern Europe during broader conflict warrants attention for regional stability.",
+        "social_signals": [
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "\ud83d\udea8BREAKING: \ud83c\udded\ud83c\uddfa\ud83c\uddf7\ud83c\uddf8 PM Orban announces emergency defence council meeting after Serbia found an explosive device attached to \"critical gas infrastructure linking Serbia and Hungary.\"",
+            "score": 44,
+            "url": "https://twitter.com/MarioNawfal/status/2040740730914656430"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 13,
+        "score": 43,
+        "topic": "Australia Energy Crisis Response",
+        "domain": "commodities",
+        "headline": "Australia offers $1 billion in energy crisis loans",
+        "summary": "Australia will provide up to A$1 billion in interest-free loans to critical businesses due to energy shock from Middle East conflict.",
+        "signal": "Monitor other developed nations for similar emergency business support programs as energy costs spiral.",
+        "sources": [
+          "@Polymarket"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Major government intervention in energy markets signals broader economic impact of conflict worth tracking.",
+        "social_signals": [
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "JUST IN: Australia will provide up to A$1 billion in interest-free loans to critical businesses due to the energy shock.",
+            "score": 43,
+            "url": "https://twitter.com/Polymarket/status/2040664227782725812"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 14,
+        "score": 42,
+        "topic": "USAF Special Operations Iran",
+        "domain": "geopolitics",
+        "headline": "US special operations aircraft spotted over Iran",
+        "summary": "A C-295W from the USAF's 427th Special Operations Squadron, specializing in infiltration and exfiltration missions, was spotted flying at low level over western Iran.",
+        "signal": "Watch for escalation in covert operations as conventional rescue missions become more frequent.",
+        "sources": [
+          "@Osinttechnical"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Specialized military aircraft over enemy territory suggests ongoing covert operations beyond reported rescue missions.",
+        "social_signals": [
+          {
+            "handle": "Osinttechnical",
+            "platform": "twitter",
+            "text": "Spotted flying at low level over western Iran this morning; a C-295W from the USAF's 427th Special Operations Squadron, a clandestine unit that reportedly specializes in infiltration and exfiltration",
+            "score": 42,
+            "url": "https://twitter.com/Osinttechnical/status/2040732001695641950"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 148
+  },
+  {
     "timestamp": "2026-04-05T08:50:44.525153+00:00",
     "timestamp_ist": "05 Apr 2026 \u00b7 14:20 IST",
     "story_count": 13,
