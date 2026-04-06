@@ -1,5 +1,407 @@
 [
   {
+    "timestamp": "2026-04-06T09:33:35.540865+00:00",
+    "timestamp_ist": "06 Apr 2026 \u00b7 15:03 IST",
+    "story_count": 15,
+    "avg_score": 62,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 95,
+        "topic": "US-Israel-Iran Military Conflict",
+        "domain": "geopolitics",
+        "headline": "US Rescues F-15 Pilot as Iran-US War Continues",
+        "summary": "A US service member missing since Iran shot down an F-15 fighter jet has been successfully rescued after days of search operations, with multiple news sources confirming the operation. The conflict has now entered day 37-38 with Iran shooting down two US aircraft and continuing attacks on Gulf infrastructure.",
+        "signal": "Watch for Trump's Tuesday deadline ultimatum on reopening Strait of Hormuz and potential escalation to Iranian power plant targets.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "Al Jazeera English",
+          "BBC News",
+          "@AJEnglish",
+          "@FirstSquawk"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "A US\u2011Israeli air strike targeting the Baharestan district in Tehran has killed 15 people and wounded many others",
+            "score": 53,
+            "url": "https://twitter.com/AJEnglish/status/2041082681664913814"
+          },
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "ISRAEL DEFENCE MINISTER KATZ: WILL HIT IRAN INFRASTRUCTURE AS LONG AS IRAN KEEPS FIRING",
+            "score": 52,
+            "url": "https://twitter.com/FirstSquawk/status/2041065442312405103"
+          },
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "Tensions are rising as President Donald Trump's Tuesday deadline for Iran to open the Strait of Hormuz nears",
+            "score": 45,
+            "url": "https://twitter.com/AJEnglish/status/2041077811595608551"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 89,
+        "topic": "Iran Attacks Gulf States",
+        "domain": "geopolitics",
+        "headline": "Iran Strikes Kuwait Oil Facilities, UAE Power Plants",
+        "summary": "Iran has launched extensive attacks on Gulf state infrastructure with Kuwait reporting fires at oil facilities and power plants, while the UAE's Borouge petrochemicals plant suspended operations after multiple fires. Kuwait says six people were injured in attacks on residential areas.",
+        "signal": "Gulf energy infrastructure remains vulnerable to Iranian retaliation, threatening regional oil production and global supply chains.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English",
+          "Kuwait Petroleum",
+          "@MarioNawfal"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/borouge-suspends-abu-dhabi-plant-operations-after-multiple-fires",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "UAE AIR DEFENSE HAS INTERCEPTED OVER 2,000 IRANIAN DRONES AIMED AT CIVILIANS",
+            "score": 55,
+            "url": "https://twitter.com/MarioNawfal/status/2041068172384591905"
+          },
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "Over 1,000 Iranian missiles and drones have hit Kuwait since the war on Iran began",
+            "score": 45,
+            "url": "https://twitter.com/MarioNawfal/status/2041078469769998776"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 84,
+        "topic": "OPEC+ Oil Production Hike",
+        "domain": "commodities",
+        "headline": "OPEC+ Plans Symbolic Output Quota Increase Amid War",
+        "summary": "OPEC+ members plan to raise production quotas for May in a symbolic move as Middle East conflict constrains production and shipments from several large alliance members. The decision comes as oil prices have surged amid supply disruptions from the Iran war.",
+        "signal": "Monitor whether actual production increases materialize or if this remains largely symbolic given ongoing Middle East supply constraints.",
+        "sources": [
+          "Bloomberg",
+          "Euronews Business"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/opec-plans-symbolic-output-quota-hike-amid-war-delegates-say",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "Saudi Arabia is exporting 33% less oil after the Strait of Hormuz closure, but oil jumped from $67 to $130 a barrel",
+            "score": 45,
+            "url": "https://twitter.com/MarioNawfal/status/2041065905912725867"
+          },
+          {
+            "handle": "spectatorindex",
+            "platform": "twitter",
+            "text": "US crude oil prices are down 2%, amid reports of proposals to end the conflict in the Middle East",
+            "score": 43,
+            "url": "https://twitter.com/spectatorindex/status/2041067526873137579"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 78,
+        "topic": "Iran Revolutionary Guards Intelligence Chief Killed",
+        "domain": "geopolitics",
+        "headline": "IRGC Intelligence Chief Majid Khademi Confirmed Dead",
+        "summary": "Iran's Revolutionary Guards confirmed the death of Majid Khademi, head of the intelligence organization, according to state media reports. Israeli Defense Minister stated Iran's leaders \"live in a feeling of being pursued\" and vowed to continue hunting them down.",
+        "signal": "Elimination of senior Iranian intelligence leadership signals escalating targeted assassinations and potential Iranian retaliation.",
+        "sources": [
+          "Middle East Eye",
+          "@ETNOWlive",
+          "@FirstSquawk"
+        ],
+        "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/head-irans-revolutionary-guards-intelligence-organisation-announced-dead",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "ETNOWlive",
+            "platform": "twitter",
+            "text": "West Asia War: Iran's Revolutionary Guard's head of intelligence killed; IRGC confirms Majid Khademi's death",
+            "score": 44,
+            "url": "https://twitter.com/ETNOWlive/status/2041084494644728112"
+          },
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "ISRAELI DEFENSE MINISTER: IRAN'S LEADERS LIVE IN A FEELING OF BEING PURSUED, AND WE WILL CONTINUE TO HUNT THEM DOWN ONE AFTER THE OTHER",
+            "score": 42,
+            "url": "https://twitter.com/FirstSquawk/status/2041068175119597675"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 5,
+        "score": 74,
+        "topic": "Italy Jet Fuel Shortage",
+        "domain": "commodities",
+        "headline": "Italy Limits Airport Fuel Supplies Due to War",
+        "summary": "Several airports in Italy issued advisories of limited fuel supplies for the next few days as the Middle East conflict shows few signs of ending. AirAsia has also announced fare increases and 10% flight cuts due to soaring jet fuel prices.",
+        "signal": "European aviation sector faces growing fuel supply constraints, likely leading to higher airfares and reduced flight capacity.",
+        "sources": [
+          "Bloomberg",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/italy-sets-jet-fuel-limits-at-some-airports-on-supply-shortage",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 70,
+        "topic": "US Iran War Cost",
+        "domain": "macro",
+        "headline": "US Spends $42 Billion on Iran War",
+        "summary": "The United States has poured over $42 billion into Trump's war with Iran at a pace of around $11,500 every second, according to financial tracking. This represents a massive fiscal commitment as the conflict enters its sixth week.",
+        "signal": "Monitor US deficit impact and potential Congressional pressure for cost containment or war authorization debates.",
+        "sources": [
+          "@FirstSquawk"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "High-credibility financial data source tracking unprecedented military spending pace that could influence fiscal policy.",
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "U.S. HAS ALREADY POURED OVER $42 BILLION INTO TRUMP'S WAR WITH IRAN AT A PACE OF AROUND $11,500 EVERY SECOND",
+            "score": 49,
+            "url": "https://twitter.com/FirstSquawk/status/2041070402999583064"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 7,
+        "score": 65,
+        "topic": "US-Iran Ceasefire Negotiations",
+        "domain": "geopolitics",
+        "headline": "US Iran Discuss 45-Day Ceasefire Terms",
+        "summary": "US, Iran and mediators are reportedly discussing terms for a \"last-ditch\" 45-day ceasefire as diplomatic efforts intensify. However, Iran has rejected proposals to open the Strait of Hormuz in exchange for a temporary ceasefire.",
+        "signal": "Watch for breakthrough in negotiations before Trump's Tuesday deadline or potential escalation if talks fail.",
+        "sources": [
+          "@Polymarket",
+          "@Faytuks",
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/middle-east/first-ceasefire-then-nuclear-deal-will-us-iran-finally-make-peace-inside-the-two-tier-proposed-plan-israel-islamabad-accord/articleshow/130054889.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "BREAKING: U.S., Iran & mediators are reportedly discussing the terms for a \"last-ditch\" 45-day ceasefire",
+            "score": 45,
+            "url": "https://twitter.com/Polymarket/status/2040988894334689473"
+          },
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "Iran has rejected a proposal to open the Strait of Hormuz in exchange for a temporary cease-fire",
+            "score": 45,
+            "url": "https://twitter.com/Faytuks/status/2040856678795473376"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 8,
+        "score": 59,
+        "topic": "Indian Stock Market Rally",
+        "domain": "markets",
+        "headline": "Sensex Jumps 500 Points on US-Iran Deal Hopes",
+        "summary": "Indian stock markets swung to gains with Sensex rising 500 points and Nifty breaking above 22,800 on possibilities of a US-Iran deal. Banks led the rally amid volatile trading as oil prices moderated on ceasefire speculation.",
+        "signal": "Indian markets remain highly sensitive to Middle East developments; watch for reversal if ceasefire talks fail.",
+        "sources": [
+          "NDTV News",
+          "LiveMint Markets",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/sensex-today-stock-market-share-market-nifty-live-updates-today-6-april-rbi-mpc-repo-rate-iran-war-donald-trump-11316136#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 55,
+        "topic": "Trump Budget Proposal",
+        "domain": "macro",
+        "headline": "Trump Budget Shows New Government Vision, Same Deficit",
+        "summary": "Trump's federal budget proposal presents a new vision for government operations but does not address deficit reduction concerns. The budget comes as war spending in Iran adds fiscal pressure.",
+        "signal": "Watch for Congressional reactions and potential fiscal constraints on war spending if deficit concerns mount.",
+        "sources": [
+          "The Wall Street Journal"
+        ],
+        "source_url": "https://www.wsj.com/politics/policy/trump-federal-budget-spending-deficit-2027-f2ce08ba?mod=hp_lista_pos2",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 52,
+        "topic": "Wipro Major Contract Win",
+        "domain": "corporate",
+        "headline": "Wipro Bags $1 Billion Singapore Contract, Acquires Mindsprint",
+        "summary": "Wipro secured a massive $1 billion contract from Singapore's Olam Group and will acquire the company's IT arm Mindsprint for $375 million in an all-cash deal. This represents one of the largest IT services deals for the Indian company.",
+        "signal": "Major validation of Indian IT services capabilities; watch for competitor responses and Wipro stock reaction.",
+        "sources": [
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/companies/news/wipro-share-price-contract-olam-group-mindsprint-it-services-india-11775447456434.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 48,
+        "topic": "Amul Revenue Milestone",
+        "domain": "corporate",
+        "headline": "Amul Becomes India's First Rs 1 Lakh Crore FMCG",
+        "summary": "Amul became India's first FMCG company to achieve Rs 1 lakh crore turnover, reporting 11% growth in FY26 fueled by domestic expansion and global footprint growth. The cooperative giant has achieved this historic milestone ahead of competitors.",
+        "signal": "Demonstrates resilience of Indian consumer staples sector despite economic headwinds; potential model for other cooperatives.",
+        "sources": [
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.ndtvprofit.com/business/amul-becomes-indias-first-fmcg-company-with-rs-1-lakh-crore-turnover-11317393#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 45,
+        "topic": "Oracle Mass Layoffs",
+        "domain": "corporate",
+        "headline": "Oracle Cuts 10,000+ Jobs Over OpenAI Deal Costs",
+        "summary": "Oracle is laying off at least 10,000 employees\u2014potentially up to 30,000\u2014as it struggles to manage cash demands of a $300 billion cloud computing deal with OpenAI. The cuts represent Oracle's largest-ever restructuring spanning multiple divisions.",
+        "signal": "Signals potential strain in big tech AI investments; watch for similar restructuring at other companies with major AI commitments.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-10000-job-cuts-have-a-sam-altman-connection-a-promise-oracle-made-to-openai-for-/articleshow/130035870.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 42,
+        "topic": "Artemis Moon Mission",
+        "domain": "geopolitics",
+        "headline": "Artemis II Astronauts Halfway to Moon Despite Toilet Issues",
+        "summary": "The Artemis II crew is more than halfway to the moon for Monday's lunar flyby, marking the first moonbound mission in over half a century. Technical issues include recurring toilet problems aboard the spacecraft.",
+        "signal": "Watch for successful lunar flyby as geopolitical prestige project amid US-China space competition.",
+        "sources": [
+          "Associated Press",
+          "@AFP"
+        ],
+        "source_url": "https://apnews.com/article/nasa-moon-artemis-astronauts-85bd7e2d77284c3d53ca2a38cf7dee13",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AFP",
+            "platform": "twitter",
+            "text": "For the first time in more than half a century, astronauts are set on Monday to fly around the Moon",
+            "score": 42,
+            "url": "https://twitter.com/AFP/status/2041082187953352983"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 41,
+        "topic": "France Gold Repatriation",
+        "domain": "macro",
+        "headline": "France Repatriates 129 Tonnes Gold from New York",
+        "summary": "France's central bank sold 129 tonnes of French gold stored in New York and bought equivalent gold in Europe that meets current standards, recording a \u20ac12.8 billion gain due to higher gold prices. This represents a significant repatriation of gold reserves.",
+        "signal": "Monitor for broader European trend toward gold repatriation and dedollarization amid geopolitical tensions.",
+        "sources": [
+          "@FirstSquawk"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Significant sovereign wealth reallocation that could signal broader European monetary policy shifts away from US-based assets.",
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "FRANCE'S CENTRAL BANK SOLD 129 TONNES OF FRENCH GOLD STORED IN NEW YORK, BOUGHT EQUIVALENT GOLD IN EUROPE",
+            "score": 50,
+            "url": "https://twitter.com/FirstSquawk/status/2041077970446823926"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 35,
+        "topic": "UK Kanye West Festival Controversy",
+        "domain": "geopolitics",
+        "headline": "Starmer 'Deeply Concerned' Over Kanye West UK Appearance",
+        "summary": "UK Prime Minister Keir Starmer expressed deep concern over rapper Kanye West's festival appearance, given his history of antisemitic and offensive remarks in recent years. The controversy has drawn significant criticism and political attention.",
+        "signal": "Watch for potential impact on UK cultural policies and venue licensing decisions for controversial figures.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cp86942yj97o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 137
+  },
+  {
     "timestamp": "2026-04-06T07:14:37.070150+00:00",
     "timestamp_ist": "06 Apr 2026 \u00b7 12:44 IST",
     "story_count": 17,
