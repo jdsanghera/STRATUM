@@ -1,5 +1,398 @@
 [
   {
+    "timestamp": "2026-04-06T20:09:27.492929+00:00",
+    "timestamp_ist": "07 Apr 2026 \u00b7 01:39 IST",
+    "story_count": 16,
+    "avg_score": 65,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 89,
+        "topic": "US Iran War Escalation",
+        "domain": "geopolitics",
+        "headline": "Trump Threatens Tuesday Strike on Iran Power Plants",
+        "summary": "President Trump escalated threats against Iran Monday, warning Tuesday will be \"Power Plant Day, and Bridge Day\" if the Strait of Hormuz remains closed. Multiple wire sources report Trump's increasingly fiery rhetoric as his deadline approaches, with the president claiming Iran \"could be taken out in one night.\"",
+        "signal": "Watch for oil price volatility and market disruption if Trump follows through on infrastructure bombing threats.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English",
+          "Associated Press",
+          "The National (UAE)",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/trump-threatens-tuesday-strike-on-iran-power-plants-bridges",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Donald Trump insisted that freedom of navigation through the Strait of Hormuz must be part of any agreement with Iran, as he said talks with the country are \"going well\" ahead of a Tuesday n",
+            "score": 50,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mitxc2s24k2v"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Democrats blast Trump for Iran 'war crimes' threat; Republicans supportive",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mitysscfir25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 86,
+        "topic": "US Airman Iran Rescue",
+        "domain": "geopolitics",
+        "headline": "US Rescues Downed F-15 Pilot From Iran",
+        "summary": "The US successfully rescued a service member nearly two days after Iran shot down an F-15 fighter jet over southern Iran. Trump announced the complex rescue operation involved over 170 military aircraft and faced close-range gunfire from Iranian forces.",
+        "signal": "Successful rescue may embolden Trump's hardline stance while demonstrating US military capabilities in hostile territory.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "Bloomberg",
+          "Times of India"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-pilot-military-rescue-fde473d07fb59e871a71cd2ad2ffe4fe",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Trump lashed out during a press briefing on Monday, demanding the journalist who reported on the rescue of the US airman in Iran reveal their source, threatening jail time if they didn't cooperate.",
+            "score": 44,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miu2os66ek2n"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 83,
+        "topic": "Artemis II Moon Mission",
+        "domain": "geopolitics",
+        "headline": "Artemis II Astronauts Break Apollo Distance Record",
+        "summary": "NASA's Artemis II crew has traveled farther from Earth than any humans in history, surpassing Apollo 13's 56-year-old record. The four astronauts are conducting a historic lunar flyby this weekend, marking humanity's return to the Moon after more than 50 years.",
+        "signal": "Successful mission milestone boosts NASA's credibility for future Mars missions and space exploration investments.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "BBC News",
+          "The Hindu",
+          "Times of India"
+        ],
+        "source_url": "https://apnews.com/article/nasa-artemis-moon-flyby-astronauts-e470e962d028d1a4b811cbf31cdacd90",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "A NASA crew of four astronauts have now traveled farther in space than anyone in history as the group's spacecraft hurtles toward the moon for a historic flyby",
+            "score": 38,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mitusregok25"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Artemis II breaks record for the furthest human travel from earth",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mitvhjyah42p"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 78,
+        "topic": "Oil Market Iran Crisis",
+        "domain": "commodities",
+        "headline": "Oil Prices Surge on Hormuz Blockade Concerns",
+        "summary": "Oil prices rose sharply as Trump's Iran deadline approaches, with Brent trading 1.5% higher and WTI near $113. Market analysts warn of catastrophic supply disruptions if the Strait of Hormuz remains blocked, with 50% of ships in the waterway missing from tracking data.",
+        "signal": "Monitor for potential oil price spikes above $120 if diplomatic talks fail and military action escalates.",
+        "sources": [
+          "NDTV Profit",
+          "LiveMint Markets",
+          "Al Jazeera English",
+          "Economic Times"
+        ],
+        "source_url": "https://www.livemint.com/market/oil-rises-in-choppy-trade-us-iran-rhetoric-heats-up-11775505167130.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 75,
+        "topic": "Russia Ukraine Energy War",
+        "domain": "geopolitics",
+        "headline": "Russia Baltic Port Resumes Oil Loading",
+        "summary": "Russia's key Baltic port of Ust-Luga resumed crude loading after days of disruptions from Ukrainian drone attacks. The resumption comes as energy infrastructure remains a primary target in the ongoing conflict.",
+        "signal": "Continued Ukrainian attacks on Russian energy infrastructure may further tighten global oil supplies.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/russia-s-key-baltic-port-resumes-crude-loading-after-attacks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 74,
+        "topic": "OPEC Production Response",
+        "domain": "commodities",
+        "headline": "OPEC Agrees Oil Output Hike Amid Attacks",
+        "summary": "OPEC+ agreed to increase oil production but warned of slow recovery after attacks on member nations. The rise is largely symbolic as key members cannot raise production amid the US-Israel war on Iran.",
+        "signal": "OPEC's limited ability to boost supply could amplify oil price volatility during the crisis.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/5/opec-agrees-to-hike-oil-output-warns-of-slow-recovery-after-attacks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 68,
+        "topic": "Iran Nuclear Plant Risk",
+        "domain": "geopolitics",
+        "headline": "Attack on Bushehr Plant Would Threaten Gulf",
+        "summary": "Analysis warns that any attack on Iran's Bushehr nuclear plant would be catastrophic for the Gulf region, raising risks of radioactive contamination far beyond Iran's borders. The US and Israel have repeatedly targeted the facility.",
+        "signal": "Nuclear facility targeting would represent major escalation with regional environmental consequences.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/5/why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 65,
+        "topic": "Air India CEO Resignation",
+        "domain": "corporate",
+        "headline": "Air India CEO Campbell Wilson Resigns",
+        "summary": "Air India CEO Campbell Wilson has resigned amid ongoing losses and operational setbacks. Despite successfully integrating Vistara and expanding the fleet, the airline faced significant delays in transformation due to global supply chain issues.",
+        "signal": "Leadership change signals continued challenges in Tata's Air India turnaround strategy.",
+        "sources": [
+          "Times of India",
+          "LiveMint Companies"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/business/india-business/air-india-ceo-campbell-wilson-resigns/articleshow/130070436.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 63,
+        "topic": "Chinese Bond Market Shift",
+        "domain": "markets",
+        "headline": "Chinese Bonds Near Inflection Point on Inflation",
+        "summary": "Chinese bonds may be reaching a historical turning point, with yields set to climb from record lows as deflationary pressures ease. Expectations for monetary loosening are receding as inflation outlook shifts.",
+        "signal": "Rising Chinese yields could signal end of deflation fears and impact global bond markets.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/chinese-bonds-near-inflection-point-as-inflation-outlook-shifts",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 61,
+        "topic": "Lebanon Israel Strikes",
+        "domain": "geopolitics",
+        "headline": "Israeli Strikes Kill 14 Across Lebanon",
+        "summary": "At least 14 people were killed in Israeli strikes across Lebanon while Hezbollah fired projectiles at northern Israel. Israeli troops are pushing deeper into southern Lebanon as the conflict intensifies.",
+        "signal": "Escalating Lebanon front could open second major theater alongside Iran conflict.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Up to 1.2 million people forced to flee as Israel pummels Lebanon",
+            "score": 44,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miu2iprvaq2i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 58,
+        "topic": "Hungary Pipeline Plot Allegations",
+        "domain": "geopolitics",
+        "headline": "Orban Alleges Gas Pipeline Bomb Plot",
+        "summary": "Hungarian PM Viktor Orban alleged a plot to blow up a gas pipeline ahead of elections, with warnings of potential false-flag operations staged to influence voters. Hungary has put the pipeline under military protection.",
+        "signal": "Pre-election sabotage claims may signal attempt to rally nationalist support for Orban.",
+        "sources": [
+          "BBC News",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cj60x206dx1o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Hungary puts gas pipeline under military protection amid false-flag accusations",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mituj7sjpr2t"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 55,
+        "topic": "Congo US Deportee Deal",
+        "domain": "geopolitics",
+        "headline": "Congo Accepts US Third-Country Deportees",
+        "summary": "Democratic Republic of Congo will accept third-country nationals deported from the US under a temporary arrangement paid for by the US. DRC joins several African states willing to take deportees as Trump expands immigration enforcement.",
+        "signal": "Expanding deportation partnerships may accelerate Trump's immigration enforcement agenda.",
+        "sources": [
+          "Al Jazeera English",
+          "Bloomberg"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/5/dr-congo-to-receive-third-country-deportees-from-the-us-under-new-deal",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 50,
+        "topic": "Pope Easter Peace Message",
+        "domain": "geopolitics",
+        "headline": "Pope Leo Calls for Peace in First Easter Mass",
+        "summary": "Pope Leo XIV celebrated his first Easter Mass as pontiff, calling for hope against the violence of war and emphasizing peace amid global conflicts including the US-Israeli war on Iran. Thousands gathered in St Peter's Square for his inaugural Easter address.",
+        "signal": "Vatican diplomatic intervention may increase pressure for ceasefire negotiations.",
+        "sources": [
+          "BBC News",
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/vatican-pope-easter-urbi-et-orbi-611de44cf58ffa153f00ae1145ad3130",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 47,
+        "topic": "SpaceX $2T Valuation Push",
+        "domain": "corporate",
+        "headline": "SpaceX Pressure-Tests $2 Trillion IPO Valuation",
+        "summary": "SpaceX and investment bankers will host meetings to pressure-test the company's targeted $2 trillion valuation as it drives toward the largest-ever IPO. The meetings represent a crucial step in Elon Musk's plan to take the company public.",
+        "signal": "Successful valuation defense could set stage for historic public offering in coming quarters.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "SpaceX's $2T valuation would dwarf most sovereign wealth funds and reshape public market expectations.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "SpaceX and investment bankers will host meetings to pressure-test the Elon Musk-led company's targeted $2 trillion valuation, a crucial step as it drives toward the largest-ever initial public offerin",
+            "score": 47,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3miu2ix7ygu27"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 45,
+        "topic": "Transgender School Protections Ended",
+        "domain": "geopolitics",
+        "headline": "Trump Terminates Transgender Student Protection Agreements",
+        "summary": "The Trump administration has terminated several agreements that protected transgender students in schools, marking a significant policy reversal from previous protections.",
+        "signal": "Federal policy shift may trigger state-level legal challenges and education funding disputes.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Major civil rights policy reversal likely to face immediate legal challenges from advocacy groups and blue states.",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Trump administration terminates several agreements to protect transgender students in schools.",
+            "score": 45,
+            "url": "https://bsky.app/profile/apnews.com/post/3miu2uqy53w2p"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 16,
+        "score": 43,
+        "topic": "North Korea Iran Relations",
+        "domain": "geopolitics",
+        "headline": "North Korea Keeps Iran at Distance",
+        "summary": "South Korean intelligence reports that North Korea is keeping Iran at arm's length despite their historical military cooperation, suggesting Pyongyang may be avoiding deeper involvement in the Middle East conflict.",
+        "signal": "North Korean restraint may limit Iran's access to advanced missile technology during the crisis.",
+        "sources": [
+          "Al Jazeera"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "North Korea's caution suggests even traditional allies are wary of getting drawn into the Iran conflict.",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "North Korea keeping Iran at arm's length, reports Seoul",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mitx577oqg2p"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-06T20:06:50.708551+00:00",
     "timestamp_ist": "07 Apr 2026 \u00b7 01:36 IST",
     "story_count": 23,
