@@ -1,5 +1,489 @@
 [
   {
+    "timestamp": "2026-04-06T10:39:51.760215+00:00",
+    "timestamp_ist": "06 Apr 2026 \u00b7 16:09 IST",
+    "story_count": 18,
+    "avg_score": 62,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran War Escalation",
+        "domain": "geopolitics",
+        "headline": "Iran rejects ceasefire as Trump ultimatum deadline approaches",
+        "summary": "Iran has rejected proposals for a 45-day ceasefire and declined to reopen the Strait of Hormuz despite diplomatic efforts by US and mediators. Tehran says it has formulated its own diplomatic response but will announce it only when appropriate.",
+        "signal": "Oil prices and regional stability hinge on whether Iran will comply with Trump's ultimatum or trigger further military escalation.",
+        "sources": [
+          "Al Jazeera English",
+          "Middle East Eye",
+          "Associated Press",
+          "@FirstSquawk",
+          "@Faytuks"
+        ],
+        "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "US 15-POINT PLAN WAS 'EXTREMELY AMBITIOUS AND ILLOGICAL', IRAN FOREIGN MINISTRY SPOKESPERSON ESMAIL BAGHAEI SAYS",
+            "score": 51,
+            "url": "https://twitter.com/FirstSquawk/status/2041082008001290263"
+          },
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "Iran has rejected a proposal to open the Strait of Hormuz in exchange for a temporary cease-fire, officials familiar with the matter said.",
+            "score": 45,
+            "url": "https://twitter.com/Faytuks/status/2040856678795473376"
+          },
+          {
+            "handle": "spectatorindex",
+            "platform": "twitter",
+            "text": "BREAKING: Chances for a breakthrough over Iran war 'remain slim' and Iran has 'so far declined to accept a temporary cease-fire",
+            "score": 45,
+            "url": "https://twitter.com/spectatorindex/status/2041090867193413940"
+          },
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON BAGHAEI SAYS TEHRAN HAS FORMULATED ITS DIPLOMATIC RESPONSE TO U.S., WILL ANNOUNCE IN DUE TIME",
+            "score": 46,
+            "url": "https://twitter.com/FirstSquawk/status/2041082426404093978"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 84,
+        "topic": "US Pilot Rescue Iran",
+        "domain": "geopolitics",
+        "headline": "US airman rescued from Iran after F-15 downing",
+        "summary": "US forces have successfully rescued an American airman who went missing after Iran shot down a fighter jet over southern Iran. Iran claims the rescue operation may have been cover to steal enriched uranium.",
+        "signal": "Successful rescue demonstrates US special operations capability but Iran's uranium theft allegations could escalate diplomatic tensions.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "Al Jazeera English",
+          "@FirstSquawk",
+          "@MarioNawfal"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "RIA NOVOSTI: IRANIAN FOREIGN MINISTRY SPOKESPERSON SAYS THERE IS A POSSIBILITY THAT THE US OPERATION SOUTH OF ISFAHAN WAS PLANNED TO SEIZE IRAN'S ENRICHED URANIUM",
+            "score": 49,
+            "url": "https://twitter.com/FirstSquawk/status/2041085108011364810"
+          },
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "The CIA tricked Iran to get the U.S. airman out. They launched a deception campaign while a stranded American crew member was hiding",
+            "score": 44,
+            "url": "https://twitter.com/MarioNawfal/status/2041096073364615323"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "topic": "Iran Attacks Gulf States",
+        "domain": "geopolitics",
+        "headline": "Iran strikes Kuwait, UAE facilities as Gulf attacks continue",
+        "summary": "Kuwait reports six people injured in Iranian residential area attacks, while power and water plants are damaged across Gulf states. Over 1,000 Iranian missiles and drones have reportedly hit Kuwait since the war began.",
+        "signal": "Expanding Gulf state casualties could trigger broader regional coalition against Iran and disrupt global energy infrastructure.",
+        "sources": [
+          "Al Jazeera English",
+          "Bloomberg",
+          "Middle East Eye",
+          "@MarioNawfal"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "MarioNawfal",
+            "platform": "twitter",
+            "text": "Over 1,000 Iranian missiles and drones have hit Kuwait since the war on Iran began. In the last 24 hours alone, Kuwait's air defenses report intercepting 9 ballistic missiles",
+            "score": 45,
+            "url": "https://twitter.com/MarioNawfal/status/2041078469769998776"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 4,
+        "score": 78,
+        "topic": "Oil Market War Impact",
+        "domain": "commodities",
+        "headline": "Oil prices volatile on ceasefire hopes, OPEC+ output increase",
+        "summary": "OPEC+ plans symbolic output quota hike amid Middle East conflict constraining production from several large members. Oil prices dropped over $2 on reports of US-Iran tension reduction efforts.",
+        "signal": "Oil price volatility will persist until Strait of Hormuz reopens, with any ceasefire breakthrough potentially triggering sharp price declines.",
+        "sources": [
+          "Bloomberg",
+          "LiveMint Markets",
+          "Euronews Business",
+          "@FirstSquawk"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/opec-plans-symbolic-output-quota-hike-amid-war-delegates-say",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "OIL PRICES DROP BY MORE THAN $2 WITH US AND IRAN HAVING AN AGREEMENT TO REDUCE TENSIONS, BRENT AT $107 PER BARREL",
+            "score": 41,
+            "url": "https://twitter.com/FirstSquawk/status/2041087855456550998"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 5,
+        "score": 75,
+        "topic": "Indian Stock Market Rally",
+        "domain": "markets",
+        "headline": "Sensex jumps 800 points on Iran ceasefire speculation",
+        "summary": "Indian markets reversed early losses with Sensex gaining 787 points and Nifty rising 255 points amid reports of diplomatic push for Iran ceasefire. Investors gained \u20b95 lakh crore in single session.",
+        "signal": "Market rally vulnerable to reversal if Iran ceasefire talks collapse or oil prices spike again.",
+        "sources": [
+          "NDTV News",
+          "LiveMint Markets",
+          "Hindu Business"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/sensex-up-800-points-nifty-50-ends-above-22-950-investors-earn-5-lakh-crore-key-highlights-from-stock-market-today-11775469135319.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 74,
+        "topic": "Ukraine Russia Energy War",
+        "domain": "geopolitics",
+        "headline": "Ukraine strikes Russian oil infrastructure, Serbia finds pipeline explosives",
+        "summary": "Ukrainian drones hit Russia's Norsi refinery causing fires, while Serbia discovered explosives near major gas pipeline extending to Hungary. Serbian intelligence says Ukraine not involved in pipeline plot.",
+        "signal": "European energy security remains vulnerable to sabotage amid broader East-West tensions beyond Ukraine conflict.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/russia-s-lukoil-norsi-refinery-suffers-fire-from-ukrainian-hit",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 72,
+        "topic": "Israel Lebanon Strikes",
+        "domain": "geopolitics",
+        "headline": "Israeli strikes kill dozens in Lebanon as Hezbollah escalates",
+        "summary": "Israeli forces conducted new strikes on Beirut's southern suburbs and Lebanon, with army chief vowing to step up campaign against Hezbollah. Lebanese armed group launched attacks on northern Israeli settlements.",
+        "signal": "Lebanon escalation could open second front diverting Israeli resources from Iran operations.",
+        "sources": [
+          "The National (UAE)",
+          "Middle East Eye",
+          "@France24_en",
+          "@AJEnglish"
+        ],
+        "source_url": "https://www.thenationalnews.com/news/mena/2026/04/06/israeli-strikes-in-lebanon-kill-dozens-as-army-chief-vows-to-step-up-campaign-against-hezbollah/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AJEnglish",
+            "platform": "twitter",
+            "text": "The Lebanese armed group Hezbollah says its fighters have launched attacks targeting the Hurfeish, Shlomi, and Nahariya settlements in northern Israel",
+            "score": 48,
+            "url": "https://twitter.com/AJEnglish/status/2041088558992114050"
+          },
+          {
+            "handle": "France24_en",
+            "platform": "twitter",
+            "text": "Israel launches new strikes on Lebanon, forces closure of Syria border crossing",
+            "score": 41,
+            "url": "https://twitter.com/France24_en/status/2040852672454988018"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 8,
+        "score": 68,
+        "topic": "US Satellite Iran Blackout",
+        "domain": "geopolitics",
+        "headline": "Planet Labs restricts Iran war imagery at US request",
+        "summary": "Trump administration asked satellite providers to withhold images of designated Middle East areas, prompting Planet Labs to restrict Iran war zone data access. Move raises transparency concerns during active conflict.",
+        "signal": "Information blackout could limit market ability to assess war damage and strategic developments in real-time.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/us-request-prompts-planet-labs-to-withhold-iran-war-images",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 65,
+        "topic": "Delhi Assembly Security Breach",
+        "domain": "india",
+        "headline": "Masked man rams car through Delhi Assembly gates",
+        "summary": "A shocking security lapse occurred when a masked driver broke through barriers and raced into Delhi Assembly premises before escaping. Ink was also thrown at the Speaker's vehicle in separate incident.",
+        "signal": "Security failures at key government facilities highlight vulnerability of democratic institutions.",
+        "sources": [
+          "Times of India",
+          "NDTV News",
+          "@PTI_News"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/city/delhi/delhi-assembly-security-scare-speeding-car-breaks-through-barricades-rams-gate/articleshow/130057028.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "PTI_News",
+            "platform": "twitter",
+            "text": "STORY | Security scare at Delhi Assembly as car driven by masked man breaks through iron gate",
+            "score": 48,
+            "url": "https://twitter.com/PTI_News/status/2041090796838060070"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 62,
+        "topic": "Oracle Mass Layoffs",
+        "domain": "corporate",
+        "headline": "Oracle cuts 10000+ jobs over OpenAI deal costs",
+        "summary": "Oracle is laying off at least 10,000 employees\u2014potentially up to 30,000\u2014as it struggles with cash demands of a $300 billion cloud computing deal with OpenAI. The cuts span multiple divisions as debt exceeds projections.",
+        "signal": "AI infrastructure costs creating unexpected financial strain on tech giants, potentially affecting broader sector valuations.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-10000-job-cuts-have-a-sam-altman-connection-a-promise-oracle-made-to-openai-for-/articleshow/130035870.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 58,
+        "topic": "Japan Immigration Tightening",
+        "domain": "japan",
+        "headline": "Japan tightens residency rules for foreign workers abroad",
+        "summary": "Japan will require military approval for German men aged 17-45 seeking long stays abroad, while implementing broader restrictions on foreign employee residency rules. Enforcement mechanisms remain unclear.",
+        "signal": "Immigration policy shifts signal Japan's growing security concerns amid regional tensions.",
+        "sources": [
+          "Nikkei Asia",
+          "BBC News"
+        ],
+        "source_url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-to-tighten-residency-rules-for-foreign-employees",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 55,
+        "topic": "AirAsia War Impact",
+        "domain": "corporate",
+        "headline": "AirAsia cuts flights 10% as Iran war drives fuel costs",
+        "summary": "AirAsia is reducing flights by 10% and increasing fares as jet fuel prices soar amid the US-Iran conflict. The airline faces significant cost pressures despite sustained passenger demand.",
+        "signal": "Airlines facing margin compression could trigger broader travel sector repricing if fuel costs remain elevated.",
+        "sources": [
+          "Nikkei Asia",
+          "LiveMint Companies"
+        ],
+        "source_url": "https://asia.nikkei.com/business/transportation/airasia-cuts-10-of-flights-as-iran-war-pushes-up-fuel-prices",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 50,
+        "topic": "Pope Easter War Warning",
+        "domain": "geopolitics",
+        "headline": "Pope Leo calls for hope amid spreading global conflicts",
+        "summary": "Pope Leo celebrated his first Easter Mass as pontiff, urging hope against war violence. He emphasized need for peace as conflicts spread globally, specifically mentioning US-Israeli war on Iran and Russia's Ukraine campaign.",
+        "signal": "Papal intervention signals religious leadership concern over potential for wider global conflict.",
+        "sources": [
+          "Associated Press",
+          "Politico Europe"
+        ],
+        "source_url": "https://apnews.com/article/vatican-pope-easter-urbi-et-orbi-611de44cf58ffa153f00ae1145ad3130",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 48,
+        "topic": "Iranian Intelligence Chief Killed",
+        "domain": "geopolitics",
+        "headline": "Israel kills Iran Revolutionary Guard intelligence chief",
+        "summary": "Israeli strikes killed Major General Majid Khademi, intelligence chief of Iran's Revolutionary Guards, according to Israel's defense minister. The targeted assassination continues Israel's campaign against Iranian leadership.",
+        "signal": "High-value target eliminations could prompt Iranian retaliation escalation or force leadership into hiding.",
+        "sources": [
+          "NDTV Profit",
+          "@AFP"
+        ],
+        "source_url": "https://www.ndtvprofit.com/world/iran-s-revolutionary-guard-intelligence-chief-killed-in-israeli-strike-11317517",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AFP",
+            "platform": "twitter",
+            "text": "Israeli strikes killed the intelligence chief of Iran's Revolutionary Guards, Israel's defence minister said",
+            "score": 53,
+            "url": "https://twitter.com/AFP/status/2041089793870774571"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 45,
+        "topic": "Trump China Trade Talks",
+        "domain": "geopolitics",
+        "headline": "Trump managing delicate China truce amid Iran crisis",
+        "summary": "President Trump is carefully managing relations with China, seeking to avoid confrontation during the Iran crisis. Administration walking on eggshells to maintain current trade arrangements.",
+        "signal": "China relationship stability crucial for US to maintain focus on Iran without opening second front.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.com/news/2026/04/05/walking-on-eggshells-how-trump-is-managing-his-delicate-china-truce-00856475",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 42,
+        "topic": "North Korea Succession Intelligence",
+        "domain": "geopolitics",
+        "headline": "South Korea confirms Kim Jong Un daughter as successor",
+        "summary": "South Korean intelligence reports 'credible intelligence' indicating North Korean leader Kim Jong Un's daughter is being positioned as his successor, marking first official confirmation of succession planning.",
+        "signal": "Leadership transition signals could affect North Korea's nuclear posture and regional stability calculations.",
+        "sources": [
+          "@ReutersWorld"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "First official intelligence confirmation of North Korean succession planning could signal internal power shifts.",
+        "social_signals": [
+          {
+            "handle": "ReutersWorld",
+            "platform": "twitter",
+            "text": "South Korea says 'credible intelligence' indicates North Korean leader's daughter is successor",
+            "score": 45,
+            "url": "https://twitter.com/ReutersWorld/status/2041101264822452388"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 17,
+        "score": 40,
+        "topic": "OpenAI Financial Concerns",
+        "domain": "corporate",
+        "headline": "OpenAI CFO warns company not ready for IPO",
+        "summary": "OpenAI CFO Sarah Friar has reportedly voiced concerns over Sam Altman's spending and stated the company is not ready for an initial public offering despite massive AI training expenses.",
+        "signal": "AI leader's financial struggles could indicate broader sector overheating and valuation concerns.",
+        "sources": [
+          "@Polymarket",
+          "@FirstSquawk"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Internal financial concerns at AI's biggest player could signal broader sector correction ahead.",
+        "social_signals": [
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "JUST IN: OpenAI CFO Sarah Friar has reportedly voiced concerns over Sam Altman's spending, says the company is not ready to IPO",
+            "score": 40,
+            "url": "https://twitter.com/Polymarket/status/2040972514730340812"
+          },
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "OPENAI AND ANTHROPIC'S FINANCIAL REPORTS SHOW INCREASING EXPENSES FOR AI MODEL TRAINING",
+            "score": 46,
+            "url": "https://twitter.com/FirstSquawk/status/2041101280245096703"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 18,
+        "score": 35,
+        "topic": "Baghdad US Facility Strike",
+        "domain": "geopolitics",
+        "headline": "Drone strike hits US diplomatic site near Baghdad",
+        "summary": "Security sources report a drone strike hit a US diplomatic facility near Baghdad airport with smoke visible from the impact site.",
+        "signal": "Attacks on US facilities in Iraq could indicate Iran expanding proxy operations beyond Gulf states.",
+        "sources": [
+          "@FirstSquawk"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Potential escalation of Iran proxy attacks against US facilities in Iraq amid broader regional conflict.",
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "DRONE STRIKE HITS U.S. DIPLOMATIC SITE NEAR BAGHDAD AIRPORT, SMOKE REPORTED BY SECURITY SOURCES",
+            "score": 46,
+            "url": "https://twitter.com/FirstSquawk/status/2041096645992169490"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 138
+  },
+  {
     "timestamp": "2026-04-06T09:33:35.540865+00:00",
     "timestamp_ist": "06 Apr 2026 \u00b7 15:03 IST",
     "story_count": 15,
