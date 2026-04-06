@@ -1,5 +1,426 @@
 [
   {
+    "timestamp": "2026-04-06T15:11:18.769464+00:00",
+    "timestamp_ist": "06 Apr 2026 \u00b7 20:41 IST",
+    "story_count": 16,
+    "avg_score": 71,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 92,
+        "topic": "US Airman Rescued Iran",
+        "domain": "geopolitics",
+        "headline": "US Rescues Airman Shot Down Over Iran",
+        "summary": "The US has successfully rescued a service member who was missing after Iran shot down a US F-15 fighter jet over southern Iran. President Trump announced the rescue after a frantic 48-hour search-and-rescue operation in what appears to be a remote, mountainous region.",
+        "signal": "Pentagon military capabilities validated despite Iran's advanced defense systems.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "Al Jazeera",
+          "BBC News"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 89,
+        "topic": "Iran Rejects Ceasefire Proposal",
+        "domain": "geopolitics",
+        "headline": "Iran Rejects US Ceasefire With 10-Point Counter-Demands",
+        "summary": "Iran has rejected the latest US ceasefire proposal, submitting a \"maximalist\" 10-point response demanding a permanent end to the war rather than a temporary truce. The Iranian response includes requirements for safe passage through the Strait of Hormuz, lifting of sanctions, and reconstruction aid.",
+        "signal": "Diplomatic pathway appears blocked; expect escalation as Trump's Tuesday deadline approaches.",
+        "sources": [
+          "Times of India",
+          "Indian Express",
+          "@FirstSquawk",
+          "@KobeissiLetter",
+          "@Faytuks"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/middle-east/will-continue-war-iran-rejects-temporary-truce-sets-condition-for-talks/articleshow/130063910.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "U.S. OFFICIAL TELLS ME IRAN SENT ON MONDAY A 10-POINT RESPONSE FOR THE PROPOSAL TO END THE WAR. THE U.S. OFFICIAL SAID THE RESPONSE WAS \"MAXIMALIST\" AND UNCLEAR IF IT WILL ALLOW MOVING FORWARD TO A DI",
+            "score": 54,
+            "url": "https://twitter.com/FirstSquawk/status/2041165483869897092"
+          },
+          {
+            "handle": "KobeissiLetter",
+            "platform": "twitter",
+            "text": "BREAKING: Iran has submitted a \"10-point response\" to the US' plan to end the war. Iran's proposal includes an end to conflicts in the region and protocol for safe passage through Strait of Hormuz.",
+            "score": 52,
+            "url": "https://twitter.com/KobeissiLetter/status/2041169627070234705"
+          },
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "BREAKING: Iran is rejecting the ceasefire proposal from mediators, according to state-run IRNA News Agency",
+            "score": 50,
+            "url": "https://twitter.com/Faytuks/status/2041168750259421477"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 3,
+        "score": 88,
+        "topic": "Trump Threatens Iran Infrastructure",
+        "domain": "geopolitics",
+        "headline": "Trump Threatens Tuesday Strikes on Iranian Power Plants",
+        "summary": "President Trump has threatened to strike Iranian power plants and bridges on Tuesday if the Strait of Hormuz isn't reopened, declaring \"Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran.\" The EU has warned against such attacks as potentially illegal under international law.",
+        "signal": "Critical escalation risk Tuesday; oil markets pricing in supply shock.",
+        "sources": [
+          "Bloomberg",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/trump-threatens-tuesday-strike-on-iran-power-plants-bridges",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 85,
+        "topic": "Israel Strikes Iran Petrochemicals",
+        "domain": "geopolitics",
+        "headline": "Israel Hits Iran's Largest Petrochemical Complex at South Pars",
+        "summary": "Israeli forces have struck Iran's largest petrochemical facility at South Pars, with Israel's Defense Minister claiming the facility accounts for 85% of Iran's petrochemical capacity and has been put out of commission. Additional strikes have targeted airports in Tehran and energy infrastructure in Shiraz.",
+        "signal": "Iran's energy export capacity severely degraded; expect supply chain disruptions.",
+        "sources": [
+          "Economic Times",
+          "Al Jazeera",
+          "Middle East Eye",
+          "@Faytuks",
+          "@JavierBlas"
+        ],
+        "source_url": "https://economictimes.indiatimes.com/news/international/world-news/israel-carries-out-powerful-strike-on-irans-largest-petrochemical-complex-in-south-pars/articleshow/130059717.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "The Israeli Air Force has attacked Iran's \"largest petrochemical facility\" a short while ago, with it being put out of commission, Israel's Defence Minister says",
+            "score": 52,
+            "url": "https://twitter.com/Faytuks/status/2041114533205274735"
+          },
+          {
+            "handle": "Faytuks",
+            "platform": "twitter",
+            "text": "BREAKING: Iran's South Pars Petrochemical facility in Assaluyeh has been attacked with multiple explosions reported, according to IRGC-affiliated Fars News Agency",
+            "score": 45,
+            "url": "https://twitter.com/Faytuks/status/2041107313247858946"
+          },
+          {
+            "handle": "JavierBlas",
+            "platform": "twitter",
+            "text": "Israel appears to have attacked again the petrochemical plants connected to the South Pars gas project",
+            "score": 38,
+            "url": "https://twitter.com/JavierBlas/status/2041159456067588597"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 5,
+        "score": 83,
+        "topic": "Iran Blocks Strait Hormuz",
+        "domain": "commodities",
+        "headline": "Iran Continues Hormuz Blockade Despite Oil Transit Efforts",
+        "summary": "Iran maintains its effective blockade of the Strait of Hormuz while selectively allowing ships from \"friendly nations\" to pass through with security fees. Iraqi oil tankers and some Malaysian vessels have been permitted transit, but broader shipping remains severely restricted.",
+        "signal": "Selective oil access creates two-tier market; watch for supply allocation shifts.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera",
+          "The National UAE",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/oil-tanker-carrying-iraqi-cargo-seen-transiting-strait-of-hormuz",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "DeItaone",
+            "platform": "twitter",
+            "text": "IRAQ CAN RESTORE OIL EXPORTS TO 3.4 MLN BARRELS PER DAY WITHIN A WEEK IF HORMUZ SHIPPING RESUMES, BASRA OIL COMPANY MANAGER SAYS",
+            "score": 52,
+            "url": "https://twitter.com/DeItaone/status/2041165611959546085"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 80,
+        "topic": "Iran War Regional Impact",
+        "domain": "geopolitics",
+        "headline": "Iran Strikes Kuwait Power Plants as Gulf Attacks Continue",
+        "summary": "Iran has expanded attacks beyond its borders, damaging power and water facilities in Kuwait while also targeting infrastructure in Bahrain and the UAE. The strikes represent a significant escalation as Iran brings Gulf states directly into the conflict zone.",
+        "signal": "Regional conflict spreading; GCC energy infrastructure now primary targets.",
+        "sources": [
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 78,
+        "topic": "Nuclear Plant Strike Warnings",
+        "domain": "geopolitics",
+        "headline": "IAEA Warns Against Iran Nuclear Plant Strikes",
+        "summary": "The International Atomic Energy Agency has called for an immediate halt to strikes near Iran's Bushehr nuclear power plant, warning of catastrophic radioactive contamination risks. Al Jazeera reports the US and Israel have repeatedly targeted the facility, raising regional safety concerns.",
+        "signal": "Nuclear escalation risk rising; potential environmental catastrophe across Gulf region.",
+        "sources": [
+          "Al Jazeera",
+          "Economic Times",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/5/why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 74,
+        "topic": "Oil Market Supply Disruption",
+        "domain": "commodities",
+        "headline": "Airlines Cut Flights as Oil Crisis Hits Fuel Surcharges",
+        "summary": "AirAsia has reduced flights by 10% while Indonesia announced a 28-percentage point rise in jet fuel surcharges as the Iran war pushes up fuel prices. Japanese Prime Minister Takaichi says Japan has secured at least four months of naphtha supply amid the crisis.",
+        "signal": "Aviation sector facing margin compression; expect broader transport cost inflation.",
+        "sources": [
+          "Nikkei Asia",
+          "Bloomberg",
+          "@AFP"
+        ],
+        "source_url": "https://asia.nikkei.com/business/transportation/airasia-cuts-10-of-flights-as-iran-war-pushes-up-fuel-prices",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "AFP",
+            "platform": "twitter",
+            "text": "Indonesia on Monday announced a 28-percentage point rise in the surcharge on jet fuel, and said it will allow airlines to raise the domestic ticket price",
+            "score": 58,
+            "url": "https://twitter.com/AFP/status/2041168886742094158"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 70,
+        "topic": "Chinese Bond Market Inflection",
+        "domain": "markets",
+        "headline": "Chinese Bonds Near Turning Point as Deflation Eases",
+        "summary": "Chinese bonds may be reaching a historical inflection point with yields set to climb from record lows as deflationary pressures ease. Expectations for further monetary loosening are receding as the economic outlook shifts.",
+        "signal": "China policy pivot approaching; monitor for emerging market bond repricing.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/chinese-bonds-near-inflection-point-as-inflation-outlook-shifts",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 68,
+        "topic": "Serbia Gas Pipeline Sabotage",
+        "domain": "geopolitics",
+        "headline": "Serbia Finds Explosives Near Major Gas Pipeline to Hungary",
+        "summary": "Serbian authorities discovered \"explosives of devastating power\" next to a major gas pipeline supplying Serbia and extending into Hungary. Intelligence chief says Ukraine was not involved in the alleged sabotage plot.",
+        "signal": "European energy infrastructure under threat; pipeline security concerns spreading.",
+        "sources": [
+          "Bloomberg",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/serbia-s-vucic-says-explosive-found-at-gas-pipe-near-hungary",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 65,
+        "topic": "Indian Rupee Under Pressure",
+        "domain": "markets",
+        "headline": "Rupee Faces Dual Pressure from Oil Shock and Structural Decline",
+        "summary": "The Indian rupee faces significant pressure from rising oil prices due to the Iran war and structural challenges from foreign portfolio outflows. RBI monetary policy meeting this week may consider surprise rate hike to defend the currency.",
+        "signal": "INR devaluation accelerating; expect RBI intervention and potential emergency measures.",
+        "sources": [
+          "LiveMint Markets",
+          "Hindu Business"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/indian-rupee-weakness-temporary-shock-or-structural-decline-or-both-11775475959563.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 61,
+        "topic": "US Supply Chain Stress",
+        "domain": "macro",
+        "headline": "US Supply Chain Pressures Hit 2023 Highs",
+        "summary": "NY Fed data shows supply chain pressures rose in March to the highest level since early 2023, with the index climbing to 0.68 from 0.54. The surge coincides with Iran war disruptions to global shipping routes.",
+        "signal": "Inflation pressures building through supply chains; Fed policy recalibration likely.",
+        "sources": [
+          "@DeItaone"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Federal Reserve regional data often provides early warning signals for broader economic policy shifts.",
+        "social_signals": [
+          {
+            "handle": "DeItaone",
+            "platform": "twitter",
+            "text": "SUPPLY CHAIN STRESS HITS 2023 HIGHS NY Fed data shows supply chain pressures rose in March to the highest level since early 2023.",
+            "score": 61,
+            "url": "https://twitter.com/DeItaone/status/2041162325378380251"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 13,
+        "score": 58,
+        "topic": "Crypto Market Liquidations",
+        "domain": "markets",
+        "headline": "Over $300 Million in Crypto Short Positions Liquidated",
+        "summary": "More than $300 million in cryptocurrency short positions have been liquidated across the market in the last 24 hours amid geopolitical volatility. The massive liquidation suggests traders were caught off-guard by sudden price movements.",
+        "signal": "Risk-on sentiment returning despite geopolitical tensions; crypto positioning extreme.",
+        "sources": [
+          "@Polymarket"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Large-scale crypto liquidations often signal broader risk sentiment shifts that can impact traditional markets.",
+        "social_signals": [
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "BREAKING: Over $300 million in short positions have been liquidated across the crypto market in the last 24 hours.",
+            "score": 53,
+            "url": "https://twitter.com/Polymarket/status/2041160440726663665"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 14,
+        "score": 55,
+        "topic": "Artemis Moon Mission Progress",
+        "domain": "geopolitics",
+        "headline": "Artemis II Spacecraft Enters Moon's Sphere of Influence",
+        "summary": "NASA's Artemis II mission continues successfully with the Orion spacecraft officially entering the Moon's sphere of influence while astronauts capture stunning Earth imagery. The crew is chasing Apollo 13's distance record from Earth set 56 years ago.",
+        "signal": "US space capabilities demonstration amid geopolitical tensions; soft power projection.",
+        "sources": [
+          "BBC News",
+          "Associated Press",
+          "@Polymarket"
+        ],
+        "source_url": "https://apnews.com/article/nasa-artemis-moon-flyby-astronauts-e470e962d028d1a4b811cbf31cdacd90",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "Polymarket",
+            "platform": "twitter",
+            "text": "BREAKING: Artemis II's Orion spacecraft has officially entered the Moon's sphere of influence.",
+            "score": 40,
+            "url": "https://twitter.com/Polymarket/status/2041147865196552553"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 52,
+        "topic": "Trump Rising Gas Prices",
+        "domain": "macro",
+        "headline": "White House Sees Rising Gas Prices as Short-Term",
+        "summary": "White House Economic Adviser Hassett said Trump views rising gas prices as a short-term issue in a CNBC interview. The administration maintains optimism despite oil market volatility from the Iran war.",
+        "signal": "Administration not preparing emergency SPR release; expects quick war resolution.",
+        "sources": [
+          "@FirstSquawk"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "White House economic messaging often signals policy intentions before formal announcements.",
+        "social_signals": [
+          {
+            "handle": "FirstSquawk",
+            "platform": "twitter",
+            "text": "WHITE HOUSE ECONOMIC ADVISER HASSETT SAID TRUMP SEES RISING GAS PRICES AS SHORT-TERM IN AN INTERVIEW WITH CNBC.",
+            "score": 52,
+            "url": "https://twitter.com/FirstSquawk/status/2041170876151001335"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 16,
+        "score": 45,
+        "topic": "Indian Political Developments",
+        "domain": "india",
+        "headline": "Rajya Sabha Chairman Rejects Election Commissioner Impeachment Motion",
+        "summary": "The Rajya Sabha Chairman has rejected a motion signed by 63 MPs seeking removal of Chief Election Commissioner Gyanesh Kumar. The 10-page notice included seven charges ranging from partisan conduct to mass disenfranchisement of voters.",
+        "signal": "Political opposition to election body intensifying ahead of state polls.",
+        "sources": [
+          "Times of India",
+          "@PTI_News"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/rajya-sabha-chairman-rejects-impeachment-motion-against-poll-body-chief-gyanesh-kumar/articleshow/130064244.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "PTI_News",
+            "platform": "twitter",
+            "text": "Rajya Sabha chairman refuses to admit the notice of motion signed by 63 MPs seeking removal of Gyanesh Kumar as Chief Election Commissioner of India.",
+            "score": 36,
+            "url": "https://twitter.com/PTI_News/status/2041170917876002894"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 128
+  },
+  {
     "timestamp": "2026-04-06T12:06:58.594868+00:00",
     "timestamp_ist": "06 Apr 2026 \u00b7 17:36 IST",
     "story_count": 24,
