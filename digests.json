@@ -1,5 +1,396 @@
 [
   {
+    "timestamp": "2026-04-07T12:11:18.431466+00:00",
+    "timestamp_ist": "07 Apr 2026 \u00b7 17:41 IST",
+    "story_count": 15,
+    "avg_score": 56,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 94,
+        "topic": "US-Israel Iran War Escalation",
+        "domain": "geopolitics",
+        "headline": "US Strikes Iran's Kharg Island as Trump's Hormuz Deadline Looms",
+        "summary": "Multiple wire services report intensifying US-Israeli attacks on Iran, with at least 34 killed including strikes on Tehran University and critical infrastructure. Iran has rejected Trump's ultimatum to reopen the Strait of Hormuz, threatening long-term energy disruption to US allies.",
+        "signal": "Energy markets remain volatile as Trump's deadline approaches; prepare for potential oil supply shock if diplomatic breakthrough fails.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera",
+          "Bloomberg",
+          "Reuters",
+          "Middle East Eye"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-6-2026-87b62d531d3290fde5255077179bd3b5",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "At least 18 people killed in airstrike targeting Iran's Alborz province, state media reports. Follow AP's live updates.",
+            "score": 46,
+            "url": "https://bsky.app/profile/apnews.com/post/3mivf4pn4gu2r"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Trump's latest deadline for Iran to agree to a deal is just hours away, and investors are once again finding themselves forced to prepare for a range of possible outcomes",
+            "score": 34,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mivl4og57e2a"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Will it be deal or destruction, as Trump's deadline for Iran to strike a deal edges closer: Here is your Evening Briefing.",
+            "score": 31,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mivq5q6edr2m"
+          },
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30a4\u30e9\u30f3\u3001\u300c\u4e0d\u5728\u300d\u306e\u30e2\u30b8\u30bf\u30d0\u5e2b\u306b\u5f37\u307e\u308b\u4e0d\u4fe1",
+            "score": 43,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mivjhv72vp25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 78,
+        "topic": "Strait Hormuz Energy Crisis",
+        "domain": "commodities",
+        "headline": "Qatar LNG Ships U-Turn as Hormuz Remains Closed",
+        "summary": "Qatar LNG vessels abandoned attempts to exit the Persian Gulf via Hormuz, while traffic rises as more countries secure safe-passage deals with Iran. Oil prices remain volatile above $110 amid global supply disruptions.",
+        "signal": "Monitor energy-importing nations for economic stress; consider defensive positioning in energy-dependent sectors.",
+        "sources": [
+          "Bloomberg",
+          "BBC News",
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/qatar-lng-vessels-u-turn-after-attempt-to-pass-through-hormuz",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Turkey not facing energy security problem amid war but situation \"volatile\"",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mivq7j3np42u"
+          },
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "India plans sovereign guarantees for insurers as Iran war heightens shipping risks, sources say",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mivplp4b7k2d"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 72,
+        "topic": "Pakistan Economic Crisis",
+        "domain": "macro",
+        "headline": "UAE Refuses Pakistan $3 Billion Rollover for First Time",
+        "summary": "Pakistan faces new economic strain after failing to secure UAE debt rollover for first time in seven years, with economy already stressed by soaring oil prices. Bloomberg reports this adds pressure to Pakistan's fragile financial position.",
+        "signal": "Pakistan sovereign risk rising; watch for potential IMF intervention or currency devaluation pressures.",
+        "sources": [
+          "Bloomberg",
+          "Reuters"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/uae-s-surprise-3-billion-loan-move-puts-pakistan-under-strain",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Unexpected repayment of $3.5 billion UAE loan puts pressure on Pakistani economy",
+            "score": 48,
+            "url": "https://bsky.app/profile/reuters.com/post/3mivozqcg4v2l"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 68,
+        "topic": "Israeli Consulate Istanbul Attack",
+        "domain": "geopolitics",
+        "headline": "Gunmen Attack Israeli Consulate Building in Istanbul",
+        "summary": "Gunmen attacked the building housing Israeli consulate in Istanbul, with reports of at least two attackers killed. Turkish officials confirm no Israeli diplomats present as Israel withdrew staff amid security concerns.",
+        "signal": "Regional tensions spreading beyond Iran conflict; Turkish-Israeli relations deteriorating further.",
+        "sources": [
+          "Times of India",
+          "The Hindu",
+          "AP News",
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.thehindu.com/news/international/gunmen-attack-building-housing-israeli-consulate-in-istanbul/article70834008.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Gunmen attack building housing Israeli consulate in Istanbul, sparking fight that leaves one assailant dead.",
+            "score": 44,
+            "url": "https://bsky.app/profile/apnews.com/post/3mivnl57y7x2k"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Three killed in shooting near Israeli consulate in Turkiye's Istanbul",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mivl46ulqi2h"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 65,
+        "topic": "US Airman Iran Rescue",
+        "domain": "geopolitics",
+        "headline": "US Rescues Aviator After Two Days in Iran",
+        "summary": "President Trump announced successful rescue of US aviator nearly two days after being shot down over Iran in what appears to be remote, mountainous terrain. The complex extraction involved multiple government agencies.",
+        "signal": "US military capabilities in hostile territory demonstrated; potential escalation trigger if similar incidents occur.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "NDTV"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-pilot-military-rescue-fde473d07fb59e871a71cd2ad2ffe4fe",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 62,
+        "topic": "Artemis II Moon Mission",
+        "domain": "markets",
+        "headline": "Artemis II Astronauts Set Record Distance from Earth",
+        "summary": "Four astronauts are breaking Apollo 13's 56-year distance record from Earth during their moon flyby, with 40 minutes of communication blackout as they pass behind the moon. NASA mission represents return to lunar exploration after five decades.",
+        "signal": "Space economy gaining momentum; consider aerospace contractors and satellite technology investments.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "BBC News"
+        ],
+        "source_url": "https://apnews.com/article/artemis-moon-nasa-lunar-flyby-fac19b4b1676af2717adafa992f32be4",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 58,
+        "topic": "Indian Stock Market Rally",
+        "domain": "india",
+        "headline": "Sensex Jumps 510 Points on IT Sector Gains",
+        "summary": "Indian markets rallied for fourth consecutive session with Sensex up 0.69% to 74,616 and Nifty gaining 0.68% to 23,123. IT stocks led gains at 2.5% while PSU banks declined as investors await RBI policy decision.",
+        "signal": "Indian equities showing resilience despite geopolitical tensions; IT sector benefiting from rupee weakness and defensive buying.",
+        "sources": [
+          "LiveMint",
+          "Hindu Business",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.thehindu.com/business/markets/stock-markets-rally-for-fourth-day-sensex-jumps/article70834032.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 55,
+        "topic": "Air India CEO Resignation",
+        "domain": "corporate",
+        "headline": "Air India CEO Campbell Wilson Resigns Amid War Losses",
+        "summary": "Air India CEO Campbell Wilson resigned citing two wars and crippling airspace closures in his exit note, with search for successor underway. The airline faces significant operational challenges from regional conflicts.",
+        "signal": "Aviation sector under severe stress from geopolitical disruptions; consolidation or restructuring likely across affected carriers.",
+        "sources": [
+          "Nikkei Asia",
+          "LiveMint",
+          "NDTV Profit"
+        ],
+        "source_url": "https://asia.nikkei.com/business/transportation/air-india-ceo-calls-time-on-tenure-marked-by-losses-boeing-crash",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 52,
+        "topic": "Kanye West UK Controversy",
+        "domain": "markets",
+        "headline": "UK Ministers Condemn Kanye West Wireless Festival Booking",
+        "summary": "Jewish groups, MPs and PM Keir Starmer express deep concern over Kanye West's headline booking at London's Wireless Festival. Home Office considering blocking the controversial rapper from entering Britain over antisemitic remarks.",
+        "signal": "ESG risks intensifying for entertainment companies; expect increased scrutiny of controversial talent bookings.",
+        "sources": [
+          "BBC News",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cwywnkdn3zno",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 48,
+        "topic": "Philippines Inflation Surge",
+        "domain": "macro",
+        "headline": "Philippine Inflation Exceeds Central Bank Target on Fuel",
+        "summary": "Fuel price surge pushes Philippine inflation above central bank target as energy costs spike from regional conflict.",
+        "signal": "Emerging market central banks facing renewed inflation pressures; potential policy tightening ahead.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Inflation pressures building across energy-importing emerging markets amid regional war.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Fuel price surge pushes Philippine inflation above central bank target",
+            "score": 42,
+            "url": "https://bsky.app/profile/reuters.com/post/3mivqgeo6w72n"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 11,
+        "score": 45,
+        "topic": "Sabarimala Women Entry Case",
+        "domain": "india",
+        "headline": "Supreme Court Hears Sabarimala Temple Women Entry Case",
+        "summary": "Justice B V Nagarathna remarked women cannot be treated as 'untouchable' for three days during Sabarimala case hearing. Centre argued patriarchy and gender are Western concepts during Supreme Court review petitions.",
+        "signal": "Religious-legal tensions in India intensifying; watch for social unrest if court rules against traditional practices.",
+        "sources": [
+          "Times of India",
+          "Indian Express",
+          "NDTV"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/sabarimala-entry-case-woman-cant-be-treated-as-untouchable-for-3-days-says-sc-judge-nagarathna/articleshow/130085516.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 42,
+        "topic": "Goldman Portfolio Strategy",
+        "domain": "markets",
+        "headline": "Goldman Suggests Rethinking 60/40 Portfolio Amid Iran War",
+        "summary": "Goldman Sachs reports diversified portfolios showed limited 5% decline despite Iran war impact, suggesting new strategies beyond traditional 60/40 allocation. Firm recommends balancing growth, inflation protection and risk mitigation.",
+        "signal": "Traditional portfolio allocations may need restructuring for persistent geopolitical risk environment.",
+        "sources": [
+          "LiveMint"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/us-iran-war-how-to-rebalance-your-portfolio-beyond-the-traditional-60-40-goldman-sachs-answers-11775557749854.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 38,
+        "topic": "Japan Energy Security",
+        "domain": "japan",
+        "headline": "Japan Has Oil Reserves Beyond This Year Says PM",
+        "summary": "Prime Minister Takaichi assures Japan has sufficient oil reserves to last beyond this year amid regional energy disruptions.",
+        "signal": "Japan's energy security preparations may offer stability in volatile regional environment.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/japan-has-enough-oil-to-last-beyond-this-year-says-pm-takaichi",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 35,
+        "topic": "Hungarian Election Interference",
+        "domain": "europe",
+        "headline": "Orb\u00e1n Rival Slams Vance Hungary Visit as Meddling",
+        "summary": "Opposition leader P\u00e9ter Magyar condemns JD Vance's Budapest visit as US election interference five days before Hungarian polls. Vance's trip seen as last-ditch support for struggling Viktor Orb\u00e1n.",
+        "signal": "Orb\u00e1n's grip on power weakening; potential shift in EU-Russia dynamics if opposition wins.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/viktor-orban-rival-peter-magyar-slams-jd-vance-hungary-visit-election-meddling/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Viktor Orb\u00e1n told Putin 'I am at your service' in October phonecall",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mivoou2osc2g"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 32,
+        "topic": "US Logistics Diesel Crisis",
+        "domain": "markets",
+        "headline": "US Logistics Strain Under Soaring Diesel Prices",
+        "summary": "Logistics industries struggling with elevated diesel costs making trucking more expensive amid regional energy disruptions.",
+        "signal": "Supply chain costs rising; expect margin pressure on transportation-dependent sectors.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Rising diesel costs could trigger broader inflationary pressures through supply chain disruption.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Logistics industries in the US are straining under soaring diesel prices, making trucking costlier",
+            "score": 31,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mivohvojwo2p"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-07T10:18:35.388608+00:00",
     "timestamp_ist": "07 Apr 2026 \u00b7 15:48 IST",
     "story_count": 15,
