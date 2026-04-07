@@ -1,5 +1,556 @@
 [
   {
+    "timestamp": "2026-04-07T16:20:46.394620+00:00",
+    "timestamp_ist": "07 Apr 2026 \u00b7 21:50 IST",
+    "story_count": 23,
+    "avg_score": 48,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 87,
+        "topic": "US-Iran Hormuz Ultimatum Crisis",
+        "domain": "geopolitics",
+        "headline": "Trump threatens 'whole civilization will die' as Iran deadline looms",
+        "summary": "President Trump's ultimatum to Iran to reopen the Strait of Hormuz expires imminently, with the US striking military targets on Kharg Island as tensions escalate. Iran has rejected ceasefire proposals and cut direct contact with Washington, while Trump threatens apocalyptic consequences if his demands aren't met.",
+        "signal": "Monitor for military escalation and oil supply disruptions as the Hormuz deadline passes.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English",
+          "Associated Press",
+          "The National (UAE)",
+          "Politico Europe",
+          "Times of India",
+          "The Hindu",
+          "Indian Express",
+          "Reuters",
+          "Guardian"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/iran-rejects-ceasefire-before-trump-ultimatum-expires-on-hormuz",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "US hits military targets on Iran's Kharg Island, Vance says no change to strategy",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3miw5mv57if2u"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "As US President Donald Trump's latest ultimatum to Iran to agree to a ceasefire deal approaches, hardliners now in charge in Tehran are relishing the idea of escalation",
+            "score": 40,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3miw5kqqbij2v"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Donald Trump says 'a whole civilisation will die' if Iran ignores demands",
+            "score": 41,
+            "url": "https://bsky.app/profile/theguardian.com/post/3miw3bbus4x2t"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Trump on Iran: 'A whole civilisation will die tonight'",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mivyjd55tx2b"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "As US president's deadline looms, a ceasefire appears unlikely.",
+            "score": 29,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miw26yn5bp25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 74,
+        "topic": "Oil Prices Iran War",
+        "domain": "commodities",
+        "headline": "Oil prices surge to record $116 amid Hormuz crisis",
+        "summary": "Crude oil futures hit record highs with WTI touching $116 and Indian futures reaching \u20b910,888/barrel as Iran's closure of the Strait of Hormuz disrupts global supply chains. Markets are bracing for further escalation as Trump's deadline approaches.",
+        "signal": "Watch for supply chain disruptions and inflation pressures as energy costs soar globally.",
+        "sources": [
+          "Hindu Business",
+          "LiveMint Markets",
+          "Times of India",
+          "Reuters",
+          "Bloomberg"
+        ],
+        "source_url": "https://www.thehindu.com/business/markets/crude-oil-futures-hit-record-10888barrel-wti-touches-116/article70833165.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "UK stocks climb on oil, staples boost as Trump's Iran deadline looms",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3miw6fppvjk2l"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 72,
+        "topic": "Global Markets Iran Uncertainty",
+        "domain": "markets",
+        "headline": "Wall Street drops as Iran deadline rattles global markets",
+        "summary": "US stock futures fell over 0.5% as investors brace for Trump's Iran ultimatum, with tech shares particularly weak while oil-related stocks gain. Foreign institutional investors remain net sellers while domestic investors provide support.",
+        "signal": "Expect continued volatility and sector rotation from tech into energy and defensives.",
+        "sources": [
+          "Times of India",
+          "LiveMint Markets",
+          "NDTV Profit",
+          "Reuters",
+          "Bloomberg"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-april-7-2026-wall-street-slides-as-donald-trumps-iran-deadline-rattles-markets-oil-surges/articleshow/130091109.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Wall Street drops as caution lingers ahead of Trump's Iran deadline",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3miw64qjczg2u"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 66,
+        "topic": "Artemis Moon Mission Record",
+        "domain": "geopolitics",
+        "headline": "Artemis II astronauts break Apollo 13 distance record",
+        "summary": "The four Artemis II astronauts have traveled farther from Earth than any humans in history, breaking Apollo 13's 56-year-old record during their moon flyby mission. The crew includes three Americans and one Canadian in NASA's return to lunar exploration.",
+        "signal": "Monitor for technological achievements that could enhance US strategic capabilities in space.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "Reuters"
+        ],
+        "source_url": "https://apnews.com/article/nasa-artemis-moon-flyby-astronauts-e470e962d028d1a4b811cbf31cdacd90",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Our single system, fragile and interconnected.' The Artemis II astronauts have traveled further from Earth than any humans in history.",
+            "score": 49,
+            "url": "https://bsky.app/profile/reuters.com/post/3miw5jnxuhs22"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 65,
+        "topic": "India Iran Crisis Response",
+        "domain": "india",
+        "headline": "India issues urgent 'stay put' advisory for nationals in Iran",
+        "summary": "India's embassy urged its nationals in Iran to remain indoors for 48 hours amid escalating regional tensions, while doubling LPG cylinder quotas to ease supply concerns. The government is preparing for potential energy supply disruptions from the Hormuz crisis.",
+        "signal": "Watch for Indian energy security measures and potential diplomatic initiatives as regional tensions peak.",
+        "sources": [
+          "Times of India",
+          "The Hindu",
+          "Indian Express",
+          "Economic Times"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/india-issues-advisory-for-nationals-in-iran-to-stay-where-they-are-for-48-hours-amid-escalating-tensions/articleshow/130089448.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Egypt is one of the countries implementing energy conservation measures amid the US-Israel war on Iran.",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miw5kc7pwq2v"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 62,
+        "topic": "UN Security Council Hormuz",
+        "domain": "geopolitics",
+        "headline": "Russia, China block UN resolution on Strait reopening",
+        "summary": "Russia and China vetoed a UN Security Council resolution calling for the reopening of the Strait of Hormuz, despite the resolution being watered down to encourage their abstention. The veto highlights global divisions over the Iran crisis.",
+        "signal": "UN paralysis suggests bilateral solutions more likely than multilateral intervention in Hormuz crisis.",
+        "sources": [
+          "Associated Press",
+          "The National (UAE)",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.thenationalnews.com/news/us/2026/04/07/russia-and-china-block-un-resolution-calling-for-reopening-of-strait-of-hormuz/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Russia and China vetoed a U.N. Security Council resolution aimed at reopening the Strait of Hormuz",
+            "score": 26,
+            "url": "https://bsky.app/profile/apnews.com/post/3miw5qvgfrs2m"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 58,
+        "topic": "Goldman Sachs Stock Outlook",
+        "domain": "markets",
+        "headline": "Goldman sees fast-money funds turning into stock buyers",
+        "summary": "Goldman Sachs traders believe systematic investors are poised to flip back into equity-buying mode after cutting exposure to multi-year lows during the recent market selloff. The shift could provide support for stocks amid ongoing volatility.",
+        "signal": "Watch for systematic fund flows that could stabilize equity markets despite geopolitical uncertainty.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/goldman-traders-see-fast-money-funds-turning-into-stock-buyers",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 55,
+        "topic": "Paramount Warner Takeover",
+        "domain": "corporate",
+        "headline": "Gulf funds back Paramount's $81 billion Warner takeover",
+        "summary": "Three Gulf sovereign wealth funds have agreed to provide financing support for Paramount's massive $81 billion acquisition of Warner. The deal represents one of the largest media consolidations in recent years.",
+        "signal": "Monitor for Gulf state influence in US media sector and potential regulatory scrutiny.",
+        "sources": [
+          "The Wall Street Journal"
+        ],
+        "source_url": "https://www.wsj.com/business/deals/three-gulf-funds-agree-to-back-paramounts-81-billion-takeover-of-warner-04eda364?mod=hp_lead_pos4",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 52,
+        "topic": "San Francisco AI Housing Boom",
+        "domain": "markets",
+        "headline": "SF house prices hit record $2.15M on AI boom",
+        "summary": "San Francisco's median house price jumped to a record $2.15 million in March, up 18% year-over-year as wealth from AI startups floods the city. The surge reflects the continuing impact of artificial intelligence on real estate markets.",
+        "signal": "AI wealth concentration driving regional asset inflation could spread to other tech hubs.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/san-francisco-house-prices-hit-record-2-15-million-on-ai-boom",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 50,
+        "topic": "Iran Regional Strike Expansion",
+        "domain": "geopolitics",
+        "headline": "Iran attacks Saudi petrochemical complex, Israeli consulate targeted",
+        "summary": "Iran's Revolutionary Guards struck Saudi Arabia's Jubail petrochemical site while gunmen opened fire near the Israeli consulate in Istanbul. The attacks signal Iran's strategy of expanding the conflict across the region.",
+        "signal": "Regional escalation threatens Gulf energy infrastructure and Israeli diplomatic facilities.",
+        "sources": [
+          "Economic Times",
+          "Politico Europe"
+        ],
+        "source_url": "https://economictimes.indiatimes.com/news/international/world-news/iran-has-attacked-saudi-arabias-jubail-petrochemical-complex-irgc-says/articleshow/130090163.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 48,
+        "topic": "Ukraine Russia Energy War",
+        "domain": "geopolitics",
+        "headline": "Ukraine strikes Russian oil hubs as war intensifies",
+        "summary": "Ukraine targeted Russian Black Sea energy hub Novorossiysk and other oil facilities as part of its strategy to disrupt Moscow's war financing. Russian attacks killed 4 people in Ukrainian territory in continuing escalation.",
+        "signal": "Energy infrastructure attacks could further tighten global oil supplies amid Iran crisis.",
+        "sources": [
+          "Al Jazeera English",
+          "Associated Press"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 46,
+        "topic": "WHO Gaza Vehicle Attack",
+        "domain": "middleeast",
+        "headline": "Israeli fire kills WHO employee in Gaza",
+        "summary": "Israeli army fire on a WHO vehicle in southern Gaza killed one employee and injured several others, according to medical officials. The incident adds to concerns about attacks on humanitarian workers in the conflict zone.",
+        "signal": "Humanitarian access restrictions could worsen as regional conflicts intensify.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/6/who-employee-killed-several-injured-in-israeli-attack-in-gaza-say-medics",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 44,
+        "topic": "AMC Box Office Surge",
+        "domain": "corporate",
+        "headline": "AMC shares gain on Mario movie box office surge",
+        "summary": "AMC Entertainment saw strong ticket sales and concessions over Easter weekend, boosted by The Super Mario Galaxy Movie performance. The theater chain's shares gained on the positive box office results.",
+        "signal": "Entertainment sector resilience despite broader market volatility could indicate defensive rotation.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/amc-shares-gain-on-holiday-box-office-surge-buoyed-by-mario",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 42,
+        "topic": "Wheat Prices Rain Relief",
+        "domain": "commodities",
+        "headline": "Wheat hits one-week low on Kansas rain forecasts",
+        "summary": "Wheat futures fell as forecast rains for the US Plains should help alleviate drought conditions that have stressed fields in Kansas. The weather relief comes as agricultural markets remain volatile amid broader commodity price swings.",
+        "signal": "Weather-driven commodity volatility adds complexity to inflation outlook amid energy price surge.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/wheat-hits-one-week-low-with-rains-seen-for-dry-kansas-fields",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 40,
+        "topic": "RFK Jr Vaccine Panel",
+        "domain": "geopolitics",
+        "headline": "RFK Jr rebuilds vaccine advisory committee with new rules",
+        "summary": "The Department of Health and Human Services adopted new rules allowing Secretary Robert F. Kennedy Jr. to handpick members of the influential vaccine advisory panel after courts struck down his previous efforts. The move could reshape US vaccine policy.",
+        "signal": "Healthcare policy shifts could impact pharmaceutical sector and public health preparedness.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/rfk-jr-lays-groundwork-to-rebuild-weakened-vaccine-committee",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 38,
+        "topic": "Venezuela Ghost Ships Stranded",
+        "domain": "commodities",
+        "headline": "Three oil tankers stranded in Venezuela after Maduro exit",
+        "summary": "Three dark fleet tankers that loaded Venezuelan oil before Nicol\u00e1s Maduro's ousting remain stranded in the country, highlighting how the oil industry is still disentangling from years of sanctions evasion. The situation reflects ongoing Venezuelan transition challenges.",
+        "signal": "Venezuelan oil market normalization could ease supply constraints amid broader energy crisis.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/trio-of-ghost-ships-left-in-venezuela-limbo-after-maduro-s-exit",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 36,
+        "topic": "Sushi Deal Financing",
+        "domain": "corporate",
+        "headline": "Wall Street banks finance \u20ac1.5 billion sushi deal",
+        "summary": "Wall Street banks are providing \u20ac750 million in financing for the roughly \u20ac1.5 billion tie-up of Asian food producer Eat Happy Group and sushi supplier Hana Group's European operations. The deal reflects consolidation in the food services sector.",
+        "signal": "Food sector consolidation continues despite market volatility, suggesting defensive M&A activity.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/wall-street-banks-line-up-financing-for-1-5-billion-sushi-deal",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 34,
+        "topic": "Binance Compliance Departures",
+        "domain": "corporate",
+        "headline": "Binance compliance staff leave financial crime monitoring roles",
+        "summary": "Key compliance personnel have departed Binance's financial crime and monitoring operations, raising questions about the crypto exchange's regulatory compliance efforts following its 2023 guilty plea to US sanctions violations.",
+        "signal": "Crypto regulatory compliance challenges could intensify scrutiny of digital asset sector.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/binance-compliance-staff-leave-financial-crime-monitoring-roles",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 32,
+        "topic": "West Bengal Election Issues",
+        "domain": "india",
+        "headline": "91 lakh names wiped from West Bengal electoral rolls",
+        "summary": "West Bengal faces election controversy with 91 lakh voter names removed from electoral rolls, prompting questions about election fairness. The TMC and BJP are trading accusations ahead of the May 4 results.",
+        "signal": "Electoral integrity concerns could affect political stability in key Indian state.",
+        "sources": [
+          "The Hindu",
+          "NDTV News"
+        ],
+        "source_url": "https://www.thehindu.com/videos/watch-tmc-vs-bjp-but-the-real-story-is-missing-voters-west-bengal-2026/article70835503.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 30,
+        "topic": "Japan Oil Reserves Strategy",
+        "domain": "japan",
+        "headline": "Japan says oil reserves last beyond year despite crisis",
+        "summary": "Japanese PM Takaichi stated Japan has sufficient oil reserves to last beyond this year despite the Iran crisis disrupting global supply chains. The assurance comes as Asian nations prepare for prolonged energy supply disruptions.",
+        "signal": "Asian energy security preparations suggest expectation of extended Middle East crisis.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/japan-has-enough-oil-to-last-beyond-this-year-says-pm-takaichi",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 21,
+        "score": 28,
+        "topic": "ASML China Export Restrictions",
+        "domain": "corporate",
+        "headline": "ASML shares fall on US Congress China restriction plans",
+        "summary": "ASML shares declined following reports that US Congress plans to further restrict China exports of semiconductor equipment. The Dutch chipmaker remains caught in US-China technology tensions.",
+        "signal": "Tech sector faces ongoing geopolitical headwinds that could affect supply chains and earnings.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "ASML shares fall on US Congress plan to further restrict China exports",
+            "score": 40,
+            "url": "https://bsky.app/profile/reuters.com/post/3miw5tfudcn27"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 22,
+        "score": 26,
+        "topic": "Mediterranean Migrant Crisis",
+        "domain": "europe",
+        "headline": "80+ migrants missing in Mediterranean boat disaster",
+        "summary": "More than 80 migrants went missing after a boat departing Libya capsized in the central Mediterranean, with at least two bodies recovered according to UN migration agency reports.",
+        "signal": "Humanitarian crisis continues amid broader regional instability and conflict.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "More than 80 migrants went missing after a boat that departed a Libyan coastal town capsized in the central Mediterranean",
+            "score": 49,
+            "url": "https://bsky.app/profile/apnews.com/post/3mivyjpi7f62z"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 23,
+        "score": 25,
+        "topic": "JD Vance Hungary Visit",
+        "domain": "europe",
+        "headline": "JD Vance supports Orb\u00e1n, slams EU interference",
+        "summary": "US Vice President JD Vance visited Hungary to support Viktor Orb\u00e1n ahead of elections while accusing Brussels bureaucrats of interference in Hungarian politics.",
+        "signal": "US-EU tensions over Hungary could complicate Western unity amid Iran crisis.",
+        "sources": [
+          "Politico Europe",
+          "Guardian"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "JD Vance accuses EU of 'interference' as he visits Hungary to help Orb\u00e1n win election",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3miw5zitgxo2m"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-07T12:11:18.431466+00:00",
     "timestamp_ist": "07 Apr 2026 \u00b7 17:41 IST",
     "story_count": 15,
