@@ -1,5 +1,426 @@
 [
   {
+    "timestamp": "2026-04-07T06:09:42.586833+00:00",
+    "timestamp_ist": "07 Apr 2026 \u00b7 11:39 IST",
+    "story_count": 18,
+    "avg_score": 52,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran Military Escalation",
+        "domain": "geopolitics",
+        "headline": "Airstrikes Kill 25+ in Iran as Trump's Hormuz Deadline Looms",
+        "summary": "US-Israeli airstrikes have killed over 25 people in Iran with Tehran retaliating by firing missiles at Israel, killing at least two in Haifa. Trump has issued repeated ultimatums threatening Iran's infrastructure if the Strait of Hormuz isn't reopened by his Monday deadline.",
+        "signal": "Watch for any signs of Hormuz reopening or escalating infrastructure strikes as Trump's deadline approaches.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "Bloomberg",
+          "Politico"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-6-2026-87b62d531d3290fde5255077179bd3b5",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miujlc522n2k"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Ebrahim Zolfaghari, spokesperson for the IRGC's Khatam al-Anbiya Central Headquarters, says President Trump's 'baseless' threats would not deter Iran's military operations",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miueycoiik2r"
+          },
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Israel's military warns Iranians in Farsi to avoid taking trains throughout the day, likely signaling intended strikes on the rail network",
+            "score": 44,
+            "url": "https://bsky.app/profile/apnews.com/post/3miv4gxv66p2e"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Donald Trump threatened to jail journalists who published details of a daring US military raid to rescue two airmen whose aircraft was shot down over Iran",
+            "score": 34,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3miup3y635q2s"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Videos published by Iraqi accounts online appear to show drone attacks in Erbil, northern Iraq",
+            "score": 44,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miupma6rtc2r"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "topic": "Hormuz Energy Crisis",
+        "domain": "commodities",
+        "headline": "Qatar LNG Tankers Attempt First Hormuz Exit Since War",
+        "summary": "Two Qatari LNG tankers are heading toward the Strait of Hormuz in what would mark the first export outside the Gulf since the war started, while over four dozen empty tankers remain idle across Asia. Iraq has told buyers they can load crude as vessels can now transit Hormuz thanks to an Iranian exemption.",
+        "signal": "First successful LNG export through Hormuz could signal partial reopening and energy price relief.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/ships-with-qatar-lng-attempt-first-hormuz-exit-since-war-started",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 76,
+        "topic": "RBI Rupee Intervention",
+        "domain": "india",
+        "headline": "Rupee Extends Rally After Biggest Surge in 12 Years",
+        "summary": "The Indian rupee climbed, extending its biggest rally in 12 years after the central bank doubled down on curbing speculation against the local currency. The RBI's aggressive moves have successfully stabilized the currency amid global uncertainties.",
+        "signal": "RBI's intervention strategy appears effective but sustainability depends on continued policy support.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/rupee-extends-rally-after-biggest-surge-in-12-years-on-rbi-moves",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 68,
+        "topic": "Global Oil Market Disruption",
+        "domain": "commodities",
+        "headline": "Asian Markets Rise While Oil Prices Keep Climbing",
+        "summary": "Asian markets are mostly gaining despite soaring oil prices as investors watch the Iran war unfold and anticipate Trump's next moves. OPEC+ agreed to hike oil output but warns of slow recovery after attacks, with the increase being largely symbolic as key members cannot raise production.",
+        "signal": "Oil price trajectory will depend on Hormuz reopening and extent of infrastructure damage to Iran.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://apnews.com/article/stock-markets-trump-oil-war-iran-148682a5d853dbdb16aaf08e554b001b",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "As Iran war exposes global dependence on fossil fuels, the biggest emitters are reaping the rewards",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3miv43xkc4l2g"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 65,
+        "topic": "Wheat Price Surge",
+        "domain": "commodities",
+        "headline": "Hedge Funds Turn Bullish on Wheat First Time in Four Years",
+        "summary": "Hedge funds have turned net bullish on wheat for the first time in nearly four years, betting on higher prices driven by dry weather in the US and fertilizer/fuel shortages from the Middle East war. The shift marks a significant change in sentiment for the grain market.",
+        "signal": "Food inflation pressures building as agricultural supply chains face dual weather and geopolitical shocks.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/hedge-funds-turn-bullish-on-wheat-for-first-time-in-four-years",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 62,
+        "topic": "US Aviator Rescue Operation",
+        "domain": "geopolitics",
+        "headline": "US Successfully Rescues Aviator from Inside Iran Territory",
+        "summary": "The US military completed a complex extraction of an aviator nearly two days after being shot down over Iran, involving multiple government agencies in hostile territory. Trump announced the successful rescue while threatening journalists who reported operational details.",
+        "signal": "Rescue success may embolden further US military operations inside Iranian territory.",
+        "sources": [
+          "Associated Press",
+          "BBC News"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-pilot-military-rescue-fde473d07fb59e871a71cd2ad2ffe4fe",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 58,
+        "topic": "Bitcoin Resilience",
+        "domain": "markets",
+        "headline": "Bitcoin Rises Despite Trump's Iran War Threats",
+        "summary": "Bitcoin gained in early Asian trading even as President Trump's fresh threats about attacking Iranian infrastructure clouded global markets. The cryptocurrency's resilience contrasts with broader market uncertainty over escalating geopolitical tensions.",
+        "signal": "Bitcoin's divergence from risk-off sentiment suggests growing safe-haven status amid traditional market stress.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/bitcoin-ticks-up-even-as-trump-s-iran-war-threats-cloud-markets",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 55,
+        "topic": "Vietnam Energy Crisis",
+        "domain": "commodities",
+        "headline": "Vietnam Gig Workers Hit by Doubling Fuel Costs",
+        "summary": "Diesel prices have more than doubled in Vietnam amid Iran's blockade of the Strait of Hormuz, severely impacting gig workers and the broader Southeast Asian economy. The price surge highlights the region's vulnerability to Middle East supply disruptions.",
+        "signal": "Southeast Asia facing acute energy inflation as Hormuz closure bites regional economies.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 52,
+        "topic": "Orban Electoral Challenge",
+        "domain": "europe",
+        "headline": "Vance in Budapest as Orban Faces Toughest Election",
+        "summary": "US Vice President JD Vance landed in Budapest five days before Hungary's election as Viktor Orban faces his toughest electoral challenge in 15 years. Despite Trump and Rubio interventions, Orban's fortunes continue flagging amid domestic pressures.",
+        "signal": "Orban defeat would reshape EU-Russia dynamics and weaken populist alliance with Trump.",
+        "sources": [
+          "Politico Europe",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.politico.eu/article/last-throw-of-maga-dice-for-viktor-orban-jd-vance/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US vice president's Budapest trip highlights US-Hungary far-right alignment as Orban faces toughest electoral challenge",
+            "score": 37,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miumwkmk3o2u"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 50,
+        "topic": "Iran Supreme Leader Health",
+        "domain": "geopolitics",
+        "headline": "Reports Suggest Iran's Supreme Leader May Be Unconscious",
+        "summary": "Unconfirmed reports from Times of India suggest Iran's Supreme Leader Mojtaba Khamenei may be unconscious and unable to make decisions as the war rages on. The claims remain unverified but could signal potential leadership crisis in Tehran.",
+        "signal": "Leadership vacuum in Iran could either accelerate negotiations or trigger more unpredictable military responses.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/middle-east/unable-to-make-decisions-irans-supreme-leader-mojtaba-khamenei-unconscious-as-war-rages-on/articleshow/130075992.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 44,
+        "topic": "Offset Shooting Incident",
+        "domain": "corporate",
+        "headline": "Rapper Offset Shot, in Stable Condition",
+        "summary": "Migos rapper Offset has been shot and is in stable condition at a hospital, according to his spokesperson. The incident adds to recent violence affecting high-profile entertainment figures.",
+        "signal": "Monitor for any market impact on Live Nation or other entertainment company security concerns.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "High-profile celebrity incidents can impact entertainment stock sentiment and venue security protocols.",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "The rapper Offset has been shot and is in stable condition. A spokesperson for the Migos rapper has confirmed the shooting and says he is being treated at a hospital.",
+            "score": 44,
+            "url": "https://bsky.app/profile/apnews.com/post/3miv3zoqcqt2g"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 12,
+        "score": 42,
+        "topic": "Barito Renewables Decline",
+        "domain": "markets",
+        "headline": "Indonesian Renewable Stock Hits Two-Year Low on Shareholding Concerns",
+        "summary": "PT Barito Renewables Energy shares tumbled to their lowest in over two years after the Indonesian stock exchange flagged the company for having a highly concentrated shareholder base. The regulatory concern highlights governance issues in Indonesia's renewable sector.",
+        "signal": "Watch for broader regulatory crackdown on concentrated ownership structures in Indonesian markets.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/bren-ij-barito-renewables-hits-two-year-low-on-high-stakes-concentration",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 40,
+        "topic": "Singapore Power Bank Restrictions",
+        "domain": "geopolitics",
+        "headline": "Singapore Limits Travelers to Two Power Banks Each",
+        "summary": "Singapore will cap the number of power banks to two per traveler flying out of the city state to reduce fire risk associated with lithium batteries. The new restriction reflects growing aviation safety concerns over lithium-ion devices.",
+        "signal": "Potential template for other aviation hubs to follow similar lithium battery restrictions.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/travelers-flying-out-of-singapore-limited-to-two-power-banks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 38,
+        "topic": "Chinese Battery Storage Growth",
+        "domain": "commodities",
+        "headline": "Chinese Battery Supplier Expects Shipments to Double in 2026",
+        "summary": "Beijing HyperStrong Technology Co., one of China's top energy-storage suppliers, expects to more than double shipments this year on robust domestic and international demand. The growth highlights China's dominance in the global battery storage market.",
+        "signal": "Monitor for Western response to growing Chinese battery storage market dominance.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/chinese-battery-storage-supplier-sees-shipments-doubling-in-2026",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 35,
+        "topic": "AI Industry Collaboration",
+        "domain": "corporate",
+        "headline": "OpenAI, Anthropic, Google Unite Against Chinese AI Competition",
+        "summary": "Leading AI companies OpenAI, Anthropic and Google are working together to prevent Chinese competitors from copying their AI models, marking unprecedented collaboration among rivals. The initiative reflects growing concerns over intellectual property theft in the AI sector.",
+        "signal": "Watch for escalating US-China AI technology competition and potential policy responses.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Major AI collaboration suggests rising competitive pressure from Chinese firms and potential regulatory coordination.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "EXCLUSIVE: OpenAI, Anthropic and Google are working together to clamp down on Chinese competitors copying their AI models",
+            "score": 35,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3miutfzzsqd2s"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 16,
+        "score": 32,
+        "topic": "UCLA Basketball Championship",
+        "domain": "corporate",
+        "headline": "UCLA Wins First NCAA Women's Basketball Title",
+        "summary": "UCLA routed South Carolina 79-51 to win its first NCAA championship in women's basketball, with Lauren Betts earning Most Outstanding Player honors. The victory completed the Bruins' dominant March Madness run.",
+        "signal": "Monitor for merchandising and broadcasting revenue impacts for NCAA and partner brands.",
+        "sources": [
+          "Associated Press",
+          "BBC News"
+        ],
+        "source_url": "https://apnews.com/article/march-madness-ucla-south-carolina-score-1b7d7aa969d6bded7ad857fa1d760e32",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Michigan has won its second national title in men's basketball. The high-scoring Wolverines had to get down and dirty Monday, making only two 3-pointers all night but still muscling their way to a 69-",
+            "score": 39,
+            "url": "https://bsky.app/profile/apnews.com/post/3miutwegr5t2r"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 30,
+        "topic": "Artemis II Moon Mission",
+        "domain": "geopolitics",
+        "headline": "Artemis II Astronauts Break Distance Record from Earth",
+        "summary": "The Artemis II crew has shattered Apollo 13's 56-year-old distance record from Earth during their historic moon flyby mission. The four astronauts completed a successful six-hour lunar flyby, coming within 6,550 km of the lunar surface.",
+        "signal": "Successful mission advances US space dominance and commercial space sector opportunities.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "Japan Times"
+        ],
+        "source_url": "https://apnews.com/article/nasa-artemis-moon-flyby-astronauts-e470e962d028d1a4b811cbf31cdacd90",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 25,
+        "topic": "India Assembly Elections",
+        "domain": "india",
+        "headline": "Campaigning Ends in Kerala, Assam, Puducherry Elections",
+        "summary": "Single-phase polling will be held for 126 seats in Assam, 140 in Kerala and 30 seats in Puducherry as campaigning concluded. The elections are causing labor disruptions across India as migrant workers return home to vote.",
+        "signal": "Results will indicate regional political trends and potential impact on national coalition dynamics.",
+        "sources": [
+          "The Hindu",
+          "Times of India"
+        ],
+        "source_url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-puducherry-assam-live-updates-april-7-2026/article70832717.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-07T03:52:13.562447+00:00",
     "timestamp_ist": "07 Apr 2026 \u00b7 09:22 IST",
     "story_count": 19,
