@@ -1,5 +1,450 @@
 [
   {
+    "timestamp": "2026-04-07T17:38:36.373759+00:00",
+    "timestamp_ist": "07 Apr 2026 \u00b7 23:08 IST",
+    "story_count": 20,
+    "avg_score": 50,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 88,
+        "topic": "Trump Iran Deadline Crisis",
+        "domain": "geopolitics",
+        "headline": "Trump threatens civilizational annihilation as Iran deadline nears",
+        "summary": "Multiple wire services report Trump's warning that Iran's 'whole civilization will die tonight' unless Tehran reopens the Strait of Hormuz by Tuesday deadline. Iran rejects the ultimatum and latest ceasefire proposals, with Trump escalating rhetoric to unprecedented levels.",
+        "signal": "Monitor for immediate military action Tuesday night and potential nuclear escalation rhetoric crossing into implementation plans.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "The Hindu",
+          "Economic Times",
+          "Politico Europe",
+          "The National"
+        ],
+        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-06-2026",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Six weeks into the Iran war, Trump sounds intent on forcing a reckoning before the sun rises on Wednesday.",
+            "score": 31,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3miwclo5sxa2m"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "By warning that the US would deliberately bomb civilian infrastructure in Iran, President Trump drew criticism that he was threatening to commit war crimes. Here's what to know",
+            "score": 32,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3miwavuly2q26"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "As US President Donald Trump's latest ultimatum to Iran to agree to a ceasefire deal approaches, hardliners now in charge in Tehran are relishing the idea of escalation and a region-wide conflict",
+            "score": 40,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3miw5kqqbij2v"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 78,
+        "topic": "UN Hormuz Resolution Vetoed",
+        "domain": "geopolitics",
+        "headline": "Russia China veto UN resolution to reopen Hormuz",
+        "summary": "Russia and China vetoed a UN Security Council resolution calling for coordinated efforts to reopen the Strait of Hormuz. The resolution had been repeatedly watered down in hopes of gaining their abstention but still failed to pass.",
+        "signal": "UN diplomatic track officially blocked, increasing likelihood of unilateral military action by US coalition.",
+        "sources": [
+          "Times of India",
+          "Economic Times",
+          "The National",
+          "Middle East Eye"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/middle-east/russia-china-veto-un-resolution-to-reopen-strait-of-hormuz/articleshow/130091501.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Russia and China vetoed a U.N. Security Council resolution aimed at reopening the Strait of Hormuz that had been repeatedly watered down in hopes those two countries would abstain.",
+            "score": 26,
+            "url": "https://bsky.app/profile/apnews.com/post/3miw5qvgfrs2m"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 72,
+        "topic": "Iran Infrastructure Strikes",
+        "domain": "geopolitics",
+        "headline": "US Israel intensify attacks on Iranian infrastructure",
+        "summary": "Multiple reports confirm strikes on Iran's top university, South Pars gas complex, and other critical infrastructure as Trump's deadline approaches. Iran calls the attacks war crimes and vows to respond 'in kind'.",
+        "signal": "Infrastructure degradation accelerating before deadline - watch for Iranian retaliation against regional energy assets.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "The Hindu"
+        ],
+        "source_url": "https://apnews.com/article/south-pars-natural-gas-field-iran-29e03d9dd5e31c5ea10d2bdc87d68257",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Top university says US-Israel attack targeted Iran's progress, AI learning https://aje.news/w6xlcx",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miwcladii52k"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 68,
+        "topic": "Energy Market Crisis",
+        "domain": "commodities",
+        "headline": "Crude hits record rupee 10888 barrel WTI 116",
+        "summary": "Oil futures surge to record levels as Iran tensions peak, with WTI crude reaching $116 per barrel. Analysts cite tightening global supply and uncertainty over the Strait of Hormuz closure.",
+        "signal": "Energy price spiral accelerating - expect central bank interventions and demand destruction if sustained above $120.",
+        "sources": [
+          "The Hindu",
+          "LiveMint",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://www.thehindu.com/business/markets/crude-oil-futures-hit-record-10888barrel-wti-touches-116/article70833165.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 65,
+        "topic": "Indian Iran Travel Advisory",
+        "domain": "india",
+        "headline": "India issues urgent stay indoors advisory Iran nationals",
+        "summary": "Indian embassy urged nationals in Iran to remain indoors 'where they are' for 48 hours, avoiding specific installations amid escalating regional tensions. The advisory emphasizes staying put especially in embassy-hired hotels.",
+        "signal": "India anticipates imminent escalation - monitor for potential evacuation operations if crisis deepens.",
+        "sources": [
+          "Times of India",
+          "The Hindu"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/india-issues-advisory-for-nationals-in-iran-to-stay-where-they-are-for-48-hours-amid-escalating-tensions/articleshow/130089448.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 60,
+        "topic": "White House Nuclear Denial",
+        "domain": "geopolitics",
+        "headline": "White House denies nuclear strike plans Iran",
+        "summary": "The White House explicitly denied considering nuclear strikes against Iran amid Trump's escalating rhetoric. The denial comes as speculation mounted over Trump's 'civilization will die' threats.",
+        "signal": "Nuclear option officially off table but denial suggests option was discussed - watch for policy reversals under pressure.",
+        "sources": [
+          "Economic Times",
+          "Middle East Eye"
+        ],
+        "source_url": "https://economictimes.indiatimes.com/news/international/world-news/white-house-denies-considering-nuclear-strikes-on-iran/articleshow/130090492.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 58,
+        "topic": "Market Impact Assessment",
+        "domain": "markets",
+        "headline": "FPIs remain net sellers as Iran deadline fuels anxiety",
+        "summary": "Foreign portfolio investors stay net sellers while domestic institutions bought shares worth Rs 7,980 crore for the 27th consecutive day. Markets show defensive positioning amid geopolitical uncertainty.",
+        "signal": "Flight to safety accelerating - domestic institutions providing backstop but foreign capital exodus continues.",
+        "sources": [
+          "NDTV Profit",
+          "The Hindu",
+          "LiveMint"
+        ],
+        "source_url": "https://www.ndtvprofit.com/markets/fpis-stay-net-sellers-as-trumps-iran-deadline-fuels-market-anxiety-11324567",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 55,
+        "topic": "Libya Energy Crisis",
+        "domain": "commodities",
+        "headline": "Libya oil disputes mirror Hormuz crisis fuel European fears",
+        "summary": "Libyan oil sector proxy wars coincide with Hormuz tensions, creating dangerous supply vulnerabilities for global markets. European energy security faces dual chokepoint crisis.",
+        "signal": "Double energy supply shock developing - Europe particularly vulnerable to coordinated disruptions.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/6/libyas-oil-disputes-mirror-hormuz-crisis-fuel-european-energy-fears",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 52,
+        "topic": "Uday Kotak Colonialism Warning",
+        "domain": "india",
+        "headline": "Uday Kotak warns world cusp return global colonialism",
+        "summary": "Veteran banker Uday Kotak warned that the West Asia war and Trump's speech signal a likely return to global colonialism, echoing historic economic struggles from 1927 to 1947.",
+        "signal": "Senior Indian financial leader signals fundamental global order shift - watch for emerging market coalition responses.",
+        "sources": [
+          "LiveMint",
+          "Economic Times",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.livemint.com/companies/people/uday-kotak-warns-world-at-cusp-return-to-global-colonialism-west-asia-war-donald-trump-speech-iran-civilization-will-die-11775566261679.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 48,
+        "topic": "Kanye West UK Ban",
+        "domain": "europe",
+        "headline": "UK blocks Kanye West entry cancels Wireless Festival",
+        "summary": "British government blocked Kanye West from entering the country, leading to Wireless music festival cancellation. The decision was made on public good grounds following pressure from Jewish groups and MPs.",
+        "signal": "UK taking harder line on controversial figures - potential template for other jurisdictions facing similar pressures.",
+        "sources": [
+          "BBC News",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cwywnkdn3zno",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Wireless music festival cancelled after UK blocks Kanye West from entering country reut.rs/47PoB3j",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3miwcui6zjs2q"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 46,
+        "topic": "Kittleson Journalist Release",
+        "domain": "middleeast",
+        "headline": "Iraqi militants say Shelly Kittleson will be freed",
+        "summary": "The Iran-backed Iraqi militia Kataib Hezbollah announced it will release American journalist Shelly Kittleson, who was kidnapped from Baghdad last week. The release appears connected to broader regional negotiations.",
+        "signal": "Hostage diplomacy accelerating as deadline approaches - watch for other prisoner releases as negotiating chips.",
+        "sources": [
+          "Indian Express",
+          "The National"
+        ],
+        "source_url": "https://indianexpress.com/article/world/shelly-kittleson-released-baghdad-kataib-hezbollah-kidnap-swap-iraq-10624363/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "The powerful Iran-backed Iraqi militia Kataib Hezbollah says that it will release American journalist Shelly Kittleson, who was kidnapped from a Baghdad street corner last week.",
+            "score": 44,
+            "url": "https://bsky.app/profile/apnews.com/post/3miw6yvjj5b2m"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 44,
+        "topic": "European Gas Discovery",
+        "domain": "commodities",
+        "headline": "Egypt announces critical gas discovery amid Iran war",
+        "summary": "ENI and Egypt announced a significant gas discovery in the Eastern Mediterranean, providing potential boost for Cairo as Iran war sends energy import costs rocketing.",
+        "signal": "Alternative energy supplies emerging but development timeline too long for immediate crisis relief.",
+        "sources": [
+          "Euronews Business"
+        ],
+        "source_url": "http://www.euronews.com/business/2026/04/07/gas-discovery-off-egypts-coast-comes-at-a-critical-moment-for-iran-war",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 42,
+        "topic": "Cotton Supply Disruption",
+        "domain": "commodities",
+        "headline": "Cotton climbs highest since 2024 tight supply outlook",
+        "summary": "Cotton futures in New York surged to highest since December 2024 as traders weigh preliminary government US planting report against outlook for tighter global supplies this year.",
+        "signal": "Agricultural commodities following energy complex higher - broader supply chain disruptions spreading.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/cotton-climbs-to-highest-since-2024-on-tight-supply-outlook",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 40,
+        "topic": "Jones Day Cyber Breach",
+        "domain": "corporate",
+        "headline": "Jones Day law firm hackers accessed client data",
+        "summary": "Hackers breached Jones Day and accessed files of 10 clients, the major law firm announced Monday. The cybersecurity incident highlights vulnerabilities in legal sector amid heightened tensions.",
+        "signal": "Legal sector targeting escalating amid geopolitical tensions - expect more sophisticated attacks on critical infrastructure advisors.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/jones-day-law-firm-says-hackers-accessed-some-clients-data",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 38,
+        "topic": "Goldman Trading Signal",
+        "domain": "markets",
+        "headline": "Goldman sees fast money funds turning stock buyers",
+        "summary": "Systematic investors poised to flip back into equity-buying mode after slashing exposure to multi-year lows during recent market selloff, according to Goldman Sachs trading desk.",
+        "signal": "Technical buying pressure may emerge if geopolitical risk premium starts to fade from current extreme levels.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/goldman-traders-see-fast-money-funds-turning-into-stock-buyers",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 35,
+        "topic": "Polish Power Grid",
+        "domain": "europe",
+        "headline": "Polish power prices turn negative renewables surge",
+        "summary": "Polish power prices turned negative for some customers on two consecutive days as bright windy weather sparked surge in renewable electricity supplies that overwhelmed demand.",
+        "signal": "European energy grid showing stress signals as geopolitical tensions disrupt normal supply-demand balances.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/polish-power-prices-turns-negative-for-some-as-renewables-boom",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 32,
+        "topic": "Artemis Space Mission",
+        "domain": "geopolitics",
+        "headline": "Artemis II astronauts break Apollo distance record",
+        "summary": "The Artemis II astronauts are racing toward a new distance record on their moon flyby, set to break Apollo 13's 56-year-old record for humans traveling farthest from Earth.",
+        "signal": "Space achievements providing rare positive news amid global tensions - potential soft power implications.",
+        "sources": [
+          "Associated Press",
+          "BBC News"
+        ],
+        "source_url": "https://apnews.com/article/artemis-moon-nasa-lunar-flyby-fac19b4b1676af2717adafa992f32be4",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 30,
+        "topic": "Brazil Economic Reshuffle",
+        "domain": "macro",
+        "headline": "Brazil planning minister names leftist deputy Mello",
+        "summary": "Brazil's new Planning Minister Bruno Moretti named leftist economist Guilherme Mello as deputy, removing him from central bank contention and advancing economic team shakeup ahead of elections.",
+        "signal": "Latin American policy shifts accelerating amid global uncertainty - watch for broader regional realignment.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/leftist-economist-mello-gets-planning-job-not-central-bank-post",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 28,
+        "topic": "Universal Music Merger",
+        "domain": "corporate",
+        "headline": "Bill Ackman proposes 64 billion Universal Music merger",
+        "summary": "Bill Ackman's Pershing Square proposed merging Universal Music Group with its investment fund, valuing it at 30.40 euros per share in a deal that could provide 78% premium to shareholders.",
+        "signal": "Major M&A activity continuing despite market volatility - high-quality assets attracting premium valuations.",
+        "sources": [
+          "LiveMint",
+          "Euronews Business"
+        ],
+        "source_url": "https://www.livemint.com/companies/news/bill-ackman-pershing-square-propose-64-billion-merger-music-label-universal-music-group-could-value-shares-78-pc-premium-11775562202559.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 25,
+        "topic": "Vietnam Political Change",
+        "domain": "geopolitics",
+        "headline": "Vietnam communist chief becomes president dual role",
+        "summary": "Vietnam's communist party chief took on the rare dual role of president, consolidating power in the Southeast Asian nation amid regional tensions.",
+        "signal": "Asian political consolidation trends continuing - monitor for policy shifts affecting regional trade flows.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/politics/vietnam-communist-chief-becomes-president-taking-rare-dual-role",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-07T16:20:46.394620+00:00",
     "timestamp_ist": "07 Apr 2026 \u00b7 21:50 IST",
     "story_count": 23,
