@@ -1,5 +1,546 @@
 [
   {
+    "timestamp": "2026-04-08T16:45:08.894057+00:00",
+    "timestamp_ist": "08 Apr 2026 \u00b7 22:15 IST",
+    "story_count": 25,
+    "avg_score": 56,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 87,
+        "topic": "US-Iran Military Ceasefire",
+        "domain": "geopolitics",
+        "headline": "US-Iran agree fragile two-week ceasefire amid escalation concerns",
+        "summary": "The United States and Iran have agreed to a temporary two-week ceasefire following weeks of military conflict, though violations are already being reported within hours. Trump claims victory while Iran signals it may withdraw from the truce if Israeli attacks on Lebanon continue.",
+        "signal": "Monitor ceasefire violations and oil market volatility as fragile truce could collapse rapidly.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Al Jazeera English",
+          "@reuters.com",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/iran-signals-long-multi-front-war-as-trump-ultimatum-nears",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "US military says it's ready to resume Iran fighting if diplomacy fails",
+            "score": 50,
+            "url": "https://bsky.app/profile/reuters.com/post/3miypy2rhkz2i"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Defence chief declares total military victory over Iran, matching earlier victory claims from Tehran amid ceasefire",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miypotsjca25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 84,
+        "topic": "Global Market Rally",
+        "domain": "markets",
+        "headline": "Markets surge globally on Iran ceasefire hopes",
+        "summary": "Global stock markets experienced their biggest rally in years with India's Sensex jumping nearly 4% and US futures rising up to 3% on ceasefire news. Oil prices plunged while safe-haven assets retreated as geopolitical tensions eased temporarily.",
+        "signal": "Watch for profit-taking if ceasefire breaks down; energy sector volatility remains high.",
+        "sources": [
+          "Bloomberg",
+          "LiveMint Markets",
+          "Hindu Business",
+          "Associated Press"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/treasuries-fall-ahead-of-auction-as-iran-war-stokes-oil-gains",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "topic": "Strait Hormuz Transit",
+        "domain": "commodities",
+        "headline": "Iran may impose crypto tolls on Hormuz shipping",
+        "summary": "Iran is reportedly planning to charge transit fees via cryptocurrency for ships passing through the Strait of Hormuz, potentially at $1 per barrel. Greek and Liberian-flagged vessels were among the first to transit the strait since the ceasefire announcement.",
+        "signal": "Shipping costs could permanently increase if Iran maintains control over Hormuz pricing.",
+        "sources": [
+          "Times of India",
+          "Bloomberg",
+          "Euronews Business",
+          "@reuters.com"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/middle-east/strait-of-hormuz-toll-iran-to-demand-crypto-payment-from-shipping-firms-report/articleshow/130117082.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Shippers seek clarity on Hormuz reopening after US-Iran ceasefire deal",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3miypgbtere2j"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Will shipping in the strait of Hormuz \u2013 and oil prices \u2013 return to normal?",
+            "score": 21,
+            "url": "https://bsky.app/profile/theguardian.com/post/3miypr36smj2t"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 79,
+        "topic": "Israel Lebanon Attacks",
+        "domain": "geopolitics",
+        "headline": "Israel strikes Lebanon despite ceasefire, dozens killed",
+        "summary": "Israel conducted massive coordinated strikes across Lebanon killing at least 89 people and wounding over 800, with Trump stating Lebanon is not part of the Iran ceasefire deal. The attacks represent the largest coordinated strike since Israel's renewed war on Lebanon.",
+        "signal": "Lebanon conflict remains active threat to regional stability outside Iran ceasefire scope.",
+        "sources": [
+          "The National (UAE)",
+          "Middle East Eye",
+          "Al Jazeera English",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://www.thenationalnews.com/news/mena/2026/04/08/dozens-killed-in-beirut-massacre-as-israel-drops-100-bombs-in-10-minutes/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US president says war in Lebanon is 'separate skirmish' as Israel kills dozens across the country after regional truce",
+            "score": 47,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miynz62e2w24"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Israel's army says it carries out the largest coordinated strike across Lebanon since its renewed war on the country",
+            "score": 41,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miymdk3mjl2f"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 76,
+        "topic": "Istanbul Consulate Attack",
+        "domain": "geopolitics",
+        "headline": "Gunmen attack Israeli consulate building in Istanbul",
+        "summary": "Armed attackers targeted the building housing Israel's consulate in Istanbul, resulting in one assailant killed and two police officers wounded. Two other attackers were captured in the incident near the currently empty consulate facility.",
+        "signal": "Regional tensions spilling over into attacks on Israeli diplomatic facilities globally.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://apnews.com/article/turkey-israel-istanbul-consulate-attack-dfabb52da25012c0c709016e72c8f630",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 75,
+        "topic": "Ukraine Oil Infrastructure",
+        "domain": "geopolitics",
+        "headline": "Ukraine strikes Russia's key Baltic oil port",
+        "summary": "Ukraine successfully hit Russia's strategic Baltic port of Ust-Luga, continuing its campaign of attacks on Russian oil-export infrastructure. The strikes represent the latest escalation in targeting energy facilities as the war shows no signs of easing.",
+        "signal": "Ongoing disruption to Russian energy exports could impact global oil supply chains.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/ukraine-says-it-hit-russia-s-key-baltic-oil-port-of-ust-luga",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 70,
+        "topic": "Regional Oil Attacks",
+        "domain": "commodities",
+        "headline": "Iran strikes Saudi pipeline, Kuwait facilities amid ceasefire",
+        "summary": "Iran reportedly attacked Saudi Arabia's East-West Pipeline hours after the ceasefire and struck Kuwait's oil facilities and power stations with drones. These attacks raise serious questions about Iran's commitment to the temporary truce.",
+        "signal": "Ceasefire violations in energy infrastructure threaten oil market stability.",
+        "sources": [
+          "Economic Times",
+          "Middle East Eye"
+        ],
+        "source_url": "https://economictimes.indiatimes.com/news/international/world-news/iran-hits-saudi-oil-pipeline-hours-after-ceasefire-sources-say/articleshow/130117606.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 68,
+        "topic": "Hungary Election Interference",
+        "domain": "geopolitics",
+        "headline": "US VP Vance backs Orban amid EU interference claims",
+        "summary": "US Vice President JD Vance is in Hungary supporting Prime Minister Viktor Orban's campaign ahead of a pivotal election, while Germany accuses Vance of hypocrisy over EU meddling claims. A whistleblower has also alleged political interference in Hungary's competition authority.",
+        "signal": "US-EU tensions over democratic interference could escalate if Orban wins.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "Politico Europe"
+        ],
+        "source_url": "https://apnews.com/article/jd-vance-hungary-orban-election-campaign-08e0929e9c8b3ae4302ae4e8c0393d5e",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30aa\u30eb\u30d0\u30f3\u4e0e\u515a\u82e6\u6226\u3001\u7c73\u30ed\u304c\u63f4\u8ecd\u3000\u30cf\u30f3\u30ac\u30ea\u30fc\u7dcf\u9078\u6319\u306b\u4ecb\u5165",
+            "score": 38,
+            "url": "https://bsky.app/profile/nikkei.com/post/3miyccyapz32j"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 65,
+        "topic": "India State Elections",
+        "domain": "india",
+        "headline": "Assam, Kerala, Puducherry vote in key assembly polls",
+        "summary": "Major assembly elections are underway in Assam, Kerala, and Puducherry with high stakes for regional and national politics. Assam sees a BJP-Congress face-off while Kerala chooses between LDF continuity and UDF comeback.",
+        "signal": "Results will indicate BJP's strength in Northeast and Left's hold on Kerala.",
+        "sources": [
+          "Times of India",
+          "NDTV News",
+          "The Hindu"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/assembly-elections-2026-from-brahmaputra-to-backwaters-assam-kerala-puducherry-head-to-vote/articleshow/130117290.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 62,
+        "topic": "Private Credit Stress",
+        "domain": "markets",
+        "headline": "Moody's turns negative on private credit BDCs",
+        "summary": "Rising redemption waves have prompted Moody's Ratings to revise its outlook for private credit investment vehicles to negative after maintaining stable for over two years. The shift reflects growing stress in the private credit sector amid tighter market conditions.",
+        "signal": "Private credit sector faces liquidity pressures that could spread to broader markets.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/private-credit-exodus-turns-moody-s-outlook-on-bdcs-to-negative",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 60,
+        "topic": "Bill Gates Epstein Panel",
+        "domain": "corporate",
+        "headline": "Bill Gates to testify before House Epstein panel",
+        "summary": "Tech billionaire Bill Gates will appear before the House panel investigating disgraced financier Jeffrey Epstein on June 10. The hearing represents a significant development in the ongoing congressional investigation into Epstein's network.",
+        "signal": "High-profile testimony could reveal new details about corporate elite connections to Epstein.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/bill-gates-to-appear-before-house-epstein-panel-on-june-10",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 58,
+        "topic": "Colombia Oil Strike",
+        "domain": "commodities",
+        "headline": "Colombia oil workers end strike after CEO exit",
+        "summary": "Colombia's largest oil workers union dropped a strike threat after Ecopetrol SA's chief executive officer was removed following a board decision. The resolution averts potential disruption to Colombian oil production amid global energy market volatility.",
+        "signal": "Executive changes at major oil companies signal sector instability amid geopolitical pressures.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/colombia-oil-workers-drop-strike-threat-after-ecopetrol-ceo-exit",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 55,
+        "topic": "India Nuclear Reactor",
+        "domain": "india",
+        "headline": "India's fast breeder reactor achieves breakthrough success",
+        "summary": "India's most advanced fast breeder reactor has set the country on a path toward potentially cutting its dependence on uranium imports. The nuclear leap represents a significant milestone in India's energy independence strategy.",
+        "signal": "India's nuclear self-sufficiency could reshape global uranium markets and energy geopolitics.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/7/indias-nuclear-leap-why-its-fast-breeder-reactor-success-matters",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 52,
+        "topic": "Soros MeidasTouch Investment",
+        "domain": "corporate",
+        "headline": "George Soros firm invests in progressive MeidasTouch network",
+        "summary": "George Soros' investment firm has made a significant investment in the progressive MeidasTouch Network, which has gained substantial traction on YouTube with 300 million monthly views. The investment signals continued political media consolidation.",
+        "signal": "Progressive media consolidation could impact 2026 election cycle messaging and reach.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/george-soros-firm-invests-in-progressive-meidastouch-network",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 50,
+        "topic": "China Russia UN Veto",
+        "domain": "geopolitics",
+        "headline": "China, Russia veto UN Hormuz resolution",
+        "summary": "Russia and China vetoed a United Nations Security Council resolution that would have encouraged countries to coordinate defensive efforts on reopening the Strait of Hormuz. The veto reflects concerns about tacitly condoning military action in the strategic waterway.",
+        "signal": "UN paralysis on Hormuz could lead to unilateral military actions bypassing international law.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/china-and-russia-veto-security-council-resolution-on-hormuz",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 47,
+        "topic": "Fed Inflation Expectations",
+        "domain": "macro",
+        "headline": "Fed survey shows inflation expectations jump on Iran war",
+        "summary": "Near-term inflation expectations jumped in March by the most in a year as consumers anticipated higher gas and food prices with the onset of war in the Middle East. The Federal Reserve Bank of New York survey reveals growing concern about price pressures.",
+        "signal": "Rising inflation expectations could force Fed to delay rate cuts despite ceasefire hopes.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/inflation-expectations-jump-with-iran-war-fed-survey-finds",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 45,
+        "topic": "Saudi Bahrain Bridge Closure",
+        "domain": "geopolitics",
+        "headline": "Key Saudi-Bahrain causeway closes over Iranian threats",
+        "summary": "The King Fahd Causeway linking Saudi Arabia to Bahrain was closed early Tuesday over threats from Iranian attacks as Trump's deadline neared. The closure of this critical infrastructure link reflects escalating regional security concerns.",
+        "signal": "Infrastructure closures indicate regional conflict expansion beyond direct combat zones.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-7-2026-421ee64fdc9a5c26460df8119c7d1b3f",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 43,
+        "topic": "Anthropic AI Security Discovery",
+        "domain": "corporate",
+        "headline": "Anthropic's new AI discovers thousands of software vulnerabilities",
+        "summary": "Anthropic's Claude Mythos AI model has proven exceptionally capable at finding software vulnerabilities, discovering a 27-year-old flaw in OpenBSD. The company has decided not to release the model publicly due to security risks.",
+        "signal": "AI-powered vulnerability discovery could revolutionize both cybersecurity and cyber warfare.",
+        "sources": [
+          "@nikkei.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Major breakthrough in AI security research with dual-use implications for defense and offense.",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30a2\u30f3\u30bd\u30ed\u30d4\u30c3\u30af\u306e\u65b0AI\u3001\u30bd\u30d5\u30c8\u5f31\u70b9\u6570\u5343\u4ef6\u767a\u898b\u3000\u300c\u3082\u308d\u5203\u306e\u5263\u300d\u61f8\u5ff5",
+            "score": 43,
+            "url": "https://bsky.app/profile/nikkei.com/post/3miy6xnvn6p2y"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 19,
+        "score": 42,
+        "topic": "Trump War Crime Questions",
+        "domain": "geopolitics",
+        "headline": "Trump's threats against Iran infrastructure raise legal concerns",
+        "summary": "President Trump's threats to destroy Iranian power plants and bridges have raised questions about potential war crimes among military law experts. The scope of threatened attacks could constitute violations of international humanitarian law.",
+        "signal": "Legal challenges to military action could constrain US operational flexibility.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/trump-iran-power-plants-civilian-war-crimes-88b8ca1bc8e5cc8adabaf6c34e93e597",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 40,
+        "topic": "RBI Bank Governance",
+        "domain": "india",
+        "headline": "RBI tightens bank governance rules after HDFC controversy",
+        "summary": "The Reserve Bank of India has tightened bank governance norms, making board chairs solely responsible for meeting agendas following the HDFC controversy. The proposed rules aim to improve transparency and institutional accountability in banking.",
+        "signal": "Stricter governance could impact bank operational flexibility but improve regulatory compliance.",
+        "sources": [
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.ndtvprofit.com/business/rbi-tightens-bank-governance-board-chairs-now-solely-responsible-for-agendas-post-hdfc-row-11329728#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 21,
+        "score": 38,
+        "topic": "Maharashtra Contractor Crisis",
+        "domain": "india",
+        "headline": "Maharashtra contractors threaten shutdown over unpaid dues",
+        "summary": "Maharashtra contractors are threatening a statewide shutdown over Rs 96,000-crore in unpaid dues from the government. The standoff puts major infrastructure projects at risk across India's largest state economy.",
+        "signal": "Infrastructure delays could impact Maharashtra's economic growth and project timelines.",
+        "sources": [
+          "Indian Express"
+        ],
+        "source_url": "https://indianexpress.com/article/cities/mumbai/maharashtra-contractors-shutdown-96000-crore-unpaid-dues-infrastructure-projects-risk-10626347/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 22,
+        "score": 35,
+        "topic": "NSE IPO Preparations",
+        "domain": "india",
+        "headline": "NSE begins IPO process, targets June-July filing",
+        "summary": "The National Stock Exchange has kicked off its IPO preparation process, meeting with bankers to draft offer papers and targeting a June-July filing timeline. The long-delayed listing represents one of India's most anticipated public offerings.",
+        "signal": "NSE IPO could set benchmark for Indian exchange valuations and market structure reforms.",
+        "sources": [
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/companies/news/nse-ipo-preparations-begin-drhp-filing-timeline-11775633796038.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 23,
+        "score": 32,
+        "topic": "Amazon Layoff Denial",
+        "domain": "corporate",
+        "headline": "Amazon denies reports of 14,000 May layoffs",
+        "summary": "Amazon has denied reports that it is planning another round of mass layoffs in May 2026, calling such claims 'not based on fact'. The denial comes amid broader tech sector uncertainty about employment levels.",
+        "signal": "Tech employment stability remains fragile despite company denials of planned cuts.",
+        "sources": [
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/companies/news/amazon-denies-reports-of-14-000-layoffs-planned-for-may-not-based-in-fact-11775664019857.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 24,
+        "score": 30,
+        "topic": "Kanye West UK Ban",
+        "domain": "corporate",
+        "headline": "UK blocks Kanye West travel over antisemitic comments",
+        "summary": "The UK government has blocked Kanye West from traveling to the country, preventing him from headlining London's Wireless Festival in July. The decision follows criticism over his past antisemitic statements.",
+        "signal": "Celebrity cancellations could impact entertainment industry revenue and touring economics.",
+        "sources": [
+          "BBC News",
+          "The National (UAE)"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c4gxk3kxjr0o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 25,
+        "score": 28,
+        "topic": "Women Reservation Bill",
+        "domain": "india",
+        "headline": "Cabinet clears women reservation bill amendments",
+        "summary": "The Indian Cabinet has approved amendments to the women's reservation bill, marking progress on long-pending legislation for gender representation in parliament and state assemblies.",
+        "signal": "Women's reservation implementation could reshape Indian political landscape significantly.",
+        "sources": [
+          "Indian Express"
+        ],
+        "source_url": "https://indianexpress.com/article/india/women-reservation-bill-cabinet-clears-amendments-10626314/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-08T12:11:03.764459+00:00",
     "timestamp_ist": "08 Apr 2026 \u00b7 17:41 IST",
     "story_count": 18,
@@ -14462,376 +15003,5 @@
       }
     ],
     "social_count": 52
-  },
-  {
-    "timestamp": "2026-04-05T07:47:46.090242+00:00",
-    "timestamp_ist": "05 Apr 2026 \u00b7 07:47 IST",
-    "story_count": 15,
-    "avg_score": 60,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 78,
-        "topic": "US-Iran Military Rescue Operation",
-        "domain": "geopolitics",
-        "headline": "US Rescues Second Airman from Downed F-15 in Iran",
-        "summary": "The United States successfully rescued the second crew member from a downed F-15E fighter jet in Iran after a daring operation involving dozens of aircraft and special forces. President Trump confirmed the injured airman was recovered following what officials described as a \"heavy firefight\" with Iranian forces.",
-        "signal": "US military capabilities demonstrated despite Iran shooting down aircraft, but rescue operation highlights escalating military confrontation.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera",
-          "Trump",
-          "@FirstSquawk",
-          "@AJEnglish"
-        ],
-        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-04-2026",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "WE GOT HIM!\" U.S President Donald Trump says the second missing U.S. crew member from downed fighter jet has been rescued",
-            "score": 52,
-            "url": "https://twitter.com/FirstSquawk/status/2040671451083411871"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "BREAKING: A US government official has told Al Jazeera that the second crew member from the downed F-15E has been recovered after a \"heavy firefight\".",
-            "score": 59,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mipsymnqvl2h"
-          },
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "BREAKING: President Donald Trump says service member rescued in Iran is injured but \"will be just fine\" and that US was monitoring his location.",
-            "score": 54,
-            "url": "https://bsky.app/profile/apnews.com/post/3mipwiqfrtv2r"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 2,
-        "score": 75,
-        "topic": "Iran Shoots Down US Aircraft",
-        "domain": "geopolitics",
-        "headline": "Iran Claims Downing Two US Military Aircraft in Rare Strike",
-        "summary": "Iran claimed responsibility for shooting down two US military aircraft, marking an exceedingly rare assault on American forces not seen in over 20 years. The downing of F-15 and other aircraft demonstrates Iran's continued ability to strike back despite Trump's assertions of US military dominance.",
-        "signal": "Major escalation in US-Iran conflict as Tehran demonstrates anti-aircraft capabilities against advanced US military hardware.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera",
-          "@AJEnglish"
-        ],
-        "source_url": "https://apnews.com/article/iran-war-fighter-jet-shot-down-trump-3a8b2d5b2cdaceb13bbb62c3f6526e71",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Iran says the US plane downed in Isfahan was a C-130 class aircraft and that it was destroyed by a police commando unit called the Faraj Rangers",
-            "score": 53,
-            "url": "https://twitter.com/AJEnglish/status/2040679857340764228"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 72,
-        "topic": "Middle East Energy Facility Attacks",
-        "domain": "commodities",
-        "headline": "UAE, Kuwait, Bahrain Energy Facilities Hit by Iranian Attacks",
-        "summary": "Multiple energy facilities across the Gulf were struck by Iranian attacks, including fires at Abu Dhabi's Borouge petrochemical plant, Kuwait Petroleum headquarters, and Bahrain's oil storage facilities. The attacks highlight Iran's ability to disrupt regional energy infrastructure despite air defense systems.",
-        "signal": "Energy supply chains face escalating disruption risk as Iran targets Gulf energy infrastructure, potentially impacting global oil markets.",
-        "sources": [
-          "Al Jazeera",
-          "The National (UAE)",
-          "@PTI_News",
-          "@AJEnglish"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack",
-        "social_signals": [
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "The official X account of Abu Dhabi Media posts, \"Abu Dhabi authorities are responding to multiple fires in Borouge petrochemicals plant, caused by falling debris following successful",
-            "score": 48,
-            "url": "https://twitter.com/PTI_News/status/2040691087212531769"
-          },
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Authorities in Abu Dhabi say they are responding to several fires that broke out at the Borouge petrochemical plant, caused by falling debris from an interception.",
-            "score": 48,
-            "url": "https://twitter.com/AJEnglish/status/2040684793319297522"
-          },
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "A fire has broken out at a Borouge petrochemicals plant in the United Arab Emirates following an attack, authorities say.",
-            "score": 44,
-            "url": "https://bsky.app/profile/apnews.com/post/3miq73k4n2k2n"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 4,
-        "score": 70,
-        "topic": "Trump Iran War Strategy",
-        "domain": "geopolitics",
-        "headline": "Trump Threatens 'Hell' on Iran, Considers NATO Exit",
-        "summary": "President Trump threatened to unleash \"all hell\" on Iran while reportedly musing about backing out of NATO as US-Europe alliance reaches a \"breaking point\" over the Iran war. Trump faces political pressure as midterm elections loom with rising gas prices contradicting his campaign promises.",
-        "signal": "Trump's wartime presidency faces domestic political costs and alliance strain, potentially reshaping US foreign policy approach.",
-        "sources": [
-          "Wall Street Journal",
-          "Associated Press",
-          "@FirstSquawk"
-        ],
-        "source_url": "https://apnews.com/article/trump-midterms-republicans-costs-iran-democrats-642b5f8fd79c980521c89afa86c4f249",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "US-Europe alliance is reportedly reaching a \"breaking point\" over the Iran War, and President Trump has \"mused\" to aides about backing out of NATO",
-            "score": 60,
-            "url": "https://twitter.com/FirstSquawk/status/2040672229873377623"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 5,
-        "score": 68,
-        "topic": "Strait Hormuz Oil Disruption",
-        "domain": "commodities",
-        "headline": "Iran Blockade Disrupts Global Energy Trade Through Hormuz",
-        "summary": "Iran's weeks-long blockade of the Strait of Hormuz is severely disrupting global energy trade, with a third of fertilizer raw materials and 20% of natural gas shipments affected. European leaders say military reopening is unrealistic, favoring international pressure instead.",
-        "signal": "Critical energy chokepoint closure threatens global supply chains and commodity prices, requiring alternative transit routes.",
-        "sources": [
-          "Wall Street Journal",
-          "Indian Express",
-          "@carlbildt"
-        ],
-        "source_url": "https://www.wsj.com/world/middle-east/trumps-mission-impossible-for-allies-reopening-the-strait-of-hormuz-d6767476",
-        "social_signals": [
-          {
-            "handle": "carlbildt",
-            "platform": "twitter",
-            "text": "A third of the global trade in raw materials for fertiliser passes through Hormuz, which is also the route for 20% of shipments of natural gas",
-            "score": 40,
-            "url": "https://twitter.com/carlbildt/status/2040683687918895319"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 65,
-        "topic": "Indian LPG Energy Crisis",
-        "domain": "india",
-        "headline": "LPG Shortage Hits India as Middle East Crisis Disrupts Supplies",
-        "summary": "India faces an LPG shortage affecting tea shops, restaurants, and campaign activities across Kerala and other states as Middle East conflict disrupts energy imports. Moody's cut India's growth forecast to 6% citing the West Asia conflict's impact on oil and LPG imports.",
-        "signal": "India's energy security vulnerability exposed by regional conflicts, potentially constraining economic growth and political activities.",
-        "sources": [
-          "Times of India",
-          "CNBC TV18",
-          "Indian Express"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/city/kochi/lpg-shortage-campaigning-at-tea-shops-fails-to-gather-steam/articleshow/130025995.cms",
-        "social_signals": [
-          {
-            "handle": "CNBCTV18Live",
-            "platform": "twitter",
-            "text": "#Moody's cuts India growth to 6% as West Asia conflict hits oil and #LPG imports",
-            "score": 49,
-            "url": "https://twitter.com/CNBCTV18Live/status/2040681861601771822"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 7,
-        "score": 62,
-        "topic": "Indian Assembly Election Campaigns",
-        "domain": "india",
-        "headline": "Heated Campaign Trail in Assam, Bengal, Tamil Nadu Elections",
-        "summary": "Assembly election campaigns intensify across multiple Indian states with Rahul Gandhi calling Himanta Biswa Sarma \"most corrupt Chief Minister\" while BJP avoids projecting CM face in Bengal. Tamil Nadu sees new political entries including actor Vijay's party TVK.",
-        "signal": "High-stakes state elections could reshape regional political landscape and impact national BJP dominance.",
-        "sources": [
-          "The Hindu",
-          "Times of India",
-          "@PTI_News"
-        ],
-        "source_url": "https://www.thehindu.com/elections/state-assembly-elections-west-bengal-assam-kerala-puducherry-tamil-nadu-live-updates/article70825775.ece",
-        "social_signals": [
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "VIDEO | Assam: Addressing a public gathering in Biswanath, Leader of Opposition in Lok Sabha Rahul Gandhi says, \"Assam has the most corrupt, hate\u2011spreading Chief Minister of India",
-            "score": 54,
-            "url": "https://twitter.com/PTI_News/status/2040689979916259356"
-          },
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "VIDEO | Assam Assembly Elections: \"We will break CM Himanta's 'cage of schemes'; will provide jobs to 3 lakh women,\" says state Congress President",
-            "score": 59,
-            "url": "https://twitter.com/PTI_News/status/2040682781349720325"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 8,
-        "score": 60,
-        "topic": "Artemis Moon Mission Progress",
-        "domain": "corporate",
-        "headline": "Artemis II Crew Approaches Moon Using Eyes as Primary Observation Tool",
-        "summary": "NASA's Artemis II astronauts are two-thirds of the way to the Moon, relying primarily on their eyesight to study lunar surface features during this historic crewed mission. The crew captured spectacular images of Earth from 100,000 miles away as they approach the lunar fly-around.",
-        "signal": "Space exploration milestone demonstrates renewed US space capabilities amid geopolitical tensions.",
-        "sources": [
-          "Times of India",
-          "Al Jazeera",
-          "BBC News",
-          "@AFP"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission",
-        "social_signals": [
-          {
-            "handle": "AFP",
-            "platform": "twitter",
-            "text": "Artemis astronauts to study the Moon using mainly their eyes. Despite the technological advancements since the Apollo missions, NASA still relies on the eyesight",
-            "score": 41,
-            "url": "https://twitter.com/AFP/status/2040675668833305017"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 58,
-        "topic": "Trump Administration Cabinet Changes",
-        "domain": "geopolitics",
-        "headline": "Pam Bondi Ousted as Attorney General Amid Trump Pressure",
-        "summary": "Attorney General Pam Bondi was removed from office after failing to deliver criminal cases against Trump's political enemies, despite thinking she was on safer footing. The Justice Department under Bondi struggled to placate the president's demands for prosecutions of opponents.",
-        "signal": "Trump administration personnel instability continues as president demands loyalty over legal constraints in prosecutorial decisions.",
-        "sources": [
-          "Wall Street Journal",
-          "Associated Press"
-        ],
-        "source_url": "https://www.wsj.com/politics/policy/i-think-its-time-the-inside-story-of-pam-bondis-ouster-c16167d0",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 55,
-        "topic": "OpenAI Leadership Restructuring",
-        "domain": "corporate",
-        "headline": "OpenAI COO Steps Down as AGI CEO Takes Medical Leave",
-        "summary": "OpenAI's chief operating officer is shifting into a new role while two other top executives are going on medical leave, marking major changes to the executive team. The restructuring comes ahead of a potential Wall Street debut as soon as this year.",
-        "signal": "AI industry leader faces leadership instability during critical growth phase and potential IPO preparations.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-03/openai-coo-shifts-out-of-role-agi-ceo-taking-medical-leave",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 52,
-        "topic": "European Energy Security Response",
-        "domain": "europe",
-        "headline": "Europe Revives Nuclear Power Discussion Amid Energy Shock",
-        "summary": "As the Iran war drives up gas and fuel prices, European nations are reconsidering nuclear energy for independence while five countries ask Brussels to tax energy companies benefiting from the crisis. France offers loans to businesses hit by rising fuel costs.",
-        "signal": "Energy crisis accelerates European policy shifts toward nuclear power and windfall taxation of energy companies.",
-        "sources": [
-          "BBC News",
-          "Bloomberg",
-          "Politico Europe"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/c4g8k8vq8gno",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 50,
-        "topic": "Vietnam Economic Slowdown",
-        "domain": "macro",
-        "headline": "Vietnam Growth Slows as Middle East Crisis Raises Energy Costs",
-        "summary": "Vietnam's economic momentum slowed in the first quarter as Middle East tensions drive up energy costs and disrupt global trade routes. The slowdown complicates General Secretary To Lam's push for double-digit growth targets.",
-        "signal": "Regional conflicts create ripple effects across Asian supply chains and growth prospects.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/vietnam-growth-slows-as-rising-energy-costs-feed-uncertainty",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 48,
-        "topic": "Private Credit Market Exodus",
-        "domain": "markets",
-        "headline": "Wealthy Investors Rush for Exits from Private Credit",
-        "summary": "The wealthy investors who powered the private credit boom are now rushing for the exits, marking a significant shift in alternative investment flows. This retreat from private credit markets reflects changing risk perceptions among high-net-worth individuals.",
-        "signal": "Alternative investment market faces liquidity pressure as wealthy investors retreat from private credit exposure.",
-        "sources": [
-          "Wall Street Journal"
-        ],
-        "source_url": "https://www.wsj.com/finance/investing/the-wealthy-investors-that-powered-private-credit-are-rushing-for-the-exits-7a3db81e",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 45,
-        "topic": "Somalia Presidential Security Incident",
-        "domain": "geopolitics",
-        "headline": "Somalian President Survives Mortar Attack in Baidoa",
-        "summary": "Somalian President Hassan Sheikh Mohamud was unharmed after he and his entourage were subjected to a barrage of mortar shells in the southern city of Baidoa. The attack highlights ongoing security challenges in Somalia.",
-        "signal": "Regional security instability persists in East Africa, threatening governance and economic development.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/somalian-president-mohamud-unharmed-in-mortar-attack",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 42,
-        "topic": "Afghanistan Earthquake Tragedy",
-        "domain": "geopolitics",
-        "headline": "Afghanistan Earthquake Kills Eight Family Members, Boy Survives",
-        "summary": "An earthquake in Afghanistan killed eight members of the same family, with only a young injured boy surviving the tremor. The tragedy highlights ongoing natural disaster vulnerabilities in the region.",
-        "signal": "Natural disasters compound humanitarian challenges in already fragile regions lacking disaster preparedness infrastructure.",
-        "sources": [
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      }
-    ],
-    "social_count": 55
   }
 ]
