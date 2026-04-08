@@ -1,5 +1,401 @@
 [
   {
+    "timestamp": "2026-04-08T12:11:03.764459+00:00",
+    "timestamp_ist": "08 Apr 2026 \u00b7 17:41 IST",
+    "story_count": 18,
+    "avg_score": 60,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran Ceasefire Deal",
+        "domain": "geopolitics",
+        "headline": "Trump Announces Two-Week US-Iran Ceasefire Ending 39-Day War",
+        "summary": "President Trump announced a two-week ceasefire with Iran after 39 days of conflict, reopening the Strait of Hormuz and claiming Iran has undergone 'regime change' with many peace points agreed. Markets rallied sharply on relief from the escalation that had threatened global energy supplies and economic stability.",
+        "signal": "Monitor ceasefire compliance and whether this pause leads to permanent resolution or renewed escalation after two weeks.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "The Hindu",
+          "Bloomberg",
+          "Times of India",
+          "@bloomberg.com",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://apnews.com/article/trump-iran-deadline-final-strait-hormuz-1c0894ef4a2c2feaabc326cc68571c33",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Trump's latest TACO move rallied markets, but the two-week US-Iran ceasefire deal still leaves key issues unresolved.",
+            "score": 43,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3miy7rewjyv2v"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Iran hails the pause in hostilities as a 'victory', crediting national unity and patience for the agreement",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miyamakqvl2z"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Trump cites Iran's 10-point plan as a basis for negotiation, signalling potential progress towards long-term peace.",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mixzvgqq7r25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "topic": "Global Markets Rally Ceasefire",
+        "domain": "markets",
+        "headline": "Global Markets Surge on US-Iran Ceasefire Relief",
+        "summary": "Indian markets jumped nearly 4% with Sensex gaining 2,946 points while US futures rose up to 3% on relief from the ceasefire announcement. Oil prices plunged and currencies strengthened as investors welcomed the pause in Middle East tensions.",
+        "signal": "Watch for market sustainability beyond initial relief rally and oil price stabilization around current levels.",
+        "sources": [
+          "Hindu Business",
+          "LiveMint Markets",
+          "NDTV Profit",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://www.thehindu.com/business/markets/sensex-nifty-jump-nearly-4-on-us-iran-ceasefire-correction-in-crude-prices/article70838223.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 78,
+        "topic": "UK Rejects US Iran Strikes",
+        "domain": "geopolitics",
+        "headline": "UK Signals Won't Allow US Bases for Iran Strikes",
+        "summary": "The UK government signaled it won't let the US use British military bases for strikes on Iranian energy or civilian infrastructure after Trump threatened escalation. This highlights alliance strain over military action scope and targeting of civilian infrastructure.",
+        "signal": "Monitor NATO unity and European support for US Middle East operations going forward.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/uk-signals-it-won-t-let-us-use-bases-for-strikes-on-iran-energy",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 75,
+        "topic": "Trump Iran Tariff Threats",
+        "domain": "macro",
+        "headline": "Trump Announces 50% Tariffs on Iran Arms Suppliers",
+        "summary": "Trump announced 50% tariffs on countries supplying weapons to Iran, targeting Russia, China, and North Korea while hinting at sanctions relief for Iran. This marks a significant shift in trade policy linking geopolitical conflicts to economic measures.",
+        "signal": "Watch for retaliatory measures from China and Russia, and impact on global trade flows.",
+        "sources": [
+          "NDTV Profit",
+          "The Hindu"
+        ],
+        "source_url": "https://www.ndtvprofit.com/world/middle-east-conflict-trump-slaps-50-tariffs-on-countries-supplying-arms-to-iran-11328703#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 72,
+        "topic": "Vance Hungary Orban Support",
+        "domain": "geopolitics",
+        "headline": "VP Vance Backs Orban Ahead of Hungary Election",
+        "summary": "US Vice President JD Vance is in Hungary supporting PM Viktor Orban's campaign ahead of a pivotal election, signaling strong Trump administration backing. Orban faces his toughest electoral challenge since taking power in 2010.",
+        "signal": "Hungarian election outcome will indicate European populist momentum and US-EU relations trajectory.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/jd-vance-hungary-orban-election-campaign-08e0929e9c8b3ae4302ae4e8c0393d5e",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 68,
+        "topic": "Universal Music Ackman Takeover",
+        "domain": "corporate",
+        "headline": "Bill Ackman Offers $64B Takeover of Universal Music",
+        "summary": "Bill Ackman's Pershing Square made a $64 billion takeover offer for Universal Music Group, the label behind Taylor Swift and Sabrina Carpenter. This represents one of the largest potential media acquisitions in recent years.",
+        "signal": "Watch for UMG board response and whether this sparks broader consolidation in music industry.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cz0ex432dmyo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 65,
+        "topic": "Indonesia Rupiah Record Lows",
+        "domain": "markets",
+        "headline": "Bank Indonesia Prioritizes Stability as Rupiah Hits Records",
+        "summary": "Indonesia's central bank continues market intervention with stability as 'top priority' following the rupiah's three-day slide to multiple record lows against the dollar. The currency weakness reflects broader emerging market pressures amid global uncertainty.",
+        "signal": "Monitor for potential Indonesian rate hikes or more aggressive intervention if rupiah weakness accelerates.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/bank-indonesia-prioritizes-stability-as-rupiah-hits-record-lows",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 62,
+        "topic": "SpaceX IPO Market Impact",
+        "domain": "markets",
+        "headline": "SpaceX IPO Sparks Record Space ETF Inflows",
+        "summary": "The looming SpaceX market debut sparked record capital inflows into smaller space venture ETFs as investors seek exposure to what could be the biggest listing ever. Space-related investments are seeing unprecedented interest ahead of the Musk company's public offering.",
+        "signal": "Monitor SpaceX IPO timing and pricing for broader space sector investment flows.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/spacex-ipo-boosts-tiny-space-etf-with-record-surge-in-inflows",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "While NASA circles the moon, Elon Musk is trying to launch a $2 trillion SpaceX IPO fueled by AI hype.",
+            "score": 48,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3miy5svjxtu26"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 60,
+        "topic": "Mozambique Bond Restructuring",
+        "domain": "markets",
+        "headline": "Mozambique Bonds Slump on Restructuring Signals",
+        "summary": "Mozambique's dollar bonds fell to almost three-year lows after authorities gave the strongest signal yet of plans to seek debt restructuring talks with creditors. This adds to emerging market debt distress concerns amid global uncertainty.",
+        "signal": "Watch for formal restructuring announcement and contagion effects on other frontier market bonds.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/mozambique-dollar-bonds-slump-to-2023-low-on-restructure-plan",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 58,
+        "topic": "Taiwan Opposition China Meeting",
+        "domain": "geopolitics",
+        "headline": "Taiwan Opposition Leader to Meet Xi Jinping",
+        "summary": "Kuomintang leader Cheng Li-wun's trip to meet China's Xi Jinping could make or break the party's prospects in upcoming Taiwan elections. The diplomatic engagement represents a significant test of cross-strait relations and domestic Taiwanese politics.",
+        "signal": "Monitor Taiwan public reaction and impact on ruling party's electoral prospects.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/7/taiwanese-opposition-leader-to-meet-chinas-xi-in-a-test-of-diplomatic-skill",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 55,
+        "topic": "Istanbul Israeli Consulate Attack",
+        "domain": "geopolitics",
+        "headline": "Three Killed in Shooting Near Israeli Consulate Istanbul",
+        "summary": "Three people were killed in gunfire near the Israeli consulate in Istanbul with two police officers also injured. The incident highlights spillover tensions from Middle East conflicts affecting diplomatic facilities globally.",
+        "signal": "Watch for increased security at Israeli diplomatic missions and potential Turkish response measures.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/7/three-people-killed-in-gun-clash-near-israeli-consulate-in-istanbul",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 52,
+        "topic": "Google Gemini Mental Health",
+        "domain": "corporate",
+        "headline": "Google Adds Mental Health Features to Gemini After Lawsuit",
+        "summary": "Google plans new mental health support features for its Gemini chatbot as the company faces lawsuits accusing AI tools of leading to harm. The move reflects growing scrutiny of AI safety and liability concerns across the industry.",
+        "signal": "Monitor regulatory response and whether other AI companies implement similar safety measures.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/google-adds-mental-health-tools-to-gemini-chatbot-after-lawsuit",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 50,
+        "topic": "Russian Router Hacking Campaign",
+        "domain": "geopolitics",
+        "headline": "Russian GRU Hacked Hundreds of WiFi Routers Worldwide",
+        "summary": "Russia's elite Fancy Bear hacking group spied on military and government targets by compromising hundreds of Wi-Fi routers globally, Western security services revealed. The campaign represents a significant escalation in Russian cyber operations targeting critical infrastructure.",
+        "signal": "Expect increased cybersecurity alerts and router security updates across government and military networks.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/russias-gru-hacked-hundreds-of-wi-fi-routers-world-wide/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Britons warned about Russian hackers targeting internet routers for espionage",
+            "score": 41,
+            "url": "https://bsky.app/profile/theguardian.com/post/3miy7fodllt27"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 48,
+        "topic": "AI Wall Street Analysts",
+        "domain": "corporate",
+        "headline": "Startup Bets AI Can Replace Wall Street Analysts",
+        "summary": "A new startup is betting that artificial intelligence can replace traditional Wall Street analysts, joining the wave of AI disruption targeting white-collar professions. The development reflects broader automation trends in financial services and professional analysis.",
+        "signal": "Monitor adoption by major financial firms and impact on analyst employment and research quality.",
+        "sources": [
+          "The Wall Street Journal"
+        ],
+        "source_url": "https://www.wsj.com/finance/investing/startup-bets-ai-can-replace-wall-street-analysts-too-6a562686?mod=hp_lead_pos11",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 45,
+        "topic": "Australia War Crimes Arrest",
+        "domain": "geopolitics",
+        "headline": "Australia Arrests Ex-Soldier Roberts-Smith for Afghan War Crimes",
+        "summary": "Australian authorities arrested former soldier Ben Roberts-Smith over alleged war crimes after he lost a case against reporters who said he was involved in murders of unarmed Afghan men. The arrest follows years of investigation into Australian military conduct in Afghanistan.",
+        "signal": "Watch for broader Australian military accountability measures and international war crimes precedent impact.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/7/australian-soldier-ben-roberts-smith-arrested-over-alleged-war-crimes",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 43,
+        "topic": "Blackstone Credit Fund Success",
+        "domain": "markets",
+        "headline": "Blackstone Hits $10B Cap for Opportunistic Credit Fund",
+        "summary": "Blackstone raised $10 billion for its latest opportunistic credit fund, signaling sustained institutional investor appetite to capitalize on private debt market upheaval. The successful fundraising reflects continued strength in alternative credit markets despite broader economic uncertainty.",
+        "signal": "Monitor credit market stress levels and opportunities for distressed debt investing.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/blackstone-hits-10-billion-cap-for-opportunistic-credit-fund",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 42,
+        "topic": "KreditBee Unicorn Status",
+        "domain": "corporate",
+        "headline": "KreditBee Raises $280M, Becomes India Unicorn",
+        "summary": "Indian fintech KreditBee raised $280 million in Series E funding at a $1.5 billion valuation, joining the unicorn club. The majority of funds will expand its lending portfolio and explore new financial services, reflecting strong investor confidence in Indian fintech.",
+        "signal": "Watch for Indian fintech sector momentum and regulatory response to rapid lending growth.",
+        "sources": [
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/companies/kreditbee-raises-280-million-unicorn-club-11775572959080.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 40,
+        "topic": "UAE Missile Defense Response",
+        "domain": "geopolitics",
+        "headline": "UAE Intercepts 17 Missiles 35 Drones Wednesday",
+        "summary": "The UAE intercepted 17 ballistic missiles and 35 drones on Wednesday despite the ceasefire announcement, showing continued security threats in the Gulf region. The attacks highlight fragility of the truce and ongoing regional tensions.",
+        "signal": "Monitor ceasefire compliance and Gulf state defensive capabilities amid continued threats.",
+        "sources": [
+          "The National (UAE)"
+        ],
+        "source_url": "https://www.thenationalnews.com/news/uae/2026/04/08/uae-intercepts-17-ballistic-missiles-and-35-drones-in-wednesdays-figures",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire",
+            "score": 40,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3miy6wehsvm2f"
+          },
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "The United Arab Emirates says its air defenses are firing at an incoming Iranian missile barrage. Follow AP's live updates.",
+            "score": 41,
+            "url": "https://bsky.app/profile/apnews.com/post/3miy2dpiprz2l"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 29
+  },
+  {
     "timestamp": "2026-04-08T10:20:16.992608+00:00",
     "timestamp_ist": "08 Apr 2026 \u00b7 15:50 IST",
     "story_count": 18,
@@ -14437,393 +14833,5 @@
       }
     ],
     "social_count": 55
-  },
-  {
-    "timestamp": "2026-04-05T06:22:14.647359+00:00",
-    "timestamp_ist": "05 Apr 2026 \u00b7 06:22 IST",
-    "story_count": 15,
-    "avg_score": 74,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 92,
-        "topic": "US-Iran Military Conflict",
-        "domain": "geopolitics",
-        "headline": "Iran Shoots Down Two US Warplanes, Crew Member Rescued",
-        "summary": "Iran shot down two US military aircraft including an F-15E fighter jet and an A-10, with one crew member rescued in a special forces operation while search continues for another. The downing represents the first successful attack on US military aircraft in over 20 years.",
-        "signal": "Military escalation between US and Iran has reached unprecedented levels, creating severe geopolitical risks for global markets.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "BBC News",
-          "@FirstSquawk",
-          "@AFP",
-          "@AJEnglish"
-        ],
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "\"WE GOT HIM!\" U.S President Donald Trump says the second missing U.S. crew member from downed fighter jet has been rescued",
-            "score": 52,
-            "url": "https://twitter.com/FirstSquawk/status/2040671451083411871"
-          },
-          {
-            "handle": "AFP",
-            "platform": "twitter",
-            "text": "BREAKING Second crew member from US fighter jet that crashed inside Iran is 'SAFE and SOUND', Trump says",
-            "score": 48,
-            "url": "https://twitter.com/AFP/status/2040650080907055221"
-          },
-          {
-            "handle": "cnnbrk",
-            "platform": "twitter",
-            "text": "A missing US service member whose fighter jet was shot down over Iran has been rescued by US forces, President Trump says. Follow live updates:",
-            "score": 48,
-            "url": "https://twitter.com/cnnbrk/status/2040647701327425638"
-          },
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Trump said on Truth Social that a US officer shot down over Iran has been rescued and is \"safe and sound\", describing it as a \"daring\" operation. The officer was injured but is expected to recover.",
-            "score": 48,
-            "url": "https://twitter.com/AJEnglish/status/2040675990918054049"
-          },
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "BREAKING: President Donald Trump says service member rescued in Iran is injured but \"will be just fine\" and that US was monitoring his location. Follow AP's live updates.",
-            "score": 54,
-            "url": "https://bsky.app/profile/apnews.com/post/3mipwiqfrtv2r"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "BREAKING: A US government official has told Al Jazeera that the second crew member from the downed F-15E has been recovered after a \"heavy firefight\".",
-            "score": 59,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mipsymnqvl2h"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 88,
-        "topic": "Strait of Hormuz Blockade",
-        "domain": "geopolitics",
-        "headline": "Iran Blocks Strait of Hormuz, Trump Threatens Reopening",
-        "summary": "Iran has imposed a blockade on the Strait of Hormuz disrupting global oil shipments, while exempting Iraq from restrictions. President Trump claims the US can easily reopen the waterway despite European leaders calling military action unrealistic.",
-        "signal": "Critical oil chokepoint closure threatens global energy security and could trigger military confrontation between major powers.",
-        "sources": [
-          "Wall Street Journal",
-          "BBC News",
-          "South China Morning Post",
-          "@FirstSquawk"
-        ],
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Tehran says Iraq will face no restrictions in waterway, praising country's 'struggle' against the US.",
-            "score": 41,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mippdytd6i22"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 85,
-        "topic": "Energy Price Surge",
-        "domain": "commodities",
-        "headline": "Middle East War Drives Global Energy Costs Higher",
-        "summary": "Escalating tensions in the Middle East are driving up energy costs globally, with US fuel prices surging over a dollar and companies implementing surcharges. European airports face jet fuel shortages while Australia announces emergency loans for businesses affected by energy shock.",
-        "signal": "Energy supply disruptions are creating inflationary pressures that could derail economic recovery and force central bank policy adjustments.",
-        "sources": [
-          "Bloomberg",
-          "Times of India",
-          "BBC News",
-          "@ETNOWlive",
-          "@MarioNawfal",
-          "@Polymarket"
-        ],
-        "social_signals": [
-          {
-            "handle": "ETNOWlive",
-            "platform": "twitter",
-            "text": "6-month HIGH! Global food prices to go up further if Iran war drags on; here's what FAO said",
-            "score": 49,
-            "url": "https://twitter.com/ETNOWlive/status/2040653067557966115"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf7 Italy is now seeing fuel strain caused by the Iran war, with airports in Bologna, Milan Linate, Treviso, and Venice limiting jet fuel availability for flights.",
-            "score": 40,
-            "url": "https://twitter.com/MarioNawfal/status/2040668757685920251"
-          },
-          {
-            "handle": "Polymarket",
-            "platform": "twitter",
-            "text": "JUST IN: Australia will provide up to A$1 billion in interest-free loans to critical businesses due to the energy shock.",
-            "score": 43,
-            "url": "https://twitter.com/Polymarket/status/2040664227782725812"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 4,
-        "score": 82,
-        "topic": "Gulf States Under Attack",
-        "domain": "geopolitics",
-        "headline": "Iranian Drones Strike UAE and Bahrain Energy Facilities",
-        "summary": "Iran launched missile and drone attacks on Gulf states including strikes on UAE's Habshan gas facility and Bahrain's Bapco energy storage, causing significant damage. Kuwait's power plants and water desalination facilities were also hit in the escalating regional conflict.",
-        "signal": "Iranian attacks on Gulf energy infrastructure threaten regional stability and global energy supplies beyond the Strait of Hormuz.",
-        "sources": [
-          "Al Jazeera English",
-          "The Hindu",
-          "The National (UAE)",
-          "Middle East Eye",
-          "@FirstSquawk"
-        ],
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "Bahrain reports that an Iranian drone targeted one of BAPCO Energies' storage facilities, with no casualties reported.",
-            "score": 46,
-            "url": "https://twitter.com/FirstSquawk/status/2040662493668970953"
-          },
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "Bapco Energies confirms an incident occurred at one of its storage facilities earlier today resulting in a tank fire, as a result of a hostile Iranian drone attack. The fire has been fully extinguished",
-            "score": 45,
-            "url": "https://twitter.com/FirstSquawk/status/2040670668338172152"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 5,
-        "score": 80,
-        "topic": "NATO Alliance Strain",
-        "domain": "geopolitics",
-        "headline": "US-Europe Alliance Reaches Breaking Point Over Iran War",
-        "summary": "Trans-Atlantic ties are reportedly reaching a breaking point over the Iran war, with President Trump reportedly considering backing out of NATO. European leaders oppose military action to reopen the Strait of Hormuz, preferring international pressure instead.",
-        "signal": "NATO unity fractures could fundamentally reshape Western alliance structures and global security architecture.",
-        "sources": [
-          "Wall Street Journal",
-          "@FirstSquawk"
-        ],
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "US-Europe alliance is reportedly reaching a \"breaking point\" over the Iran War, and President Trump has \"mused\" to aides about backing out of NATO, per WSJ.",
-            "score": 60,
-            "url": "https://twitter.com/FirstSquawk/status/2040672229873377623"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 6,
-        "score": 78,
-        "topic": "Trump Defense Budget Boost",
-        "domain": "geopolitics",
-        "headline": "Trump Seeks Record $1.5 Trillion Defense Spending Amid War",
-        "summary": "President Trump is unveiling his 2027 budget requesting $1.5 trillion in defense spending, the largest in decades, while cutting non-defense spending by 10%. The wartime budget reflects escalating military commitments in the Iran conflict.",
-        "signal": "Massive defense spending increase signals prolonged military engagement and potential fiscal pressure on US government finances.",
-        "sources": [
-          "Associated Press",
-          "BBC News",
-          "Bloomberg"
-        ],
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 75,
-        "topic": "Private Credit Market Exit",
-        "domain": "markets",
-        "headline": "Wealthy Investors Rush to Exit Private Credit Markets",
-        "summary": "Wealthy investors who powered the private credit boom are now rushing for exits amid market uncertainty. The exodus reflects concerns about asset quality and liquidity in the rapidly grown alternative lending sector.",
-        "signal": "Major capital flight from private credit could trigger broader alternative investment market stress and reduce corporate financing options.",
-        "sources": [
-          "Wall Street Journal"
-        ],
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 73,
-        "topic": "Vietnam Economic Slowdown",
-        "domain": "macro",
-        "headline": "Vietnam Growth Slows as Middle East Crisis Hits",
-        "summary": "Vietnam's economic momentum slowed in the first quarter as escalating Middle East tensions drive up energy costs and disrupt trade routes. The slowdown complicates leadership ambitions for double-digit growth.",
-        "signal": "Regional economic contagion from Middle East conflict spreading to Asian manufacturing hubs, threatening supply chain stability.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 71,
-        "topic": "OpenAI Executive Reshuffle",
-        "domain": "corporate",
-        "headline": "OpenAI COO Steps Down, AGI CEO Takes Medical Leave",
-        "summary": "OpenAI's chief operating officer is shifting roles while two other top executives go on medical leave, marking major changes ahead of a potential IPO. The executive reshuffling comes as the AI company prepares for a possible Wall Street debut this year.",
-        "signal": "Leadership instability at AI sector leader could impact investor confidence in artificial intelligence market valuations.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 70,
-        "topic": "Italy Economic Downturn",
-        "domain": "europe",
-        "headline": "Bank of Italy Cuts Growth Forecast to 0.5%",
-        "summary": "The Bank of Italy lowered the country's economic growth forecast for this year and next to 0.5% due to the impact of the US war on Iran. The downgrade reflects broader European economic vulnerability to Middle East conflicts.",
-        "signal": "European economic growth projections deteriorating as geopolitical risks materialize into measurable GDP impacts.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 68,
-        "topic": "Trump College Sports Order",
-        "domain": "corporate",
-        "headline": "Trump Signs Executive Order Targeting College Athletics",
-        "summary": "President Trump signed an executive order aimed at restoring order to college sports, using federal funding as leverage. The order addresses transfer rules, eligibility and pay-for-play issues in the multibillion-dollar industry.",
-        "signal": "Federal intervention in college sports could reshape athletic department revenues and university financing models.",
-        "sources": [
-          "Associated Press",
-          "Bloomberg"
-        ],
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 66,
-        "topic": "Pam Bondi Attorney General Ouster",
-        "domain": "geopolitics",
-        "headline": "Attorney General Bondi Out After Failing Trump Prosecutions",
-        "summary": "Pam Bondi has been ousted as attorney general after failing to deliver criminal cases against President Trump's political enemies. The Justice Department struggles to meet presidential expectations for prosecuting opponents.",
-        "signal": "Political prosecutions agenda stalling could impact Trump administration's domestic policy effectiveness and legal strategy.",
-        "sources": [
-          "Associated Press",
-          "Wall Street Journal"
-        ],
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 65,
-        "topic": "India Assembly Elections 2026",
-        "domain": "india",
-        "headline": "Modi Launches BJP Campaign for West Bengal Elections",
-        "summary": "Prime Minister Modi is launching BJP's campaign for West Bengal Assembly elections from Cooch Behar, while DMK's Stalin calls party manifesto the 'superstar of 2026 election'. Multiple states are heading to polls with high stakes for regional power.",
-        "signal": "Major Indian state elections could reshape political landscape and policy direction for world's largest democracy.",
-        "sources": [
-          "The Hindu",
-          "@PTI_News"
-        ],
-        "social_signals": [
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "Superstar of 2026 Assembly election is DMK manifesto, says CM Stalin in Virudhunagar",
-            "score": 50,
-            "url": "https://twitter.com/PTI_News/status/2040670289642860903"
-          },
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "VIDEO | Assam polls: Assam BJP president Dilip Saikia says, \"BJP will secure a historic mandate in the 2026 polls. Infiltration will be completely removed from Assam\"",
-            "score": 59,
-            "url": "https://twitter.com/PTI_News/status/2040671374487019896"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 63,
-        "topic": "Pakistan-India Tensions",
-        "domain": "geopolitics",
-        "headline": "Pakistan Threatens to Strike Kolkata Amid Regional Crisis",
-        "summary": "Pakistan's Defense Minister Khawaja Asif issued fresh warnings to India, threatening to strike Kolkata. The escalation comes as Pakistan drastically hikes fuel prices despite its mediator role in the Iran war.",
-        "signal": "South Asian nuclear powers tensions rising amid broader Middle East conflict could create dangerous multi-front crisis.",
-        "sources": [
-          "Economic Times",
-          "Nikkei Asia",
-          "@ETNOWlive"
-        ],
-        "social_signals": [
-          {
-            "handle": "ETNOWlive",
-            "platform": "twitter",
-            "text": "'Will strike Kolkata if...': Pakistan's fresh WARNING to India; Here's what defence minister Khawaja Asif said",
-            "score": 50,
-            "url": "https://twitter.com/ETNOWlive/status/2040651842775077237"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 15,
-        "score": 61,
-        "topic": "Artemis Moon Mission Progress",
-        "domain": "geopolitics",
-        "headline": "NASA Artemis Crew Takes Spectacular Earth Photos En Route",
-        "summary": "Artemis II crew captured stunning images of Earth from their Orion capsule as they head toward the Moon, about 100,000 miles from Earth. The mission marks significant progress in NASA's lunar exploration program despite budget pressures.",
-        "signal": "Space program advances continue amid geopolitical turmoil, potentially offering strategic advantages and technological leadership.",
-        "sources": [
-          "Al Jazeera English",
-          "BBC News",
-          "@AFP"
-        ],
-        "social_signals": [
-          {
-            "handle": "AFP",
-            "platform": "twitter",
-            "text": "Artemis astronauts to study the Moon using mainly their eyes Despite the technological advancements since the Apollo missions, NASA still relies on the eyesight of its astronauts to learn more about",
-            "score": 41,
-            "url": "https://twitter.com/AFP/status/2040675668833305017"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      }
-    ],
-    "social_count": 61
   }
 ]
