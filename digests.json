@@ -1,5 +1,406 @@
 [
   {
+    "timestamp": "2026-04-08T04:16:16.963005+00:00",
+    "timestamp_ist": "08 Apr 2026 \u00b7 09:46 IST",
+    "story_count": 15,
+    "avg_score": 64,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 90,
+        "topic": "US-Iran Ceasefire Agreement",
+        "domain": "geopolitics",
+        "headline": "Trump Announces Two-Week Iran Ceasefire Before Attack Deadline",
+        "summary": "The US and Iran have agreed to a conditional two-week ceasefire ahead of Trump's Tuesday deadline, with Pakistan mediating the breakthrough deal. Iran must reopen the Strait of Hormuz for safe passage while both sides prepare for diplomatic talks starting April 10 in Islamabad.",
+        "signal": "Global markets surge on reduced war premium, but fragile truce could collapse if diplomatic talks fail or Hormuz remains restricted.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "The Hindu",
+          "Al Jazeera",
+          "@reuters.com",
+          "@apnews.com"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-6-2026-87b62d531d3290fde5255077179bd3b5",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Israel backs the U.S. ceasefire with Iran, but that deal doesn't cover fighting against Hezbollah in Lebanon, Netanyahu says.",
+            "score": 45,
+            "url": "https://bsky.app/profile/apnews.com/post/3mixczl3t4i2z"
+          },
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Oil slides below $100 after Trump announces two-week ceasefire reut.rs/4c2wMdK",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mixe57ds7j2i"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "The US and Iran agreed to a two-week conditional ceasefire after a last-minute diplomatic intervention led by Pakistan, canceling an ultimatum from Donald Trump for Iran to surrender or face widespread",
+            "score": 34,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mixcgwkmvd2n"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire https://aje.news/qp69ar",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mix734p6qm25"
+          },
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306eSNS\u6295\u7a3f\u5168\u6587\u3001\u30a4\u30e9\u30f3\u3068\u5373\u6642\u505c\u6226\u3067\u5408\u610f www.nikkei.com/article/DGXZQO... \u30c8\u30e9\u30f3\u30d7\u6c0f\u306f\u300c\u79c1\u306f2\u9031\u9593\u306b\u308f\u305f\u308a\u30a4\u30e9\u30f3\u3078\u306e\u7206\u6483\u3068\u653b\u6483\u306e\u4e00\u6642\u505c\u6b62\u306b\u540c\u610f\u3059\u308b\u300d\u3068\u8868\u660e\u3002",
+            "score": 40,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mixezxj4v72j"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 87,
+        "topic": "Global Markets Iran Rally",
+        "domain": "markets",
+        "headline": "Asian Markets Surge as Oil Crashes on Iran Ceasefire",
+        "summary": "Global markets rallied sharply as oil prices plunged below $100 per barrel following the US-Iran ceasefire announcement. Indian markets led gains with Sensex jumping 2,800 points and Nifty crossing 24,000, while crude-sensitive stocks like airlines and refiners surged.",
+        "signal": "Risk-on rally accelerates if ceasefire holds, but energy volatility remains elevated given fragile diplomatic framework and potential breakdown risks.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Times of India",
+          "LiveMint",
+          "NDTV",
+          "@bloomberg.com"
+        ],
+        "source_url": "https://asia.nikkei.com/business/markets/asian-stocks-surge-and-oil-falls-on-us-iran-ceasefire",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Investor reactions to Trump agreeing to two-week ceasefire with Iran reut.rs/4mdNtYp",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mixeofou5g2u"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "\ud83d\udea8 LIVE BLOG: Oil slumps the most in almost six years and stocks surge after the US and Iran agree to a two-week ceasefire.",
+            "score": 38,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3miwzxh2rb42s"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "topic": "Strait Hormuz Reopening Deal",
+        "domain": "commodities",
+        "headline": "Iran Opens Hormuz Strait Under Fee-Based Transit System",
+        "summary": "Iran agreed to reopen the Strait of Hormuz for safe passage under the ceasefire, with Iran and Oman authorized to charge transit fees. The critical energy chokepoint had been blocked, threatening 25% of global energy supplies and driving oil prices to record levels.",
+        "signal": "Energy supply chains stabilize temporarily, but fee structure creates new cost pressures and dependency risks if diplomatic talks collapse.",
+        "sources": [
+          "Bloomberg",
+          "BBC News",
+          "Al Jazeera",
+          "Middle East Eye",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/new-security-council-draft-on-hormuz-eases-off-threats-of-force",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Iran has said that safe passage through Hormuz will be possible through coordination with its armed forces.",
+            "score": 41,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mixcgffuqs2p"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 76,
+        "topic": "Lebanon War Exclusion",
+        "domain": "geopolitics",
+        "headline": "Netanyahu: Iran Ceasefire Excludes Lebanon Fighting",
+        "summary": "Israeli Prime Minister Netanyahu clarified that while Israel supports the US-Iran ceasefire, the agreement does not cover ongoing military operations against Hezbollah in Lebanon. Israeli forces reportedly continued shelling southern Lebanon after the ceasefire announcement.",
+        "signal": "Regional conflict risk remains elevated as Lebanon front stays active, potentially undermining broader Middle East stability despite Iran truce.",
+        "sources": [
+          "Indian Express",
+          "The National",
+          "Middle East Eye",
+          "@apnews.com"
+        ],
+        "source_url": "https://indianexpress.com/article/world/israelis-netanyahu-backs-trump-ceasefire-deal-with-iran-agreement-does-not-include-lebanon-10624830/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Israel backs the U.S. ceasefire with Iran, but that deal doesn't cover fighting against Hezbollah in Lebanon, Netanyahu says.",
+            "score": 45,
+            "url": "https://bsky.app/profile/apnews.com/post/3mixczl3t4i2z"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 5,
+        "score": 73,
+        "topic": "Iran Nuclear Enrichment Dispute",
+        "domain": "geopolitics",
+        "headline": "Iran Ceasefire Texts Show Enrichment Discrepancies",
+        "summary": "Discrepancies emerged between Persian and English versions of Iran's ceasefire proposal, with the Farsi text including \"acceptance of enrichment\" - a key sticking point missing from English versions. Trump claimed Iran's uranium program would be \"perfectly taken care of\" under the deal.",
+        "signal": "Nuclear verification disputes could derail talks before they begin, especially if Iran insists on uranium enrichment rights as deal prerequisite.",
+        "sources": [
+          "Associated Press",
+          "Middle East Eye",
+          "@apnews.com"
+        ],
+        "source_url": "https://apnews.com/article/trump-iran-power-plants-civilian-war-crimes-88b8ca1bc8e5cc8adabaf6c34e93e597",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Iran includes \"acceptance of enrichment\" in the Farsi version of its ceasefire plan, something missing from English versions.",
+            "score": 45,
+            "url": "https://bsky.app/profile/apnews.com/post/3mix72jaa6r2g"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 6,
+        "score": 69,
+        "topic": "Copper Supply Chain Impact",
+        "domain": "commodities",
+        "headline": "Goldman Warns Copper Vulnerable Despite Iran Ceasefire",
+        "summary": "Goldman Sachs warned copper remains vulnerable to further declines if Middle East tensions resume, as metals markets had been bracing for prolonged supply disruptions. The bank highlighted ongoing risks to global commodity flows despite the temporary truce.",
+        "signal": "Industrial metals face continued volatility premium as ceasefire durability uncertain; supply chain hedging costs remain elevated.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/goldman-warns-on-copper-as-iran-war-threatens-global-economy",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 66,
+        "topic": "Pakistan Diplomatic Mediation Success",
+        "domain": "geopolitics",
+        "headline": "Pakistan Brokers US-Iran Ceasefire as Regional Power",
+        "summary": "Pakistan successfully mediated the US-Iran ceasefire breakthrough, with talks scheduled to begin Friday in Islamabad. Iran thanked Pakistan for its diplomatic efforts, while PM Sharif invited both nations for further peace negotiations in the Pakistani capital.",
+        "signal": "Pakistan emerges as critical Middle East mediator, potentially enhancing its regional influence and economic prospects amid US-China tensions.",
+        "sources": [
+          "The Hindu",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistan-succeeds-in-avoiding-doomsday-scenario-through-us-iran-ceasefire",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 63,
+        "topic": "Asian Energy Supply Relief",
+        "domain": "commodities",
+        "headline": "Asian Nations Secure Hormuz Energy Transit Agreements",
+        "summary": "Asian countries heavily reliant on Middle East energy secured agreements for continued transit through the Strait of Hormuz during the ceasefire period. Nations had been scrambling to secure alternative energy supplies as their economies depend heavily on the critical shipping route.",
+        "signal": "Energy security improves temporarily for Asia-Pacific region, but structural vulnerability to chokepoint disruptions remains unaddressed.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c79jqx1xdy9o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 58,
+        "topic": "Artemis II Lunar Record",
+        "domain": "geopolitics",
+        "headline": "Artemis II Breaks Distance Record During Moon Flyby",
+        "summary": "The Artemis II crew completed their record-breaking lunar mission, surpassing Apollo 13's distance milestone during their flyby around the moon's far side. The mission included capturing a solar eclipse and spotting Mars during the historic journey.",
+        "signal": "US space leadership demonstration continues amid geopolitical tensions, potentially influencing technology cooperation agreements in post-conflict negotiations.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera",
+          "Times of India"
+        ],
+        "source_url": "https://apnews.com/article/artemis-moon-nasa-lunar-flyby-fac19b4b1676af2717adafa992f32be4",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 56,
+        "topic": "Intelligence Warning Report",
+        "domain": "geopolitics",
+        "headline": "Exclusive Intel Report Warned of Iran Threat",
+        "summary": "A Reuters exclusive revealed an intelligence report that warned of Iran's \"persistent threat\" to the US, even as the White House had been downplaying the risk before the conflict escalated. The report highlights pre-war intelligence gaps that may have contributed to the crisis.",
+        "signal": "Intelligence community credibility questions could influence Congressional oversight and future Middle East policy formulation post-ceasefire.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Reuters exclusive suggests intelligence warnings were ignored, potentially impacting policy accountability discussions.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Exclusive: Intelligence report warned of Iran's 'persistent threat' to US as White House downplayed the risk reut.rs/4cdQNOE",
+            "score": 56,
+            "url": "https://bsky.app/profile/reuters.com/post/3mixfac5hb72d"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 11,
+        "score": 54,
+        "topic": "Vietnam Political Consolidation",
+        "domain": "geopolitics",
+        "headline": "Vietnam's To Lam Consolidates Power as President",
+        "summary": "Vietnam's National Assembly elected Communist Party chief To Lam as president, consolidating party and state roles in a rare concentration of power. The move positions Lam to tighten control and tackle economic headwinds facing the Southeast Asian nation.",
+        "signal": "Vietnam political stability strengthens amid regional tensions, potentially enhancing its role as China alternative for supply chain diversification.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/vietnam-s-to-lam-secures-presidency-tightening-grip-on-power",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 51,
+        "topic": "SEC Enforcement Surge",
+        "domain": "markets",
+        "headline": "SEC Fines Double to Record $17.9 Billion",
+        "summary": "SEC fines and investor relief doubled to $17.9 billion in fiscal 2025, driven by enforcement actions at the end of the Biden administration. The surge in penalties likely won't continue under changing regulatory priorities in the Trump administration.",
+        "signal": "Regulatory enforcement policy shift expected under Trump, potentially reducing compliance costs but increasing market oversight uncertainty.",
+        "sources": [
+          "@bloomberg.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Significant regulatory enforcement data that could signal policy direction changes affecting corporate compliance costs.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "SEC fines and investor relief doubled to $17.9 billion in the 2025 fiscal year, a surge bolstered by enforcement actions at the end of the Biden administration that likely won't continue as priorities",
+            "score": 57,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mix3qev7ql2v"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 13,
+        "score": 48,
+        "topic": "Korea-North Relations Thaw",
+        "domain": "geopolitics",
+        "headline": "Kim Jong Un Praises South Korea's Drone Apology",
+        "summary": "North Korean leader Kim Jong Un offered rare praise for South Korean President Lee Jae Myung after Lee expressed regret over drone incidents involving South Korean citizens. The diplomatic gesture signals potential de-escalation on the Korean Peninsula.",
+        "signal": "Korean Peninsula tensions may ease during broader regional diplomatic reset, creating opportunities for economic cooperation and reduced defense spending.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-07/kim-jong-un-praises-south-korea-s-lee-for-apology-over-drones",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 45,
+        "topic": "Australian War Crimes Arrest",
+        "domain": "geopolitics",
+        "headline": "Australian Soldier Ben Roberts-Smith Arrested for War Crimes",
+        "summary": "Ben Roberts-Smith, who previously lost a landmark defamation case over alleged murders, was arrested on war crimes charges. The decorated soldier denies all wrongdoing in what represents a significant development in Australia's military justice system.",
+        "signal": "Military accountability precedent may influence international war crimes prosecutions and defense contractor oversight standards globally.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/crr1jyk0qwjo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 42,
+        "topic": "UN Iran Peace Mission",
+        "domain": "geopolitics",
+        "headline": "UN Envoy Plans Iran Visit for Peace Efforts",
+        "summary": "A UN envoy is planning to visit Iran as part of broader peace efforts following the ceasefire announcement. The diplomatic mission aims to support the fragile truce and facilitate longer-term conflict resolution.",
+        "signal": "Multilateral diplomacy engagement increases ceasefire durability prospects but also adds complexity to bilateral US-Iran negotiations.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "UN involvement could provide additional diplomatic support for maintaining the ceasefire beyond the two-week window.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "UN envoy plans to visit Iran as part of peace effort reut.rs/4chqFm5",
+            "score": 42,
+            "url": "https://bsky.app/profile/reuters.com/post/3mixge3jvsc2l"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-07T20:08:41.425824+00:00",
     "timestamp_ist": "08 Apr 2026 \u00b7 01:38 IST",
     "story_count": 20,
