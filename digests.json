@@ -1,5 +1,425 @@
 [
   {
+    "timestamp": "2026-04-09T10:43:57.237992+00:00",
+    "timestamp_ist": "09 Apr 2026 \u00b7 16:13 IST",
+    "story_count": 16,
+    "avg_score": 62,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran Ceasefire Deal",
+        "domain": "geopolitics",
+        "headline": "Trump Secures Two-Week Iran Ceasefire Amid Fragile Peace Terms",
+        "summary": "The US, Iran, and Israel agreed to a provisional two-week ceasefire ending 40 days of conflict, with Trump citing Iran's 10-point plan as basis for future negotiations. The truce comes with conditions including safe transit through Hormuz Strait, though Netanyahu clarified it excludes Lebanon operations.",
+        "signal": "Monitor ceasefire compliance and oil price volatility as markets remain skeptical of durability given ongoing Israeli strikes in Lebanon.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera",
+          "Bloomberg",
+          "BBC News",
+          "@reuters.com",
+          "@apnews.com",
+          "@aljazeera.com",
+          "@nikkei.com"
+        ],
+        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Lebanon must be covered by ceasefire agreement, French foreign minister says",
+            "score": 52,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj2mme4zri2d"
+          },
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "The chief of the Atomic Energy Organization of Iran says protecting Tehran's right to enrich uranium is \"necessary\" for any ceasefire talks",
+            "score": 44,
+            "url": "https://bsky.app/profile/apnews.com/post/3mj2jrsmbqe2g"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Lebanon bears the brunt and US-Iran truce at risk as Israel claims killing of a close aide to Hezbollah's leader",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj2kedwii72p"
+          },
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u505c\u6226\u6761\u4ef6\u306e\u8a8d\u8b58\u30ba\u30ec\u3001\u30a4\u30e9\u30f3\u300c\u30a2\u30e1\u30ea\u30ab\u304c\u5408\u610f\u9055\u53cd\u300d\u3000\u30ec\u30d0\u30ce\u30f3\u30fb\u6838\u5de1\u308a\u5bfe\u7acb",
+            "score": 35,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mj2ipyclfg2u"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "topic": "Market Response Ceasefire",
+        "domain": "markets",
+        "headline": "Global Markets Whipsaw on Iran Ceasefire Uncertainty",
+        "summary": "European bonds surged and oil prices dropped initially on ceasefire news, but Indian markets crashed over 900 points as investors remained skeptical. Malaysian importers bought dollars while major funds piled into Treasuries and AI stocks betting war risks have peaked.",
+        "signal": "Watch for continued volatility as markets test ceasefire durability against ongoing Middle East tensions.",
+        "sources": [
+          "Bloomberg",
+          "NDTV",
+          "Times of India",
+          "LiveMint"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-08/big-funds-pile-into-treasuries-ai-stocks-as-iran-war-risks-fade",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Trump is pressing allies to turn Hormuz pledges into plans within days. The real question is who shows up to secure the world's most critical chokepoint",
+            "score": 34,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj2m2l725525"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 80,
+        "topic": "Lebanon Israeli Strikes",
+        "domain": "geopolitics",
+        "headline": "Israeli Strikes Kill 250 in Lebanon Despite Ceasefire",
+        "summary": "Israel killed Hezbollah chief's nephew Ali Yusuf Harshi and at least 250 others in Lebanon strikes, with Netanyahu stating the US-Iran ceasefire excludes Lebanese operations. The attacks threaten the fragile two-week truce announced just hours earlier.",
+        "signal": "Ceasefire credibility at risk as Israeli operations continue outside Iran proper - watch for Iranian response.",
+        "sources": [
+          "Times of India",
+          "Indian Express",
+          "Al Jazeera",
+          "Middle East Eye"
+        ],
+        "source_url": "https://indianexpress.com/article/world/iran-us-war-ceasefire-teeters-as-israeli-strikes-kill-250-in-lebanon-hezbollah-chiefs-nephew-dead-10627447/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Lebanon bears the brunt and US-Iran truce at risk as Israel claims killing of a close aide to Hezbollah's leader",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj2kedwii72p"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 75,
+        "topic": "Hormuz Strait Security",
+        "domain": "geopolitics",
+        "headline": "UK Rejects Trump Tolls on Hormuz Strait",
+        "summary": "Britain campaigns for free navigation in the Strait of Hormuz as Trump considers implementing tolls on the critical oil chokepoint. The UK warns against countries unilaterally applying tolls on international transit routes while pressing allies to secure the waterway.",
+        "signal": "Hormuz toll implementation could reshape global oil trade economics - monitor allied coordination efforts.",
+        "sources": [
+          "The National",
+          "Politico Europe",
+          "@bloomberg.com"
+        ],
+        "source_url": "https://www.thenationalnews.com/news/uk/2026/04/09/uk-campaigns-for-free-navigation-in-strait-of-hormuz-as-trump-calls-for-tolls/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Trump is pressing allies to turn Hormuz pledges into plans within days. The real question is who shows up to secure the world's most critical chokepoint",
+            "score": 34,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj2m2l725525"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 73,
+        "topic": "China-Iran Dollar Challenge",
+        "domain": "macro",
+        "headline": "Iran-China Target Dollar Hegemony Through Hormuz Trade",
+        "summary": "Tehran and Beijing are boosting the Chinese yuan's status in Strait of Hormuz trade, challenging US dollar dominance as roughly one-fifth of global oil and gas passes through the waterway. The partnership aims to reduce dependence on dollar-denominated transactions.",
+        "signal": "Watch for accelerated de-dollarization in energy markets if Iran-China cooperation deepens post-ceasefire.",
+        "sources": [
+          "Al Jazeera",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.aljazeera.com/economy/2026/4/8/in-strait-of-hormuz-iran-and-china-take-aim-at-us-dollar-hegemony",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 70,
+        "topic": "UK-Russia Submarine Operations",
+        "domain": "geopolitics",
+        "headline": "UK Navy Deters Russian Submarines in Atlantic",
+        "summary": "British and Norwegian militaries led an operation to deter Russian submarines suspected of malign activity in the North Atlantic, UK defense minister confirms. The operation targeted underwater cable surveillance activities amid heightened tensions.",
+        "signal": "Escalating hybrid warfare concerns as Russia probes critical infrastructure during Middle East distraction.",
+        "sources": [
+          "Associated Press",
+          "@apnews.com",
+          "@theguardian.com"
+        ],
+        "source_url": "https://apnews.com/article/trump-iran-ceasefire-strait-hormuz-eddbcc14e06a6dcb5c7cc41021120fa8",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: The U.K. says the British and Norwegian militaries led an operation to deter Russian submarines suspected of \"malign activity\" in the north Atlantic",
+            "score": 48,
+            "url": "https://bsky.app/profile/apnews.com/post/3mj2lte5vfg2x"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "UK navy foiled Russian submarines surveying undersea cables, defence minister says",
+            "score": 47,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mj2luzo5462k"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 7,
+        "score": 68,
+        "topic": "Asia Security Vacuum",
+        "domain": "geopolitics",
+        "headline": "Japan-Australia Warn Asia Neglected Amid Iran Focus",
+        "summary": "Defense ministers of Japan and Australia warn of security vacuum in Indo-Pacific region as global attention focuses on Middle East tensions. North Korea's latest missile launch highlights neglected Asian security challenges requiring attention.",
+        "signal": "Monitor for opportunistic moves by North Korea and China while US resources focused on Middle East.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-08/japan-australia-warn-of-asia-security-vacuum-with-focus-on-iran",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 65,
+        "topic": "China-North Korea Diplomacy",
+        "domain": "geopolitics",
+        "headline": "China's Top Envoy Visits North Korea First Time Since 2019",
+        "summary": "Chinese Foreign Minister Wang Yi will visit North Korea this week, his first trip in over six years as Beijing and Pyongyang strengthen ties amid rising geopolitical uncertainty. The visit signals deeper China-DPRK coordination during regional tensions.",
+        "signal": "Enhanced China-North Korea alignment could complicate US strategic positioning in Asia.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-08/china-s-top-envoy-to-visit-north-korea-for-first-time-since-2019",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 62,
+        "topic": "Turkey Italy Defense Deal",
+        "domain": "geopolitics",
+        "headline": "Turkey Seeks Italian Missile Defense After Iran Threat",
+        "summary": "Turkey enters talks with Italy to buy and co-produce European missile-defense systems following missile threats from Iran during the recent conflict. The deal represents Turkey's pivot toward European defense partnerships amid regional security concerns.",
+        "signal": "European defense industry benefits from Middle East tensions as regional powers seek protection systems.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-08/turkey-seeks-missile-defense-system-from-italy-after-iran-threat",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 60,
+        "topic": "ECB Adverse Scenario",
+        "domain": "macro",
+        "headline": "Iran War Pushing Europe Toward ECB Worst-Case Scenario",
+        "summary": "ECB Governing Council member Simkus warns the Iran war is moving the euro-area economy closer to the central bank's adverse scenario. European builders face record cost inflation acceleration as war drives up fuel and raw material prices.",
+        "signal": "ECB may need to recalibrate monetary policy if war impact persists beyond current ceasefire.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-08/simkus-says-situation-is-moving-toward-ecb-s-adverse-scenario",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 58,
+        "topic": "India Elections 2026",
+        "domain": "india",
+        "headline": "High-Stakes Voting Underway in Kerala, Assam, Puducherry",
+        "summary": "Assembly elections proceed across three Indian states with 59% turnout in Assam, nearly 50% in Kerala, and 56% in Puducherry as of latest counts. Key battles involve BJP expansion efforts against regional parties in crucial swing states.",
+        "signal": "Results will indicate BJP's momentum ahead of national polls and regional party resilience.",
+        "sources": [
+          "NDTV",
+          "The Hindu",
+          "Economic Times"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 55,
+        "topic": "TCS Q4 Results",
+        "domain": "corporate",
+        "headline": "TCS Posts 12% Profit Jump in Q4 2026",
+        "summary": "Tata Consultancy Services reported 12.2% year-on-year rise in Q4 consolidated profit to \u20b913,718 crore, beating expectations despite mixed demand environment. The IT major showed resilience amid global economic uncertainties and client budget constraints.",
+        "signal": "Strong TCS results suggest Indian IT sector weathering global headwinds better than expected.",
+        "sources": [
+          "LiveMint",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/tcs-q4-results-2026-highlights-revenue-profit-deal-wins-dividend-5-key-takeaways-from-march-quarter-earnings-11775729268215.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 49,
+        "topic": "Pakistan Ceasefire Role",
+        "domain": "geopolitics",
+        "headline": "Trump Hails Pakistan as Iran Ceasefire Mediator",
+        "summary": "President Trump and global officials praised Pakistan for its peacemaker role in facilitating the US-Israel-Iran ceasefire, though India's response remains lukewarm. The development elevates Pakistan's diplomatic standing in regional conflict resolution.",
+        "signal": "Watch for shifts in South Asian power dynamics as Pakistan gains diplomatic capital.",
+        "sources": [
+          "@bloomberg.com"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Donald Trump and top officials around the world hailed Islamabad for its role as peacemaker in the US-Israel war against Iran. The response in New Delhi has been lukewarm",
+            "score": 49,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj2jfalxsv2s"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 14,
+        "score": 40,
+        "topic": "Australia Iran War Impact",
+        "domain": "commodities",
+        "headline": "Australia Underwrites Fuel Purchases Amid Supply Disruption",
+        "summary": "Australia agreed to underwrite companies buying fuel at inflated prices as Prime Minister Albanese warns of extended supply disruptions even if Iran ceasefire holds. The move signals long-term energy security concerns despite temporary truce.",
+        "signal": "Monitor Australian energy policy shifts as potential template for allied responses to supply chain vulnerabilities.",
+        "sources": [
+          "@apnews.com"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Australia has agreed to underwrite two companies buying fuel at inflated prices, with Prime Minister Anthony Albanese warning of extended supply disruptions",
+            "score": 40,
+            "url": "https://bsky.app/profile/apnews.com/post/3mj2m2lbtlu2n"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 36,
+        "topic": "Fast Retailing Results",
+        "domain": "corporate",
+        "headline": "Uniqlo Owner Raises Profit Forecast After Strong Quarter",
+        "summary": "Fast Retailing raised its profit outlook following robust global demand and strong Japan sales, with results highlighting Uniqlo's growth increasingly driven by overseas markets, particularly the US and Europe.",
+        "signal": "Japanese retail resilience suggests consumer discretionary strength despite global headwinds.",
+        "sources": [
+          "Japan Times",
+          "Nikkei Asia",
+          "@reuters.com"
+        ],
+        "source_url": "https://www.japantimes.co.jp/business/2026/04/09/companies/fast-retailing-outlook-rise/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Uniqlo-owner Fast Retailing flags record year after strong quarter",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj2m32tkvq2l"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 30,
+        "topic": "Tesla Smaller SUV Development",
+        "domain": "corporate",
+        "headline": "Tesla Develops All-New Smaller Cheaper Electric SUV",
+        "summary": "Tesla is developing an all-new smaller, cheaper electric SUV according to four people familiar with the matter, representing the company's push into more accessible electric vehicle segments.",
+        "signal": "Tesla's mass market pivot could accelerate EV adoption and pressure traditional automakers.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Significant product development at world's most valuable automaker could reshape EV market dynamics.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Tesla is developing an all-new smaller, cheaper electric SUV, four people familiar with the matter told Reuters",
+            "score": 30,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj2mamo5rf2l"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-09T07:05:48.814212+00:00",
     "timestamp_ist": "09 Apr 2026 \u00b7 12:35 IST",
     "story_count": 10,
@@ -14573,400 +14993,5 @@
       }
     ],
     "social_count": 148
-  },
-  {
-    "timestamp": "2026-04-05T08:50:44.525153+00:00",
-    "timestamp_ist": "05 Apr 2026 \u00b7 14:20 IST",
-    "story_count": 13,
-    "avg_score": 64,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 87,
-        "topic": "US Pilot Rescue Iran",
-        "domain": "geopolitics",
-        "headline": "US rescues second F-15 airman from Iran territory",
-        "summary": "The United States successfully rescued both crew members from an F-15 fighter jet shot down by Iranian forces, with President Trump confirming the second airman is 'injured but fine.' The rescue operation involved dozens of aircraft and required establishing a forward base inside Iran near Isfahan.",
-        "signal": "Demonstrates US capability for deep penetration rescue operations despite Iranian air defenses controlling contested territory.",
-        "sources": [
-          "Associated Press",
-          "BBC News",
-          "Al Jazeera English",
-          "@Faytuks",
-          "@MarioNawfal"
-        ],
-        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-04-2026",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "Faytuks",
-            "platform": "twitter",
-            "text": "BREAKING: The second crew member from the downed F-15E has been recovered after a 'heavy firefight', a US government official tells Al Jazeera",
-            "score": 53,
-            "url": "https://twitter.com/Faytuks/status/2040628423597457848"
-          },
-          {
-            "handle": "Faytuks",
-            "platform": "twitter",
-            "text": "BREAKING: 2nd US F-15E crew member 'rescued and safe' after complex rescue operation, two senior US officials tell Fox News' @JenGriffinFNC",
-            "score": 47,
-            "url": "https://twitter.com/Faytuks/status/2040637515292410134"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "Before the rescue of the missing F-15 pilot took place in Iran, the CIA launched a disinformation campaign to deceive Tehran into believing the missing pilot had been found.",
-            "score": 49,
-            "url": "https://twitter.com/MarioNawfal/status/2040678320430325799"
-          },
-          {
-            "handle": "Osinttechnical",
-            "platform": "twitter",
-            "text": "Location of the USAF forward base set up deep within Iran for the F-15 crew rescue mission. The base was set up just outside of Isfahan, a critical Iranian strategic hub",
-            "score": 42,
-            "url": "https://twitter.com/Osinttechnical/status/2040710710087287056"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 2,
-        "score": 85,
-        "topic": "Iran Infrastructure Attacks",
-        "domain": "geopolitics",
-        "headline": "Iran strikes UAE, Kuwait, Bahrain energy facilities amid war",
-        "summary": "Iranian forces targeted key energy infrastructure across Gulf states, hitting UAE's Borouge petrochemical plant, Kuwait's power plants, and Bahrain's BAPCO refinery. The attacks caused significant damage and fires, forcing operational suspensions at critical facilities.",
-        "signal": "Iran expanding conflict beyond bilateral US confrontation to pressure regional US allies through economic warfare.",
-        "sources": [
-          "Al Jazeera English",
-          "Bloomberg",
-          "@AJEnglish",
-          "@Faytuks",
-          "@MarioNawfal"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Bahrain's al-Khaleej Petrochemical Industries Company has announced that several of its operational units were subjected to an attack by Iranian drones, resulting in fire.",
-            "score": 48,
-            "url": "https://twitter.com/AJEnglish/status/2040704136547647746"
-          },
-          {
-            "handle": "Faytuks",
-            "platform": "twitter",
-            "text": "Breaking: Two Kuwaiti power and water desalination plants attacked by Iranian drones, with them causing 'significant damage', according to Kuwait's Ministry of Electricity",
-            "score": 41,
-            "url": "https://twitter.com/Faytuks/status/2040601441933336800"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "Abu Dhabi authorities are currently responding to multiple fires at the Borouge petrochemicals plant, caused by falling debris following successful interceptions by air defence systems.",
-            "score": 40,
-            "url": "https://twitter.com/MarioNawfal/status/2040686474186666435"
-          },
-          {
-            "handle": "Faytuks",
-            "platform": "twitter",
-            "text": "A fire has broken out at Bahrain's BAPCO refinery following an Iranian missile attack",
-            "score": 40,
-            "url": "https://twitter.com/Faytuks/status/2040626694491451458"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 3,
-        "score": 78,
-        "topic": "India Assembly Elections",
-        "domain": "india",
-        "headline": "Indian state elections intensify with key campaigns underway",
-        "summary": "Major Indian political parties are conducting intensive campaigns across multiple states including West Bengal, Kerala, Tamil Nadu, and Assam. Key leaders including Mamata Banerjee, Amit Shah, and Rahul Gandhi are actively campaigning with heated exchanges over governance and corruption allegations.",
-        "signal": "State election outcomes will impact national political dynamics and regional economic policies.",
-        "sources": [
-          "Times of India",
-          "The Hindu",
-          "@PTI_News"
-        ],
-        "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-chief-minister-and-dmk-president-mk-stalin-interview/article70826149.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "West Bengal CM Mamata Banerjee on Union Home Minister Amit Shah says, 'A person has come and is sitting here, threatening officers. 'Motabhai' is cutting votes of women.'",
-            "score": 54,
-            "url": "https://twitter.com/PTI_News/status/2040699949298725274"
-          },
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "Addressing a public gathering in Biswanath, Leader of Opposition in Lok Sabha Rahul Gandhi says, 'Assam has the most corrupt, hate\u2011spreading Chief Minister of India.'",
-            "score": 54,
-            "url": "https://twitter.com/PTI_News/status/2040689979916259356"
-          },
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "West Bengal assembly election 2026: CM Mamata Banerjee takes part in folk dance at rally in Samserganj.",
-            "score": 43,
-            "url": "https://twitter.com/PTI_News/status/2040712701832556565"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 75,
-        "topic": "EU Energy Crisis",
-        "domain": "europe",
-        "headline": "Five EU states demand windfall tax on energy companies",
-        "summary": "Austria, Germany, Italy, Portugal and Spain are calling for a tax on windfall profits of energy companies amid soaring fuel prices caused by the Iran war. France is simultaneously offering loans up to \u20ac50,000 to small businesses hit by rising energy costs.",
-        "signal": "European energy crisis deepening with governments scrambling for both revenue and relief measures as war impacts spread.",
-        "sources": [
-          "Bloomberg",
-          "Politico Europe"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/five-eu-states-call-for-energy-windfall-profit-tax-reuters-says",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 72,
-        "topic": "Ukraine-Russia Drone War",
-        "domain": "geopolitics",
-        "headline": "Russia reports ship hit as Ukraine escalates drone attacks",
-        "summary": "Russia claims Ukrainian drone debris struck a foreign-flagged cargo vessel in the Azov Sea while Moscow's forces attacked Ukrainian regions. Russian air defenses also intercepted Ukrainian drones near the Baltic, with debris damaging an oil pipeline.",
-        "signal": "Ukraine intensifying strikes on Russian energy infrastructure as conflict shows no signs of abating.",
-        "sources": [
-          "Bloomberg",
-          "Times of India",
-          "@ReutersWorld"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-says-ship-in-azov-sea-hit-by-kyiv-as-sides-swap-attacks",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "ReutersWorld",
-            "platform": "twitter",
-            "text": "Fire breaks out at Russia's NORSI oil refinery after drone attack, governor says",
-            "score": 49,
-            "url": "https://twitter.com/ReutersWorld/status/2040708594300035345"
-          },
-          {
-            "handle": "ReutersWorld",
-            "platform": "twitter",
-            "text": "Fuel reservoir hit at Russia's Primorsk, NORSI refinery on fire after drone attacks",
-            "score": 49,
-            "url": "https://twitter.com/ReutersWorld/status/2040693493203390709"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 6,
-        "score": 68,
-        "topic": "India Economic Impact",
-        "domain": "india",
-        "headline": "Moody's slashes India growth forecast citing Middle East crisis",
-        "summary": "Moody's Ratings cut India's FY27 growth forecast to 6% from earlier projections, citing escalating West Asia tensions driving up energy costs and disrupting supply chains. The RBI's upcoming MPC meeting will assess the economic impact of the Iran war.",
-        "signal": "India's growth trajectory under pressure from geopolitical tensions affecting energy security and inflation outlook.",
-        "sources": [
-          "NDTV Profit",
-          "LiveMint Markets"
-        ],
-        "source_url": "https://www.ndtvprofit.com/economy/moodys-slashes-indias-fy27-growth-forecast-to-6-as-west-asia-conflict-flares-11313417",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 65,
-        "topic": "Trump Budget Defense Boost",
-        "domain": "geopolitics",
-        "headline": "Trump unveils $1.5 trillion defense budget amid Iran war",
-        "summary": "President Trump is releasing his 2027 budget featuring the largest defense spending request in decades at $1.5 trillion. The massive increase comes as the Iran war enters its sixth week with mounting pressure on his administration to show military success.",
-        "signal": "Wartime spending surge signals extended conflict expectations and potential strain on federal finances.",
-        "sources": [
-          "Associated Press",
-          "Politico Europe"
-        ],
-        "source_url": "https://apnews.com/article/trump-2027-annual-budget-congress-defense-f95715d838be17afd9799208cd3182e3",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 62,
-        "topic": "Artemis II Moon Mission",
-        "domain": "geopolitics",
-        "headline": "Artemis II crew captures Earth images while approaching Moon",
-        "summary": "NASA's Artemis II crew, currently 100,000 miles from Earth, has released stunning photographs as they approach the Moon. The mission continues despite technical challenges including a malfunctioning toilet vent that NASA is attempting to thaw using solar heating.",
-        "signal": "Space mission proceeding amid geopolitical tensions, demonstrating US technological capabilities during wartime.",
-        "sources": [
-          "Al Jazeera English",
-          "BBC News",
-          "@Polymarket"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "Polymarket",
-            "platform": "twitter",
-            "text": "BREAKING: Artemis II's Orion capsule is now exactly 100,000 miles from the Moon.",
-            "score": 45,
-            "url": "https://twitter.com/Polymarket/status/2040551563438031225"
-          },
-          {
-            "handle": "Polymarket",
-            "platform": "twitter",
-            "text": "JUST IN: The Artemis II toilet's vent froze over, potentially causing the terrible smell astronauts reported. NASA is tilting the space ship toward the Sun to try & thaw it out.",
-            "score": 43,
-            "url": "https://twitter.com/Polymarket/status/2040542591750484368"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 9,
-        "score": 58,
-        "topic": "Somalia Presidential Attack",
-        "domain": "geopolitics",
-        "headline": "Somali president survives mortar attack in Baidoa",
-        "summary": "Somali President Hassan Sheikh Mohamud was unharmed after his entourage came under mortar fire in the southern city of Baidoa. The attack highlights ongoing security challenges facing Somalia's government amid regional instability.",
-        "signal": "African security deteriorating as global attention focused on Middle East conflict, creating opportunities for militant groups.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/somalian-president-mohamud-unharmed-in-mortar-attack",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 55,
-        "topic": "Iran Opposition Executions",
-        "domain": "middleeast",
-        "headline": "Iran executes two opposition group members amid war",
-        "summary": "Iran executed Abolhassan Montazer and Vahid Baniamerian, convicted members of a banned opposition group, after the Supreme Court upheld their sentences. The executions come as Iran faces mounting international pressure over its conflict with the US and Israel.",
-        "signal": "Iran intensifying domestic crackdown while engaged in external conflict, signaling regime prioritizing internal security.",
-        "sources": [
-          "Al Jazeera English",
-          "The National (UAE)"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 45,
-        "topic": "Oil Price Surge Projection",
-        "domain": "commodities",
-        "headline": "Crude oil projected to hit $130 barrel this month",
-        "summary": "Oil prices projected to surge to $130 a barrel this month according to market predictions.",
-        "signal": "Energy markets pricing in severe supply disruption risk from prolonged Middle East conflict.",
-        "sources": [
-          "@Polymarket"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Reflects market sentiment about escalating energy crisis amid Iran war despite being unverified prediction.",
-        "social_signals": [
-          {
-            "handle": "Polymarket",
-            "platform": "twitter",
-            "text": "BREAKING: Crude Oil now projected to surge to $130 a barrel this month. 51% chance.",
-            "score": 45,
-            "url": "https://twitter.com/Polymarket/status/2040587257623585094"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 12,
-        "score": 44,
-        "topic": "US Aircraft Losses Iran",
-        "domain": "geopolitics",
-        "headline": "US military losses mount in Iran operation",
-        "summary": "US Air Force losses in Operation Epic Fury reportedly include 27 aircraft total with 8 critically damaged.",
-        "signal": "If accurate, represents significant military losses that could impact public support for continued operations.",
-        "sources": [
-          "@FirstSquawk"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Unverified casualty figures that would represent unprecedented US losses if confirmed by official sources.",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "Losses of U.S.A.F so far in Operation Epic Fury : F-15E \u2014 4, A-10 \u2014 1, E-3 AWACS \u2014 1, KC-135 \u2014 2, C-130 \u2014 2, MQ-9 Reaper \u2014 17. Total: 27 (also 8 damaged critically)",
-            "score": 44,
-            "url": "https://twitter.com/FirstSquawk/status/2040702197164658871"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 13,
-        "score": 42,
-        "topic": "OPEC Production Increase",
-        "domain": "commodities",
-        "headline": "OPEC+ core group agrees to modest production increase",
-        "summary": "Core OPEC+ members agreed in principle to increase production levels by approximately 206,000 barrels daily.",
-        "signal": "Limited production increase unlikely to offset supply disruptions from Strait of Hormuz closure.",
-        "sources": [
-          "@FirstSquawk"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Small production increase amid major supply crisis suggests OPEC+ capacity constraints or political calculations.",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "core group in OPEC+ agrees in principle to increase production levels by about 206 thousand barrels daily",
-            "score": 42,
-            "url": "https://twitter.com/FirstSquawk/status/2040702312411430928"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 146
   }
 ]
