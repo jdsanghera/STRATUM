@@ -1,5 +1,409 @@
 [
   {
+    "timestamp": "2026-04-10T12:07:51.994208+00:00",
+    "timestamp_ist": "10 Apr 2026 \u00b7 17:37 IST",
+    "story_count": 18,
+    "avg_score": 61,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 88,
+        "topic": "US-Iran Hormuz Ceasefire Crisis",
+        "domain": "geopolitics",
+        "headline": "Iran Controls Hormuz Strait Despite Fragile US-Iran Ceasefire",
+        "summary": "Iran maintains military control over the strategic Strait of Hormuz with Revolutionary Guard limiting ship traffic and charging tolls, despite ceasefire talks with the US set for Saturday in Pakistan. Israeli strikes on Lebanon killing 254+ civilians threaten to derail the fragile truce negotiations.",
+        "signal": "Watch for breakdown of Islamabad talks and potential oil supply disruption if Hormuz tensions escalate.",
+        "sources": [
+          "Bloomberg",
+          "Wall Street Journal",
+          "Associated Press",
+          "Nikkei Asia",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.wsj.com/world/middle-east/iran-tightens-its-grip-on-hormuz-despite-cease-fire-5027521f",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "topic": "Israeli Lebanon Strikes Threaten Ceasefire",
+        "domain": "geopolitics",
+        "headline": "Israeli Lebanon Attacks Kill 300+ Amid US-Iran Talks",
+        "summary": "Israeli strikes have killed at least 303 people in Lebanon over two days, including 254 in a single day, threatening the fragile US-Iran ceasefire. Lebanon declared a national day of mourning as Israel claims to have killed a close aide to Hezbollah's leader.",
+        "signal": "Escalation risks collapse of ceasefire negotiations and broader regional conflict.",
+        "sources": [
+          "Al Jazeera English",
+          "BBC News",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Israel strikes residential areas, destroys homes in southern Lebanon",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj54ivuffd2u"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "topic": "Trump NATO Iran War Rift",
+        "domain": "geopolitics",
+        "headline": "Trump Threatens NATO Over Lack of Iran War Support",
+        "summary": "Trump administration explores punishment for NATO countries that didn't support the Iran war, with the president criticizing NATO as alliance chief describes meeting as 'very frank'. The Iran war has widened rifts with European allies, even those previously seen as MAGA supporters.",
+        "signal": "NATO cohesion at risk as transatlantic alliance faces unprecedented strain over Middle East policy.",
+        "sources": [
+          "Wall Street Journal",
+          "Associated Press",
+          "BBC News"
+        ],
+        "source_url": "https://www.wsj.com/world/europe/trump-weighs-punishing-certain-nato-countries-over-lack-of-iran-war-support-a2361995",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "NATO allies showed some spine in resisting Trump's demands to jump into the Iran conflict",
+            "score": 41,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj54jmwzp626"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 78,
+        "topic": "Indian Markets Iran War Rally",
+        "domain": "markets",
+        "headline": "Indian Markets Surge 900 Points on Iran Peace Hopes",
+        "summary": "Sensex jumped 900 points to close higher on hopes of US-Iran peace talks, led by banking and financial stocks. The rally came despite the rupee falling 17 paise to 92.68 against the dollar amid high volatility from RBI position limits.",
+        "signal": "Markets pricing in peace premium but remain vulnerable to ceasefire breakdown.",
+        "sources": [
+          "NDTV News",
+          "Hindu Business",
+          "LiveMint Markets"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 75,
+        "topic": "CoreWeave Meta AI Deal Expansion",
+        "domain": "corporate",
+        "headline": "CoreWeave Expands Meta AI Deal to $21 Billion",
+        "summary": "CoreWeave Inc. expanded its deal to supply AI computing power to Meta Platforms to $21 billion, building on a previous $14.2 billion agreement from September. The expansion comes amid growing demand for AI infrastructure and computing capacity.",
+        "signal": "AI infrastructure spending acceleration signals continued tech sector investment despite broader market volatility.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/coreweave-expands-meta-deal-for-ai-computing-to-21-billion",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 72,
+        "topic": "UK Russian Submarine Incursion",
+        "domain": "geopolitics",
+        "headline": "UK Warns Russia After Month-Long Submarine Operation",
+        "summary": "The UK warned Vladimir Putin against damaging Britain's undersea cables and pipelines after a month-long operation to track three Russian submarines in nearby waters. The warning comes amid heightened tensions over critical infrastructure security.",
+        "signal": "Escalating undersea warfare concerns could trigger broader European security response.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/uk-warns-russian-subs-to-stay-away-after-month-long-incursion",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 68,
+        "topic": "China US-Iran Ceasefire Mediator",
+        "domain": "geopolitics",
+        "headline": "China Emerges as Key US-Iran Ceasefire Mediator",
+        "summary": "Xi Jinping helped Trump on Iran war as China assisted with ceasefire bid, becoming the country with enough clout to convince Tehran to deescalate. Pakistan serves as venue while China acts as the real mediator in upcoming talks.",
+        "signal": "China's growing Middle East influence challenges US diplomatic dominance in the region.",
+        "sources": [
+          "Bloomberg",
+          "Times of India"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/xi-helps-trump-on-iran-war-as-china-assists-with-ceasefire-bid",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 65,
+        "topic": "Congo Eurobond Iran War Pause",
+        "domain": "markets",
+        "headline": "Congo Rushes Maiden Eurobond Sale During Iran Ceasefire",
+        "summary": "Democratic Republic of Congo is rushing to sell its maiden dollar bonds, taking advantage of a ceasefire in the US-Iran war. The timing reflects how the war pause has opened doors for emerging market issuance.",
+        "signal": "Brief risk-on window for frontier markets, but vulnerable to renewed conflict.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/iran-war-pause-opens-door-for-congo-s-maiden-eurobond-sale",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 62,
+        "topic": "Mathura Boat Capsizes India",
+        "domain": "india",
+        "headline": "Six Dead as Tourist Boat Capsizes in Yamuna",
+        "summary": "At least six lives were lost when a boat carrying devotees capsized near Kesi Ghat in Mathura's Yamuna River on Friday afternoon. Around 30 individuals were on two boats when one suddenly sank, with rescue operations ongoing to locate missing persons.",
+        "signal": "Local tragedy highlighting safety concerns for religious tourism infrastructure.",
+        "sources": [
+          "Times of India",
+          "The Hindu"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/boat-carrying-devotees-capsizes-in-mathura-six-bodies-recovered-rescue-ops-on/articleshow/130168736.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 58,
+        "topic": "TCS Earnings IT Sector Performance",
+        "domain": "corporate",
+        "headline": "TCS Beats Profit Estimates Despite Revenue Drop",
+        "summary": "Tata Consultancy Services topped quarterly earnings estimates after cost cuts to cope with IT slump, though shares fell due to rare annual revenue decline. The results reflect broader challenges facing India's IT sector amid geopolitical tensions.",
+        "signal": "IT sector resilience through cost management, but growth headwinds persist.",
+        "sources": [
+          "Bloomberg",
+          "Hindu Business"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/tcs-tops-profit-estimates-after-cost-cuts-to-cope-with-it-slump",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 55,
+        "topic": "Delhi Pakistan Spy Ring Bust",
+        "domain": "india",
+        "headline": "Delhi Police Bust Pakistan ISI Spy Network",
+        "summary": "Delhi Police dismantled a Pakistan ISI-backed spy ring with ten operatives arrested for surveilling key locations and installing cameras to send real-time data. The intelligence was intended to plan future terror attacks in India following weeks of surveillance operations.",
+        "signal": "Heightened security concerns over cross-border intelligence operations targeting critical infrastructure.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/city/delhi/delhi-police-bust-isi-backed-spy-module-10-operatives-arrested-in-major-crackdown/articleshow/130160651.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 52,
+        "topic": "Thailand Iran War Oil Impact",
+        "domain": "commodities",
+        "headline": "Thailand Introduces Oil Price Support Measures",
+        "summary": "Thailand will introduce support measures to ease the impact of high oil prices amid ongoing Iran war tensions. The move reflects broader regional efforts to manage energy cost pressures from Middle East supply disruptions.",
+        "signal": "Asian governments preparing fiscal support for energy price volatility from regional conflict.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Thailand will introduce support measures to ease impact of high oil prices, minister says",
+            "score": 52,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj5bt375t52u"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 13,
+        "score": 48,
+        "topic": "Anthropic AI Wall Street Crisis",
+        "domain": "markets",
+        "headline": "Anthropic AI Model Triggers $2 Trillion Market Wipeout",
+        "summary": "US Treasury Secretary and Federal Reserve Chair urgently met with top bank CEOs to discuss Anthropic's new AI model Claude Mythos Preview. The powerful AI can find software vulnerabilities, raising cybersecurity concerns for the financial system and causing massive IT stock selloffs.",
+        "signal": "AI cybersecurity risks could trigger systematic financial sector vulnerabilities.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/from-a-2-trillion-it-stocks-wipeout-to-an-emergency-dc-meeting-how-anthropics-ai-is-becoming-wall-streets-biggest-headache/articleshow/130162215.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 45,
+        "topic": "Dolce Gabbana Leadership Change",
+        "domain": "corporate",
+        "headline": "Stefano Gabbana Quits D&G Chairman Role Amid Debt",
+        "summary": "Stefano Gabbana stepped down as Dolce & Gabbana chairman but retains creative role as the luxury brand wrestles with \u20ac450 million in debt. The leadership change comes during critical debt restructuring talks for the Italian fashion house.",
+        "signal": "Luxury sector consolidation pressures mount amid economic headwinds.",
+        "sources": [
+          "AP News",
+          "Bloomberg",
+          "Euronews Business"
+        ],
+        "source_url": "http://www.euronews.com/business/2026/04/10/all-dolce-no-gabbana-dg-co-founder-quits-as-chairman-amid-450m-debt-talks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Stefano Gabbana has stepped down as Dolce & Gabbana chairman but will keep a creative role, fashion house says.",
+            "score": 41,
+            "url": "https://bsky.app/profile/apnews.com/post/3mj4ze7bhei2i"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Stefano Gabbana resigned as chairman of Dolce & Gabbana and is considering options for his stake in the Italian fashion giant.",
+            "score": 43,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj534iryed2m"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 43,
+        "topic": "India RBI Bond Market Impact",
+        "domain": "markets",
+        "headline": "RBI Cash Withdrawal Plan Pushes Up Bond Yields",
+        "summary": "India's central bank cash withdrawal plan is pushing up bond yields and swap rates as the deadline for banks to curb overnight positions to $100 million approaches Friday. The move is creating high volatility in currency and debt markets.",
+        "signal": "RBI policy tightening could constrain liquidity and impact broader financial markets.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "India central bank's cash withdrawal plan pushes up bond yields, swap rates",
+            "score": 42,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj5ayfyie72l"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 16,
+        "score": 42,
+        "topic": "Hungary Orban Election Challenge",
+        "domain": "europe",
+        "headline": "Orban Trails in Polls as Hungary Election Nears",
+        "summary": "Hungary's Viktor Orban warns of 'danger' of removing him as he trails in polls ahead of the upcoming election. The campaign enters its final stretch with Orban fighting to remain in power after years of authoritarian rule.",
+        "signal": "Potential major shift in EU-Hungary relations if opposition wins power.",
+        "sources": [
+          "The National UAE",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.thenationalnews.com/news/europe/2026/04/10/hungarys-orban-warns-of-danger-of-removing-him-as-he-trails-in-polls-ahead-of-election/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Hungary election campaigns enter final stretch as Orb\u00e1n fights to remain in power \u2013 Europe live",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mj57uokesn2x"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 38,
+        "topic": "Putin Easter Ceasefire Ukraine",
+        "domain": "europe",
+        "headline": "Putin Announces 32-Hour Ukraine Easter Ceasefire",
+        "summary": "Putin announced a 32-hour Easter ceasefire in Ukraine starting Saturday at 4 p.m. through Sunday. The temporary break in hostilities comes as Ukraine secures oil lifelines from Gulf states in exchange for military support.",
+        "signal": "Brief tactical pause unlikely to change overall war trajectory but may signal negotiation opening.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/vladimir-putin-russia-easter-ceasefire-ukraine-war-oil-energy-defense-volodymyr-zelenskyy/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 35,
+        "topic": "Kuwait Drone Attack Ceasefire",
+        "domain": "middleeast",
+        "headline": "Kuwait Attacked with Drones Despite Ceasefire",
+        "summary": "Kuwait was attacked with drones despite the ongoing ceasefire, with Iran denying responsibility for the strike. The attack raises questions about ceasefire compliance and regional stability during ongoing negotiations.",
+        "signal": "Ceasefire violations could derail diplomatic progress and escalate regional tensions.",
+        "sources": [
+          "The National UAE"
+        ],
+        "source_url": "https://www.thenationalnews.com/news/gulf/2026/04/10/iran-denies-responsibility-for-drone-attack-on-kuwait/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-10T10:19:37.434450+00:00",
     "timestamp_ist": "10 Apr 2026 \u00b7 15:49 IST",
     "story_count": 20,
@@ -14788,466 +15192,5 @@
       }
     ],
     "social_count": 137
-  },
-  {
-    "timestamp": "2026-04-06T07:14:37.070150+00:00",
-    "timestamp_ist": "06 Apr 2026 \u00b7 12:44 IST",
-    "story_count": 17,
-    "avg_score": 70,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 92,
-        "topic": "US-Iran Military Conflict Escalation",
-        "domain": "geopolitics",
-        "headline": "US Rescues Airman After Iran Downs F-15, Ceasefire Talks",
-        "summary": "Multiple wire services confirm US forces rescued an airman whose F-15E was shot down by Iran, as Trump threatens 'hell' while mediators push for a 45-day ceasefire. Iran has rejected initial proposals to reopen the Strait of Hormuz in exchange for temporary truce.",
-        "signal": "Watch for energy price spikes and supply chain disruption if diplomatic efforts fail by Monday deadline.",
-        "sources": [
-          "Associated Press",
-          "Bloomberg",
-          "Al Jazeera English",
-          "@KobeissiLetter",
-          "@spectatorindex"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "KobeissiLetter",
-            "platform": "twitter",
-            "text": "BREAKING: The US, Iran, and a group of regional mediators are discussing a potential 45-day ceasefire that could lead to a permanent end to the Iran War, per Axios.",
-            "score": 44,
-            "url": "https://twitter.com/KobeissiLetter/status/2041034164888072501"
-          },
-          {
-            "handle": "spectatorindex",
-            "platform": "twitter",
-            "text": "BREAKING: US and Iran received a plan to end conflict, including immediate ceasefire, mediated by Pakistan's army chief, according to Reuters report.",
-            "score": 42,
-            "url": "https://twitter.com/spectatorindex/status/2041050873359688020"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83d\udea8BREAKING: \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Iran and the U.S have received a plan to end the war, drawn up by mediators in Pakistan.",
-            "score": 41,
-            "url": "https://twitter.com/MarioNawfal/status/2041050702407962732"
-          },
-          {
-            "handle": "Polymarket",
-            "platform": "twitter",
-            "text": "BREAKING: U.S., Iran & mediators are reportedly discussing the terms for a 'last-ditch' 45-day ceasefire.",
-            "score": 45,
-            "url": "https://twitter.com/Polymarket/status/2040988894334689473"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 2,
-        "score": 89,
-        "topic": "Iran War Energy Crisis",
-        "domain": "commodities",
-        "headline": "Oil Hits $110 As Iran Conflict Disrupts Global Supply",
-        "summary": "Multiple Bloomberg reports show jet fuel shortages at Italian airports and Kuwait's oil headquarters struck by drones amid the Iran conflict. Crude oil has reclaimed $110 as Trump threatens strikes on Iranian power plants.",
-        "signal": "Energy sector volatility will persist until Strait of Hormuz reopens; expect further supply disruptions.",
-        "sources": [
-          "Bloomberg",
-          "Kuwait Petroleum Corp",
-          "@CNBCTV18Live"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/italy-sets-jet-fuel-limits-at-some-airports-on-supply-shortage",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "CNBCTV18Live",
-            "platform": "twitter",
-            "text": "#Crude holds near $110 as 15% global supply hit; #banks see $120\u2013135 if tensions persist",
-            "score": 45,
-            "url": "https://twitter.com/CNBCTV18Live/status/2041044459878814083"
-          },
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Australia's Minister for Climate Change and Energy, Chris Bowen, says the country has secured fuel shipments for more than a month amid the ongoing global energy crunch",
-            "score": 54,
-            "url": "https://twitter.com/AJEnglish/status/2041050931983237556"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 85,
-        "topic": "Iran Infrastructure Bombardment Campaign",
-        "domain": "geopolitics",
-        "headline": "US-Israel Target Iran Universities, Civilian Infrastructure Kills Dozens",
-        "summary": "Al Jazeera reports at least 30 Iranian universities hit by US-Israeli strikes with dozens killed in attacks on civilian infrastructure including Tehran's Sharif University. Iran says attacks on Mahshahr Petrochemical Zone killed five and wounded 170.",
-        "signal": "Escalation targeting civilian sites risks broader regional conflict and war crimes accusations.",
-        "sources": [
-          "Al Jazeera English",
-          "Middle East Eye",
-          "@FirstSquawk"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/4/universities-hit-as-us-israel-ramp-up-attacks-on-irans-infrastructure",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "Iranian reports say buildings at Sharif University of Technology in Tehran were hit during U.S.-Israeli strikes",
-            "score": 45,
-            "url": "https://twitter.com/FirstSquawk/status/2041035416661541181"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Multiple airstrikes hit near Mehrabad Airport, Tehran.",
-            "score": 44,
-            "url": "https://twitter.com/MarioNawfal/status/2041035553932542203"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 4,
-        "score": 82,
-        "topic": "India Assembly Elections 2026",
-        "domain": "india",
-        "headline": "PM Modi Campaigns In Assam As Assembly Elections Heat Up",
-        "summary": "Prime Minister Modi addressed three rallies in Assam while Rahul Gandhi campaigned in Puducherry, as India's major assembly elections across multiple states intensify. The TMC accused BJP of involvement in unrest in West Bengal's Malda district.",
-        "signal": "Market volatility possible if election results shift power balance in key states.",
-        "sources": [
-          "The Hindu",
-          "Indian Express",
-          "@PTI_News"
-        ],
-        "source_url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-puducherry-assam-live-updates-april-6-2026/article70828680.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "VIDEO | Assam Assembly Elections 2026: Prime Minister Narendra Modi (@narendramodi) at an election rally in Barpeta",
-            "score": 59,
-            "url": "https://twitter.com/PTI_News/status/2041042377054560500"
-          },
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "VIDEO | Puducherry polls: LS LoP and Congress leader Rahul Gandhi (@RahulGandhi) addressing an election rally in Lawspet",
-            "score": 54,
-            "url": "https://twitter.com/PTI_News/status/2041048019953672626"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 80,
-        "topic": "Artemis II Moon Mission",
-        "domain": "corporate",
-        "headline": "Artemis II Astronauts Approach Moon After Communication Blackout",
-        "summary": "NASA's Artemis II crew lost contact with Earth for 40 minutes during their historic moon mission, with the first lunar flyby since 1972 scheduled for today. The astronauts are more than halfway to their destination after dealing with toilet malfunctions.",
-        "signal": "Space sector stocks could benefit from mission success; watch for technology partnerships.",
-        "sources": [
-          "Associated Press",
-          "The Hindu",
-          "Times of India"
-        ],
-        "source_url": "https://apnews.com/article/nasa-moon-artemis-astronauts-85bd7e2d77284c3d53ca2a38cf7dee13",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 78,
-        "topic": "Indian Stock Market Volatility",
-        "domain": "markets",
-        "headline": "Sensex Falls 400 Points On Iran War Fears",
-        "summary": "Indian markets opened negative with Sensex down 400 points and Nifty holding 22,600 as Middle East tensions and Trump's fresh threats to Iran weigh on sentiment. Reliance Industries fell 4% with market cap slipping below \u20b918 lakh crore.",
-        "signal": "Continued volatility expected until geopolitical tensions ease; defensives may outperform.",
-        "sources": [
-          "NDTV Profit",
-          "LiveMint Markets",
-          "@ETNOWlive"
-        ],
-        "source_url": "https://www.ndtvprofit.com/markets/stock-market-news-today-live-updates-check-nifty-sensex-gift-nifty-rupee-f-and-o-top-stocks-ril-hdfc-bank-11316014#publisher=newsstand",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "ETNOWlive",
-            "platform": "twitter",
-            "text": "Bank stocks under pressure: HDFC, IndusInd, AU Small Finance, and others turn volatile after Q4 business updates",
-            "score": 42,
-            "url": "https://twitter.com/ETNOWlive/status/2041050863935050099"
-          }
-        ],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 75,
-        "topic": "Arunachal Pradesh CM Probe",
-        "domain": "india",
-        "headline": "Supreme Court Orders CBI Probe Into Arunachal CM's Family Firms",
-        "summary": "The Supreme Court ordered a CBI inquiry into allegations that PWD contracts were awarded to firms linked to Arunachal Pradesh Chief Minister Pema Khandu's relatives. The state government has described the case as 'sponsored litigation'.",
-        "signal": "Political corruption cases could impact BJP's electoral prospects in northeastern states.",
-        "sources": [
-          "Times of India",
-          "NDTV News"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/india/sc-orders-cbi-inquiry-into-allegations-that-arunachal-pwd-contracts-were-awarded-to-firms-linked-to-cm-pema-khandus-kin/articleshow/130051833.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 72,
-        "topic": "Wipro Olam Deal",
-        "domain": "corporate",
-        "headline": "Wipro Bags $1 Billion Contract From Singapore's Olam Group",
-        "summary": "Wipro secured a $1 billion contract from Singapore's Olam Group and will acquire the company's IT arm Mindsprint for $375 million in an all-cash deal. This represents a major win for the IT services company.",
-        "signal": "Large deal wins could signal IT sector recovery; watch for similar mega-contracts.",
-        "sources": [
-          "LiveMint Companies"
-        ],
-        "source_url": "https://www.livemint.com/companies/news/wipro-share-price-contract-olam-group-mindsprint-it-services-india-11775447456434.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 70,
-        "topic": "Borouge Plant Fires Abu Dhabi",
-        "domain": "commodities",
-        "headline": "Borouge Suspends Abu Dhabi Petrochemicals Plant After Multiple Fires",
-        "summary": "Abu Dhabi's Borouge Plc suspended operations at its petrochemicals plant following multiple fires, according to the government media office. The facility is a major regional petrochemicals producer.",
-        "signal": "Petrochemicals supply chain disruption could affect regional industrial production and pricing.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/borouge-suspends-abu-dhabi-plant-operations-after-multiple-fires",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 68,
-        "topic": "ECB Rate Policy Shift",
-        "domain": "macro",
-        "headline": "ECB's Next Discussion Between Rate Hike Or Hold",
-        "summary": "ECB Governing Council member Olaf Sleijpen said the central bank's next discussion will be between increasing interest rates or holding them steady. This signals potential hawkish shift amid inflation concerns.",
-        "signal": "European markets may face pressure if ECB turns more hawkish on rates.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/sleijpen-says-ecb-discussion-will-be-rate-hike-or-hold-podcast",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 65,
-        "topic": "Ukraine Strikes Russian Oil Terminal",
-        "domain": "geopolitics",
-        "headline": "Ukrainian Drones Hit Major Russian Black Sea Oil Terminal",
-        "summary": "Ukrainian drones struck Novorossiysk, one of Russia's biggest Black Sea oil export terminals and a vital hub for naval logistics. This represents escalation in Ukraine's campaign against Russian energy infrastructure.",
-        "signal": "Energy markets remain vulnerable to supply disruption from multiple conflict zones.",
-        "sources": [
-          "@carlbildt",
-          "@MarioNawfal"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "carlbildt",
-            "platform": "twitter",
-            "text": "After the \ud83c\uddfa\ud83c\udde6 strikes against the \ud83c\uddf7\ud83c\uddfa oil export terminals in the Baltic Sea it was now evidently the turn of the Black Sea oil export terminal.",
-            "score": 42,
-            "url": "https://twitter.com/carlbildt/status/2041047497770999974"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drones hit Novorossiysk, one of Russia's biggest Black Sea oil terminals.",
-            "score": 40,
-            "url": "https://twitter.com/MarioNawfal/status/2041031145270436238"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 12,
-        "score": 62,
-        "topic": "Iran Ballistic Missile Barrage",
-        "domain": "geopolitics",
-        "headline": "Iran Fires Ballistic Missiles At Israeli Cities",
-        "summary": "Iran launched ballistic missiles targeting multiple Israeli locations including Tel Aviv, Petah Tikva, and Bnei Brak with reports of impacts and emergency crews responding. This represents direct Iranian retaliation against Israeli territory.",
-        "signal": "Direct Iran-Israel exchanges signal dangerous escalation beyond proxy conflicts.",
-        "sources": [
-          "@MarioNawfal",
-          "@FirstSquawk"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Iran is firing ballistic missiles at Israel right now. Reports of impacts in Bnei Brak, Tel Aviv, and Petah Tikva.",
-            "score": 40,
-            "url": "https://twitter.com/MarioNawfal/status/2041023092152254637"
-          },
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "Two fatalities were recovered from building rubble in Haifa following a rocket strike, the Israeli Civil Defense reported.",
-            "score": 42,
-            "url": "https://twitter.com/FirstSquawk/status/2041045728580260338"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 13,
-        "score": 60,
-        "topic": "German Military Travel Restrictions",
-        "domain": "europe",
-        "headline": "Germany May Require Military Approval For Men's Travel",
-        "summary": "German men aged 17-45 may need military approval for long stays abroad under new law, though travel approvals must generally be granted and enforcement remains unclear. This reflects growing security concerns in Europe.",
-        "signal": "European military preparedness measures suggest prolonged conflict expectations.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cvg3nr83xyvo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 58,
-        "topic": "Indonesia Asset Manager Merger",
-        "domain": "corporate",
-        "headline": "Indonesia's Danantara Advances $159 Million Asset Manager Deal",
-        "summary": "Indonesia's sovereign wealth fund is advancing a plan to combine asset management units of state-owned lenders with a $159 million deal to boost regional competitiveness. This represents consolidation in Southeast Asian financial services.",
-        "signal": "Regional consolidation trend may create opportunities for international partnerships.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/danantara-advances-asset-manager-merger-with-159-million-deal",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 55,
-        "topic": "US Immigration Detention Abuse",
-        "domain": "geopolitics",
-        "headline": "Toddler Allegedly Abused In Federal Immigration Custody",
-        "summary": "A 3-year-old girl endured alleged sexual abuse while her father fought for five months for her release from federal custody after immigration officials separated them. This highlights serious issues in Trump administration detention policies.",
-        "signal": "Immigration policy controversies could impact political support and legal challenges.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/immigration-texas-trump-detention-abuse-b799ace25087c594339298685438e888",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 52,
-        "topic": "OpenAI IPO Timing Dispute",
-        "domain": "corporate",
-        "headline": "OpenAI CFO Raises Concerns Over Altman's IPO Timeline",
-        "summary": "Reports suggest differences between OpenAI CEO Sam Altman and CFO Sarah Friar over IPO launch timing, with the CFO citing needs for compliance and internal systems work. The company faces pressure to go public amid AI boom.",
-        "signal": "AI sector IPO readiness questions may affect broader tech valuations.",
-        "sources": [
-          "NDTV Profit",
-          "@Polymarket"
-        ],
-        "source_url": "https://www.ndtvprofit.com/business/openai-ipo-reports-of-differences-between-altman-cfo-over-launch-timing-11316528#publisher=newsstand",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "Polymarket",
-            "platform": "twitter",
-            "text": "JUST IN: OpenAI CFO Sarah Friar has reportedly voiced concerns over Sam Altman's spending, says the company is not ready to IPO.",
-            "score": 40,
-            "url": "https://twitter.com/Polymarket/status/2040972514730340812"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 17,
-        "score": 50,
-        "topic": "Trump Iran War Criticism",
-        "domain": "geopolitics",
-        "headline": "CIA Analyst Says Trump Language Shows War Not Going Well",
-        "summary": "Former CIA analyst Larry Johnson suggests Trump's crude language about opening the Strait of Hormuz indicates the war is not proceeding as planned, contradicting official optimism. This represents rare internal criticism of war strategy.",
-        "signal": "Internal dissent on war progress could shift political dynamics and strategy.",
-        "sources": [
-          "@MarioNawfal"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "High-profile intelligence criticism of presidential war messaging deserves monitoring despite single source.",
-        "social_signals": [
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf7 'OPEN THE FUCKING STRAIT' IS NOT THE LANGUAGE OF A PRESIDENT WHO'S WINNING Former CIA analyst Larry Johnson says Trump's post tells you everything.",
-            "score": 50,
-            "url": "https://twitter.com/MarioNawfal/status/2041036933879751106"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 139
   }
 ]
