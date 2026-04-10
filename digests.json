@@ -1,5 +1,634 @@
 [
   {
+    "timestamp": "2026-04-10T16:40:20.323874+00:00",
+    "timestamp_ist": "10 Apr 2026 \u00b7 22:10 IST",
+    "story_count": 31,
+    "avg_score": 55,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran Ceasefire Negotiations",
+        "domain": "geopolitics",
+        "headline": "Iran Sets Preconditions Before Pakistan Peace Talks With US",
+        "summary": "Iran's Parliament Speaker demands Lebanon ceasefire and release of frozen assets before engaging in negotiations with the US, as talks are set to begin in Pakistan this weekend. Trump has warned of renewed strikes if the diplomatic efforts fail.",
+        "signal": "Watch for compliance with Iranian preconditions and potential collapse of talks, which could trigger renewed military action.",
+        "sources": [
+          "Al Jazeera",
+          "Associated Press",
+          "Bloomberg",
+          "Nikkei Asia",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://apnews.com/article/nato-iran-rutte-trump-hormuz-support-e43e774a64341e3ad8d1b73823f07298",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Iran's Parliament Speaker Mohammad Bagher Ghalibaf says negotiations with the US cannot begin until two key conditions are met: the implementation of a ceasefire in Lebanon and the release o",
+            "score": 53,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj5m5jxq4s25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "topic": "US-Iran Strait Hormuz",
+        "domain": "commodities",
+        "headline": "Iran Considers Levying Transit Fees On Strait Of Hormuz",
+        "summary": "Iran is weighing plans to tax ships passing through the Strait of Hormuz in local currency as part of rebuilding efforts, facing pushback from other nations. The world's most important 21-mile shipping lane remains a critical chokepoint for global energy supplies.",
+        "signal": "Monitor international response to Iranian toll plans and potential impact on shipping costs and energy prices.",
+        "sources": [
+          "Al Jazeera",
+          "Associated Press",
+          "NDTV Profit"
+        ],
+        "source_url": "https://apnews.com/article/the-worlds-most-important-21-miles-0000019d2fbfd29daffdefffc72e0000",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 80,
+        "topic": "Israel Lebanon Ceasefire Violations",
+        "domain": "geopolitics",
+        "headline": "Israel Kills 254 In Lebanon Despite Fragile Ceasefire",
+        "summary": "Israeli attacks on Lebanon have killed over 250 people since the ceasefire was declared, with critics saying the strikes aim to undermine the truce. UN human rights chief describes the attacks as 'horrific' coming so soon after ceasefire.",
+        "signal": "Ceasefire collapse risk remains high; watch for escalation that could derail US-Iran peace talks.",
+        "sources": [
+          "Al Jazeera",
+          "Associated Press",
+          "Reuters"
+        ],
+        "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "India says deeply concerned by reports of civilian casualties in Lebanon",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj5qdyjwdb2u"
+          },
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "An AP reporter describes how Israel's massive bombardment of Beirut stunned the city.",
+            "score": 31,
+            "url": "https://bsky.app/profile/apnews.com/post/3mj5o4gax5c2i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 78,
+        "topic": "Iran War Economic Impact",
+        "domain": "macro",
+        "headline": "Iran War Causes Lasting Dollar System Damage, IMF Warns",
+        "summary": "The US-Iran conflict has put irreversible strain on the global trading system, with gold reserves eclipsing dollar assets for the first time in decades. IMF warns of lasting economic damage and is preparing \u20ac42.9bn in emergency aid.",
+        "signal": "Dollar dominance under threat; watch for accelerating shift to alternative reserve currencies and commodities.",
+        "sources": [
+          "Bloomberg",
+          "Euronews Business"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/war-has-caused-lasting-damage-to-the-dollar-system-macroscope-mnrlrgh4",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 76,
+        "topic": "NATO-Trump Iran Tensions",
+        "domain": "geopolitics",
+        "headline": "NATO Chief Says Alliance Moving From US Dependence",
+        "summary": "NATO Secretary-General Mark Rutte says the alliance is transitioning from 'unhealthy co-dependence' on the US toward true partnership after Trump criticized NATO over the Iran war response. Trump has called NATO allies 'cowards' and threatened to leave.",
+        "signal": "NATO unity at risk; watch for potential US withdrawal threats that could reshape transatlantic security architecture.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/nato-iran-rutte-trump-hormuz-support-e43e774a64341e3ad8d1b73823f07298",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 74,
+        "topic": "India Assembly Elections",
+        "domain": "india",
+        "headline": "India Holds Key State Elections In Assam, Kerala",
+        "summary": "Voting is underway in India's Assam and Kerala state legislative assembly elections, along with the federal territory of Puducherry. West Bengal and Tamil Nadu elections are scheduled for later this month.",
+        "signal": "Results will indicate public sentiment ahead of national elections; watch for regional party performance and coalition implications.",
+        "sources": [
+          "Al Jazeera",
+          "The Hindu",
+          "Times of India"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/9/indias-assam-and-kerala-states-hold-legislative-assembly-elections",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 72,
+        "topic": "EU Ukraine Arms Deal",
+        "domain": "geopolitics",
+        "headline": "EU Advances Ukraine Arms Purchase Via \u20ac90B Loan",
+        "summary": "The UK and EU are advancing discussions to let Ukraine buy British weapons with the bloc's stalled \u20ac90 billion loan program. The move aims to strengthen Ukraine's defense capabilities amid ongoing regional tensions.",
+        "signal": "Watch for finalization of arms deals and potential Russian response to increased Western military support for Ukraine.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/eu-talks-advance-to-let-ukraine-buy-uk-arms-via-90-billion-loan",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 70,
+        "topic": "US Inflation Iran Impact",
+        "domain": "macro",
+        "headline": "US Inflation Surges To 3.3% On Iran Energy Shock",
+        "summary": "US consumer inflation jumped to 3.3% in March due to energy price spikes from the Iran war. The surge complicates Federal Reserve policy decisions and raises concerns about sustained price pressures.",
+        "signal": "Fed may need to maintain higher rates longer; watch for policy pivot signals and bond market reaction.",
+        "sources": [
+          "The National (UAE)"
+        ],
+        "source_url": "https://www.thenationalnews.com/business/economy/2026/04/10/us-inflation-surged-to-33-in-march-on-iran-war-energy-shock/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 68,
+        "topic": "Democrats Trump Impeachment Push",
+        "domain": "geopolitics",
+        "headline": "Democrats Seek Trump Removal Over Iran Threats",
+        "summary": "Dozens of Democratic lawmakers are calling for President Trump's removal from office after he threatened Iranian civilization would 'die' if it didn't meet his demands. The episode has unleashed demands for opposition to the Republican president.",
+        "signal": "Political crisis potential if impeachment gains momentum; watch for Republican unity and public opinion shifts.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/trump-iran-threats-democrats-impeachment-ea13fc589d1dd75e552de883f2e86e71",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 66,
+        "topic": "Oil Market Volatility",
+        "domain": "commodities",
+        "headline": "Oil Prices Rise As Traders Eye Fragile Ceasefire",
+        "summary": "Crude oil costs plunged on Wednesday after a ceasefire deal was announced including opening of the Strait of Hormuz, but prices are rising again as traders worry about the deal's fragility. Asian countries are boosting US LPG imports to replace Middle East supply.",
+        "signal": "Oil volatility will persist until peace talks conclude; prepare for price spikes if negotiations fail.",
+        "sources": [
+          "BBC News",
+          "Reuters"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cq6j0rnvlzeo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Asia boosts US LPG imports to replace Middle East supply",
+            "score": 40,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj5pjgxud52i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 64,
+        "topic": "Trump Stock Market Impact",
+        "domain": "markets",
+        "headline": "Trump Foreign Policy Shakes Up Stock Market Patterns",
+        "summary": "Market moves triggered by President Trump's foreign policy pronouncements are disrupting long-established patterns in equities. Stocks are grinding lower and gapping higher under Trump's volatile approach.",
+        "signal": "Expect continued market volatility tied to Trump's policy announcements; position for gap trading opportunities.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/get-used-to-stocks-grinding-lower-and-gapping-higher-under-trump",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 62,
+        "topic": "Germany Energy Security",
+        "domain": "commodities",
+        "headline": "Germany Plans Emergency Gas Reserve After Iran Shock",
+        "summary": "Germany is detailing plans to build strategic natural gas reserves to maintain supplies in crisis scenarios. The Iran war underscores Europe's continued vulnerability to sudden energy supply disruptions.",
+        "signal": "European energy independence push accelerating; watch for increased infrastructure spending and alternative supply deals.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/germany-fleshes-out-emergency-gas-reserve-plan-to-deflect-shocks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 60,
+        "topic": "DOJ NFL Investigation",
+        "domain": "corporate",
+        "headline": "DOJ Probes NFL Sports TV Deal Anticompetitive Practices",
+        "summary": "The US Justice Department has opened an investigation into whether the National Football League is engaging in anticompetitive tactics that drive up consumer costs for watching games. The probe focuses on the league's television broadcast arrangements.",
+        "signal": "Potential regulatory action could reshape sports broadcasting economics; monitor for settlement discussions or enforcement actions.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/doj-opens-probe-into-nfl-s-sports-tv-deals",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 58,
+        "topic": "US Wage Gap Widens",
+        "domain": "macro",
+        "headline": "US Wage Growth Shows Largest Divide Since 2015",
+        "summary": "Wage growth among higher-income US households is outpacing lower-earning cohorts by the widest margin in over a decade. Bank of America Institute analysis reveals increasingly K-shaped economic recovery patterns.",
+        "signal": "Growing inequality could fuel social tensions and political shifts; watch for policy responses targeting income disparity.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/us-wage-growth-increasingly-k-shaped-with-largest-divide-since-2015",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 56,
+        "topic": "Iran Southeast Asia Impact",
+        "domain": "commodities",
+        "headline": "Iran Conflict Drives Up Food, Transport Prices Across Asia",
+        "summary": "The Iran conflict is causing significant increases in food and transportation costs throughout Southeast Asia. Supply chain disruptions and energy price volatility are creating widespread economic pressures across the region.",
+        "signal": "Asian central banks may face inflation pressures requiring policy tightening; watch for regional economic coordination efforts.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/economy/iran-conflict-drives-up-food-transport-prices-across-southeast-asia",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 54,
+        "topic": "Italy EU Budget Rules",
+        "domain": "europe",
+        "headline": "Italy Wants EU Budget Rules Paused If Iran Crisis Persists",
+        "summary": "Italy's Finance Minister says the EU should consider pausing deficit rules if the Middle East crisis continues. The proposal reflects growing concern about war's economic impact on European fiscal policies.",
+        "signal": "EU fiscal discipline under pressure; watch for broader coalition supporting rule suspension and market reaction to increased spending.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/italy-says-eu-should-pause-budget-rules-if-iran-crisis-persists",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 52,
+        "topic": "Ukraine Gulf Oil Deal",
+        "domain": "geopolitics",
+        "headline": "Ukraine Secures Oil From Gulf States For Military Support",
+        "summary": "Ukraine has reached agreements with Saudi Arabia, Qatar and UAE for oil supplies in exchange for military support. Zelenskyy said similar agreements are in development with Oman, Kuwait and Bahrain.",
+        "signal": "Ukraine diversifying energy sources while expanding military partnerships; monitor Russian response and regional stability impact.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-secures-oil-lifeline-gulf-states-military-support/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Zelenskyy says Ukrainian interceptors downed Iran drones in the Middle East",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj5nbessql2k"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 50,
+        "topic": "UK Russia Submarine Operations",
+        "domain": "geopolitics",
+        "headline": "UK Says Russia Ran Submarine Operations Over Cables",
+        "summary": "UK Defence Secretary John Healey says Russia conducted submarine operations over cables and pipelines in the Atlantic, though there is no evidence of damage to UK infrastructure. The disclosure highlights ongoing underwater security concerns.",
+        "signal": "Critical infrastructure security in focus; watch for increased NATO maritime patrols and protective measures.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cre13qn9z7do",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 48,
+        "topic": "Trump European Relations Strain",
+        "domain": "geopolitics",
+        "headline": "Trump Iran War Widens Rift With European MAGA Allies",
+        "summary": "Hungary's Viktor Orb\u00e1n continues aligning with Trump despite the chaotic foreign policy, while other far-right European leaders distance themselves from the Iran war. The conflict is testing traditional MAGA alliances in Europe.",
+        "signal": "European far-right coalition fracturing; watch for realignment in populist movements and EU policy implications.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/trump-vance-orban-hungary-maga-iran-war-6923d864c09069351ca5f12c3be4a601",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 46,
+        "topic": "Indian Markets Recovery",
+        "domain": "india",
+        "headline": "Indian Markets Rise 1.1% Extending Relief Rally",
+        "summary": "Benchmark Indian indices rose 1.1% driven by buying in financial counters and global market rally. The Sensex jumped 900 points despite ongoing geopolitical tensions and currency volatility.",
+        "signal": "Indian equities showing resilience; monitor for sustained recovery amid global uncertainty and rupee weakness.",
+        "sources": [
+          "The Hindu Business",
+          "LiveMint Markets"
+        ],
+        "source_url": "https://www.thehindu.com/business/markets/markets-rebound-1-on-buying-in-financial-counters-rally-in-global-peers-sensex-jumps-900-points/article70847039.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 21,
+        "score": 44,
+        "topic": "Channel Crossing Deaths",
+        "domain": "europe",
+        "headline": "Four Die In Channel Crossing Attempt",
+        "summary": "Four people died in a Channel crossing attempt off the coast of northern France, with rescue efforts continuing. The incident highlights ongoing risks faced by migrants attempting the dangerous crossing.",
+        "signal": "Migration pressures persist; watch for policy responses and potential impact on UK-France relations.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cgmenyllyz7o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 22,
+        "score": 42,
+        "topic": "BJP West Bengal Manifesto",
+        "domain": "india",
+        "headline": "BJP Promises UCC, Welfare Schemes In West Bengal",
+        "summary": "BJP released its West Bengal Assembly election manifesto promising Uniform Civil Code implementation, clearing dearness allowance dues, and Seventh Pay Commission benefits. The party positions it as a roadmap for 'Sonar Bangla'.",
+        "signal": "UCC promises signal national template; watch for voter response and impact on coalition dynamics in key state.",
+        "sources": [
+          "The Hindu",
+          "Times of India"
+        ],
+        "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-bjp-releases-manifesto/article70846589.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 23,
+        "score": 40,
+        "topic": "Oracle California Layoffs",
+        "domain": "corporate",
+        "headline": "Oracle Begins California Layoffs, 700 Workers Affected",
+        "summary": "Oracle is laying off 700 workers including 491 remote employees in Washington state and Seattle offices, effective June 1. The cuts are part of broader tech sector workforce reductions.",
+        "signal": "Tech layoffs continuing despite AI boom; monitor for further cost-cutting measures and sector consolidation.",
+        "sources": [
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/companies/people/oracle-layoffs-begin-in-california-700-workers-to-be-let-go-by-june-what-we-know-11775801195966.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 24,
+        "score": 38,
+        "topic": "Sudan Humanitarian Crisis",
+        "domain": "geopolitics",
+        "headline": "Sudan Humanitarian Situation Reaches Catastrophic Levels",
+        "summary": "Humanity & Inclusion NGO reports Sudan's humanitarian situation has reached catastrophic levels, with people with disabilities facing extreme challenges amid ongoing war and humanitarian crisis. The conflict continues to devastate civilian populations.",
+        "signal": "International intervention may be needed; watch for refugee flows and regional stability implications.",
+        "sources": [
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/9/humanitarian-situation-in-sudan-at-catastrophic-levels-says-ngo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 25,
+        "score": 36,
+        "topic": "Peru Presidential Election",
+        "domain": "geopolitics",
+        "headline": "Peru Faces Record Presidential Field Amid Instability",
+        "summary": "Peru's presidential election features a record-breaking number of candidates as the country struggles with persistent political instability. Crime and corruption are the top voter concerns.",
+        "signal": "Political fragmentation could lead to governance challenges; monitor for populist outcomes and regional implications.",
+        "sources": [
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/9/a-record-breaking-field-what-to-expect-from-perus-presidential-election",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 26,
+        "score": 34,
+        "topic": "Republican Election Concerns",
+        "domain": "geopolitics",
+        "headline": "Republican Fears Grow Over Special Election Defeats",
+        "summary": "Republicans face setbacks in recent elections with Democrats winning in Wisconsin and Georgia. GOP Rep. Tom Tiffany admits Republicans 'got our butts kicked' in recent special elections.",
+        "signal": "GOP electoral momentum concerns ahead of midterms; watch for strategy shifts and candidate recruitment changes.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/wisconsin-georgia-special-election-donald-trump-ffbfa23ad75aabcbdf034c87ee12c85c",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 27,
+        "score": 32,
+        "topic": "West Virginia Energy Bills",
+        "domain": "macro",
+        "headline": "West Virginia Power Bills Rival Mortgages And Rents",
+        "summary": "West Virginia residents face soaring electricity bills that exceed income levels, with some February bills hitting $940. Despite the state's coal wealth, utility costs are surpassing rent and mortgage payments for many residents.",
+        "signal": "Energy affordability crisis could drive political backlash; watch for regulatory responses and voter sentiment shifts.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/electricity-utility-bills-west-virginia-trump-coal-38ad648f99a42eb2c73d7affaddadbcb",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 28,
+        "score": 30,
+        "topic": "Campaign Security Spending",
+        "domain": "geopolitics",
+        "headline": "Campaign Security Spending Jumps Fivefold Over Decade",
+        "summary": "Security spending for congressional and presidential campaigns has increased fivefold over the past decade due to escalating threats against public officials. The hostile political environment is driving unprecedented security costs.",
+        "signal": "Political violence risk rising; monitor for impact on candidate participation and democratic processes.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/political-violence-campaign-security-spending-congress-presidency-35ad00a47e462eeed7e08245bfecd61d",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 29,
+        "score": 28,
+        "topic": "Gaza Peace Board Funding",
+        "domain": "geopolitics",
+        "headline": "Trump Gaza Peace Board Faces Cash Crunch",
+        "summary": "Trump's Board of Peace has received only a fraction of the $17 billion pledged for rebuilding Gaza, preventing plans for the war-torn region's future. The funding crisis has stalled deployment of a US-backed Palestinian technocratic body to govern Gaza.",
+        "signal": "Gaza reconstruction delays could undermine peace efforts; watch for alternative funding sources and regional stability impact.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/us/no-money-available-trumps-peace-board-faces-cash-crunch-gaza-plan-stalls-amid-iran-war/articleshow/130173671.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 30,
+        "score": 26,
+        "topic": "Amazon Kindle Support Ends",
+        "domain": "corporate",
+        "headline": "Amazon Ends Support For Older Kindles",
+        "summary": "Amazon is ending support for Kindles released before 2013, meaning owners cannot download new e-books. The move affects older device users and has sparked customer complaints about planned obsolescence.",
+        "signal": "Consumer backlash may impact Amazon reputation; watch for regulatory scrutiny of device support policies.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c98k91yy4z4o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 31,
+        "score": 53,
+        "topic": "DOJ Legal Opinion Bombshell",
+        "domain": "geopolitics",
+        "headline": "DOJ Says Presidential Records Act Unconstitutional",
+        "summary": "DOJ's Office of Legal Counsel released a 52-page opinion declaring the Presidential Records Act 'unconstitutional' and that it grants Trump unprecedented executive power.",
+        "signal": "Constitutional crisis potential if opinion stands; watch for Congressional and judicial responses to executive power expansion.",
+        "sources": [
+          "@bloomberg.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Major constitutional law development that could reshape presidential accountability and records preservation.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "NEW FOIA Files newsletter is out! On April 1, the DOJ's Office of Legal Counsel publicly released a bombshell 52-page opinion. It said that the Presidential Records Act is 'unconstitutional' and tha",
+            "score": 53,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj5m7xnsss2p"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 29
+  },
+  {
     "timestamp": "2026-04-10T15:14:10.412920+00:00",
     "timestamp_ist": "10 Apr 2026 \u00b7 20:44 IST",
     "story_count": 19,
@@ -14754,489 +15383,5 @@
       }
     ],
     "social_count": 136
-  },
-  {
-    "timestamp": "2026-04-06T10:39:51.760215+00:00",
-    "timestamp_ist": "06 Apr 2026 \u00b7 16:09 IST",
-    "story_count": 18,
-    "avg_score": 62,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 85,
-        "topic": "US-Iran War Escalation",
-        "domain": "geopolitics",
-        "headline": "Iran rejects ceasefire as Trump ultimatum deadline approaches",
-        "summary": "Iran has rejected proposals for a 45-day ceasefire and declined to reopen the Strait of Hormuz despite diplomatic efforts by US and mediators. Tehran says it has formulated its own diplomatic response but will announce it only when appropriate.",
-        "signal": "Oil prices and regional stability hinge on whether Iran will comply with Trump's ultimatum or trigger further military escalation.",
-        "sources": [
-          "Al Jazeera English",
-          "Middle East Eye",
-          "Associated Press",
-          "@FirstSquawk",
-          "@Faytuks"
-        ],
-        "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "US 15-POINT PLAN WAS 'EXTREMELY AMBITIOUS AND ILLOGICAL', IRAN FOREIGN MINISTRY SPOKESPERSON ESMAIL BAGHAEI SAYS",
-            "score": 51,
-            "url": "https://twitter.com/FirstSquawk/status/2041082008001290263"
-          },
-          {
-            "handle": "Faytuks",
-            "platform": "twitter",
-            "text": "Iran has rejected a proposal to open the Strait of Hormuz in exchange for a temporary cease-fire, officials familiar with the matter said.",
-            "score": 45,
-            "url": "https://twitter.com/Faytuks/status/2040856678795473376"
-          },
-          {
-            "handle": "spectatorindex",
-            "platform": "twitter",
-            "text": "BREAKING: Chances for a breakthrough over Iran war 'remain slim' and Iran has 'so far declined to accept a temporary cease-fire",
-            "score": 45,
-            "url": "https://twitter.com/spectatorindex/status/2041090867193413940"
-          },
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON BAGHAEI SAYS TEHRAN HAS FORMULATED ITS DIPLOMATIC RESPONSE TO U.S., WILL ANNOUNCE IN DUE TIME",
-            "score": 46,
-            "url": "https://twitter.com/FirstSquawk/status/2041082426404093978"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 2,
-        "score": 84,
-        "topic": "US Pilot Rescue Iran",
-        "domain": "geopolitics",
-        "headline": "US airman rescued from Iran after F-15 downing",
-        "summary": "US forces have successfully rescued an American airman who went missing after Iran shot down a fighter jet over southern Iran. Iran claims the rescue operation may have been cover to steal enriched uranium.",
-        "signal": "Successful rescue demonstrates US special operations capability but Iran's uranium theft allegations could escalate diplomatic tensions.",
-        "sources": [
-          "Associated Press",
-          "Bloomberg",
-          "Al Jazeera English",
-          "@FirstSquawk",
-          "@MarioNawfal"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "RIA NOVOSTI: IRANIAN FOREIGN MINISTRY SPOKESPERSON SAYS THERE IS A POSSIBILITY THAT THE US OPERATION SOUTH OF ISFAHAN WAS PLANNED TO SEIZE IRAN'S ENRICHED URANIUM",
-            "score": 49,
-            "url": "https://twitter.com/FirstSquawk/status/2041085108011364810"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "The CIA tricked Iran to get the U.S. airman out. They launched a deception campaign while a stranded American crew member was hiding",
-            "score": 44,
-            "url": "https://twitter.com/MarioNawfal/status/2041096073364615323"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 82,
-        "topic": "Iran Attacks Gulf States",
-        "domain": "geopolitics",
-        "headline": "Iran strikes Kuwait, UAE facilities as Gulf attacks continue",
-        "summary": "Kuwait reports six people injured in Iranian residential area attacks, while power and water plants are damaged across Gulf states. Over 1,000 Iranian missiles and drones have reportedly hit Kuwait since the war began.",
-        "signal": "Expanding Gulf state casualties could trigger broader regional coalition against Iran and disrupt global energy infrastructure.",
-        "sources": [
-          "Al Jazeera English",
-          "Bloomberg",
-          "Middle East Eye",
-          "@MarioNawfal"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "Over 1,000 Iranian missiles and drones have hit Kuwait since the war on Iran began. In the last 24 hours alone, Kuwait's air defenses report intercepting 9 ballistic missiles",
-            "score": 45,
-            "url": "https://twitter.com/MarioNawfal/status/2041078469769998776"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 4,
-        "score": 78,
-        "topic": "Oil Market War Impact",
-        "domain": "commodities",
-        "headline": "Oil prices volatile on ceasefire hopes, OPEC+ output increase",
-        "summary": "OPEC+ plans symbolic output quota hike amid Middle East conflict constraining production from several large members. Oil prices dropped over $2 on reports of US-Iran tension reduction efforts.",
-        "signal": "Oil price volatility will persist until Strait of Hormuz reopens, with any ceasefire breakthrough potentially triggering sharp price declines.",
-        "sources": [
-          "Bloomberg",
-          "LiveMint Markets",
-          "Euronews Business",
-          "@FirstSquawk"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/opec-plans-symbolic-output-quota-hike-amid-war-delegates-say",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "OIL PRICES DROP BY MORE THAN $2 WITH US AND IRAN HAVING AN AGREEMENT TO REDUCE TENSIONS, BRENT AT $107 PER BARREL",
-            "score": 41,
-            "url": "https://twitter.com/FirstSquawk/status/2041087855456550998"
-          }
-        ],
-        "trend": "falling",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 5,
-        "score": 75,
-        "topic": "Indian Stock Market Rally",
-        "domain": "markets",
-        "headline": "Sensex jumps 800 points on Iran ceasefire speculation",
-        "summary": "Indian markets reversed early losses with Sensex gaining 787 points and Nifty rising 255 points amid reports of diplomatic push for Iran ceasefire. Investors gained \u20b95 lakh crore in single session.",
-        "signal": "Market rally vulnerable to reversal if Iran ceasefire talks collapse or oil prices spike again.",
-        "sources": [
-          "NDTV News",
-          "LiveMint Markets",
-          "Hindu Business"
-        ],
-        "source_url": "https://www.livemint.com/market/stock-market-news/sensex-up-800-points-nifty-50-ends-above-22-950-investors-earn-5-lakh-crore-key-highlights-from-stock-market-today-11775469135319.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 74,
-        "topic": "Ukraine Russia Energy War",
-        "domain": "geopolitics",
-        "headline": "Ukraine strikes Russian oil infrastructure, Serbia finds pipeline explosives",
-        "summary": "Ukrainian drones hit Russia's Norsi refinery causing fires, while Serbia discovered explosives near major gas pipeline extending to Hungary. Serbian intelligence says Ukraine not involved in pipeline plot.",
-        "signal": "European energy security remains vulnerable to sabotage amid broader East-West tensions beyond Ukraine conflict.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera English",
-          "Politico Europe"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/russia-s-lukoil-norsi-refinery-suffers-fire-from-ukrainian-hit",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 72,
-        "topic": "Israel Lebanon Strikes",
-        "domain": "geopolitics",
-        "headline": "Israeli strikes kill dozens in Lebanon as Hezbollah escalates",
-        "summary": "Israeli forces conducted new strikes on Beirut's southern suburbs and Lebanon, with army chief vowing to step up campaign against Hezbollah. Lebanese armed group launched attacks on northern Israeli settlements.",
-        "signal": "Lebanon escalation could open second front diverting Israeli resources from Iran operations.",
-        "sources": [
-          "The National (UAE)",
-          "Middle East Eye",
-          "@France24_en",
-          "@AJEnglish"
-        ],
-        "source_url": "https://www.thenationalnews.com/news/mena/2026/04/06/israeli-strikes-in-lebanon-kill-dozens-as-army-chief-vows-to-step-up-campaign-against-hezbollah/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "The Lebanese armed group Hezbollah says its fighters have launched attacks targeting the Hurfeish, Shlomi, and Nahariya settlements in northern Israel",
-            "score": 48,
-            "url": "https://twitter.com/AJEnglish/status/2041088558992114050"
-          },
-          {
-            "handle": "France24_en",
-            "platform": "twitter",
-            "text": "Israel launches new strikes on Lebanon, forces closure of Syria border crossing",
-            "score": 41,
-            "url": "https://twitter.com/France24_en/status/2040852672454988018"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 8,
-        "score": 68,
-        "topic": "US Satellite Iran Blackout",
-        "domain": "geopolitics",
-        "headline": "Planet Labs restricts Iran war imagery at US request",
-        "summary": "Trump administration asked satellite providers to withhold images of designated Middle East areas, prompting Planet Labs to restrict Iran war zone data access. Move raises transparency concerns during active conflict.",
-        "signal": "Information blackout could limit market ability to assess war damage and strategic developments in real-time.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/us-request-prompts-planet-labs-to-withhold-iran-war-images",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 65,
-        "topic": "Delhi Assembly Security Breach",
-        "domain": "india",
-        "headline": "Masked man rams car through Delhi Assembly gates",
-        "summary": "A shocking security lapse occurred when a masked driver broke through barriers and raced into Delhi Assembly premises before escaping. Ink was also thrown at the Speaker's vehicle in separate incident.",
-        "signal": "Security failures at key government facilities highlight vulnerability of democratic institutions.",
-        "sources": [
-          "Times of India",
-          "NDTV News",
-          "@PTI_News"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/city/delhi/delhi-assembly-security-scare-speeding-car-breaks-through-barricades-rams-gate/articleshow/130057028.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "STORY | Security scare at Delhi Assembly as car driven by masked man breaks through iron gate",
-            "score": 48,
-            "url": "https://twitter.com/PTI_News/status/2041090796838060070"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 62,
-        "topic": "Oracle Mass Layoffs",
-        "domain": "corporate",
-        "headline": "Oracle cuts 10000+ jobs over OpenAI deal costs",
-        "summary": "Oracle is laying off at least 10,000 employees\u2014potentially up to 30,000\u2014as it struggles with cash demands of a $300 billion cloud computing deal with OpenAI. The cuts span multiple divisions as debt exceeds projections.",
-        "signal": "AI infrastructure costs creating unexpected financial strain on tech giants, potentially affecting broader sector valuations.",
-        "sources": [
-          "Times of India"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-10000-job-cuts-have-a-sam-altman-connection-a-promise-oracle-made-to-openai-for-/articleshow/130035870.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 58,
-        "topic": "Japan Immigration Tightening",
-        "domain": "japan",
-        "headline": "Japan tightens residency rules for foreign workers abroad",
-        "summary": "Japan will require military approval for German men aged 17-45 seeking long stays abroad, while implementing broader restrictions on foreign employee residency rules. Enforcement mechanisms remain unclear.",
-        "signal": "Immigration policy shifts signal Japan's growing security concerns amid regional tensions.",
-        "sources": [
-          "Nikkei Asia",
-          "BBC News"
-        ],
-        "source_url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-to-tighten-residency-rules-for-foreign-employees",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 55,
-        "topic": "AirAsia War Impact",
-        "domain": "corporate",
-        "headline": "AirAsia cuts flights 10% as Iran war drives fuel costs",
-        "summary": "AirAsia is reducing flights by 10% and increasing fares as jet fuel prices soar amid the US-Iran conflict. The airline faces significant cost pressures despite sustained passenger demand.",
-        "signal": "Airlines facing margin compression could trigger broader travel sector repricing if fuel costs remain elevated.",
-        "sources": [
-          "Nikkei Asia",
-          "LiveMint Companies"
-        ],
-        "source_url": "https://asia.nikkei.com/business/transportation/airasia-cuts-10-of-flights-as-iran-war-pushes-up-fuel-prices",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 50,
-        "topic": "Pope Easter War Warning",
-        "domain": "geopolitics",
-        "headline": "Pope Leo calls for hope amid spreading global conflicts",
-        "summary": "Pope Leo celebrated his first Easter Mass as pontiff, urging hope against war violence. He emphasized need for peace as conflicts spread globally, specifically mentioning US-Israeli war on Iran and Russia's Ukraine campaign.",
-        "signal": "Papal intervention signals religious leadership concern over potential for wider global conflict.",
-        "sources": [
-          "Associated Press",
-          "Politico Europe"
-        ],
-        "source_url": "https://apnews.com/article/vatican-pope-easter-urbi-et-orbi-611de44cf58ffa153f00ae1145ad3130",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 48,
-        "topic": "Iranian Intelligence Chief Killed",
-        "domain": "geopolitics",
-        "headline": "Israel kills Iran Revolutionary Guard intelligence chief",
-        "summary": "Israeli strikes killed Major General Majid Khademi, intelligence chief of Iran's Revolutionary Guards, according to Israel's defense minister. The targeted assassination continues Israel's campaign against Iranian leadership.",
-        "signal": "High-value target eliminations could prompt Iranian retaliation escalation or force leadership into hiding.",
-        "sources": [
-          "NDTV Profit",
-          "@AFP"
-        ],
-        "source_url": "https://www.ndtvprofit.com/world/iran-s-revolutionary-guard-intelligence-chief-killed-in-israeli-strike-11317517",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "AFP",
-            "platform": "twitter",
-            "text": "Israeli strikes killed the intelligence chief of Iran's Revolutionary Guards, Israel's defence minister said",
-            "score": 53,
-            "url": "https://twitter.com/AFP/status/2041089793870774571"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 15,
-        "score": 45,
-        "topic": "Trump China Trade Talks",
-        "domain": "geopolitics",
-        "headline": "Trump managing delicate China truce amid Iran crisis",
-        "summary": "President Trump is carefully managing relations with China, seeking to avoid confrontation during the Iran crisis. Administration walking on eggshells to maintain current trade arrangements.",
-        "signal": "China relationship stability crucial for US to maintain focus on Iran without opening second front.",
-        "sources": [
-          "Politico Europe"
-        ],
-        "source_url": "https://www.politico.com/news/2026/04/05/walking-on-eggshells-how-trump-is-managing-his-delicate-china-truce-00856475",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 42,
-        "topic": "North Korea Succession Intelligence",
-        "domain": "geopolitics",
-        "headline": "South Korea confirms Kim Jong Un daughter as successor",
-        "summary": "South Korean intelligence reports 'credible intelligence' indicating North Korean leader Kim Jong Un's daughter is being positioned as his successor, marking first official confirmation of succession planning.",
-        "signal": "Leadership transition signals could affect North Korea's nuclear posture and regional stability calculations.",
-        "sources": [
-          "@ReutersWorld"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "First official intelligence confirmation of North Korean succession planning could signal internal power shifts.",
-        "social_signals": [
-          {
-            "handle": "ReutersWorld",
-            "platform": "twitter",
-            "text": "South Korea says 'credible intelligence' indicates North Korean leader's daughter is successor",
-            "score": 45,
-            "url": "https://twitter.com/ReutersWorld/status/2041101264822452388"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 17,
-        "score": 40,
-        "topic": "OpenAI Financial Concerns",
-        "domain": "corporate",
-        "headline": "OpenAI CFO warns company not ready for IPO",
-        "summary": "OpenAI CFO Sarah Friar has reportedly voiced concerns over Sam Altman's spending and stated the company is not ready for an initial public offering despite massive AI training expenses.",
-        "signal": "AI leader's financial struggles could indicate broader sector overheating and valuation concerns.",
-        "sources": [
-          "@Polymarket",
-          "@FirstSquawk"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Internal financial concerns at AI's biggest player could signal broader sector correction ahead.",
-        "social_signals": [
-          {
-            "handle": "Polymarket",
-            "platform": "twitter",
-            "text": "JUST IN: OpenAI CFO Sarah Friar has reportedly voiced concerns over Sam Altman's spending, says the company is not ready to IPO",
-            "score": 40,
-            "url": "https://twitter.com/Polymarket/status/2040972514730340812"
-          },
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "OPENAI AND ANTHROPIC'S FINANCIAL REPORTS SHOW INCREASING EXPENSES FOR AI MODEL TRAINING",
-            "score": 46,
-            "url": "https://twitter.com/FirstSquawk/status/2041101280245096703"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 18,
-        "score": 35,
-        "topic": "Baghdad US Facility Strike",
-        "domain": "geopolitics",
-        "headline": "Drone strike hits US diplomatic site near Baghdad",
-        "summary": "Security sources report a drone strike hit a US diplomatic facility near Baghdad airport with smoke visible from the impact site.",
-        "signal": "Attacks on US facilities in Iraq could indicate Iran expanding proxy operations beyond Gulf states.",
-        "sources": [
-          "@FirstSquawk"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Potential escalation of Iran proxy attacks against US facilities in Iraq amid broader regional conflict.",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "DRONE STRIKE HITS U.S. DIPLOMATIC SITE NEAR BAGHDAD AIRPORT, SMOKE REPORTED BY SECURITY SOURCES",
-            "score": 46,
-            "url": "https://twitter.com/FirstSquawk/status/2041096645992169490"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 138
   }
 ]
