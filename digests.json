@@ -1,5 +1,453 @@
 [
   {
+    "timestamp": "2026-04-10T15:14:10.412920+00:00",
+    "timestamp_ist": "10 Apr 2026 \u00b7 20:44 IST",
+    "story_count": 19,
+    "avg_score": 66,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 88,
+        "topic": "US-Iran Peace Talks Pakistan",
+        "domain": "geopolitics",
+        "headline": "US-Iran peace talks set for Saturday in Pakistan",
+        "summary": "US Vice President JD Vance heads to Islamabad for crucial negotiations with Iran aimed at ending weeks of Middle East conflict. Iran's Parliament Speaker sets preconditions including Lebanon ceasefire and prisoner releases before talks can begin.",
+        "signal": "Watch for breakdown risks if Iran's preconditions aren't met, potentially escalating regional conflict.",
+        "sources": [
+          "Nikkei Asia",
+          "Times of India",
+          "Al Jazeera English",
+          "NDTV Profit",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-iran-talks-set-for-saturday-in-pakistan-with-hormuz-in-focus",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Iran's Parliament Speaker Mohammad Bagher Ghalibaf says negotiations with the US cannot begin until two key conditions are met: the implementation of a ceasefire in Lebanon and the release o",
+            "score": 53,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj5m5jxq4s25"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US-Iran talks open in Islamabad with mediators focused on keeping dialogue alive amid deep divisions.",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj5llq4ghg2i"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US Vice President JD Vance says Donald Trump has given \"clear guidelines\" for upcoming talks with Iran in Pakistan and expects the negotiations to be \"positive\".",
+            "score": 50,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj5jd7yl4k25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 86,
+        "topic": "Strait Hormuz Sea Mines",
+        "domain": "geopolitics",
+        "headline": "Iran may have placed sea mines in Strait of Hormuz",
+        "summary": "Iran's semiofficial news agencies published charts suggesting Revolutionary Guard placed sea mines in the critical Strait of Hormuz shipping lane during the war. Germany wants UN mandate to secure the waterway, while Iran proposes taxing ships passing through.",
+        "signal": "Critical threat to 21% of global oil transit; watch for international naval response or shipping route diversions.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-9-2026-7760f88f183ed2a13a721057e31f3ce7",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 84,
+        "topic": "Israel Lebanon Attacks Ceasefire",
+        "domain": "geopolitics",
+        "headline": "Israeli strikes kill 254 in Lebanon threatening ceasefire",
+        "summary": "Israel launched devastating attacks on Lebanon killing over 254 people in a single day, prompting national mourning and threatening the fragile US-Iran ceasefire agreement. Critics say attacks aimed to undermine peace negotiations.",
+        "signal": "Ceasefire collapse risk rising; regional war escalation if Lebanon attacks continue despite US diplomatic efforts.",
+        "sources": [
+          "Al Jazeera English",
+          "Associated Press",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/9/israeli-attacks-on-lebanon-aimed-to-undermine-ceasefire-critics-say",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 82,
+        "topic": "Oil Price Energy Shock",
+        "domain": "commodities",
+        "headline": "IMF warns oil shock tests world with limited fiscal buffers",
+        "summary": "International Monetary Fund cuts global growth forecasts as Middle East conflict creates major supply shock, testing world economy with little fiscal support capacity. US inflation surged to 3.3% in March on energy price spikes.",
+        "signal": "Stagflation risk rising globally; central banks face difficult choice between fighting inflation and supporting growth.",
+        "sources": [
+          "Bloomberg",
+          "The National UAE",
+          "Euronews Business"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/imf-chief-says-oil-shock-tests-a-world-with-little-fiscal-buffer",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 80,
+        "topic": "Trump Iran Emergency Tariffs",
+        "domain": "macro",
+        "headline": "Trump may use emergency law for Iran tariffs despite court ruling",
+        "summary": "President Trump's economic adviser says he has authority to enact Iran-related duties under emergency law the Supreme Court previously ruled couldn't be used for tariffs. Trump's 10% global tariff faces court challenge Friday.",
+        "signal": "Legal precedent breakdown risk; emergency powers expansion could reshape global trade law and WTO compliance.",
+        "sources": [
+          "Bloomberg",
+          "Economic Times",
+          "Nikkei Asia",
+          "@reuters.com"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/trump-may-impose-iran-tariff-with-law-court-rejected-aide-says",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "US trade court weighs legality of Trump 10% global tariff reut.rs/4vnJL2I",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj5m5xs45b2i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 78,
+        "topic": "Democrats Trump Impeachment Threats",
+        "domain": "geopolitics",
+        "headline": "Democrats demand Trump removal after Iran civilization threats",
+        "summary": "Dozens of Democratic lawmakers call for President Trump's removal from office after he threatened Iranian civilization would 'die' if it didn't meet his demands. Episode unleashes opposition demands against the Republican president.",
+        "signal": "Political crisis escalation risk as war powers debate intensifies; watch for congressional action or cabinet pressure.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/trump-iran-threats-democrats-impeachment-ea13fc589d1dd75e552de883f2e86e71",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 76,
+        "topic": "European Fuel Shortages Crisis",
+        "domain": "commodities",
+        "headline": "European airports face jet fuel shortages within weeks",
+        "summary": "TotalEnergies closes key Saudi refinery after attacks, forcing halt of 15% of output as Middle East disruptions spread. European airports could face critical jet fuel shortages within three weeks of continued supply disruptions.",
+        "signal": "Aviation sector paralysis risk; expect flight cancellations and emergency rationing if supply chains don't normalize quickly.",
+        "sources": [
+          "Euronews Business",
+          "@theguardian.com"
+        ],
+        "source_url": "http://www.euronews.com/business/2026/04/10/totalenergies-closes-key-saudi-refinery-after-attacks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "European airports could face jet fuel shortages within three weeks",
+            "score": 23,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mj5knoj2zk2m"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 8,
+        "score": 74,
+        "topic": "Iran New Hardline Leadership",
+        "domain": "geopolitics",
+        "headline": "Israel warns Iran's new regime more hardline under military control",
+        "summary": "Israel's IDF warns of more extreme Iranian leadership under Mojtaba Khamenei following Ayatollah Khamenei's death and joint US-Israeli offensive. New regime reportedly under tighter military control as peace talks begin.",
+        "signal": "Negotiation failure risk increases with hardline transition; expect more aggressive Iranian positions in Islamabad talks.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/middle-east/irans-new-regime-more-hardline-under-military-control-israels-big-warning-ahead-of-truce-talks/articleshow/130172160.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 72,
+        "topic": "India Market Rebound Banking",
+        "domain": "india",
+        "headline": "Indian markets rebound 1% on banking rally, Sensex jumps 900",
+        "summary": "Markets surge with Sensex gaining 900 points driven by financial sector buying and global peer rally. Strong SIP inflows hit record high with 56% jump in equity mutual fund flows despite recent selloff.",
+        "signal": "Retail investor resilience signals structural shift; sustained inflows could support markets despite global volatility.",
+        "sources": [
+          "The Hindu Business",
+          "LiveMint Markets"
+        ],
+        "source_url": "https://www.thehindu.com/business/markets/markets-rebound-1-on-buying-in-financial-counters-rally-in-global-peers-sensex-jumps-900-points/article70847039.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 68,
+        "topic": "Ukraine Gulf Oil Deal",
+        "domain": "geopolitics",
+        "headline": "Ukraine secures Gulf oil lifeline for military support",
+        "summary": "Ukraine reaches oil supply agreements with Saudi Arabia, Qatar and UAE in exchange for military support, with similar deals planned for Oman, Kuwait and Bahrain. Zelenskyy reveals Ukrainian drones took down Iranian Shaheds in West Asia war.",
+        "signal": "Gulf states hedging bets on conflict outcomes; Ukraine's military expertise becomes valuable commodity for energy security.",
+        "sources": [
+          "Politico Europe",
+          "Indian Express"
+        ],
+        "source_url": "https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-secures-oil-lifeline-gulf-states-military-support/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Ukraine says Russia suffers record losses of soldiers https://aje.news/dzo2qg",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj5iahuqux2h"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 64,
+        "topic": "AI Cybersecurity Crisis Banks",
+        "domain": "markets",
+        "headline": "Anthropic AI triggers $2 trillion IT wipeout, emergency bank meetings",
+        "summary": "US Treasury Secretary and Federal Reserve Chair urgently met top bank CEOs to discuss Anthropic's Claude Mythos Preview AI model that can find software vulnerabilities. The powerful AI raises cybersecurity concerns for the financial system.",
+        "signal": "Systemic financial risk from AI-powered cyber attacks; expect emergency regulations and massive security spending by banks.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/from-a-2-trillion-it-stocks-wipeout-to-an-emergency-dc-meeting-how-anthropics-ai-is-becoming-wall-streets-biggest-headache/articleshow/130162215.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 62,
+        "topic": "Mathura Boat Tragedy Deaths",
+        "domain": "india",
+        "headline": "Ten dead after tourist boat capsizes in Mathura Yamuna",
+        "summary": "At least ten people died when a boat carrying devotees capsized near Kesi Ghat in Mathura's Yamuna River. Around 30 individuals were on two boats when one suddenly sank, with rescue efforts ongoing for missing passengers.",
+        "signal": "Tourist safety crisis in religious sites; expect stricter boat regulations and liability questions for operators.",
+        "sources": [
+          "Times of India",
+          "NDTV News",
+          "Economic Times"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/boat-carrying-devotees-capsizes-in-mathura-six-bodies-recovered-rescue-ops-on/articleshow/130168736.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 60,
+        "topic": "Tata Sons Listing Pressure",
+        "domain": "corporate",
+        "headline": "Shapoor Mistry pushes Tata Sons listing as Trusts split",
+        "summary": "Shapoorji Pallonji Group calls for Tata Sons listing after Tata Trusts' vice chairmen separately advocated for public listing. Mistry's comments come as unanimity breaks within Tata Trusts on the listing question.",
+        "signal": "Major corporate governance shift possible; Tata Sons listing could unlock massive value but face family resistance.",
+        "sources": [
+          "LiveMint Companies",
+          "The Hindu Business"
+        ],
+        "source_url": "https://www.livemint.com/companies/news/tata-sons-listing-shapoorji-pallonji-group-11775820438915.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 58,
+        "topic": "Microsoft AI Code Red",
+        "domain": "corporate",
+        "headline": "Satya Nadella orders Copilot AI overhaul in emergency response",
+        "summary": "Microsoft CEO initiates 'Copilot code red' to enhance AI performance and user experience, allocating significant cloud capacity to development. Move comes almost two years after Google's company-wide AI emergency response.",
+        "signal": "Big Tech AI arms race intensifying; Microsoft playing catch-up could signal broader industry consolidation pressures.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/almost-two-years-after-google-ceo-sundar-pichai-sent-company-wide-code-red-microsoft-ceo-satya-nadella-deploys-emergency-overhaul-to-/articleshow/130158146.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 56,
+        "topic": "Swiggy Leadership Reshuffle Board",
+        "domain": "corporate",
+        "headline": "Swiggy co-founder Nandan Reddy steps down in board reshuffle",
+        "summary": "Lakshmi Nandan Reddy, co-founder of Swiggy, resigns to pursue other interests as the food delivery giant announces major board changes. Two other executives will join the board in leadership rejig.",
+        "signal": "Startup maturity transition; founder exits often signal professionalization ahead of potential strategic moves or IPO.",
+        "sources": [
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/companies/swiggy-co-founder-nandan-reddy-to-step-down-company-announces-major-board-reshuffle-11775824549227.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 52,
+        "topic": "China US Iran Relations",
+        "domain": "geopolitics",
+        "headline": "US warns China over Iran involvement hurting American interests",
+        "summary": "President Trump's top trade adviser warns US-China relations risk becoming more complicated if Beijing's involvement with Iran hurts American interests. Comments come as Iran talks begin in Pakistan.",
+        "signal": "Three-way diplomatic crisis brewing; China's Iran support could trigger broader US trade retaliation beyond existing tariffs.",
+        "sources": [
+          "@bloomberg.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Senior US trade official's warning suggests Iran conflict could reshape US-China economic relationship.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "US-China relations risk becoming more complicated if Beijing's involvement with Iran hurts American interests, President Donald Trump's top trade adviser says.",
+            "score": 50,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj5iancw5i2l"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 17,
+        "score": 42,
+        "topic": "Kraken Fed Payment Account",
+        "domain": "markets",
+        "headline": "Crypto giant Kraken's Fed payment account sparks risk concerns",
+        "summary": "Kraken's Federal Reserve payment account approval raises concerns about cryptocurrency risks entering traditional banking system. Move represents significant milestone for crypto integration with central banking infrastructure.",
+        "signal": "Crypto-banking convergence accelerating; regulatory boundaries blurring could create systemic risks or mainstream adoption breakthrough.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "First major crypto exchange with direct Fed access could reshape digital asset banking landscape.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Crypto giant Kraken's Fed payment account sparks concerns about risks reut.rs/4teVmPW",
+            "score": 42,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj5lux5dsx27"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 18,
+        "score": 40,
+        "topic": "Macron Trump G7 Versailles",
+        "domain": "geopolitics",
+        "headline": "Macron seeks to draw Trump to G7 with Versailles invitation",
+        "summary": "French President Macron extends post-G7 summit invitation to Versailles in attempt to engage Trump in multilateral diplomacy. Move represents European effort to maintain transatlantic ties amid Middle East tensions.",
+        "signal": "European diplomatic offensive to constrain Trump's unilateral impulses; success could stabilize NATO unity on Iran crisis.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "High-stakes diplomatic courtship as Europe seeks to influence US Iran policy through personal engagement.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Exclusive: Macron seeks to draw Trump to G7 with post-summit invite to Versailles reut.rs/3Q0EDBy",
+            "score": 40,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj5l2b4qkd2d"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 19,
+        "score": 39,
+        "topic": "Trump Presidential Records Act",
+        "domain": "geopolitics",
+        "headline": "Justice Department tells Trump he needn't comply with Records Act",
+        "summary": "Donald Trump was told by his Justice Department he no longer has to comply with the Presidential Records Act, a 1978 law passed after Watergate to ensure presidential records are preserved.",
+        "signal": "Constitutional precedent erosion; could enable destruction of critical governance documents and undermine historical accountability.",
+        "sources": [
+          "@bloomberg.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Unprecedented relaxation of presidential oversight could have lasting implications for government transparency.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Donald Trump was told by his Justice Department he no longer has to \"comply\" with the Presidential Records Act, a 1978 law passed in the wake of Watergate to ensure presidential records are preserved.",
+            "score": 39,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj5lmmbxhy26"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-10T12:07:51.994208+00:00",
     "timestamp_ist": "10 Apr 2026 \u00b7 17:37 IST",
     "story_count": 18,
@@ -14790,407 +15238,5 @@
       }
     ],
     "social_count": 138
-  },
-  {
-    "timestamp": "2026-04-06T09:33:35.540865+00:00",
-    "timestamp_ist": "06 Apr 2026 \u00b7 15:03 IST",
-    "story_count": 15,
-    "avg_score": 62,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 95,
-        "topic": "US-Israel-Iran Military Conflict",
-        "domain": "geopolitics",
-        "headline": "US Rescues F-15 Pilot as Iran-US War Continues",
-        "summary": "A US service member missing since Iran shot down an F-15 fighter jet has been successfully rescued after days of search operations, with multiple news sources confirming the operation. The conflict has now entered day 37-38 with Iran shooting down two US aircraft and continuing attacks on Gulf infrastructure.",
-        "signal": "Watch for Trump's Tuesday deadline ultimatum on reopening Strait of Hormuz and potential escalation to Iranian power plant targets.",
-        "sources": [
-          "Associated Press",
-          "Bloomberg",
-          "Al Jazeera English",
-          "BBC News",
-          "@AJEnglish",
-          "@FirstSquawk"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "A US\u2011Israeli air strike targeting the Baharestan district in Tehran has killed 15 people and wounded many others",
-            "score": 53,
-            "url": "https://twitter.com/AJEnglish/status/2041082681664913814"
-          },
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "ISRAEL DEFENCE MINISTER KATZ: WILL HIT IRAN INFRASTRUCTURE AS LONG AS IRAN KEEPS FIRING",
-            "score": 52,
-            "url": "https://twitter.com/FirstSquawk/status/2041065442312405103"
-          },
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Tensions are rising as President Donald Trump's Tuesday deadline for Iran to open the Strait of Hormuz nears",
-            "score": 45,
-            "url": "https://twitter.com/AJEnglish/status/2041077811595608551"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 89,
-        "topic": "Iran Attacks Gulf States",
-        "domain": "geopolitics",
-        "headline": "Iran Strikes Kuwait Oil Facilities, UAE Power Plants",
-        "summary": "Iran has launched extensive attacks on Gulf state infrastructure with Kuwait reporting fires at oil facilities and power plants, while the UAE's Borouge petrochemicals plant suspended operations after multiple fires. Kuwait says six people were injured in attacks on residential areas.",
-        "signal": "Gulf energy infrastructure remains vulnerable to Iranian retaliation, threatening regional oil production and global supply chains.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera English",
-          "Kuwait Petroleum",
-          "@MarioNawfal"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/borouge-suspends-abu-dhabi-plant-operations-after-multiple-fires",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "UAE AIR DEFENSE HAS INTERCEPTED OVER 2,000 IRANIAN DRONES AIMED AT CIVILIANS",
-            "score": 55,
-            "url": "https://twitter.com/MarioNawfal/status/2041068172384591905"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "Over 1,000 Iranian missiles and drones have hit Kuwait since the war on Iran began",
-            "score": 45,
-            "url": "https://twitter.com/MarioNawfal/status/2041078469769998776"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 84,
-        "topic": "OPEC+ Oil Production Hike",
-        "domain": "commodities",
-        "headline": "OPEC+ Plans Symbolic Output Quota Increase Amid War",
-        "summary": "OPEC+ members plan to raise production quotas for May in a symbolic move as Middle East conflict constrains production and shipments from several large alliance members. The decision comes as oil prices have surged amid supply disruptions from the Iran war.",
-        "signal": "Monitor whether actual production increases materialize or if this remains largely symbolic given ongoing Middle East supply constraints.",
-        "sources": [
-          "Bloomberg",
-          "Euronews Business"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/opec-plans-symbolic-output-quota-hike-amid-war-delegates-say",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "Saudi Arabia is exporting 33% less oil after the Strait of Hormuz closure, but oil jumped from $67 to $130 a barrel",
-            "score": 45,
-            "url": "https://twitter.com/MarioNawfal/status/2041065905912725867"
-          },
-          {
-            "handle": "spectatorindex",
-            "platform": "twitter",
-            "text": "US crude oil prices are down 2%, amid reports of proposals to end the conflict in the Middle East",
-            "score": 43,
-            "url": "https://twitter.com/spectatorindex/status/2041067526873137579"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 78,
-        "topic": "Iran Revolutionary Guards Intelligence Chief Killed",
-        "domain": "geopolitics",
-        "headline": "IRGC Intelligence Chief Majid Khademi Confirmed Dead",
-        "summary": "Iran's Revolutionary Guards confirmed the death of Majid Khademi, head of the intelligence organization, according to state media reports. Israeli Defense Minister stated Iran's leaders \"live in a feeling of being pursued\" and vowed to continue hunting them down.",
-        "signal": "Elimination of senior Iranian intelligence leadership signals escalating targeted assassinations and potential Iranian retaliation.",
-        "sources": [
-          "Middle East Eye",
-          "@ETNOWlive",
-          "@FirstSquawk"
-        ],
-        "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/head-irans-revolutionary-guards-intelligence-organisation-announced-dead",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "ETNOWlive",
-            "platform": "twitter",
-            "text": "West Asia War: Iran's Revolutionary Guard's head of intelligence killed; IRGC confirms Majid Khademi's death",
-            "score": 44,
-            "url": "https://twitter.com/ETNOWlive/status/2041084494644728112"
-          },
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "ISRAELI DEFENSE MINISTER: IRAN'S LEADERS LIVE IN A FEELING OF BEING PURSUED, AND WE WILL CONTINUE TO HUNT THEM DOWN ONE AFTER THE OTHER",
-            "score": 42,
-            "url": "https://twitter.com/FirstSquawk/status/2041068175119597675"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 5,
-        "score": 74,
-        "topic": "Italy Jet Fuel Shortage",
-        "domain": "commodities",
-        "headline": "Italy Limits Airport Fuel Supplies Due to War",
-        "summary": "Several airports in Italy issued advisories of limited fuel supplies for the next few days as the Middle East conflict shows few signs of ending. AirAsia has also announced fare increases and 10% flight cuts due to soaring jet fuel prices.",
-        "signal": "European aviation sector faces growing fuel supply constraints, likely leading to higher airfares and reduced flight capacity.",
-        "sources": [
-          "Bloomberg",
-          "Nikkei Asia"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/italy-sets-jet-fuel-limits-at-some-airports-on-supply-shortage",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 70,
-        "topic": "US Iran War Cost",
-        "domain": "macro",
-        "headline": "US Spends $42 Billion on Iran War",
-        "summary": "The United States has poured over $42 billion into Trump's war with Iran at a pace of around $11,500 every second, according to financial tracking. This represents a massive fiscal commitment as the conflict enters its sixth week.",
-        "signal": "Monitor US deficit impact and potential Congressional pressure for cost containment or war authorization debates.",
-        "sources": [
-          "@FirstSquawk"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "High-credibility financial data source tracking unprecedented military spending pace that could influence fiscal policy.",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "U.S. HAS ALREADY POURED OVER $42 BILLION INTO TRUMP'S WAR WITH IRAN AT A PACE OF AROUND $11,500 EVERY SECOND",
-            "score": 49,
-            "url": "https://twitter.com/FirstSquawk/status/2041070402999583064"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 7,
-        "score": 65,
-        "topic": "US-Iran Ceasefire Negotiations",
-        "domain": "geopolitics",
-        "headline": "US Iran Discuss 45-Day Ceasefire Terms",
-        "summary": "US, Iran and mediators are reportedly discussing terms for a \"last-ditch\" 45-day ceasefire as diplomatic efforts intensify. However, Iran has rejected proposals to open the Strait of Hormuz in exchange for a temporary ceasefire.",
-        "signal": "Watch for breakthrough in negotiations before Trump's Tuesday deadline or potential escalation if talks fail.",
-        "sources": [
-          "@Polymarket",
-          "@Faytuks",
-          "Times of India"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/world/middle-east/first-ceasefire-then-nuclear-deal-will-us-iran-finally-make-peace-inside-the-two-tier-proposed-plan-israel-islamabad-accord/articleshow/130054889.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "Polymarket",
-            "platform": "twitter",
-            "text": "BREAKING: U.S., Iran & mediators are reportedly discussing the terms for a \"last-ditch\" 45-day ceasefire",
-            "score": 45,
-            "url": "https://twitter.com/Polymarket/status/2040988894334689473"
-          },
-          {
-            "handle": "Faytuks",
-            "platform": "twitter",
-            "text": "Iran has rejected a proposal to open the Strait of Hormuz in exchange for a temporary cease-fire",
-            "score": 45,
-            "url": "https://twitter.com/Faytuks/status/2040856678795473376"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 8,
-        "score": 59,
-        "topic": "Indian Stock Market Rally",
-        "domain": "markets",
-        "headline": "Sensex Jumps 500 Points on US-Iran Deal Hopes",
-        "summary": "Indian stock markets swung to gains with Sensex rising 500 points and Nifty breaking above 22,800 on possibilities of a US-Iran deal. Banks led the rally amid volatile trading as oil prices moderated on ceasefire speculation.",
-        "signal": "Indian markets remain highly sensitive to Middle East developments; watch for reversal if ceasefire talks fail.",
-        "sources": [
-          "NDTV News",
-          "LiveMint Markets",
-          "NDTV Profit"
-        ],
-        "source_url": "https://www.ndtv.com/india-news/sensex-today-stock-market-share-market-nifty-live-updates-today-6-april-rbi-mpc-repo-rate-iran-war-donald-trump-11316136#publisher=newsstand",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 55,
-        "topic": "Trump Budget Proposal",
-        "domain": "macro",
-        "headline": "Trump Budget Shows New Government Vision, Same Deficit",
-        "summary": "Trump's federal budget proposal presents a new vision for government operations but does not address deficit reduction concerns. The budget comes as war spending in Iran adds fiscal pressure.",
-        "signal": "Watch for Congressional reactions and potential fiscal constraints on war spending if deficit concerns mount.",
-        "sources": [
-          "The Wall Street Journal"
-        ],
-        "source_url": "https://www.wsj.com/politics/policy/trump-federal-budget-spending-deficit-2027-f2ce08ba?mod=hp_lista_pos2",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 52,
-        "topic": "Wipro Major Contract Win",
-        "domain": "corporate",
-        "headline": "Wipro Bags $1 Billion Singapore Contract, Acquires Mindsprint",
-        "summary": "Wipro secured a massive $1 billion contract from Singapore's Olam Group and will acquire the company's IT arm Mindsprint for $375 million in an all-cash deal. This represents one of the largest IT services deals for the Indian company.",
-        "signal": "Major validation of Indian IT services capabilities; watch for competitor responses and Wipro stock reaction.",
-        "sources": [
-          "LiveMint Companies"
-        ],
-        "source_url": "https://www.livemint.com/companies/news/wipro-share-price-contract-olam-group-mindsprint-it-services-india-11775447456434.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 48,
-        "topic": "Amul Revenue Milestone",
-        "domain": "corporate",
-        "headline": "Amul Becomes India's First Rs 1 Lakh Crore FMCG",
-        "summary": "Amul became India's first FMCG company to achieve Rs 1 lakh crore turnover, reporting 11% growth in FY26 fueled by domestic expansion and global footprint growth. The cooperative giant has achieved this historic milestone ahead of competitors.",
-        "signal": "Demonstrates resilience of Indian consumer staples sector despite economic headwinds; potential model for other cooperatives.",
-        "sources": [
-          "NDTV Profit"
-        ],
-        "source_url": "https://www.ndtvprofit.com/business/amul-becomes-indias-first-fmcg-company-with-rs-1-lakh-crore-turnover-11317393#publisher=newsstand",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 45,
-        "topic": "Oracle Mass Layoffs",
-        "domain": "corporate",
-        "headline": "Oracle Cuts 10,000+ Jobs Over OpenAI Deal Costs",
-        "summary": "Oracle is laying off at least 10,000 employees\u2014potentially up to 30,000\u2014as it struggles to manage cash demands of a $300 billion cloud computing deal with OpenAI. The cuts represent Oracle's largest-ever restructuring spanning multiple divisions.",
-        "signal": "Signals potential strain in big tech AI investments; watch for similar restructuring at other companies with major AI commitments.",
-        "sources": [
-          "Times of India"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-10000-job-cuts-have-a-sam-altman-connection-a-promise-oracle-made-to-openai-for-/articleshow/130035870.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 42,
-        "topic": "Artemis Moon Mission",
-        "domain": "geopolitics",
-        "headline": "Artemis II Astronauts Halfway to Moon Despite Toilet Issues",
-        "summary": "The Artemis II crew is more than halfway to the moon for Monday's lunar flyby, marking the first moonbound mission in over half a century. Technical issues include recurring toilet problems aboard the spacecraft.",
-        "signal": "Watch for successful lunar flyby as geopolitical prestige project amid US-China space competition.",
-        "sources": [
-          "Associated Press",
-          "@AFP"
-        ],
-        "source_url": "https://apnews.com/article/nasa-moon-artemis-astronauts-85bd7e2d77284c3d53ca2a38cf7dee13",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "AFP",
-            "platform": "twitter",
-            "text": "For the first time in more than half a century, astronauts are set on Monday to fly around the Moon",
-            "score": 42,
-            "url": "https://twitter.com/AFP/status/2041082187953352983"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 41,
-        "topic": "France Gold Repatriation",
-        "domain": "macro",
-        "headline": "France Repatriates 129 Tonnes Gold from New York",
-        "summary": "France's central bank sold 129 tonnes of French gold stored in New York and bought equivalent gold in Europe that meets current standards, recording a \u20ac12.8 billion gain due to higher gold prices. This represents a significant repatriation of gold reserves.",
-        "signal": "Monitor for broader European trend toward gold repatriation and dedollarization amid geopolitical tensions.",
-        "sources": [
-          "@FirstSquawk"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Significant sovereign wealth reallocation that could signal broader European monetary policy shifts away from US-based assets.",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "FRANCE'S CENTRAL BANK SOLD 129 TONNES OF FRENCH GOLD STORED IN NEW YORK, BOUGHT EQUIVALENT GOLD IN EUROPE",
-            "score": 50,
-            "url": "https://twitter.com/FirstSquawk/status/2041077970446823926"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 15,
-        "score": 35,
-        "topic": "UK Kanye West Festival Controversy",
-        "domain": "geopolitics",
-        "headline": "Starmer 'Deeply Concerned' Over Kanye West UK Appearance",
-        "summary": "UK Prime Minister Keir Starmer expressed deep concern over rapper Kanye West's festival appearance, given his history of antisemitic and offensive remarks in recent years. The controversy has drawn significant criticism and political attention.",
-        "signal": "Watch for potential impact on UK cultural policies and venue licensing decisions for controversial figures.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cp86942yj97o",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      }
-    ],
-    "social_count": 137
   }
 ]
