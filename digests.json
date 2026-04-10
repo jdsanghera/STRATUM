@@ -1,5 +1,405 @@
 [
   {
+    "timestamp": "2026-04-10T06:24:19.036542+00:00",
+    "timestamp_ist": "10 Apr 2026 \u00b7 11:54 IST",
+    "story_count": 15,
+    "avg_score": 61,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran Ceasefire Fragility",
+        "domain": "geopolitics",
+        "headline": "US-Iran ceasefire strains amid Lebanon strikes, Pakistan peace talks",
+        "summary": "A fragile two-week US-Iran ceasefire faces severe strain after Israeli strikes killed 182 people in Lebanon, with both sides accusing each other of violations. Vice President JD Vance will lead US talks with Iran in Pakistan this weekend to salvage the agreement.",
+        "signal": "Monitor Pakistan talks closely; ceasefire collapse would trigger oil price surge and regional conflict escalation.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "BBC News",
+          "Bloomberg",
+          "@aljazeera.com",
+          "@bloomberg.com"
+        ],
+        "source_url": "https://apnews.com/article/israel-lebanon-hezbollah-beirut-strikes-9402965418687c634d4a157c966ec6ea",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Pakistan hosts negotiations as the US and Iran seek an off-ramp amid ongoing tensions that threaten the peace talks.",
+            "score": 43,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj4fpxen3k2l"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "As Israel continues to strike Lebanon, ongoing negotiations to shore up the shaky ceasefire deal reveal the fault lines that helped shape the conflict.",
+            "score": 34,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj4df2lwql26"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Will this weekend's Pakistan-brokered peace talks between the US & Iran uphold a fragile ceasefire?",
+            "score": 29,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj4iflenf32y"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "topic": "Strait Hormuz Control",
+        "domain": "commodities",
+        "headline": "Iran imposes vessel limits, crypto tolls on Strait Hormuz",
+        "summary": "Iran has imposed a strict 15-vessel daily limit through the Strait of Hormuz with potential crypto tolls, severely restricting global energy flows despite ceasefire. Trump warned Iran against charging tolls as traffic remains constrained.",
+        "signal": "Energy supply chains face prolonged disruption even with ceasefire; prepare for sustained higher shipping costs.",
+        "sources": [
+          "Times of India",
+          "Bloomberg",
+          "BBC News",
+          "@bloomberg.com"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/business/international-business/controlled-movement-alternate-routes-crypto-tolls-strait-of-hormuz-under-new-order-what-has-changed/articleshow/130157547.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Donald Trump warned Iran against charging tolls on vessels moving through the Strait of Hormuz as traffic still remains largely constrained",
+            "score": 50,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj46dyanco2r"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "There needs to be a predictable and stable flow of cargo through the strait before markets can stabilise",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj4ng4za5427"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 81,
+        "topic": "Iran War Economic Impact",
+        "domain": "macro",
+        "headline": "Asia growth slows, markets rally as Iran war disrupts trade",
+        "summary": "Asian Development Bank warns Iran war will slow regional growth as oil prices soar, while Asian bond markets surge on improved risk sentiment during ceasefire. China's factory prices ended years of deflation due to war-driven price shocks.",
+        "signal": "Ceasefire provides temporary market relief but structural inflationary pressures from conflict remain embedded.",
+        "sources": [
+          "Nikkei Asia",
+          "Bloomberg",
+          "@reuters.com"
+        ],
+        "source_url": "https://asia.nikkei.com/economy/developing-asia-s-growth-to-slow-as-iran-war-sends-oil-prices-soaring-adb",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "China's factories snap years-long deflation spell on Iran war price shock",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj4nhoodrl2u"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 78,
+        "topic": "Trump NATO Iran Criticism",
+        "domain": "geopolitics",
+        "headline": "Trump slams NATO over Iran war, considers leaving alliance",
+        "summary": "Trump criticized NATO for failing to support the US during the Iran war, meeting with Secretary-General Rutte to discuss potential withdrawal from the alliance. British sentiment toward Trump's America has plunged amid the conflict.",
+        "signal": "NATO-US relations face existential crisis; watch for alliance fractures affecting European security architecture.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "BBC News",
+          "Politico Europe"
+        ],
+        "source_url": "https://apnews.com/article/trump-nato-rutte-iran-war-981d250a7265774a4913b63d8797fc34",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 75,
+        "topic": "Indian Markets Foreign Exodus",
+        "domain": "india",
+        "headline": "Indian stocks see record 23-session foreign selling streak",
+        "summary": "Foreign investors remained net sellers of Indian equities for a record 23 consecutive sessions due to oil price spikes from the Iran conflict. However, markets rebounded Thursday with Sensex gaining 850 points on banking sector strength.",
+        "signal": "Foreign investor confidence in India remains shaken by energy security concerns; watch for sustained outflows.",
+        "sources": [
+          "Bloomberg",
+          "LiveMint Markets",
+          "Hindu Business"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/foreign-selling-streak-in-indian-stocks-hits-record-on-oil-spike",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 65,
+        "topic": "Sri Lanka IMF Bailout",
+        "domain": "macro",
+        "headline": "IMF approves $700 million Sri Lanka loan tranche",
+        "summary": "The International Monetary Fund reached staff-level agreement with Sri Lanka, unlocking about $700 million in financing for the crisis-hit South Asian nation. This represents continued international support for Sri Lanka's economic recovery.",
+        "signal": "Sri Lankan recovery gains momentum; positive for regional stability and investor confidence in distressed emerging markets.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/imf-gives-initial-nod-to-sri-lanka-for-700-million-loan-tranche",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 63,
+        "topic": "Polymarket Iran Ceasefire Betting",
+        "domain": "markets",
+        "headline": "Suspicious betting profits on Iran ceasefire spark insider trading probe",
+        "summary": "New Polymarket accounts made highly specific, well-timed bets on US-Iran ceasefire just hours before Trump's announcement, earning hundreds of thousands in profits. White House warned staff against exploiting positions for prediction market bets.",
+        "signal": "Information leakage from high-level negotiations indicates serious security breach; expect regulatory crackdown on prediction markets.",
+        "sources": [
+          "Associated Press",
+          "NDTV News",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://apnews.com/article/polymarket-iran-trump-ceasefire-prediction-markets-350d9fe5ffefa74080ff5dd973aef48b",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: The White House warned US government staff against improperly using their positions to place bets in futures markets",
+            "score": 59,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj4ecditss2l"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 8,
+        "score": 60,
+        "topic": "Oil PSU Rally India",
+        "domain": "markets",
+        "headline": "Indian oil PSU stocks surge as crude retreats",
+        "summary": "Oil PSU stocks including IOC, BPCL and HPCL gained 2-2.5% as crude oil pulled back from recent highs ahead of US-Iran weekend talks. MCX crude prices headed for weekly loss amid fragile ceasefire hopes.",
+        "signal": "Oil refiners benefit from crude price moderation; temporary relief may reverse if ceasefire collapses.",
+        "sources": [
+          "LiveMint Markets"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/ioc-bpcl-to-hpcl-oil-psu-stocks-gain-up-to-2-5-as-crude-oil-rally-loses-steam-ahead-of-us-iran-talks-this-weekend-11775795240687.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 54,
+        "topic": "SpaceX Financial Loss",
+        "domain": "corporate",
+        "headline": "SpaceX posted $5 billion loss in 2025",
+        "summary": "SpaceX reported nearly $5 billion in losses for 2025 according to The Information, highlighting the significant cash burn at Elon Musk's space company despite its high valuation and ambitious projects.",
+        "signal": "SpaceX financial strain may impact funding for Mars missions and Starlink expansion; watch for equity fundraising needs.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Major private space company losses signal potential funding challenges in high-growth tech sector.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "SpaceX posted nearly $5 billion loss in 2025, The Information reports",
+            "score": 54,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj4npczxqd27"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 10,
+        "score": 54,
+        "topic": "Abbott Formula Trial",
+        "domain": "corporate",
+        "headline": "Abbott ordered to pay $53 million in formula trial",
+        "summary": "A jury ordered Abbott to pay $53 million in a preterm infant formula trial according to media reports, adding to the healthcare giant's legal liabilities related to its baby formula products.",
+        "signal": "Abbott faces mounting formula-related litigation costs; potential impact on baby nutrition market share.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Major healthcare liability verdict could signal broader trend of infant formula litigation.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Jury orders Abbott to pay $53 million in preterm infant formula trial, media report says",
+            "score": 54,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj4obcbzwv2i"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 11,
+        "score": 54,
+        "topic": "Ukraine Iran War Involvement",
+        "domain": "geopolitics",
+        "headline": "Ukraine confirms shooting down Iranian drones across Middle East",
+        "summary": "President Zelensky made his first public acknowledgment that Ukrainian military personnel shot down Iranian-designed Shahed drones in multiple Middle Eastern countries during the Iran war, revealing Ukraine's broader involvement in the conflict.",
+        "signal": "Ukraine's Middle East military involvement expands conflict scope; potential escalation with Iran direct confrontation.",
+        "sources": [
+          "@apnews.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "First official confirmation of Ukraine's direct military involvement in Iran war significantly widens conflict parameters.",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Ukrainian military personnel shot down Iranian-designed Shahed drones in multiple Middle Eastern countries during the Iran war, President Volodymyr Zelenskyy said",
+            "score": 54,
+            "url": "https://bsky.app/profile/apnews.com/post/3mj4oh43wkj2m"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 12,
+        "score": 50,
+        "topic": "Xi-Taiwan Opposition Meeting",
+        "domain": "geopolitics",
+        "headline": "Xi meets Taiwan opposition leader, pledges unification confidence",
+        "summary": "Chinese President Xi Jinping met with Taiwan's main opposition Kuomintang chairwoman Cheng Li-wun in Beijing, expressing 'full confidence' in eventual unification. This was the first such high-level meeting in nearly a decade.",
+        "signal": "Beijing intensifies Taiwan diplomatic pressure through opposition channels; monitor for increased cross-strait tensions.",
+        "sources": [
+          "The Hindu",
+          "Nikkei Asia",
+          "Japan Times"
+        ],
+        "source_url": "https://www.thehindu.com/news/international/chinese-president-xi-jinping-kuomintang-kmt-chairwoman-cheng-li-wun-meeting/article70846151.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 45,
+        "topic": "Japan Oil Reserves Release",
+        "domain": "commodities",
+        "headline": "Japan confirms more oil reserve releases amid Iran war",
+        "summary": "Japan's Agriculture Minister confirmed the release of more oil reserves next month as the government looks to temper price spikes caused by Middle East war supply disruptions. Japan began tapping the world's largest stockpiles in March.",
+        "signal": "Major oil consumer using strategic reserves signals sustained supply concerns; watch for coordinated IEA releases.",
+        "sources": [
+          "Japan Times",
+          "@theguardian.com"
+        ],
+        "source_url": "https://www.japantimes.co.jp/news/2026/04/10/japan/oil-reserves-release-takaichi-confirmation/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Japan confirms release of more oil reserves as concern over energy crisis grows",
+            "score": 41,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mj4nq3sv2j2b"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 40,
+        "topic": "Trump Economic Policy Shock",
+        "domain": "macro",
+        "headline": "Trump's policies force central banks toward tightening cycle",
+        "summary": "Donald Trump's second major economic shock since returning to office appears likely to force central banks into a new round of monetary tightening. The policies are creating inflationary pressures across global markets.",
+        "signal": "Global monetary policy pivot toward hawkishness; expect higher rates to combat Trump-driven inflation.",
+        "sources": [
+          "@bloomberg.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Second Trump presidency creating systematic inflationary pressures requiring global central bank response.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Donald Trump's second big shock to the world economy since he returned to the White House looks increasingly likely to force central banks into a new round of tightening",
+            "score": 40,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj4gq6kred2r"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 35,
+        "topic": "Iran Supreme Leader Victory",
+        "domain": "geopolitics",
+        "headline": "Iran's Supreme Leader declares victory over US-Israel",
+        "summary": "Iran's Supreme Leader declared victory over the US and Israel while announcing a 'new phase' in Strait of Hormuz management, signaling Iran's intention to maintain control over the strategic waterway despite ceasefire agreements.",
+        "signal": "Iran positioning for post-ceasefire leverage; expect continued Hormuz restrictions regardless of peace talks outcome.",
+        "sources": [
+          "Indian Express"
+        ],
+        "source_url": "https://indianexpress.com/article/world/iran-supreme-leader-victory-united-states-israel-strait-of-hormuz-phase-10628982/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Iranians rally nationwide to honour late leader Ali Khamenei",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj4gprdlv424"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-09T21:07:36.497296+00:00",
     "timestamp_ist": "10 Apr 2026 \u00b7 02:37 IST",
     "story_count": 18,
@@ -14571,410 +14971,5 @@
       }
     ],
     "social_count": 140
-  },
-  {
-    "timestamp": "2026-04-05T19:52:42.054724+00:00",
-    "timestamp_ist": "06 Apr 2026 \u00b7 01:22 IST",
-    "story_count": 15,
-    "avg_score": 62,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 91,
-        "topic": "US-Iran Military Escalation",
-        "domain": "geopolitics",
-        "headline": "US Fighter Jet Shot Down as Trump Ultimatum Nears",
-        "summary": "Iran has shot down two US military aircraft with one crew member still missing, marking an exceedingly rare assault on American forces not seen in over 20 years. President Trump has issued a 48-hour ultimatum to Iran threatening to destroy power plants and bridges if the Strait of Hormuz remains closed.",
-        "signal": "Watch for massive US retaliation if Trump's Tuesday deadline passes without Iranian compliance.",
-        "sources": [
-          "BBC News",
-          "Associated Press",
-          "Bloomberg",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://apnews.com/article/iran-war-fighter-jet-shot-down-trump-3a8b2d5b2cdaceb13bbb62c3f6526e71",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "US President Trump has renewed his threat to unleash hell on Iran if it continues to keep Strait of Hormuz closed, saying the US will destroy the country's power plants and bridges.",
-            "score": 50,
-            "url": "https://twitter.com/AJEnglish/status/2040851966394528210"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "He was wounded, alone, and hiding in the mountains\u2026 and people were actively hunting him. After the F-15E was hit by a shoulder-fired missile, he ejected and survived.",
-            "score": 45,
-            "url": "https://twitter.com/MarioNawfal/status/2040862031373283383"
-          },
-          {
-            "handle": "Faytuks",
-            "platform": "twitter",
-            "text": "As Trump's ultimatum deadline to Iran approaches, the list of targets to be struck has been agreed upon between Israel and the U.S, according to i24 News",
-            "score": 46,
-            "url": "https://twitter.com/Faytuks/status/2040846655134617978"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 2,
-        "score": 83,
-        "topic": "Iran Rejects Ceasefire Deal",
-        "domain": "geopolitics",
-        "headline": "Iran Spurns US Ceasefire Proposal, Prepares for War",
-        "summary": "Iran has rejected a proposal to open the Strait of Hormuz in exchange for a temporary ceasefire, with officials telling mediators the US is not in position to dictate terms. Tehran has closed all schools and universities nationwide while denouncing Trump's threats as incitement to war crimes.",
-        "signal": "Diplomatic window appears closed as Iran mobilizes for prolonged conflict ahead of Trump's Tuesday deadline.",
-        "sources": [
-          "Wall Street Journal",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.wsj.com/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "Faytuks",
-            "platform": "twitter",
-            "text": "Iran has rejected a proposal to open the Strait of Hormuz in exchange for a temporary cease-fire, officials familiar with the matter said. -WSJ",
-            "score": 45,
-            "url": "https://twitter.com/Faytuks/status/2040856678795473376"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "Iran just rejected Trump's ceasefire proposal, and is hunkering down for a prolonged war! All schools and universities are now closed nationwide until further notice.",
-            "score": 44,
-            "url": "https://twitter.com/MarioNawfal/status/2040865793357791566"
-          },
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Iran's Foreign Ministry spokesman Esmaeil Baghaei says US President Trump's latest threats against Iran are an indication of a criminal mindset and amount to incitement for war crimes",
-            "score": 54,
-            "url": "https://twitter.com/AJEnglish/status/2040846931585339419"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 3,
-        "score": 79,
-        "topic": "Bushehr Nuclear Plant Attacks",
-        "domain": "geopolitics",
-        "headline": "Fourth Strike Hits Iran's Bushehr Nuclear Facility",
-        "summary": "A projectile struck near Iran's Bushehr nuclear plant killing a security guard, marking the fourth attack on the facility during the war. The International Atomic Energy Agency has issued warnings about the risk of nuclear accidents as attacks on critical infrastructure escalate.",
-        "signal": "Nuclear facility targeting raises stakes dramatically and could trigger severe international response.",
-        "sources": [
-          "BBC News",
-          "Associated Press",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/c5y90jl8veyo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 75,
-        "topic": "US Detains Soleimani Relatives",
-        "domain": "geopolitics",
-        "headline": "US Arrests Niece of Slain Iranian General Soleimani",
-        "summary": "The Trump administration has detained the niece and grand-niece of deceased Iranian Revolutionary Guard Major General Qassem Soleimani for deportation. The State Department accused them of being outspoken supporters of Iran's regime while enjoying a lavish lifestyle in Los Angeles.",
-        "signal": "Targeting of Iranian nationals on US soil signals escalation beyond military targets.",
-        "sources": [
-          "Bloomberg",
-          "Associated Press",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/us-arrests-niece-of-late-iranian-general-soleimani",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 71,
-        "topic": "Israel-Lebanon Border Strikes",
-        "domain": "geopolitics",
-        "headline": "Israel Kills 11 in Lebanon Easter Sunday Strikes",
-        "summary": "Israeli strikes killed at least 11 people in Lebanon including a 4-year-old child, hitting villages in the south and Beirut neighborhoods. The attacks occurred as Lebanon celebrated Easter, with Israel announcing a new security buffer zone along the border.",
-        "signal": "Lebanon front expanding as Israel consolidates territorial gains amid regional war.",
-        "sources": [
-          "South China Morning Post",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.scmp.com/news/world/middle-east/article/3349099/israeli-strikes-kill-11-lebanon-israel-announces-security-buffer",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Israeli attacks across southern Lebanon and the capital, Beirut, have killed at least 14 people, a day after Israel threatened to hit Lebanon's main border crossing with Syria",
-            "score": 49,
-            "url": "https://twitter.com/AJEnglish/status/2040864547628822697"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "Easter Sunday turned into another day of strikes in Lebanon. At least 11 people were killed, including a 4-year-old girl, after Israeli attacks hit Kfarhata and a residential area in Beirut",
-            "score": 45,
-            "url": "https://twitter.com/MarioNawfal/status/2040861024539029543"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 68,
-        "topic": "OPEC Oil Production Response",
-        "domain": "commodities",
-        "headline": "OPEC Raises Oil Output Amid War Supply Shock",
-        "summary": "OPEC+ agreed to increase oil production quotas by 206,000 barrels per day for May, warning that repairing damaged energy facilities will take a long time. The cartel cited concerns about prolonged supply disruptions from ongoing attacks on infrastructure.",
-        "signal": "Limited production increase suggests OPEC expects sustained supply disruptions from Middle East conflict.",
-        "sources": [
-          "Bloomberg",
-          "Middle East Eye",
-          "NDTV Profit"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/iran-says-iraqi-ships-are-allowed-to-use-strait-of-hormuz",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 65,
-        "topic": "Strait Hormuz Shipping Crisis",
-        "domain": "commodities",
-        "headline": "Hormuz Traffic Rises Despite Iran Shipping Restrictions",
-        "summary": "Weekly transits through the Strait of Hormuz reached their highest levels since the war began, despite Iranian restrictions on most shipping. Iran announced that Iraqi vessels are exempt from the blockade while other traffic faces continued disruptions.",
-        "signal": "Gradual shipping recovery suggests potential for negotiated reopening despite diplomatic impasse.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/hormuz-tracker-weekly-transits-reach-highest-since-war-began",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 62,
-        "topic": "India Iran Diplomatic Outreach",
-        "domain": "india",
-        "headline": "Jaishankar Holds Crisis Call with Iranian Foreign Minister",
-        "summary": "External Affairs Minister S Jaishankar spoke with Iranian Foreign Minister Abbas Araghchi amid escalating tensions, discussing bilateral relations and regional developments. This follows Jaishankar's recent conversations with UAE and Qatari leaders as India navigates the crisis.",
-        "signal": "India positioning as potential mediator while protecting energy security interests.",
-        "sources": [
-          "Times of India",
-          "Indian Express"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/india/eam-jaishankar-receives-call-from-iran-fm-araghchi-as-trumps-48-hour-threat-looms/articleshow/130043913.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "EAM Dr S Jaishankar posts, Received a call from Foreign Minister Seyed Abbas Araghchi of Iran. Discussed the present situation.",
-            "score": 41,
-            "url": "https://twitter.com/PTI_News/status/2040864165049540911"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 58,
-        "topic": "US Military Missile Deployment",
-        "domain": "geopolitics",
-        "headline": "US Commits Nearly Entire JASSM Missile Stockpile to Iran",
-        "summary": "The US is deploying nearly its entire inventory of stealthy JASSM-ER cruise missiles for the Iran campaign, drawing from stockpiles reserved for other regions. This represents a massive commitment of America's most advanced long-range strike capabilities.",
-        "signal": "Pentagon's unprecedented missile commitment indicates expectation of prolonged, intensive conflict.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "Osinttechnical",
-            "platform": "twitter",
-            "text": "USAF B-52H taking off on an Iran strike mission last last week, carrying a full load of JASSM cruise missiles.",
-            "score": 39,
-            "url": "https://twitter.com/Osinttechnical/status/2040849571635470679"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 55,
-        "topic": "Ukraine Peace Talks Revival",
-        "domain": "geopolitics",
-        "headline": "Trump Envoys Expected in Kyiv for Peace Talks",
-        "summary": "Ukraine expects top US envoys Steve Witkoff and Jared Kushner to visit Kyiv this month to reboot peace negotiations. The diplomatic push comes as Trump seeks to resolve the Ukraine conflict while managing the escalating Iran crisis.",
-        "signal": "Trump administration attempting to consolidate multiple fronts before potential Iran escalation.",
-        "sources": [
-          "Bloomberg",
-          "Politico Europe"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/ukraine-expects-top-us-envoys-in-kyiv-this-month-to-reboot-talks",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 52,
-        "topic": "Pakistan UAE Loan Repayment",
-        "domain": "macro",
-        "headline": "Pakistan to Repay Matured UAE Loan Deposits",
-        "summary": "Pakistan announced it will return matured loan deposits to the UAE, straining the country's foreign exchange reserves. The repayment comes amid broader economic pressures from the Middle East crisis affecting regional financial flows.",
-        "signal": "South Asian debt stress intensifying as regional crisis disrupts traditional financing arrangements.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/pakistan-says-it-will-repay-matured-loan-deposits-to-uae",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 48,
-        "topic": "Iran UAE Port Attack",
-        "domain": "geopolitics",
-        "headline": "Iran Claims Strike on Dubai-Linked Ship at Port",
-        "summary": "Iran's IRGC claimed it fired a missile at an Israel-linked vessel in a channel leading to Dubai's Port of Jebel Ali, causing it to catch fire. The UAE confirmed it is dealing with an incident at Khor Fakkan Port with no injuries reported so far.",
-        "signal": "Iran expanding maritime target set to pressure UAE over Israel support and shipping alternatives.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Unverified claims of Iranian attacks on UAE ports could escalate Gulf tensions and disrupt alternative shipping routes.",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Iran's IRGC has claimed it fired a missile at an Israel-linked ship in a channel leading to Dubai's Port of Jebel Ali, causing it to catch fire.",
-            "score": 48,
-            "url": "https://twitter.com/AJEnglish/status/2040843659877515486"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "Iran attacked the port ships were using to avoid Iran's attacks. Khor Fakkan in the UAE handles 5 million containers a year",
-            "score": 47,
-            "url": "https://twitter.com/MarioNawfal/status/2040864547729506393"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 13,
-        "score": 45,
-        "topic": "Iran Missile Strike on Israel",
-        "domain": "geopolitics",
-        "headline": "Iranian Missile Hits Haifa Building, Four Missing",
-        "summary": "A residential building in Haifa, northern Israel, was directly hit by an Iranian ballistic missile causing partial collapse with four people missing under rubble. Israeli authorities confirmed the direct impact while rescue operations continue.",
-        "signal": "Iranian capability to strike deep into Israel intact despite weeks of US-Israeli bombardment.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Unverified reports of successful Iranian strikes on Israeli cities could signal escalating missile exchanges.",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "The Israeli military has told the AFP news agency that the residential building that suffered heavy damage in northern Haifa was hit by the direct impact of a missile fired by Iran.",
-            "score": 48,
-            "url": "https://twitter.com/AJEnglish/status/2040837028812599311"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "A residential building in Haifa, northern Israel, was directly hit by an Iranian ballistic missile. The strike caused a partial collapse, leaving 4 people missing under the rubble.",
-            "score": 45,
-            "url": "https://twitter.com/MarioNawfal/status/2040867567552860512"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 14,
-        "score": 42,
-        "topic": "Australian Energy Crisis Response",
-        "domain": "macro",
-        "headline": "Australia Offers $1 Billion Energy Shock Loans",
-        "summary": "Australia announced up to A$1 billion in interest-free loans to critical businesses affected by the global energy shock from the Middle East war. The emergency support package targets companies struggling with soaring energy costs.",
-        "signal": "Watch for similar emergency business support programs as energy crisis spreads globally.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Unverified report of massive Australian energy support suggests broader economic impacts from Middle East crisis.",
-        "social_signals": [
-          {
-            "handle": "Polymarket",
-            "platform": "twitter",
-            "text": "Australia will provide up to A$1 billion in interest-free loans to critical businesses due to the energy shock.",
-            "score": 43,
-            "url": "https://twitter.com/Polymarket/status/2040664227782725812"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 15,
-        "score": 40,
-        "topic": "Nepal Energy Crisis Response",
-        "domain": "macro",
-        "headline": "Nepal Cuts Work Week Due to Energy Crisis",
-        "summary": "Nepal has reduced the working week from six to five days for government offices and educational institutions to cope with the energy crisis caused by the US-Israel war on Iran. The measure aims to conserve energy amid supply disruptions.",
-        "signal": "Energy rationing measures spreading to South Asia as crisis impacts global supply chains.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Unverified report of Nepal's energy rationing shows potential wider economic disruptions from Middle East conflict.",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Nepal has cut the working week from six days to five for government offices and educational institutions to cope with the energy crisis caused by the US-Israel war on Iran",
-            "score": 40,
-            "url": "https://twitter.com/AJEnglish/status/2040870838929666246"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 139
   }
 ]
