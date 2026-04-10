@@ -1,5 +1,547 @@
 [
   {
+    "timestamp": "2026-04-10T07:11:59.674452+00:00",
+    "timestamp_ist": "10 Apr 2026 \u00b7 12:41 IST",
+    "story_count": 24,
+    "avg_score": 54,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 88,
+        "topic": "US-Iran Ceasefire Tensions",
+        "domain": "geopolitics",
+        "headline": "US-Iran ceasefire threatens collapse over Hormuz dispute",
+        "summary": "The fragile US-Iran ceasefire faces collapse as Iran reportedly restricts Strait of Hormuz traffic to 15 ships daily and considers charging tolls. Trump threatens consequences if Iran blocks the waterway, while Lebanon's exclusion from the truce complicates diplomatic efforts.",
+        "signal": "Watch oil prices and energy markets for volatility as Hormuz restrictions could trigger supply disruptions.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Al Jazeera English",
+          "The Wall Street Journal"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/european-gas-steadies-as-traders-monitor-fragile-iran-us-truce",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Donald Trump demands Iran reopen the Strait of Hormuz, raising pressure on Tehran before talks",
+            "score": 37,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj4p43rlzk2m"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Pakistan hosts negotiations as the US and Iran seek an off-ramp amid ongoing tensions that threaten the peace talks.",
+            "score": 43,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj4fpxen3k2l"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Islamabad prepares to host historic negotiations between Iran and the US",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mj4qys65vx2t"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "topic": "Lebanon Israel Strikes",
+        "domain": "middleeast",
+        "headline": "Israel strikes Lebanon killing 254 despite ceasefire",
+        "summary": "Israeli attacks on Lebanon killed at least 254 people in a single day, marking the highest death toll in the Israel-Hezbollah war. The strikes threaten to unravel the US-Iran ceasefire as Lebanon was not included in the truce agreement.",
+        "signal": "Monitor for escalation that could collapse broader Middle East ceasefire arrangements and trigger renewed conflict.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "Bloomberg"
+        ],
+        "source_url": "https://apnews.com/article/israel-lebanon-hezbollah-beirut-strikes-9402965418687c634d4a157c966ec6ea",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "topic": "Oil Market Volatility",
+        "domain": "commodities",
+        "headline": "Oil prices swing on Iran ceasefire uncertainty",
+        "summary": "Oil prices plunged after the US-Iran ceasefire announcement but face renewed volatility as Hormuz restrictions continue. European gas steadied while traders monitor the fragile truce and potential supply disruptions.",
+        "signal": "Energy sector volatility likely to persist until Hormuz shipping normalizes and ceasefire stability improves.",
+        "sources": [
+          "BBC News",
+          "Bloomberg",
+          "LiveMint Markets"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cq6j0rnvlzeo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "There needs to be a predictable and stable flow of cargo through the strait before markets can stabilise, experts say.",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj4ng4za5427"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 80,
+        "topic": "NATO Iran Support",
+        "domain": "geopolitics",
+        "headline": "Trump threatens NATO punishment over Iran war",
+        "summary": "Trump explores punishing NATO countries that didn't support the Iran war, expressing disappointment with alliance members after meeting with NATO chief Rutte. The president criticized NATO for not being there \"when we needed them\" during the conflict.",
+        "signal": "Transatlantic tensions could impact defense spending and alliance cohesion ahead of key geopolitical challenges.",
+        "sources": [
+          "The Wall Street Journal",
+          "BBC News",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.wsj.com/world/europe/trump-weighs-punishing-certain-nato-countries-over-lack-of-iran-war-support-a2361995?mod=WSJ_home_mediumtopper_pos_4",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 78,
+        "topic": "Indian Markets Rally",
+        "domain": "india",
+        "headline": "Sensex surges 800 points on ceasefire hopes",
+        "summary": "Indian equity markets opened strongly with Sensex up over 800 points and Nifty crossing 24,000 on hopes of US-Iran peace talks. Banking stocks led the rally amid positive global market sentiment despite ongoing geopolitical risks.",
+        "signal": "Market optimism may face reality check if Middle East tensions re-escalate or oil prices spike again.",
+        "sources": [
+          "Times of India",
+          "NDTV News",
+          "Hindu Business"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-april-10-2026-dalal-street-indian-equities-global-markets-us-iran-ceasefire-oil-prices-donald-trump/articleshow/130157179.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 75,
+        "topic": "Japan Oil Reserves",
+        "domain": "japan",
+        "headline": "Japan to release 20 more days oil reserves",
+        "summary": "Japan confirmed it will release additional oil reserves from May as the government seeks to temper price spikes caused by Middle East war disruptions. The country began tapping its world's largest stockpiles in March.",
+        "signal": "Strategic petroleum reserve releases globally signal sustained energy market concerns despite ceasefire.",
+        "sources": [
+          "Japan Times",
+          "Reuters",
+          "The Guardian"
+        ],
+        "source_url": "https://www.japantimes.co.jp/news/2026/04/10/japan/oil-reserves-release-takaichi-confirmation/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Japan plans to release extra 20 days' oil reserves from May",
+            "score": 32,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj4pwwdjvc2n"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Japan confirms release of more oil reserves as concern over energy crisis grows",
+            "score": 41,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mj4nq3sv2j2b"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 70,
+        "topic": "Xi Taiwan Meeting",
+        "domain": "geopolitics",
+        "headline": "Xi meets Taiwan opposition leader amid tensions",
+        "summary": "Chinese leader Xi Jinping held talks with Taiwan's Kuomintang head Cheng Li-wun in Beijing, the first such meeting in nearly a decade. Xi expressed \"full confidence\" in cross-strait unification while warning against Taiwan independence.",
+        "signal": "Watch for Beijing's diplomatic pressure on Taiwan to intensify while US focuses on Middle East.",
+        "sources": [
+          "Japan Times",
+          "Nikkei Asia",
+          "Reuters"
+        ],
+        "source_url": "https://www.japantimes.co.jp/news/2026/04/10/asia-pacific/politics/china-taiwan-kuomintang-xi-cheng/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "China will not tolerate independence for Taiwan, Xi tells island's opposition leader",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj4pnzxysy2i"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 65,
+        "topic": "Dangote Africa Expansion",
+        "domain": "commodities",
+        "headline": "Dangote targets $40 billion Africa investment drive",
+        "summary": "Dangote Group plans $40 billion investment over five years to quadruple fertilizer output and double oil refinery capacity. The African Export-Import Bank outlined the ambitious expansion across the continent.",
+        "signal": "Major African industrialization could reshape regional trade flows and commodity markets.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/dangote-targets-40-billion-investment-in-africa-expansion-drive",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 62,
+        "topic": "Fast Retailing Outlook",
+        "domain": "japan",
+        "headline": "Fast Retailing raises outlook on global demand",
+        "summary": "Fast Retailing raised its full-year operating profit outlook citing robust Uniqlo demand in the US and Europe, with continued growth in Japan. The parent company benefits from global apparel market recovery.",
+        "signal": "Japanese retail resilience suggests consumer spending strength despite global economic headwinds.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/fast-retailing-raises-outlook-on-japan-sales-global-demand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 60,
+        "topic": "Thailand Rate Policy",
+        "domain": "macro",
+        "headline": "Thai central bank vows steady rates",
+        "summary": "Bank of Thailand Governor pledged to keep rates steady \"for as long as possible\" to support the economy, even as Middle East conflict drives inflation expectations. The dovish stance contrasts with global tightening trends.",
+        "signal": "Divergent Asian monetary policies could create currency volatility and capital flow shifts.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/thai-central-bank-vows-to-keep-rates-steady-to-support-economy",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "South Korean central bank stands pat as Middle East war fuels inflation, growth risks",
+            "score": 42,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj4q7xbpud2i"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 58,
+        "topic": "European Gas Markets",
+        "domain": "commodities",
+        "headline": "European gas steadies amid fragile ceasefire",
+        "summary": "European natural gas prices steadied as the Strait of Hormuz remained largely closed despite the fragile US-Iran ceasefire. Continued Middle East fighting threatens energy supply stability across the region.",
+        "signal": "Gas price volatility will persist until Hormuz reopens fully and regional stability returns.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/european-gas-steadies-as-traders-monitor-fragile-iran-us-truce",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 55,
+        "topic": "Ukraine Iran Connection",
+        "domain": "geopolitics",
+        "headline": "Ukraine confirms shooting down Iranian drones",
+        "summary": "Ukrainian military personnel shot down Iranian-designed Shahed drones in multiple Middle Eastern countries during the Iran war, President Zelenskyy confirmed publicly for the first time. This reveals Ukraine's broader involvement in the conflict.",
+        "signal": "Ukraine's Middle East operations could complicate ceasefire negotiations and regional dynamics.",
+        "sources": [
+          "AP News"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Ukrainian military personnel shot down Iranian-designed Shahed drones in multiple Middle Eastern countries during the Iran war, President Volodymyr Zelenskyy said",
+            "score": 54,
+            "url": "https://bsky.app/profile/apnews.com/post/3mj4oh43wkj2m"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 13,
+        "score": 50,
+        "topic": "Airline Middle East Fears",
+        "domain": "corporate",
+        "headline": "Pilots fear retribution over Middle East flights",
+        "summary": "Airline pilots express concerns about potential retribution for refusing to fly in Middle East airspace during the ongoing conflict. Aviation industry grapples with safety versus operational pressures in war zones.",
+        "signal": "Aviation sector disruptions may persist even with ceasefire as crew safety concerns remain.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Airline pilots fear retribution over refusing to fly in Middle East, aviators' group says",
+            "score": 50,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj4r2lkimd2d"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 14,
+        "score": 48,
+        "topic": "German Industrial Decline",
+        "domain": "europe",
+        "headline": "German production falls before Iran war",
+        "summary": "German industrial production unexpectedly declined in February, casting doubt on economic recovery even before the Iran war began. Europe's largest economy faces structural challenges beyond geopolitical risks.",
+        "signal": "German weakness could signal broader European manufacturing downturn independent of Middle East crisis.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/german-industrial-production-disappointed-even-before-iran-war",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 45,
+        "topic": "Egyptian War Inflation",
+        "domain": "middleeast",
+        "headline": "Egypt inflation hits May high from war",
+        "summary": "Egypt's annual inflation rate rose to the highest level since May as the Iran war caused energy price surges and currency weakness. The conflict's economic ripple effects continue spreading across the region.",
+        "signal": "Regional economies face sustained inflationary pressure even with ceasefire due to currency and supply damage.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/iran-war-drives-egyptian-inflation-rate-to-highest-since-may",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 42,
+        "topic": "Central Bank Divergence",
+        "domain": "macro",
+        "headline": "Trump Iran shock forces central bank rethink",
+        "summary": "Trump's second major economic shock since returning to office appears likely to force central banks into new tightening cycles. The Iran conflict creates inflationary pressures challenging dovish monetary policies globally.",
+        "signal": "Expect monetary policy divergence as central banks balance growth support against war-driven inflation.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Donald Trump's second big shock to the world economy since he returned to the White House looks increasingly likely to force central banks into a new round of tightening.",
+            "score": 40,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj4gq6kred2r"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 17,
+        "score": 40,
+        "topic": "AI Policy Shift",
+        "domain": "corporate",
+        "headline": "White House advances industry-friendly AI policy",
+        "summary": "At David Sacks's behest, the White House is moving forward with industry-friendly AI policies ahead of midterm elections. The shift represents a significant change from previous regulatory approaches to artificial intelligence.",
+        "signal": "Tech sector regulations may ease, potentially boosting AI company valuations and development pace.",
+        "sources": [
+          "The Wall Street Journal"
+        ],
+        "source_url": "https://www.wsj.com/tech/ai/ai-policy-david-sacks-midterm-elections-aced91a7?mod=hp_lead_pos4",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 38,
+        "topic": "China Factory Prices",
+        "domain": "macro",
+        "headline": "China factory prices rise on Iran war",
+        "summary": "Chinese factory prices logged their first increase in years as the Iran war countered deflationary pressures. Energy price spikes from Middle East conflict helped lift manufacturing costs across China's industrial sector.",
+        "signal": "Chinese reflation from war effects could support commodity prices and regional trade flows.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/economy/china-factory-prices-log-first-rise-in-years-as-iran-war-counters-deflation",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 35,
+        "topic": "Kashmir Sentencing",
+        "domain": "india",
+        "headline": "Kashmir activist gets three life terms",
+        "summary": "Aasiya Andrabi, a 64-year-old grandmother and Kashmir activist, received three life sentences in what legal experts describe as fitting India's broader pattern of harsh convictions. The case is based primarily on offensive speech-making according to experts.",
+        "signal": "Escalating judicial actions in Kashmir could signal broader crackdown on dissent in disputed region.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/9/three-life-terms-for-kashmirs-aasiya-andrabi-fit-indias-broader-pattern",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 32,
+        "topic": "Nitish Kumar Transition",
+        "domain": "india",
+        "headline": "Nitish Kumar takes Rajya Sabha oath",
+        "summary": "Bihar's Nitish Kumar took oath as Rajya Sabha member, with a new chief minister expected soon in the state. The political transition marks a significant shift in Bihar's leadership structure.",
+        "signal": "Bihar political changes could impact regional development policies and coalition dynamics.",
+        "sources": [
+          "NDTV News",
+          "Economic Times"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/nitish-kumar-takes-oath-as-rajya-sabha-mp-new-chief-minister-in-bihar-soon-11337580#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 21,
+        "score": 30,
+        "topic": "Seven-i US Delay",
+        "domain": "japan",
+        "headline": "Seven-i delays US unit IPO plans",
+        "summary": "Seven & i Holdings will delay the public listing of its US convenience-store business planned for later this year, according to Nikkei reports. The delay triggered a 4.6% drop in company shares.",
+        "signal": "Japanese retail IPO delays suggest cautious market sentiment amid global economic uncertainty.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/seven-i-will-delay-public-listing-of-us-business-nikkei-says",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 22,
+        "score": 28,
+        "topic": "BNP India Hire",
+        "domain": "india",
+        "headline": "BNP Paribas hires UBS India ECM head",
+        "summary": "BNP Paribas hired Abhishek Joshi from UBS to lead equity capital markets within its investment banking division in India. The move signals continued competition for senior banking talent in the growing Indian market.",
+        "signal": "Banking sector hiring activity suggests optimism about India ECM pipeline despite global uncertainties.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/bnp-paribas-said-to-hire-ubs-s-abhishek-joshi-to-lead-india-ecm",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 23,
+        "score": 25,
+        "topic": "Galp Wind Acquisition",
+        "domain": "europe",
+        "headline": "Galp buys Spanish wind portfolio",
+        "summary": "Galp Energia acquired an onshore wind portfolio in Spain from Helia Funds for \u20ac320 million as Portugal's largest oil company accelerates clean energy diversification beyond solar power.",
+        "signal": "European energy companies continue green transition investments despite current fossil fuel market dynamics.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/galp-energia-buys-wind-portfolio-in-spain-in-320-million-deal",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 24,
+        "score": 22,
+        "topic": "Artemis Mission Return",
+        "domain": "geopolitics",
+        "headline": "Artemis II crew prepares for splashdown",
+        "summary": "The four Artemis II astronauts reflected on their historic lunar mission before Friday's splashdown, returning to Earth with \"so many more pictures, so many more stories\" after their successful journey.",
+        "signal": "Space program success provides positive narrative amid geopolitical tensions and economic uncertainties.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c70dr45dj1lo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-10T06:24:19.036542+00:00",
     "timestamp_ist": "10 Apr 2026 \u00b7 11:54 IST",
     "story_count": 15,
@@ -14544,432 +15086,5 @@
       }
     ],
     "social_count": 122
-  },
-  {
-    "timestamp": "2026-04-05T19:58:09.630271+00:00",
-    "timestamp_ist": "06 Apr 2026 \u00b7 01:28 IST",
-    "story_count": 16,
-    "avg_score": 57,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 88,
-        "topic": "US-Iran Military Conflict",
-        "domain": "geopolitics",
-        "headline": "US fighter jets shot down, Trump threatens Iran infrastructure",
-        "summary": "Iran has shot down two US warplanes with at least one crew member still missing, marking an exceedingly rare assault on US military aircraft. Trump has given Iran 48 hours to reopen the Strait of Hormuz or face strikes on power plants and bridges.",
-        "signal": "Escalation risk peaks as military losses challenge Trump's invincibility narrative and deadline approaches.",
-        "sources": [
-          "BBC News",
-          "Associated Press",
-          "Bloomberg",
-          "Al Jazeera",
-          "@AJEnglish",
-          "@MarioNawfal"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-s-victory-rhetoric-undercut-by-downed-us-jet-in-iran-war",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "US President Trump has renewed his threat to unleash \"hell\" on Iran if it continues to keep Strait of Hormuz closed, saying the US will destroy the country's power plants and bridges.",
-            "score": 50,
-            "url": "https://twitter.com/AJEnglish/status/2040851966394528210"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 He was wounded, alone, and hiding in the mountains\u2026 and people were actively hunting him. After the F-15E was hit by a shoulder-fired missile, he ejected and survived. For more than 24 hours, he",
-            "score": 45,
-            "url": "https://twitter.com/MarioNawfal/status/2040862031373283383"
-          },
-          {
-            "handle": "spectatorindex",
-            "platform": "twitter",
-            "text": "BREAKING: Trump says there is still a 'good chance' of a deal, but if Iran does not make one, 'I am blowing up everything over there', according to Axios report.",
-            "score": 45,
-            "url": "https://twitter.com/spectatorindex/status/2040877154083463366"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 2,
-        "score": 75,
-        "topic": "Iran Nuclear Plant Attacks",
-        "domain": "geopolitics",
-        "headline": "Fourth strike hits Iran's Bushehr nuclear facility, kills guard",
-        "summary": "A projectile has struck near Iran's Bushehr nuclear plant, killing one security guard and damaging a support building in the fourth such attack during the war. The IAEA has issued warnings about potential nuclear accidents at the facility.",
-        "signal": "Nuclear escalation risk as repeated strikes on atomic facilities threaten catastrophic accident.",
-        "sources": [
-          "BBC News",
-          "Associated Press",
-          "Al Jazeera"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/c5y90jl8veyo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 72,
-        "topic": "Iran Negotiations Collapse",
-        "domain": "geopolitics",
-        "headline": "Iran rejects ceasefire proposal, dismisses US ultimatum terms",
-        "summary": "Iran has rejected proposals to reopen the Strait of Hormuz in exchange for a temporary ceasefire, telling mediators the US is not in a position to dictate terms. Foreign ministers from multiple countries have reached out to Iranian officials as diplomatic efforts intensify.",
-        "signal": "Negotiation breakdown increases likelihood of major escalation within Trump's 48-hour deadline.",
-        "sources": [
-          "Wall Street Journal",
-          "@spectatorindex",
-          "@MarioNawfal",
-          "@Osinttechnical"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "spectatorindex",
-            "platform": "twitter",
-            "text": "BREAKING: Iran rejected proposal to open Strait of Hormuz in exchange for temporary ceasefire, according to Wall Street Journal report.",
-            "score": 42,
-            "url": "https://twitter.com/spectatorindex/status/2040874415328797162"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83d\udea8 BREAKING: \ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran has rejected a proposal to reopen the Strait of Hormuz in exchange for a temporary ceasefire. Source: WSJ",
-            "score": 41,
-            "url": "https://twitter.com/MarioNawfal/status/2040865022742581456"
-          },
-          {
-            "handle": "Osinttechnical",
-            "platform": "twitter",
-            "text": "Iran has refused to compromise on its demands and has rejected a proposed Hormuz opening for ceasefire deal -WSJ",
-            "score": 43,
-            "url": "https://twitter.com/Osinttechnical/status/2040861112434835840"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 4,
-        "score": 68,
-        "topic": "Soleimani Family Deportations",
-        "domain": "geopolitics",
-        "headline": "US detains, revokes visas of Soleimani relatives",
-        "summary": "The Trump administration has arrested the niece and grand-niece of deceased Iranian General Qasem Soleimani and revoked green cards of multiple Iranian nationals connected to the government. The State Department accused them of supporting Iran's regime while living in the US.",
-        "signal": "Domestic crackdown on Iranian nationals signals broader escalation beyond military conflict.",
-        "sources": [
-          "Bloomberg",
-          "Associated Press",
-          "Al Jazeera",
-          "BBC News"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/us-arrests-niece-of-late-iranian-general-soleimani",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 65,
-        "topic": "Israel-Lebanon Strikes",
-        "domain": "middleeast",
-        "headline": "Israeli strikes kill 14 in Lebanon on Easter",
-        "summary": "Israeli airstrikes across Lebanon killed at least 14 people on Easter Sunday, including a 4-year-old child in Kfarhata village and four people in Beirut's Jnah neighborhood. The strikes came after Israel threatened to hit Lebanon's main Syria border crossing, forcing its closure.",
-        "signal": "Lebanese front escalation threatens to widen regional conflict beyond US-Iran war.",
-        "sources": [
-          "South China Morning Post",
-          "Al Jazeera",
-          "@MarioNawfal",
-          "@AJEnglish"
-        ],
-        "source_url": "https://www.scmp.com/news/world/middle-east/article/3349099/israeli-strikes-kill-11-lebanon-israel-announces-security-buffer",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 Easter Sunday turned into another day of strikes in Lebanon At least 11 people were killed, including a 4-year-old girl, after Israeli attacks hit Kfarhata and a residential area in Beirut near",
-            "score": 45,
-            "url": "https://twitter.com/MarioNawfal/status/2040861024539029543"
-          },
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Israeli attacks across southern Lebanon and the capital, Beirut, have killed at least 14 people, a day after Israel threatened to hit Lebanon's main border crossing with Syria, forcing its closure.",
-            "score": 49,
-            "url": "https://twitter.com/AJEnglish/status/2040864547628822697"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 62,
-        "topic": "Haifa Missile Strike",
-        "domain": "middleeast",
-        "headline": "Iranian missile directly hits Haifa building, casualties reported",
-        "summary": "A residential building in Haifa partially collapsed after being directly hit by an Iranian ballistic missile, with 4 people missing under rubble and at least 10 wounded. Israeli authorities fear the entire structure may collapse.",
-        "signal": "Direct Iranian strikes on Israeli cities demonstrate escalating missile warfare capabilities.",
-        "sources": [
-          "@MarioNawfal",
-          "@AJEnglish"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 A residential building in Haifa, northern Israel, was directly hit by an Iranian ballistic missile. The strike caused a partial collapse, leaving 4 people missing under the rubble.",
-            "score": 45,
-            "url": "https://twitter.com/MarioNawfal/status/2040867567552860512"
-          },
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "A residential building in the Israeli city of Haifa has partially collapsed after being hit by a projectile. Israeli authorities say at least 10 people have been wounded and fear that the entire struc",
-            "score": 41,
-            "url": "https://twitter.com/AJEnglish/status/2040842763269193770"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 7,
-        "score": 58,
-        "topic": "OPEC Oil Production Increase",
-        "domain": "commodities",
-        "headline": "OPEC+ raises production quotas amid Iran war supply concerns",
-        "summary": "OPEC+ members led by Saudi Arabia and Russia agreed to increase oil production targets for May by 206,000 barrels per day. The cartel warned that repairing war-damaged energy facilities will be costly and time-consuming.",
-        "signal": "Oil supply boost signals OPEC confidence in managing war-related disruptions but highlights infrastructure vulnerability.",
-        "sources": [
-          "Bloomberg",
-          "Middle East Eye",
-          "NDTV Profit"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/iran-says-iraqi-ships-are-allowed-to-use-strait-of-hormuz",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 56,
-        "topic": "Ukraine Trump Envoy Visit",
-        "domain": "geopolitics",
-        "headline": "Ukraine expects Trump envoys Witkoff, Kushner visit this month",
-        "summary": "Ukraine's President Zelensky's chief of staff says the country expects top US envoys Steve Witkoff and Jared Kushner to lead a delegation to Kyiv this month. The visit aims to reboot peace talks as Trump manages multiple foreign crises.",
-        "signal": "Trump pivot to Ukraine negotiations may signal bandwidth limits amid Iran war escalation.",
-        "sources": [
-          "Bloomberg",
-          "Politico Europe"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/ukraine-expects-top-us-envoys-in-kyiv-this-month-to-reboot-talks",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 54,
-        "topic": "UAE Port Attack",
-        "domain": "middleeast",
-        "headline": "Iran attacks UAE's Khor Fakkan Port, ship catches fire",
-        "summary": "Iran's IRGC claimed it fired a missile at an Israel-linked ship in Dubai's Port of Jebel Ali area, causing it to catch fire. The UAE confirmed it is dealing with an incident at Khor Fakkan Port, a major container facility outside the Strait of Hormuz.",
-        "signal": "Iranian attacks on UAE infrastructure threaten Gulf state neutrality and regional shipping alternatives.",
-        "sources": [
-          "@AJEnglish",
-          "@MarioNawfal",
-          "Middle East Eye"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "BREAKING: Iran's IRGC has claimed it fired a missile at an Israel-linked ship in a channel leading to Dubai's Port of Jebel Ali, causing it to catch fire.",
-            "score": 48,
-            "url": "https://twitter.com/AJEnglish/status/2040843659877515486"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf7 Iran attacked the port ships were using to avoid Iran's attacks. Khor Fakkan in the UAE handles 5 million containers a year and sits directly on the Gulf of Oman, outside the Strait of Hormuz",
-            "score": 47,
-            "url": "https://twitter.com/MarioNawfal/status/2040864547729506393"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 10,
-        "score": 52,
-        "topic": "India Iran Diplomacy",
-        "domain": "india",
-        "headline": "Jaishankar holds calls with Iran, Qatar, UAE ministers",
-        "summary": "External Affairs Minister S. Jaishankar spoke with Iranian Foreign Minister Abbas Araghchi amid escalating tensions, as well as leaders from Qatar and UAE. The calls covered bilateral relations and regional developments as Trump's deadline looms.",
-        "signal": "India's diplomatic outreach signals concern over regional escalation and energy security impacts.",
-        "sources": [
-          "Times of India",
-          "Indian Express",
-          "@PTI_News"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/india/eam-jaishankar-receives-call-from-iran-fm-araghchi-as-trumps-48-hour-threat-looms/articleshow/130043913.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "EAM Dr S Jaishankar posts, \"Received a call from Foreign Minister Seyed Abbas Araghchi of Iran. Discussed the present situation.\"",
-            "score": 41,
-            "url": "https://twitter.com/PTI_News/status/2040864165049540911"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 48,
-        "topic": "Pakistan UAE Loan Repayment",
-        "domain": "macro",
-        "headline": "Pakistan to repay matured UAE deposits, straining reserves",
-        "summary": "Pakistan announced it will return matured loan deposits to the UAE, a move that will strain the country's foreign exchange reserves. The decision comes amid broader regional economic pressures from the Iran war.",
-        "signal": "Pakistani reserve strain highlights broader regional financial stress from war-related disruptions.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/pakistan-says-it-will-repay-matured-loan-deposits-to-uae",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 45,
-        "topic": "IMF Tokenized Finance Warning",
-        "domain": "markets",
-        "headline": "IMF warns blockchain trading could amplify market crises",
-        "summary": "The IMF cautioned that moving Wall Street's infrastructure onto blockchain systems could accelerate financial crises beyond regulators' ability to respond. While the technology promises cost cuts, it may create new systemic risks during market stress.",
-        "signal": "Financial system modernization faces regulatory scrutiny amid broader market volatility concerns.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/imf-warns-tokenized-finance-risks-amplifying-market-crises-ahead",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 42,
-        "topic": "Jewish Charity Attack London",
-        "domain": "europe",
-        "headline": "Four arrested in Jewish charity ambulance arson attack",
-        "summary": "A fourth suspect was arrested following an arson attack on Jewish charity ambulances in London. Three men have been charged and remanded in custody after appearing in court.",
-        "signal": "Rising antisemitic incidents in Europe amid Middle East conflict create domestic security concerns.",
-        "sources": [
-          "BBC News",
-          "Al Jazeera"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/clyjrrl17j1o",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 38,
-        "topic": "Peru Presidential Election",
-        "domain": "geopolitics",
-        "headline": "Peru's presidential race shifts with comedian Alvarez gaining",
-        "summary": "Peru's presidential race has shifted in final polls before the April 12 election, with outsider comedian Carlos Alvarez showing late momentum. The election comes amid regional political uncertainty.",
-        "signal": "Latin American political volatility continues with outsider candidates challenging establishments.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-04/peru-s-presidential-front-runners-shift-with-election-days-away",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 35,
-        "topic": "Trump Budget Request Process",
-        "domain": "markets",
-        "headline": "Trump budget trajectory unpredictable amid war spending",
-        "summary": "The congressional appropriations process has become impossible to predict as Trump manages war costs and domestic priorities. Budget Director Vought faces complex allocation decisions amid multiple crises.",
-        "signal": "Fiscal policy uncertainty rises as war spending competes with domestic priorities in budget planning.",
-        "sources": [
-          "Politico Europe"
-        ],
-        "source_url": "https://www.politico.com/news/2026/04/04/budget-trump-omb-vought-00859077",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 53,
-        "topic": "US-Iran Backdoor Talks",
-        "domain": "geopolitics",
-        "headline": "Trump advisors reportedly texting Iran FM despite ultimatum",
-        "summary": "Trump's advisors are reportedly texting Iran's Foreign Minister Araghchi in continued negotiation attempts despite public ultimatums.",
-        "signal": "Diplomatic channels remain open even as public rhetoric escalates toward conflict.",
-        "sources": [
-          "@KobeissiLetter"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "High-credibility source reporting potential diplomatic breakthrough while public positions harden.",
-        "social_signals": [
-          {
-            "handle": "KobeissiLetter",
-            "platform": "twitter",
-            "text": "BREAKING: President Trump's advisors are reportedly texting Iran's Foreign Minister Araghchi in an attempt to continue negotiations, per Axios.",
-            "score": 53,
-            "url": "https://twitter.com/KobeissiLetter/status/2040881227217928520"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 140
   }
 ]
