@@ -1,5 +1,269 @@
 [
   {
+    "timestamp": "2026-04-10T18:04:48.109851+00:00",
+    "timestamp_ist": "10 Apr 2026 \u00b7 23:34 IST",
+    "story_count": 10,
+    "avg_score": 80,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 93,
+        "topic": "US-Iran Pakistan Talks",
+        "domain": "geopolitics",
+        "headline": "Vance leads US delegation to Pakistan for Iran ceasefire talks",
+        "summary": "Vice President JD Vance departs for Pakistan to negotiate with Iran as fragile truce holds. Trump escalates pressure warning Iran has 'no cards' and threatening fresh strikes if talks fail.",
+        "signal": "Watch for any breakdown in talks that could trigger renewed US-Israeli military action against Iran.",
+        "sources": [
+          "Nikkei Asia",
+          "Al Jazeera",
+          "Bloomberg",
+          "@aljazeera.com",
+          "@reuters.com",
+          "@bloomberg.com"
+        ],
+        "source_url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-iran-talks-set-for-saturday-in-pakistan-with-hormuz-in-focus",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Vice president says Trump gave 'pretty clear guidelines' on talks, which will be productive if Iran does not 'play' US",
+            "score": 52,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj5vnkxmug2k"
+          },
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Vance warns Iran not to 'play us' as he leaves for talks",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj5v47aqq52l"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Donald Trump sought to ratchet up pressure on Iran to cut a deal as the two sides prepared for direct talks",
+            "score": 40,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mj5tyfvrps2a"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Trump says 'the Iranians don't seem to realize they have no cards' ahead of US-Iran talks",
+            "score": 50,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj5tbmjnpk25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 88,
+        "topic": "Israel Lebanon Ceasefire Violations",
+        "domain": "geopolitics",
+        "headline": "Israeli strikes kill 357 in Lebanon, threatening fragile ceasefire",
+        "summary": "Israel killed 357 people in Wednesday's bombardment of Lebanon despite ceasefire deal. Netanyahu claims readiness for talks on disarming Hezbollah while continuing attacks shake truce framework.",
+        "signal": "Ceasefire collapse could reignite regional war and derail Iran peace talks in Pakistan.",
+        "sources": [
+          "Middle East Eye",
+          "Al Jazeera",
+          "Associated Press",
+          "The National UAE"
+        ],
+        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-09-2026",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 88,
+        "topic": "Iran War Economic Impact",
+        "domain": "macro",
+        "headline": "IMF warns of lasting economic damage from Iran war",
+        "summary": "IMF cuts global growth forecast and prepares \u20ac42.9bn emergency aid as Iran conflict drives lasting inflation crisis. Oil trading costs surge as ICE hikes crude margins amid commodity volatility.",
+        "signal": "Prepare for sustained inflationary pressures and reduced global growth even if ceasefire holds.",
+        "sources": [
+          "Al Jazeera",
+          "Bloomberg",
+          "Euronews Business"
+        ],
+        "source_url": "https://www.aljazeera.com/economy/2026/4/9/imf-warns-of-looming-inflation-crisis-on-back-of-us-israel-war-on-iran",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "The largest monthly jump in gas prices in six decades caused a sharp spike in inflation in March",
+            "score": 34,
+            "url": "https://bsky.app/profile/apnews.com/post/3mj5t5chxks2k"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Government report shows gasoline going up by 21.2 percent in March as petrol remains above $4 per gallon despite truce",
+            "score": 42,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj5txvcsn625"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 85,
+        "topic": "India Assembly Elections Record",
+        "domain": "india",
+        "headline": "India assembly elections see historic turnout in three states",
+        "summary": "Assam records highest-ever 85.9% turnout, Kerala hits 78.27% as voters participate in assembly polls. Chief Election Commissioner calls high participation historic testimony for Indian democracy.",
+        "signal": "High turnout could signal strong anti-incumbency sentiment affecting coalition stability.",
+        "sources": [
+          "Al Jazeera",
+          "The Hindu",
+          "NDTV"
+        ],
+        "source_url": "https://www.thehindu.com/elections/high-turnout-in-assembly-polls-historic-testimony-for-indias-democracy-cec/article70847749.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 81,
+        "topic": "Indian Markets Rally Recovery",
+        "domain": "markets",
+        "headline": "Indian markets log best weekly gain in five years",
+        "summary": "Sensex surges 1.2% to 77,550 with sharpest weekly gains since February 2021 on global relief. SIP investments hit record highs despite March volatility as retail participation remains strong.",
+        "signal": "Strong retail flows could sustain rally if geopolitical tensions ease further.",
+        "sources": [
+          "LiveMint Markets",
+          "The Hindu Business"
+        ],
+        "source_url": "https://www.livemint.com/market/pulse-of-the-street-markets-log-best-weekly-gain-in-5-years-on-global-relief-11775825697244.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 80,
+        "topic": "Trump Iran Military Threats",
+        "domain": "geopolitics",
+        "headline": "Trump threatens Iran with warships loaded with 'best weapons'",
+        "summary": "Trump warns Iran ahead of Pakistan talks that US warships are rearmed and ready for effective use if negotiations fail. President escalates rhetoric claiming Iranians are only alive to negotiate.",
+        "signal": "Military escalation risk remains high if diplomatic track fails in Islamabad.",
+        "sources": [
+          "Times of India",
+          "Middle East Eye"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/us/we-are-loading-warships-with-best-weapons-trump-hints-at-big-op-if-iran-us-talks-fail/articleshow/130175216.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 80,
+        "topic": "Democrats Trump Impeachment Push",
+        "domain": "geopolitics",
+        "headline": "Democrats push to remove Trump over Iran civilization threats",
+        "summary": "Dozens of Democratic lawmakers demand Trump's removal after he threatened Iranian civilization would die if demands aren't met. Republicans face growing fears as Democrats notch special election victories.",
+        "signal": "Domestic political pressure could constrain Trump's Iran war strategy ahead of talks.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/trump-iran-threats-democrats-impeachment-ea13fc589d1dd75e552de883f2e86e71",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 79,
+        "topic": "China Nuclear Expansion India",
+        "domain": "geopolitics",
+        "headline": "China's secret nuclear sites raise India strategic concerns",
+        "summary": "Satellite imagery reveals China's nuclear expansion in Sichuan with new high-security complexes Sites 906 and 931. Development directly impacts India's strategic balance and exposes nuclear governance gaps.",
+        "signal": "China's nuclear buildup could trigger Indian countermeasures and regional arms race.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/defence/international/chinas-secret-sites-906-931-how-beijing-is-expanding-nuclear-arsenal-and-the-india-question/articleshow/130171826.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 78,
+        "topic": "Strait Hormuz UK Talks",
+        "domain": "geopolitics",
+        "headline": "UK hosts new Strait of Hormuz talks next week",
+        "summary": "Britain convenes another round of talks with allies on reopening Strait of Hormuz without paying Iran tolls. Junior-level discussions follow April 2 senior talks as shipping remains disrupted.",
+        "signal": "Failure to resolve Hormuz blockade keeps oil prices elevated and supply chains strained.",
+        "sources": [
+          "Politico Europe",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.politico.eu/article/uk-to-host-officials-for-strait-hormuz-talks-next-week/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 52,
+        "topic": "Kamala Harris 2028 Presidential",
+        "domain": "geopolitics",
+        "headline": "Harris considers 2028 presidential run after Trump criticism",
+        "summary": "Former Vice President Kamala Harris says she's thinking about running for president again in 2028.",
+        "signal": "Early 2028 positioning could reshape Democratic primary dynamics and fundraising.",
+        "sources": [
+          "@reuters.com",
+          "@theguardian.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Early presidential positioning by major Democratic figures signals potential party realignment.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Former Democratic Vice President Kamala Harris says she's considering running for president again in 2028",
+            "score": 52,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj5vokotmk2i"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Kamala Harris says she's 'thinking about' running for president again in 2028",
+            "score": 52,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mj5tx4y7el27"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-10T16:40:20.323874+00:00",
     "timestamp_ist": "10 Apr 2026 \u00b7 22:10 IST",
     "story_count": 31,
@@ -14833,555 +15097,5 @@
       }
     ],
     "social_count": 128
-  },
-  {
-    "timestamp": "2026-04-06T12:06:58.594868+00:00",
-    "timestamp_ist": "06 Apr 2026 \u00b7 17:36 IST",
-    "story_count": 24,
-    "avg_score": 64,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 94,
-        "topic": "US Pilot Rescued From Iran",
-        "domain": "geopolitics",
-        "headline": "US Service Member Rescued After Iran Shoots Down Fighter Jet",
-        "summary": "A US service member missing since Iran shot down an F-15E fighter jet has been successfully rescued after a 48-hour search-and-rescue operation. The rescue highlights the rare nature of Iran downing American military aircraft, an event not seen in over 20 years.",
-        "signal": "Successful rescue demonstrates US military capability while escalating Iran conflict tensions.",
-        "sources": [
-          "Associated Press",
-          "Bloomberg",
-          "BBC News",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 92,
-        "topic": "US-Iran War Escalation",
-        "domain": "geopolitics",
-        "headline": "Iran Attacks Gulf States As US-Israeli War Enters Day 37",
-        "summary": "Iran continues attacking Gulf states with Kuwait's power and water plants damaged, while Bahrain and UAE report fires from attacks. The US has requested satellite imagery blackouts as the conflict enters its 37th day.",
-        "signal": "Regional conflict spreading beyond Iran threatens global energy supply chains.",
-        "sources": [
-          "Al Jazeera English",
-          "Bloomberg",
-          "Associated Press"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "AJEnglish",
-            "platform": "twitter",
-            "text": "Israel has carried out a \"powerful strike on the largest petrochemical facility in Iran, located in Asaluyeh,\" says Defence Minister Israel Katz.",
-            "score": 54,
-            "url": "https://twitter.com/AJEnglish/status/2041117641658561021"
-          },
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83d\udea8 BREAKING: \ud83c\uddee\ud83c\uddf7 An attack has been reported on Iran's South Pars petrochemical facility in Asaluyeh.",
-            "score": 55,
-            "url": "https://twitter.com/MarioNawfal/status/2041115079634993585"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 3,
-        "score": 88,
-        "topic": "OPEC Production Increase Decision",
-        "domain": "commodities",
-        "headline": "OPEC+ Plans Symbolic Production Quota Hike Amid War",
-        "summary": "OPEC+ members plan to raise production quotas for May in a symbolic move as Middle East conflict constrains production from several major alliance members. The decision comes as war disrupts oil shipments and constrains regional production capacity.",
-        "signal": "Symbolic production increase unlikely to offset war-related supply disruptions.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/opec-plans-symbolic-output-quota-hike-amid-war-delegates-say",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "DeItaone",
-            "platform": "twitter",
-            "text": "OIL & DIESEL: THE NEW \"BLACK GOLD\"? Jefferies says oil markets are mispriced and raised long-term forecasts",
-            "score": 45,
-            "url": "https://twitter.com/DeItaone/status/2041120925072888001"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 86,
-        "topic": "Ukraine Strikes Russian Energy",
-        "domain": "geopolitics",
-        "headline": "Ukraine Hits Russian Oil Infrastructure In Coordinated Strikes",
-        "summary": "Ukrainian forces struck Russian oil infrastructure including the Lukoil Norsi refinery and Primorsk port, causing fires and fuel leaks. The attacks represent Ukraine's continued campaign against Russian energy facilities amid ongoing conflict.",
-        "signal": "Ukrainian energy infrastructure attacks may further tighten global oil markets.",
-        "sources": [
-          "Al Jazeera English",
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/russia-s-lukoil-norsi-refinery-suffers-fire-from-ukrainian-hit",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 82,
-        "topic": "Serbian Gas Pipeline Sabotage",
-        "domain": "geopolitics",
-        "headline": "Serbia Finds Explosives Near Major Gas Pipeline To Hungary",
-        "summary": "Serbian police and army discovered \"explosives of devastating power\" next to a major gas pipeline supplying Serbia and extending to Hungary. President Vucic announced the discovery as tensions rise over regional energy security.",
-        "signal": "European energy infrastructure faces sabotage risks amid regional conflicts.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/serbia-s-vucic-says-explosive-found-at-gas-pipe-near-hungary",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 80,
-        "topic": "NASA Artemis Moon Mission",
-        "domain": "corporate",
-        "headline": "Artemis II Crew Nears Record-Breaking Distance From Earth",
-        "summary": "NASA's Artemis II astronauts are approaching a record-breaking distance from Earth as they prepare to fly around the moon's far side. The mission represents humanity's farthest journey from Earth in over 50 years.",
-        "signal": "Successful moon mission demonstrates space technology advancement amid global tensions.",
-        "sources": [
-          "Associated Press",
-          "Times of India"
-        ],
-        "source_url": "https://apnews.com/article/nasa-artemis-moon-flyby-astronauts-e470e962d028d1a4b811cbf31cdacd90",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 78,
-        "topic": "US Immigration Policy Changes",
-        "domain": "geopolitics",
-        "headline": "Trump Administration Revokes Iranian Nationals' Green Cards, Visas",
-        "summary": "The Trump administration revoked green cards or visas of at least four Iranian nationals connected to Iran's government, including Qassem Soleimani's niece. Several individuals have been detained and face deportation.",
-        "signal": "Aggressive immigration enforcement signals hardening US stance against Iran.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://apnews.com/article/us-iran-visas-rubio-soleimani-green-cards-4d35d273b6b3cb0ae1929e8a0cf0f7e5",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 76,
-        "topic": "European Fuel Supply Crisis",
-        "domain": "commodities",
-        "headline": "Italy Limits Airport Fuel Supplies Due To Middle East Conflict",
-        "summary": "Several Italian airports issued advisories of limited fuel supplies as the Middle East conflict disrupts supply chains. The restrictions highlight how regional warfare affects European energy logistics.",
-        "signal": "European aviation fuel shortages may ground flights and disrupt travel.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-05/italy-sets-jet-fuel-limits-at-some-airports-on-supply-shortage",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 72,
-        "topic": "Indian Market Rally Recovery",
-        "domain": "markets",
-        "headline": "Indian Markets Surge 800 Points On Iran Ceasefire Hopes",
-        "summary": "Indian stock markets reversed early losses with Sensex gaining 787 points as reports emerged of diplomatic efforts for a 45-day ceasefire between Iran and the US. Investors earned over \u20b95 lakh crore in a single session.",
-        "signal": "Market volatility remains high as investors react to Middle East diplomatic developments.",
-        "sources": [
-          "LiveMint Markets",
-          "NDTV News"
-        ],
-        "source_url": "https://www.livemint.com/market/stock-market-news/sensex-up-800-points-nifty-50-ends-above-22-950-investors-earn-5-lakh-crore-key-highlights-from-stock-market-today-11775469135319.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "Polymarket",
-            "platform": "twitter",
-            "text": "BREAKING: U.S., Iran & mediators are reportedly discussing the terms for a \"last-ditch\" 45-day ceasefire.",
-            "score": 45,
-            "url": "https://twitter.com/Polymarket/status/2040988894334689473"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 10,
-        "score": 70,
-        "topic": "Delhi Assembly Security Breach",
-        "domain": "india",
-        "headline": "Masked Man Breaches Delhi Assembly Security In Car",
-        "summary": "A security breach occurred at Delhi Assembly when a masked man drove a car through Gate No. 2, placed flowers near the Speaker's office, and fled. Police have arrested the suspect and seized the vehicle.",
-        "signal": "Assembly security lapses raise concerns ahead of election season.",
-        "sources": [
-          "Times of India",
-          "NDTV News"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/india/delhi-assembly-security-scare-police-nab-suspect-seize-car-no-bomb-like-object-found/articleshow/130059318.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "STORY | Security scare at Delhi Assembly as SUV breaks through iron gate; 3 held, vehicle seized",
-            "score": 43,
-            "url": "https://twitter.com/PTI_News/status/2041118334268141610"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 68,
-        "topic": "Oracle Mass Layoffs",
-        "domain": "corporate",
-        "headline": "Oracle Cuts 10,000+ Jobs To Fund OpenAI Deal",
-        "summary": "Oracle is laying off at least 10,000 employees\u2014potentially up to 30,000\u2014as it struggles with cash demands from a $300 billion cloud computing deal with OpenAI. The cuts represent Oracle's largest-ever restructuring across multiple divisions.",
-        "signal": "Massive tech layoffs reflect AI investment pressures and cash flow constraints.",
-        "sources": [
-          "Times of India"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-10000-job-cuts-have-a-sam-altman-connection-a-promise-oracle-made-to-openai-for-/articleshow/130035870.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 65,
-        "topic": "RBI Rate Decision Speculation",
-        "domain": "markets",
-        "headline": "RBI Rate Hike Speculation Grows Amid Currency Pressure",
-        "summary": "As the RBI's Monetary Policy Committee meets April 8, discussions of a surprise rate hike arise due to rupee weakness and rising oil prices. Most economists expect rates to remain unchanged despite currency pressures.",
-        "signal": "Surprise rate hike could strengthen rupee but hurt growth amid global uncertainty.",
-        "sources": [
-          "LiveMint Markets"
-        ],
-        "source_url": "https://www.livemint.com/market/stock-market-news/rbi-monetary-policy-is-a-surprise-rbi-rate-hike-coming-this-week-as-us-iran-war-enters-6th-week-11775468092947.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "PTI_News",
-            "platform": "twitter",
-            "text": "India has fiscal space, room to expand capex; RBI to cut interest rate and has room to offer targeted support to affected sectors: FM.",
-            "score": 54,
-            "url": "https://twitter.com/PTI_News/status/2041119516462285158"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 62,
-        "topic": "Asian Airlines Fuel Crisis",
-        "domain": "commodities",
-        "headline": "AirAsia Cuts Flights 10% As Iran War Drives Fuel Costs",
-        "summary": "AirAsia is cutting 10% of flights and raising fares as jet fuel prices soar amid the US-Iran conflict. The airline joins others facing operational challenges from Middle East supply disruptions.",
-        "signal": "Aviation sector faces widespread capacity cuts and fare increases.",
-        "sources": [
-          "Nikkei Asia",
-          "LiveMint Companies"
-        ],
-        "source_url": "https://asia.nikkei.com/business/transportation/airasia-cuts-10-of-flights-as-iran-war-pushes-up-fuel-prices",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 60,
-        "topic": "Indian Rupee Weakness Analysis",
-        "domain": "markets",
-        "headline": "Rupee Faces Pressure From Oil Shock And Capital Outflows",
-        "summary": "The Indian rupee faces significant pressure from rising oil prices and foreign portfolio investment outflows, though it gained 14 paise Monday. Analysts debate whether weakness is temporary shock or structural decline.",
-        "signal": "Sustained rupee weakness could force RBI intervention and import cost inflation.",
-        "sources": [
-          "LiveMint Markets",
-          "NDTV Profit"
-        ],
-        "source_url": "https://www.livemint.com/market/stock-market-news/indian-rupee-weakness-temporary-shock-or-structural-decline-or-both-11775475959563.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 58,
-        "topic": "Meta Silicon Valley Layoffs",
-        "domain": "corporate",
-        "headline": "Meta To Cut 200 Silicon Valley Jobs Next Month",
-        "summary": "Meta will lay off 200 employees from its Silicon Valley offices next month as part of AI-led restructuring. The cuts come as the company invests $10 billion in a new Texas data center.",
-        "signal": "Big Tech continues workforce optimization despite massive AI infrastructure spending.",
-        "sources": [
-          "LiveMint Companies",
-          "NDTV Profit"
-        ],
-        "source_url": "https://www.livemint.com/companies/news/meta-layoffs-facebook-parent-to-cut-200-silicon-valley-jobs-next-month-who-is-impacted-11775465552810.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 55,
-        "topic": "Iran Strait Hormuz Control",
-        "domain": "geopolitics",
-        "headline": "Strait Traffic Surges As Iran Tightens Control",
-        "summary": "Strait of Hormuz traffic hit its highest level in weeks with 21 ships crossing as countries strike deals with Iran for safe passage. Iran continues to reject US deadlines for reopening the waterway.",
-        "signal": "Iran's strategic chokepoint control gives leverage in ceasefire negotiations.",
-        "sources": [
-          "Al Jazeera English",
-          "Middle East Eye"
-        ],
-        "source_url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "FirstSquawk",
-            "platform": "twitter",
-            "text": "HORMUZ TRAFFIC SURGES AS IRAN TIGHTENS CONTROL Strait of Hormuz traffic has hit its highest level in weeks, with 21 ships crossing",
-            "score": 54,
-            "url": "https://twitter.com/FirstSquawk/status/2041119295472894111"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 17,
-        "score": 52,
-        "topic": "Wipro Singapore Contract Win",
-        "domain": "corporate",
-        "headline": "Wipro Bags $1 Billion Olam Contract, Acquires Mindsprint",
-        "summary": "Wipro secured a $1 billion contract from Singapore's Olam Group and will acquire Olam's IT arm Mindsprint for $375 million. The deal represents a major win for Indian IT services amid global uncertainty.",
-        "signal": "Large contract wins demonstrate resilience of Indian IT sector despite headwinds.",
-        "sources": [
-          "LiveMint Companies"
-        ],
-        "source_url": "https://www.livemint.com/companies/news/wipro-share-price-contract-olam-group-mindsprint-it-services-india-11775447456434.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 50,
-        "topic": "Storm Dave UK Impact",
-        "domain": "europe",
-        "headline": "Storm Dave Causes Power Cuts Across Scotland",
-        "summary": "Strong winds from Storm Dave battered Scotland with speeds up to 73mph recorded in Aberdeenshire, causing power cuts and travel disruption. The Met Office issued amber wind warnings for potential injuries from flying debris.",
-        "signal": "Severe weather adds to UK infrastructure pressures amid energy challenges.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cje4y50l0x5o",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 19,
-        "score": 48,
-        "topic": "Japan Immigration Rule Changes",
-        "domain": "japan",
-        "headline": "Japan Tightens Residency Rules For Foreign Transfer Employees",
-        "summary": "Japan is implementing stricter residency rules for foreign employees under transfer visas. The policy change reflects evolving immigration controls as the country balances labor needs with security concerns.",
-        "signal": "Tighter immigration rules may limit Japan's access to international talent.",
-        "sources": [
-          "Nikkei Asia"
-        ],
-        "source_url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-to-tighten-residency-rules-for-foreign-employees-under-transfer-visas",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 20,
-        "score": 45,
-        "topic": "Supreme Court Vedanta Setback",
-        "domain": "india",
-        "headline": "Supreme Court Clears Adani's JAL Acquisition Plan",
-        "summary": "The Supreme Court refused to stay Adani Enterprises' \u20b914,543 crore resolution plan for Jaiprakash Associates, dealing a setback to Vedanta. The court directed NCLAT oversight and expedited hearings.",
-        "signal": "Corporate debt resolution proceeds despite rival bidder challenges.",
-        "sources": [
-          "NDTV News",
-          "LiveMint Companies"
-        ],
-        "source_url": "https://www.ndtv.com/india-news/in-setback-to-vedanta-supreme-court-refuses-to-interfere-with-order-allowing-adani-to-acquire-jaiprakash-associates-ltd-11317830#publisher=newsstand",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 21,
-        "score": 42,
-        "topic": "Tesla Q1 Delivery Miss",
-        "domain": "corporate",
-        "headline": "Tesla Delivers 358K Vehicles In Q1 Missing Estimates",
-        "summary": "Tesla delivered 358,000 vehicles in Q1 2026, missing analyst estimates with production also below expectations. Energy storage segment came in weak despite overall outlook remaining intact.",
-        "signal": "EV demand softness may pressure Tesla margins and growth targets.",
-        "sources": [
-          "Social Media"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Significant Tesla delivery miss could signal broader EV market challenges.",
-        "social_signals": [
-          {
-            "handle": "DeItaone",
-            "platform": "twitter",
-            "text": "$TSLA - TESLA Q1 MISS, OUTLOOK INTACT Tesla delivered 358K vehicles in Q1 2026, missing estimates",
-            "score": 45,
-            "url": "https://twitter.com/DeItaone/status/2041114980762706242"
-          }
-        ],
-        "trend": "falling",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 22,
-        "score": 40,
-        "topic": "Jamie Dimon Economic Warning",
-        "domain": "markets",
-        "headline": "Dimon Plans $1 Trillion US Economic Power Push",
-        "summary": "JPMorgan CEO Jamie Dimon plans to deploy over $1 trillion to strengthen the US economy, warning that global risks are rising and American competitiveness must be enhanced.",
-        "signal": "Banking sector CEO signals major capital deployment amid geopolitical tensions.",
-        "sources": [
-          "Social Media"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Major bank CEO's trillion-dollar commitment suggests serious economic concerns.",
-        "social_signals": [
-          {
-            "handle": "DeItaone",
-            "platform": "twitter",
-            "text": "DIMON: $1T PUSH TO BOOST US ECONOMIC POWER JPMorgan Chase & Co. CEO Jamie Dimon plans to deploy $1 trillion+",
-            "score": 59,
-            "url": "https://twitter.com/DeItaone/status/2041115544191959392"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 23,
-        "score": 38,
-        "topic": "Oil Price Surge Predictions",
-        "domain": "commodities",
-        "headline": "Markets Eye $150+ Oil By Year-End",
-        "summary": "Prediction markets are turning bullish on oil with WTI now forecast around $148, up sharply since mid-March. Momentum has been building steadily as Iran conflict escalates.",
-        "signal": "Oil price surge expectations could drive inflation and economic volatility.",
-        "sources": [
-          "Social Media"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Sharp upward revision in oil forecasts reflects market fears of supply disruption.",
-        "social_signals": [
-          {
-            "handle": "DeItaone",
-            "platform": "twitter",
-            "text": "MARKET NOW EYES $150+ BY YEAR-END Prediction markets are turning bullish on oil, with WTI now forecast around $148",
-            "score": 45,
-            "url": "https://twitter.com/DeItaone/status/2041124814409122225"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 24,
-        "score": 35,
-        "topic": "Iranian Revolutionary Guards Claims",
-        "domain": "geopolitics",
-        "headline": "Iran Claims Attack On US Amphibious Assault Ship",
-        "summary": "Iran's Revolutionary Guards claim they targeted US amphibious assault ship LHA-7 (USS Tripoli), a massive warship carrying aircraft and up to 1,800 Marines.",
-        "signal": "Unverified Iranian military claims could escalate if substantiated.",
-        "sources": [
-          "Social Media"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Iranian military claims against major US warship need verification but signal escalation.",
-        "social_signals": [
-          {
-            "handle": "MarioNawfal",
-            "platform": "twitter",
-            "text": "\ud83d\udea8 BREAKING: \ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran's Revolutionary Guards claims they targeted U.S. amphibious assault ship LHA-7.",
-            "score": 49,
-            "url": "https://twitter.com/MarioNawfal/status/2041117706204643803"
-          },
-          {
-            "handle": "DeItaone",
-            "platform": "twitter",
-            "text": "IRAN'S REVOLUTIONARY GUARDS SAY THEY TARGETED U.S. AMPHIBIOUS ASSAULT SHIP LHA-7",
-            "score": 42,
-            "url": "https://twitter.com/DeItaone/status/2041114608463741272"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 136
   }
 ]
