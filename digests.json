@@ -1,5 +1,508 @@
 [
   {
+    "timestamp": "2026-04-11T19:54:11.375666+00:00",
+    "timestamp_ist": "12 Apr 2026 \u00b7 01:24 IST",
+    "story_count": 22,
+    "avg_score": 57,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 88,
+        "topic": "US-Iran Peace Talks",
+        "domain": "geopolitics",
+        "headline": "Vance leads US delegation in historic Pakistan talks",
+        "summary": "Vice President JD Vance has arrived in Islamabad for direct face-to-face negotiations with Iranian officials, marking rare diplomatic engagement amid fragile ceasefire. Multiple sources report ongoing discussions late into Saturday evening with 'some headway' on Lebanon issues and potential asset unfreezing agreements.",
+        "signal": "Watch for breakthrough announcements or talks breakdown that could trigger oil price volatility and regional conflict escalation.",
+        "sources": [
+          "Al Jazeera English",
+          "Associated Press",
+          "Times of India",
+          "NDTV Profit",
+          "Middle East Eye",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-negotiations-vance-trump-b82625fd24adb2336a5a9615b6953629",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Vice President JD Vance and other U.S. officials are meeting face-to-face with Iranian delegation in Islamabad, White House says.",
+            "score": 47,
+            "url": "https://bsky.app/profile/apnews.com/post/3mja4gpdwof2l"
+          },
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30a2\u30e1\u30ea\u30ab\u3068\u30a4\u30e9\u30f3\u3001\u521d\u5354\u8b70\u306e\u958b\u59cb\u9045\u308c\u3000\u30ec\u30d0\u30ce\u30f3\u653b\u6483\u505c\u6b62\u306a\u3069\u6761\u4ef6\u3067\u5fdc\u916c",
+            "score": 35,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mj7ratgpet25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "topic": "Iran War Oil Impact",
+        "domain": "commodities",
+        "headline": "Inflation surges as Iran war drives energy crisis",
+        "summary": "US inflation jumped to 3.4% in March driven by gasoline price spikes from the Iran war, while EU airlines warn of fuel shortages if Strait of Hormuz remains closed. India raises diesel export duties to Rs 55.5/litre as supply chains buckle under Middle East disruption.",
+        "signal": "Monitor Hormuz reopening timeline and strategic petroleum reserve releases as energy supply crunch threatens global growth.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "NDTV News",
+          "Politico Europe",
+          "ET Top Stories"
+        ],
+        "source_url": "https://apnews.com/article/inflation-prices-gas-federal-reserve-trump-bf00c3105d5da88a0b01d9107ed4ecee",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: The U.S. says two naval destroyers transit the Strait of Hormuz in a first since the Iran war began.",
+            "score": 45,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjado3fb4l2p"
+          },
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u539f\u6cb9\u5206\u6563\u8abf\u9054\u306b3\u3064\u306e\u8aa4\u7b97\u3000\u4e2d\u6771\u4f9d\u5b58\u5ea695%\u306b\u4e0a\u6607",
+            "score": 51,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mj7rzul5ll25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 3,
+        "score": 78,
+        "topic": "Wall Street Private Credit",
+        "domain": "markets",
+        "headline": "Wall Street debuts shorting tools for private credit",
+        "summary": "Bloomberg reports major financial institutions are launching new products allowing investors to bet against private credit amid growing concerns about the sector. Goldman Sachs traders simultaneously report record fast-money flows into US equities from algorithmic funds.",
+        "signal": "Private credit short interest surge could signal broader credit market stress ahead of potential economic slowdown.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/wall-street-seizes-on-private-credit-fears-with-new-way-to-short",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 77,
+        "topic": "Warren Oil Trading Probe",
+        "domain": "markets",
+        "headline": "Warren seeks federal probe of suspicious oil trades",
+        "summary": "Senator Elizabeth Warren is asking the CFTC to investigate 'unusual trading patterns' in oil futures immediately preceding Trump administration ceasefire announcements. The request suggests potential insider trading around geopolitical developments in the Iran war.",
+        "signal": "Regulatory scrutiny of oil markets could expose systematic trading ahead of war announcements, threatening commodity market integrity.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/warren-seeks-federal-probe-of-suspicious-oil-trades-amid-war",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 72,
+        "topic": "Trump Iran Strategy Criticism",
+        "domain": "geopolitics",
+        "headline": "GOP splits over Trump's tenuous Iran exit plan",
+        "summary": "Associated Press reports growing Republican criticism of Trump's Iran war strategy, with conservative activist Laura Loomer and others questioning his approach of threats followed by shaky ceasefire. The president simultaneously casts doubt on ceasefire effectiveness while talks proceed.",
+        "signal": "Political pressure on Trump could force more aggressive Iran stance if talks fail, escalating regional conflict risk.",
+        "sources": [
+          "Associated Press",
+          "Times of India"
+        ],
+        "source_url": "https://apnews.com/article/trump-iran-republicans-election-2026-war-ceasefire-6fe581f139a851a2d2daec3fe5dbc8b2",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 70,
+        "topic": "Iraq New President",
+        "domain": "middleeast",
+        "headline": "Iraq elects Nizar Amedi president ending deadlock",
+        "summary": "Iraqi parliament elected Nizar Amedi as president with 227 votes, ending five months of political deadlock. The new president pledges 'Iraq First' policy amid regional tensions from the Iran war.",
+        "signal": "Iraqi political stability could shift regional balance as new leadership navigates Iran-US tensions.",
+        "sources": [
+          "The National (UAE)",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.thenationalnews.com/news/2026/04/11/iraq-elects-nizar-ameidi-as-president-following-months-of-deadlock/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "New president pledges 'Iraq First' after securing 227 votes, ending five months of political deadlock.",
+            "score": 42,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjaegtviu324"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 68,
+        "topic": "Ukraine-Russia Easter Ceasefire",
+        "domain": "geopolitics",
+        "headline": "Ukraine-Russia begin 32-hour Orthodox Easter truce",
+        "summary": "Russia and Ukraine commenced a 32-hour ceasefire for Orthodox Easter with 350 prisoner exchange mediated by UAE. Both sides exchanged 175 prisoners each as temporary truce takes effect amid ongoing conflict.",
+        "signal": "Easter ceasefire could provide template for broader peace negotiations if maintained without major violations.",
+        "sources": [
+          "Politico Europe",
+          "S. China Morning Post",
+          "The National (UAE)"
+        ],
+        "source_url": "https://www.scmp.com/news/world/article/3349757/russia-and-ukraine-begin-32-hour-ceasefire-orthodox-easter?utm_source=rss_feed",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 65,
+        "topic": "Kamala Harris 2028 Bid",
+        "domain": "geopolitics",
+        "headline": "Harris actively considering 2028 presidential run",
+        "summary": "Former Vice President Kamala Harris told the National Action Network convention she's 'thinking about' another presidential bid in 2028. Her comments came alongside appearances by more than half a dozen other Democratic 2028 prospects.",
+        "signal": "Early 2028 Democratic positioning could reshape party dynamics and policy priorities ahead of midterm elections.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/kamala-harris-president-democrat-2028-sharpton-9d609ed146b82a27f6eeec0f03bcf5c4",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 62,
+        "topic": "Artemis II Moon Return",
+        "domain": "geopolitics",
+        "headline": "Artemis II astronauts set for Pacific splashdown",
+        "summary": "NASA's Artemis II spacecraft approaches Earth return after record-setting moon flyby, marking humanity's first lunar voyage in over 50 years. Splashdown scheduled for 00:07 GMT off San Diego coast with mounting tension in Houston Mission Control.",
+        "signal": "Successful moon mission return could boost US space leadership and technology sector confidence.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://apnews.com/article/nasa-artemis-astronauts-moon-splashdown-16adc5450f0127a0743292ef30b239f1",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 58,
+        "topic": "Israel Lebanon Attacks",
+        "domain": "middleeast",
+        "headline": "Israeli strikes on Lebanon threaten ceasefire talks",
+        "summary": "Israel escalated attacks against Hezbollah in Lebanon after US-Iran ceasefire announcement, killing over 300 and wounding 1,150 according to health officials. Iran's parliament speaker warns 'time is running out' for peace negotiations.",
+        "signal": "Israeli military escalation could derail US-Iran talks and trigger broader regional conflict.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "Middle East Eye"
+        ],
+        "source_url": "https://apnews.com/article/israel-hezbollah-lebanon-war-995a8b2126eef9949beae3066715ce60",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "A Syrian man has buried his wife and four of his five children after Israeli strikes hit Beirut earlier this week.",
+            "score": 41,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjag5merp22d"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 56,
+        "topic": "Israel West Bank Settlements",
+        "domain": "middleeast",
+        "headline": "OIC condemns Israeli approval of 34 settlements",
+        "summary": "Organization of Islamic Cooperation condemns Israeli approval of 34 new West Bank settlements as 'flagrant violation of international law'. Palestinian Presidency office echoes condemnation of the settlement expansion plan.",
+        "signal": "Settlement expansion could complicate Middle East peace efforts and trigger international sanctions.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/10/oic-condemns-israeli-approval-of-34-new-west-bank-settlements",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "The raid comes just days after Israel secretly approved 34 new illegal settlements in the West Bank.",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjajhtjaqh2f"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 52,
+        "topic": "Ireland Fuel Protests",
+        "domain": "europe",
+        "headline": "Irish military deployed against fuel price protesters",
+        "summary": "Irish police and military pushed back fuel-price protesters blocking the country's only oil refinery at Whitegate in County Cork. Dublin Airport issued travel guidance as truckers and farmers demand cuts in fuel taxes amid supply concerns.",
+        "signal": "European fuel protests could spread if energy prices continue rising from Middle East supply disruptions.",
+        "sources": [
+          "Politico Europe",
+          "BBC News"
+        ],
+        "source_url": "https://www.politico.eu/article/ireland-fuel-price-protest-block-oil-refinery/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 49,
+        "topic": "Warner-Paramount Merger",
+        "domain": "corporate",
+        "headline": "Glass Lewis backs Warner-Paramount Skydance takeover",
+        "summary": "Proxy advisory firm Glass Lewis recommends Warner Bros. Discovery investors support Paramount Skydance Corp.'s proposed takeover at April 23 special meeting. The endorsement provides key momentum for the major media industry consolidation.",
+        "signal": "Merger approval could trigger broader media sector consolidation as streaming wars intensify.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/glass-lewis-recommends-investors-support-warner-paramount-merger",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 47,
+        "topic": "Japan BOJ Policy Dilemma",
+        "domain": "japan",
+        "headline": "BOJ faces inflation pressure amid Middle East war",
+        "summary": "Bank of Japan confronts difficult monetary policy decisions as Middle East war creates inflation pressure while rate hikes risk cooling the economy. The central bank must balance imported inflation concerns against domestic growth needs.",
+        "signal": "BOJ policy paralysis could weaken yen further and complicate global monetary policy coordination.",
+        "sources": [
+          "Japan Times"
+        ],
+        "source_url": "https://www.japantimes.co.jp/business/2026/04/11/economy/boj-rate-policy-middle-east/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 45,
+        "topic": "France Ditches Windows",
+        "domain": "europe",
+        "headline": "France shifts government systems from Windows to Linux",
+        "summary": "French government announces shift from Microsoft Windows to Linux as part of Europe's digital sovereignty push to reduce dependence on American tech giants. The move aligns with broader EU efforts to regain control over data and digital infrastructure.",
+        "signal": "European tech sovereignty drive could accelerate, pressuring US technology sector revenues and market dominance.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/france-says-no-to-microsoft-windows-and-the-reason-is-america-says-we-want-to-regain-control-of-/articleshow/130196156.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 44,
+        "topic": "Asha Bhosle Hospitalization",
+        "domain": "india",
+        "headline": "Legendary singer Asha Bhosle suffers chest infection",
+        "summary": "Bollywood legend Asha Bhosle was admitted to Mumbai's Breach Candy Hospital Saturday night after suffering a chest infection (earlier reports of heart attack were corrected). The 90-year-old singer has had a career spanning over seven decades.",
+        "signal": "Health concerns for cultural icons can impact entertainment sector sentiment and Bollywood-related stocks.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/legendary-singer-asha-bhosle-suffers-a-heart-attack-rushed-to-breach-candy-hospital-in-mumbai/articleshow/130194960.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 42,
+        "topic": "Epic-Disney Fortnite Revival",
+        "domain": "corporate",
+        "headline": "Epic Games pins Fortnite comeback on Disney partnership",
+        "summary": "Epic Games seeks to revive Fortnite after recent game updates flopped by partnering with Disney. The collaboration aims to turn around the hit game's declining performance through Disney's content and characters.",
+        "signal": "Gaming sector partnerships could accelerate as major titles struggle to maintain engagement in competitive market.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/epic-games-pins-fortnite-comeback-on-disney-partnership",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 40,
+        "topic": "Bihar Highway Tragedy",
+        "domain": "india",
+        "headline": "13 killed in massive Bihar highway pile-up",
+        "summary": "Tragic multi-vehicle collision in Bihar's Katihar district kills 13 people and injures 30, with one family losing four members just one day after a wedding. Bus driver suspected of losing control caused the massive highway pile-up.",
+        "signal": "Infrastructure safety concerns could pressure government spending on highway improvements and vehicle safety regulations.",
+        "sources": [
+          "NDTV News",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/10-killed-25-injured-in-massive-highway-pile-up-in-bihar-11344351#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 38,
+        "topic": "UK Diego Garcia Delay",
+        "domain": "geopolitics",
+        "headline": "UK delays Diego Garcia handover to appease Trump",
+        "summary": "Britain puts Chagos Islands handover on hold after President Trump warned Prime Minister Starmer he was 'making a big mistake' in giving over the strategically important Diego Garcia base. Trump has changed his position multiple times on the issue.",
+        "signal": "US-UK tensions over strategic assets could complicate broader Atlantic alliance coordination.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/uk-diego-garcia-handover-chagos-islands-donald-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 35,
+        "topic": "CSK IPL Victory",
+        "domain": "india",
+        "headline": "Samson's 115 powers CSK to first 2026 win",
+        "summary": "Sanju Samson's unbeaten 115 with Rajinikanth-style celebration powered Chennai Super Kings to their first IPL 2026 victory, defeating Delhi Capitals by 23 runs. Jamie Overton's 4/18 sealed the comfortable win at Chepauk.",
+        "signal": "IPL momentum shifts could impact sports betting markets and entertainment sector performance.",
+        "sources": [
+          "Times of India",
+          "Indian Express",
+          "NDTV Profit"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-sanju-samsons-115-jamie-overtons-four-fer-help-csk-outfox-dc-for-seasons-first-win/articleshow/130197497.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 21,
+        "score": 32,
+        "topic": "NYC Subway Attack",
+        "domain": "geopolitics",
+        "headline": "Machete attacker shot dead by NYC police",
+        "summary": "New York police shot and killed a suspect who attacked people with a machete at a subway station, wounding three elderly victims. The alleged attacker is in critical condition according to police reports.",
+        "signal": "Urban security incidents could pressure municipal budgets and affect real estate values in affected areas.",
+        "sources": [
+          "The Guardian",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://bsky.app/profile/theguardian.com/post/3mjak7ds6qm2h",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Suspect in New York subway machete attack shot and killed by police",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjak7ds6qm2h"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Three elderly victims were wounded at the transit hub, and the alleged attacker is in critical condition, police said.",
+            "score": 41,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjacraaaxx2h"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 22,
+        "score": 47,
+        "topic": "Trump Fertilizer Price Monitoring",
+        "domain": "commodities",
+        "headline": "Trump vows no fertilizer price gouging",
+        "summary": "President Trump said he's watching fertilizer values closely and won't accept any 'price gouging' as agricultural input costs surge.",
+        "signal": "Agricultural input price controls could impact farming sector margins and food inflation.",
+        "sources": [
+          "@bloomberg.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Worth monitoring as fertilizer prices directly impact global food security and agricultural sector profitability.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Donald Trump said he's watching fertilizer values closely and won't accept any 'price gouging'",
+            "score": 47,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mja2fjlvzy2t"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-11T17:08:32.084993+00:00",
     "timestamp_ist": "11 Apr 2026 \u00b7 22:38 IST",
     "story_count": 17,
@@ -14813,451 +15316,6 @@
         ],
         "trend": "rising",
         "breaking_on_social": true
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-07T17:38:36.373759+00:00",
-    "timestamp_ist": "07 Apr 2026 \u00b7 23:08 IST",
-    "story_count": 20,
-    "avg_score": 50,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 88,
-        "topic": "Trump Iran Deadline Crisis",
-        "domain": "geopolitics",
-        "headline": "Trump threatens civilizational annihilation as Iran deadline nears",
-        "summary": "Multiple wire services report Trump's warning that Iran's 'whole civilization will die tonight' unless Tehran reopens the Strait of Hormuz by Tuesday deadline. Iran rejects the ultimatum and latest ceasefire proposals, with Trump escalating rhetoric to unprecedented levels.",
-        "signal": "Monitor for immediate military action Tuesday night and potential nuclear escalation rhetoric crossing into implementation plans.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "The Hindu",
-          "Economic Times",
-          "Politico Europe",
-          "The National"
-        ],
-        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-06-2026",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "Six weeks into the Iran war, Trump sounds intent on forcing a reckoning before the sun rises on Wednesday.",
-            "score": 31,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3miwclo5sxa2m"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "By warning that the US would deliberately bomb civilian infrastructure in Iran, President Trump drew criticism that he was threatening to commit war crimes. Here's what to know",
-            "score": 32,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3miwavuly2q26"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "As US President Donald Trump's latest ultimatum to Iran to agree to a ceasefire deal approaches, hardliners now in charge in Tehran are relishing the idea of escalation and a region-wide conflict",
-            "score": 40,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3miw5kqqbij2v"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 78,
-        "topic": "UN Hormuz Resolution Vetoed",
-        "domain": "geopolitics",
-        "headline": "Russia China veto UN resolution to reopen Hormuz",
-        "summary": "Russia and China vetoed a UN Security Council resolution calling for coordinated efforts to reopen the Strait of Hormuz. The resolution had been repeatedly watered down in hopes of gaining their abstention but still failed to pass.",
-        "signal": "UN diplomatic track officially blocked, increasing likelihood of unilateral military action by US coalition.",
-        "sources": [
-          "Times of India",
-          "Economic Times",
-          "The National",
-          "Middle East Eye"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/world/middle-east/russia-china-veto-un-resolution-to-reopen-strait-of-hormuz/articleshow/130091501.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Russia and China vetoed a U.N. Security Council resolution aimed at reopening the Strait of Hormuz that had been repeatedly watered down in hopes those two countries would abstain.",
-            "score": 26,
-            "url": "https://bsky.app/profile/apnews.com/post/3miw5qvgfrs2m"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 72,
-        "topic": "Iran Infrastructure Strikes",
-        "domain": "geopolitics",
-        "headline": "US Israel intensify attacks on Iranian infrastructure",
-        "summary": "Multiple reports confirm strikes on Iran's top university, South Pars gas complex, and other critical infrastructure as Trump's deadline approaches. Iran calls the attacks war crimes and vows to respond 'in kind'.",
-        "signal": "Infrastructure degradation accelerating before deadline - watch for Iranian retaliation against regional energy assets.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "The Hindu"
-        ],
-        "source_url": "https://apnews.com/article/south-pars-natural-gas-field-iran-29e03d9dd5e31c5ea10d2bdc87d68257",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Top university says US-Israel attack targeted Iran's progress, AI learning https://aje.news/w6xlcx",
-            "score": 46,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3miwcladii52k"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 68,
-        "topic": "Energy Market Crisis",
-        "domain": "commodities",
-        "headline": "Crude hits record rupee 10888 barrel WTI 116",
-        "summary": "Oil futures surge to record levels as Iran tensions peak, with WTI crude reaching $116 per barrel. Analysts cite tightening global supply and uncertainty over the Strait of Hormuz closure.",
-        "signal": "Energy price spiral accelerating - expect central bank interventions and demand destruction if sustained above $120.",
-        "sources": [
-          "The Hindu",
-          "LiveMint",
-          "Nikkei Asia"
-        ],
-        "source_url": "https://www.thehindu.com/business/markets/crude-oil-futures-hit-record-10888barrel-wti-touches-116/article70833165.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 65,
-        "topic": "Indian Iran Travel Advisory",
-        "domain": "india",
-        "headline": "India issues urgent stay indoors advisory Iran nationals",
-        "summary": "Indian embassy urged nationals in Iran to remain indoors 'where they are' for 48 hours, avoiding specific installations amid escalating regional tensions. The advisory emphasizes staying put especially in embassy-hired hotels.",
-        "signal": "India anticipates imminent escalation - monitor for potential evacuation operations if crisis deepens.",
-        "sources": [
-          "Times of India",
-          "The Hindu"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/india/india-issues-advisory-for-nationals-in-iran-to-stay-where-they-are-for-48-hours-amid-escalating-tensions/articleshow/130089448.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 60,
-        "topic": "White House Nuclear Denial",
-        "domain": "geopolitics",
-        "headline": "White House denies nuclear strike plans Iran",
-        "summary": "The White House explicitly denied considering nuclear strikes against Iran amid Trump's escalating rhetoric. The denial comes as speculation mounted over Trump's 'civilization will die' threats.",
-        "signal": "Nuclear option officially off table but denial suggests option was discussed - watch for policy reversals under pressure.",
-        "sources": [
-          "Economic Times",
-          "Middle East Eye"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/news/international/world-news/white-house-denies-considering-nuclear-strikes-on-iran/articleshow/130090492.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 58,
-        "topic": "Market Impact Assessment",
-        "domain": "markets",
-        "headline": "FPIs remain net sellers as Iran deadline fuels anxiety",
-        "summary": "Foreign portfolio investors stay net sellers while domestic institutions bought shares worth Rs 7,980 crore for the 27th consecutive day. Markets show defensive positioning amid geopolitical uncertainty.",
-        "signal": "Flight to safety accelerating - domestic institutions providing backstop but foreign capital exodus continues.",
-        "sources": [
-          "NDTV Profit",
-          "The Hindu",
-          "LiveMint"
-        ],
-        "source_url": "https://www.ndtvprofit.com/markets/fpis-stay-net-sellers-as-trumps-iran-deadline-fuels-market-anxiety-11324567",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 55,
-        "topic": "Libya Energy Crisis",
-        "domain": "commodities",
-        "headline": "Libya oil disputes mirror Hormuz crisis fuel European fears",
-        "summary": "Libyan oil sector proxy wars coincide with Hormuz tensions, creating dangerous supply vulnerabilities for global markets. European energy security faces dual chokepoint crisis.",
-        "signal": "Double energy supply shock developing - Europe particularly vulnerable to coordinated disruptions.",
-        "sources": [
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/6/libyas-oil-disputes-mirror-hormuz-crisis-fuel-european-energy-fears",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 52,
-        "topic": "Uday Kotak Colonialism Warning",
-        "domain": "india",
-        "headline": "Uday Kotak warns world cusp return global colonialism",
-        "summary": "Veteran banker Uday Kotak warned that the West Asia war and Trump's speech signal a likely return to global colonialism, echoing historic economic struggles from 1927 to 1947.",
-        "signal": "Senior Indian financial leader signals fundamental global order shift - watch for emerging market coalition responses.",
-        "sources": [
-          "LiveMint",
-          "Economic Times",
-          "NDTV Profit"
-        ],
-        "source_url": "https://www.livemint.com/companies/people/uday-kotak-warns-world-at-cusp-return-to-global-colonialism-west-asia-war-donald-trump-speech-iran-civilization-will-die-11775566261679.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 48,
-        "topic": "Kanye West UK Ban",
-        "domain": "europe",
-        "headline": "UK blocks Kanye West entry cancels Wireless Festival",
-        "summary": "British government blocked Kanye West from entering the country, leading to Wireless music festival cancellation. The decision was made on public good grounds following pressure from Jewish groups and MPs.",
-        "signal": "UK taking harder line on controversial figures - potential template for other jurisdictions facing similar pressures.",
-        "sources": [
-          "BBC News",
-          "Politico Europe"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cwywnkdn3zno",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Wireless music festival cancelled after UK blocks Kanye West from entering country reut.rs/47PoB3j",
-            "score": 36,
-            "url": "https://bsky.app/profile/reuters.com/post/3miwcui6zjs2q"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 46,
-        "topic": "Kittleson Journalist Release",
-        "domain": "middleeast",
-        "headline": "Iraqi militants say Shelly Kittleson will be freed",
-        "summary": "The Iran-backed Iraqi militia Kataib Hezbollah announced it will release American journalist Shelly Kittleson, who was kidnapped from Baghdad last week. The release appears connected to broader regional negotiations.",
-        "signal": "Hostage diplomacy accelerating as deadline approaches - watch for other prisoner releases as negotiating chips.",
-        "sources": [
-          "Indian Express",
-          "The National"
-        ],
-        "source_url": "https://indianexpress.com/article/world/shelly-kittleson-released-baghdad-kataib-hezbollah-kidnap-swap-iraq-10624363/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "The powerful Iran-backed Iraqi militia Kataib Hezbollah says that it will release American journalist Shelly Kittleson, who was kidnapped from a Baghdad street corner last week.",
-            "score": 44,
-            "url": "https://bsky.app/profile/apnews.com/post/3miw6yvjj5b2m"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 44,
-        "topic": "European Gas Discovery",
-        "domain": "commodities",
-        "headline": "Egypt announces critical gas discovery amid Iran war",
-        "summary": "ENI and Egypt announced a significant gas discovery in the Eastern Mediterranean, providing potential boost for Cairo as Iran war sends energy import costs rocketing.",
-        "signal": "Alternative energy supplies emerging but development timeline too long for immediate crisis relief.",
-        "sources": [
-          "Euronews Business"
-        ],
-        "source_url": "http://www.euronews.com/business/2026/04/07/gas-discovery-off-egypts-coast-comes-at-a-critical-moment-for-iran-war",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 42,
-        "topic": "Cotton Supply Disruption",
-        "domain": "commodities",
-        "headline": "Cotton climbs highest since 2024 tight supply outlook",
-        "summary": "Cotton futures in New York surged to highest since December 2024 as traders weigh preliminary government US planting report against outlook for tighter global supplies this year.",
-        "signal": "Agricultural commodities following energy complex higher - broader supply chain disruptions spreading.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/cotton-climbs-to-highest-since-2024-on-tight-supply-outlook",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 40,
-        "topic": "Jones Day Cyber Breach",
-        "domain": "corporate",
-        "headline": "Jones Day law firm hackers accessed client data",
-        "summary": "Hackers breached Jones Day and accessed files of 10 clients, the major law firm announced Monday. The cybersecurity incident highlights vulnerabilities in legal sector amid heightened tensions.",
-        "signal": "Legal sector targeting escalating amid geopolitical tensions - expect more sophisticated attacks on critical infrastructure advisors.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/jones-day-law-firm-says-hackers-accessed-some-clients-data",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 38,
-        "topic": "Goldman Trading Signal",
-        "domain": "markets",
-        "headline": "Goldman sees fast money funds turning stock buyers",
-        "summary": "Systematic investors poised to flip back into equity-buying mode after slashing exposure to multi-year lows during recent market selloff, according to Goldman Sachs trading desk.",
-        "signal": "Technical buying pressure may emerge if geopolitical risk premium starts to fade from current extreme levels.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/goldman-traders-see-fast-money-funds-turning-into-stock-buyers",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 35,
-        "topic": "Polish Power Grid",
-        "domain": "europe",
-        "headline": "Polish power prices turn negative renewables surge",
-        "summary": "Polish power prices turned negative for some customers on two consecutive days as bright windy weather sparked surge in renewable electricity supplies that overwhelmed demand.",
-        "signal": "European energy grid showing stress signals as geopolitical tensions disrupt normal supply-demand balances.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/polish-power-prices-turns-negative-for-some-as-renewables-boom",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 32,
-        "topic": "Artemis Space Mission",
-        "domain": "geopolitics",
-        "headline": "Artemis II astronauts break Apollo distance record",
-        "summary": "The Artemis II astronauts are racing toward a new distance record on their moon flyby, set to break Apollo 13's 56-year-old record for humans traveling farthest from Earth.",
-        "signal": "Space achievements providing rare positive news amid global tensions - potential soft power implications.",
-        "sources": [
-          "Associated Press",
-          "BBC News"
-        ],
-        "source_url": "https://apnews.com/article/artemis-moon-nasa-lunar-flyby-fac19b4b1676af2717adafa992f32be4",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 30,
-        "topic": "Brazil Economic Reshuffle",
-        "domain": "macro",
-        "headline": "Brazil planning minister names leftist deputy Mello",
-        "summary": "Brazil's new Planning Minister Bruno Moretti named leftist economist Guilherme Mello as deputy, removing him from central bank contention and advancing economic team shakeup ahead of elections.",
-        "signal": "Latin American policy shifts accelerating amid global uncertainty - watch for broader regional realignment.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/leftist-economist-mello-gets-planning-job-not-central-bank-post",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 19,
-        "score": 28,
-        "topic": "Universal Music Merger",
-        "domain": "corporate",
-        "headline": "Bill Ackman proposes 64 billion Universal Music merger",
-        "summary": "Bill Ackman's Pershing Square proposed merging Universal Music Group with its investment fund, valuing it at 30.40 euros per share in a deal that could provide 78% premium to shareholders.",
-        "signal": "Major M&A activity continuing despite market volatility - high-quality assets attracting premium valuations.",
-        "sources": [
-          "LiveMint",
-          "Euronews Business"
-        ],
-        "source_url": "https://www.livemint.com/companies/news/bill-ackman-pershing-square-propose-64-billion-merger-music-label-universal-music-group-could-value-shares-78-pc-premium-11775562202559.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 20,
-        "score": 25,
-        "topic": "Vietnam Political Change",
-        "domain": "geopolitics",
-        "headline": "Vietnam communist chief becomes president dual role",
-        "summary": "Vietnam's communist party chief took on the rare dual role of president, consolidating power in the Southeast Asian nation amid regional tensions.",
-        "signal": "Asian political consolidation trends continuing - monitor for policy shifts affecting regional trade flows.",
-        "sources": [
-          "Nikkei Asia"
-        ],
-        "source_url": "https://asia.nikkei.com/politics/vietnam-communist-chief-becomes-president-taking-rare-dual-role",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
       }
     ],
     "social_count": 30
