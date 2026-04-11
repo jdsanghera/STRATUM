@@ -1,5 +1,618 @@
 [
   {
+    "timestamp": "2026-04-11T11:06:54.121913+00:00",
+    "timestamp_ist": "11 Apr 2026 \u00b7 16:36 IST",
+    "story_count": 30,
+    "avg_score": 54,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 88,
+        "topic": "US-Iran Peace Talks Pakistan",
+        "domain": "geopolitics",
+        "headline": "High-stakes US-Iran talks begin in Islamabad amid fragile ceasefire",
+        "summary": "VP JD Vance leads US delegation meeting with Iranian representatives in Pakistan for critical negotiations to stabilize the two-week ceasefire. Iran warns against 'Israel First' agenda while reports suggest US agreed to unfreeze Iranian assets, though Washington denies this claim.",
+        "signal": "Breakthrough or collapse of talks could trigger major oil price swings and regional realignment.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Al Jazeera English",
+          "The Hindu",
+          "Politico Europe",
+          "The National (UAE)",
+          "Middle East Eye",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/how-the-iran-war-is-testing-nato-unity-and-trump-s-demands",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "The U.S. delegation led by Vice President JD Vance and the Iranian delegation led by Parliament Speaker Mohammad Bagher Qalibaf arrived in Pakistan for the talks",
+            "score": 40,
+            "url": "https://bsky.app/profile/apnews.com/post/3mj7o5bh7zk2e"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "topic": "Oil Prices Iran War",
+        "domain": "commodities",
+        "headline": "Oil could test wartime highs if Hormuz disruption continues",
+        "summary": "JPMorgan warns oil prices may reach war-time peaks if Strait of Hormuz cargo flows don't fully recover by July. Energy analysts say normalization could take months despite ceasefire, as Iran's mines complicate shipping lane clearance.",
+        "signal": "Extended Hormuz disruption threatens global inflation resurgence and economic growth projections.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English",
+          "Indian Express"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/oil-to-test-wartime-highs-if-hormuz-standstill-drags-jpm-warns",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "topic": "Israel Lebanon Ceasefire Tensions",
+        "domain": "geopolitics",
+        "headline": "Israeli strikes threaten US-Iran peace talks as Lebanon tensions rise",
+        "summary": "Israel continues attacking residential areas in southern Lebanon while rejecting ceasefire talks with Hezbollah scheduled for next week. Iran's parliament speaker warns 'time is running out' as Israeli bombardments strain the broader regional truce efforts.",
+        "signal": "Lebanon escalation could derail Pakistan talks and reignite broader Middle East conflict.",
+        "sources": [
+          "Al Jazeera English",
+          "Associated Press",
+          "The National (UAE)",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/10/israel-strikes-residential-areas-destroys-homes-in-southern-lebanon",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "An early-morning strike hits a group of civilians in \u200b\u200bBureij camp as drones attack a tent in Khan Younis",
+            "score": 41,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj7hwxvbo52o"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj7eloqjoc2l"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 78,
+        "topic": "US Inflation Iran War",
+        "domain": "macro",
+        "headline": "US inflation may jump most in four years on Iran war",
+        "summary": "Economists forecast March inflation could spike to 3.4% annually from February's 2.4%, with monthly prices rising 0.9% due to gas price surges from Middle East conflict. The sharp increase would mark the biggest jump in nearly four years.",
+        "signal": "Inflation spike could force Fed policy pivot and pressure Trump administration on war costs.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/inflation-prices-gas-federal-reserve-trump-bf00c3105d5da88a0b01d9107ed4ecee",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 75,
+        "topic": "Trump Iran Threats Congress",
+        "domain": "geopolitics",
+        "headline": "Democrats demand Trump removal after Iran civilization threats",
+        "summary": "Dozens of Democratic lawmakers call for Trump's removal from office after he threatened Iranian civilization would 'die' if it didn't meet his demands. The episode has unleashed fresh impeachment discussions among Democrats opposing the Republican president.",
+        "signal": "Domestic political crisis could weaken US negotiating position in Pakistan talks.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/trump-iran-threats-democrats-impeachment-ea13fc589d1dd75e552de883f2e86e71",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 74,
+        "topic": "Rubio India Visit May",
+        "domain": "geopolitics",
+        "headline": "Rubio to visit India in May as US-Delhi ties improve",
+        "summary": "US Secretary of State Marco Rubio is set to visit India in May as New Delhi and Washington seek to reset ties strained by US tariff policies. The visit signals improving bilateral relations despite trade tensions.",
+        "signal": "India pivot could strengthen US position against China amid Iran crisis distractions.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/rubio-to-visit-india-in-may-as-ties-with-new-delhi-improve",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 72,
+        "topic": "Japan China Taiwan Relations",
+        "domain": "geopolitics",
+        "headline": "Japan downgrades China relations view over Taiwan tensions",
+        "summary": "Japan slightly downgraded its assessment of relations with China in its annual foreign policy report as ties remain strained over Taiwan views. The move reflects growing regional tensions as Taiwan's opposition leader calls for reconciliation after meeting Xi.",
+        "signal": "Asia-Pacific tensions could complicate US focus on Middle East crisis management.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/japan-lowers-view-of-china-relations-amid-tension-over-taiwan",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 69,
+        "topic": "Global Funds India Exodus",
+        "domain": "markets",
+        "headline": "Global funds flee Indian stocks at record pace on growth fears",
+        "summary": "International investors are dumping Indian equities at unprecedented speed as Iran war energy shock threatens the world's fastest-growing major economy. Foreign outflows reflect concerns about India's oil-dependent transport sector vulnerability.",
+        "signal": "Sustained FII outflows could pressure rupee and force RBI intervention despite strong forex reserves.",
+        "sources": [
+          "LiveMint Markets",
+          "Times of India"
+        ],
+        "source_url": "https://www.livemint.com/market/global-funds-flee-indian-stocks-at-record-pace-on-growth-fears-11775878617032.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 66,
+        "topic": "Hong Kong HSBC Stablecoin",
+        "domain": "markets",
+        "headline": "HSBC, StanChart get first Hong Kong stablecoin licenses",
+        "summary": "Hong Kong granted inaugural stablecoin issuer licenses to HSBC Holdings and a Standard Chartered joint venture, allowing them to be first companies issuing cryptocurrencies pegged to local currency. The move strengthens Hong Kong's crypto hub ambitions.",
+        "signal": "First-mover advantage in regulated stablecoin market could boost Hong Kong's fintech competitiveness.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/hsbc-stanchart-get-first-hong-kong-stablecoin-issuer-licenses",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 65,
+        "topic": "US Philippines Fuel Depot",
+        "domain": "geopolitics",
+        "headline": "US plans to build fuel depot in Philippines",
+        "summary": "The Philippine military confirmed US plans to build a fuel depot on the Southeast Asian nation's southern island. The strategic infrastructure development strengthens US military presence in the region amid China tensions.",
+        "signal": "Enhanced US logistics capability signals long-term Indo-Pacific commitment despite Middle East focus.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/us-plans-to-build-fuel-depot-in-philippines-manila-s-military-says",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 63,
+        "topic": "Melania Trump Epstein Denial",
+        "domain": "geopolitics",
+        "headline": "Melania Trump denies Epstein ties, calls for congressional hearings",
+        "summary": "First lady Melania Trump delivered a rare White House statement denying any connection to Jeffrey Epstein and calling for congressional hearings for Epstein survivors. She demanded rumors linking her to the disgraced financier 'need to stop.'",
+        "signal": "High-profile Epstein connections probe could create political distraction from foreign policy priorities.",
+        "sources": [
+          "BBC News",
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/melania-trump-white-house-epstein-1df98e9902386609608886f7bd256980",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 61,
+        "topic": "Russia Ukraine Easter Ceasefire",
+        "domain": "geopolitics",
+        "headline": "Russia and Ukraine agree 32-hour Orthodox Easter ceasefire",
+        "summary": "Moscow and Kyiv have signaled a short Easter truce as diplomacy stalls and war pressures mount. The temporary pause comes as both sides face mounting military and economic strains from the prolonged conflict.",
+        "signal": "Brief respite could create opening for broader negotiations amid global focus on Iran crisis.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 58,
+        "topic": "UK Drone Interceptor Deal",
+        "domain": "geopolitics",
+        "headline": "UK signs multimillion-pound drone interceptor deal with Cambridge Aerospace",
+        "summary": "Britain has signed a contract with defense startup Cambridge Aerospace to supply interceptors to counter cheaper missiles like those Iran has fired around the Persian Gulf. The deal strengthens UK defense capabilities against Iranian-style drone swarms.",
+        "signal": "UK defense procurement pivot shows Western preparation for prolonged Iranian threat.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/uk-signs-drone-interceptor-deal-with-cambridge-aerospace",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 55,
+        "topic": "ECB Securitization Rules Change",
+        "domain": "markets",
+        "headline": "ECB proposes letting funds invest more in securitizations",
+        "summary": "European Central Bank called for mutual funds to be allowed to invest more in packaged credit from lenders as politicians lean on markets to support growth. The proposal aims to boost European capital market development.",
+        "signal": "Credit market liberalization could increase systemic risk but provide growth financing alternatives.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/ecb-proposes-letting-funds-invest-more-in-securitizations",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 53,
+        "topic": "China ChiNext Market Reforms",
+        "domain": "markets",
+        "headline": "China revamps ChiNext rules to lure more startups",
+        "summary": "China unveiled new rules for Shenzhen exchange's tech-focused ChiNext board, seeking to broaden listing options and make the market more attractive to fast-growing companies. The reforms aim to boost domestic capital market competitiveness.",
+        "signal": "Tech listing reforms signal Beijing's push for capital market self-reliance amid US tensions.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/china-revamps-chinext-rules-to-lure-more-startups-to-market",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 52,
+        "topic": "South Korea Israel Dispute",
+        "domain": "geopolitics",
+        "headline": "South Korea president clashes with Israel over rights claims",
+        "summary": "South Korean President Lee Jae Myung accused Israel of failing to reflect on rights abuse allegations, after Israel decried him for amplifying social media disinformation. The diplomatic spat highlights regional divisions over Middle East conflict.",
+        "signal": "Asian ally criticism of Israel could complicate US coalition-building in region.",
+        "sources": [
+          "Japan Times"
+        ],
+        "source_url": "https://www.japantimes.co.jp/news/2026/04/11/asia-pacific/politics/south-korea-lee-israel/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "South Korea's president says it's disappointing Israel does not 'even once reflect on criticisms from around the world'",
+            "score": 52,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mj7onhqyc22f"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 50,
+        "topic": "Artemis II Conspiracy Theories",
+        "domain": "geopolitics",
+        "headline": "Artemis II lunar mission draws flood of conspiracy theories",
+        "summary": "Hashtags like 'fake space' and 'fake NASA' have gained traction online since NASA's lunar fly-by sent astronauts farther from Earth than any human before. The conspiracy theories echo past Apollo mission skepticism despite successful mission completion.",
+        "signal": "Disinformation campaigns could undermine public support for space program funding and scientific institutions.",
+        "sources": [
+          "Japan Times",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.japantimes.co.jp/news/2026/04/11/world/science-health/artemis-mission-conspiracy-theories/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Circling the moon, a Black astronaut inspires millions",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mj7nk2sc4t27"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 48,
+        "topic": "Sam Altman Home Attack",
+        "domain": "corporate",
+        "headline": "Man arrested for Molotov cocktail attack on Altman home",
+        "summary": "San Francisco police arrested a 20-year-old man for allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and making threats outside the AI startup's headquarters. Altman shared a rare family photo in his first public reaction.",
+        "signal": "Rising violence against tech leaders could force enhanced security measures and affect AI industry operations.",
+        "sources": [
+          "LiveMint Companies",
+          "Japan Times"
+        ],
+        "source_url": "https://www.livemint.com/companies/people/sam-altmans-home-hit-by-molotov-cocktail-openai-ceo-shares-rare-family-photo-in-first-reaction-we-try-to-be-11775872359338.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 45,
+        "topic": "Ireland Fuel Protests Military",
+        "domain": "europe",
+        "headline": "Ireland deploys military amid fuel protests at Dublin Airport",
+        "summary": "Irish military will be deployed to move vehicles blocking critical infrastructure as fuel protests disrupt Dublin Airport operations. The government issued travel guidance as demonstrations target energy supply chains.",
+        "signal": "European energy protests could spread if Iran crisis extends fuel price pressures.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cy814wypp5go",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 43,
+        "topic": "Japanese Board Games Global",
+        "domain": "corporate",
+        "headline": "Japanese board game company pitches to global market",
+        "summary": "A Japanese board game company is making its pitch to expand internationally as the analog gaming market grows globally. The move represents Japan's push to export entertainment content beyond digital games.",
+        "signal": "Niche entertainment exports could benefit from yen weakness and global leisure spending shifts.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/business/media-entertainment/japanese-board-game-company-makes-its-pitch-to-the-global-market",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u96fb\u5b50\u697d\u5668\u300c\u30c6\u30eb\u30df\u30f3\u300d\u306b\u5922\u4e2d\u3001\u30c6\u30eb\u30df\u30fcwhy\uff1f",
+            "score": 43,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mj7ldcncr32c"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 21,
+        "score": 42,
+        "topic": "Bank Japan Iran War",
+        "domain": "japan",
+        "headline": "Bank of Japan wary of inflation pressure from Middle East war",
+        "summary": "BOJ faces difficulties steering monetary policy as raising interest rates to contain war-driven inflation could cool the economy. The central bank must balance price stability with growth support amid energy cost pressures.",
+        "signal": "BOJ policy paralysis could weaken yen further and complicate global central bank coordination.",
+        "sources": [
+          "Japan Times"
+        ],
+        "source_url": "https://www.japantimes.co.jp/business/2026/04/11/economy/boj-rate-policy-middle-east/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 22,
+        "score": 40,
+        "topic": "Pakistan UAE Loan Repayment",
+        "domain": "geopolitics",
+        "headline": "Pakistan's $3.5bn UAE loan repayment hints at ties strain",
+        "summary": "Pakistan's repayment of a $3.5 billion loan to the UAE suggests potential cracks in bilateral relations. The financial move comes as Pakistan hosts high-stakes US-Iran peace negotiations.",
+        "signal": "Gulf state relations with Pakistan could affect regional mediation credibility and future crisis management.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/politics/international-relations/pakistan-s-3.5bn-loan-repayment-to-uae-hints-at-cracks-in-ties",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 23,
+        "score": 38,
+        "topic": "Thailand Iran War Impact",
+        "domain": "geopolitics",
+        "headline": "Thailand feels heat from Iran war energy shock",
+        "summary": "Thailand is experiencing economic pressure from the Iran conflict-driven energy crisis. The Southeast Asian nation's export-dependent economy faces headwinds from higher fuel costs and supply chain disruptions.",
+        "signal": "ASEAN energy vulnerability could force regional bloc to take stronger diplomatic stance on Middle East crisis.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/spotlight/big-in-asia/thailand-feels-heat-as-iran-war-sparks-energy-shock",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 24,
+        "score": 36,
+        "topic": "EU Entry Exit System",
+        "domain": "europe",
+        "headline": "EU fingerprint and photo travel rules take effect",
+        "summary": "The EU's much-delayed Entry/Exit System comes into force, changing how UK passengers travel to 29 countries with new biometric requirements. The system will affect millions of travelers despite Brexit arrangements.",
+        "signal": "Travel friction could impact European tourism recovery and UK-EU economic integration.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c39rkpe8mj2o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 25,
+        "score": 34,
+        "topic": "Kamala Harris 2028 Presidential",
+        "domain": "geopolitics",
+        "headline": "Kamala Harris signals clearest 2028 presidential bid intention",
+        "summary": "Former US vice president gave her strongest indication yet of mounting a 2028 presidential campaign during remarks to Black power brokers. Her comments take on new significance as Democratic opposition to Trump intensifies.",
+        "signal": "Early 2028 positioning could influence current Democratic strategy and Trump administration responses.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.com/news/2026/04/10/kamala-harris-signals-2028-bid-00867069?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 26,
+        "score": 32,
+        "topic": "Mark Carney Canada Election",
+        "domain": "geopolitics",
+        "headline": "Mark Carney poised for big Canadian election win",
+        "summary": "Canada's prime minister is on the verge of seizing an outright majority in upcoming elections. Former Bank of England Governor Carney's political rise could reshape North American economic policies.",
+        "signal": "Carney victory could strengthen US-Canada coordination on energy and trade amid global uncertainties.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.com/news/magazine/2026/04/10/canada-election-mark-carney-majority-00865331?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 27,
+        "score": 30,
+        "topic": "Trump Hungary Orban Support",
+        "domain": "geopolitics",
+        "headline": "Trump promises economic support to Orb\u00e1n before Hungary vote",
+        "summary": "Trump pledged to use the 'full economic might' of the US to help the Hungarian economy as Viktor Orban trails in polls going into Sunday's election. The support comes as NATO allies resist Trump's Iran war demands.",
+        "signal": "Trump's bilateral deal-making could fragment NATO unity and European cohesion during crisis management.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/donald-trump-economic-support-viktor-orban-hungarian-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 28,
+        "score": 28,
+        "topic": "Pentagon Press Access Violation",
+        "domain": "geopolitics",
+        "headline": "Judge finds Pentagon violating press access order",
+        "summary": "Federal judge ruled Defense Department is violating his earlier order to restore access for reporters. The decision sides with The New York Times over Pentagon's new credential restrictions during wartime.",
+        "signal": "Press access restrictions could limit public oversight of military operations and government accountability.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/pentagon-press-nyt-new-york-times-access-6487d7bf4a4a87ad1bf9864a275b5239",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 29,
+        "score": 26,
+        "topic": "Djibouti Presidential Election Sixth",
+        "domain": "geopolitics",
+        "headline": "Djibouti votes as leader seeks sixth presidential term",
+        "summary": "Politicians scrapped the presidential age limit last year, allowing Ismail Omar Guelleh to run yet again in the strategically important Horn of Africa nation. Djibouti hosts major US and Chinese military bases.",
+        "signal": "Extended authoritarian rule could affect great power competition dynamics in critical Red Sea region.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 30,
+        "score": 24,
+        "topic": "Ukraine Shahed Drones Middle",
+        "domain": "geopolitics",
+        "headline": "Ukraine shot down Iranian drones during Middle East war",
+        "summary": "President Zelenskyy revealed Ukrainian forces shot down Iranian-designed Shahed drones in multiple Middle Eastern countries during the Iran war. The operations were part of broader efforts to help partners counter the same weapons Russia uses against Ukraine.",
+        "signal": "Ukrainian military involvement in Middle East could complicate regional dynamics and Russian responses.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/ukraine-zelenskyy-shahed-drones-iran-russia-war-4a5a6e01f0377a20404ab29093e69f12",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-11T08:08:42.582888+00:00",
     "timestamp_ist": "11 Apr 2026 \u00b7 13:38 IST",
     "story_count": 16,
@@ -14601,427 +15214,6 @@
         ],
         "trend": "falling",
         "breaking_on_social": true
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-07T06:09:42.586833+00:00",
-    "timestamp_ist": "07 Apr 2026 \u00b7 11:39 IST",
-    "story_count": 18,
-    "avg_score": 52,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 85,
-        "topic": "US-Iran Military Escalation",
-        "domain": "geopolitics",
-        "headline": "Airstrikes Kill 25+ in Iran as Trump's Hormuz Deadline Looms",
-        "summary": "US-Israeli airstrikes have killed over 25 people in Iran with Tehran retaliating by firing missiles at Israel, killing at least two in Haifa. Trump has issued repeated ultimatums threatening Iran's infrastructure if the Strait of Hormuz isn't reopened by his Monday deadline.",
-        "signal": "Watch for any signs of Hormuz reopening or escalating infrastructure strikes as Trump's deadline approaches.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "Bloomberg",
-          "Politico"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-6-2026-87b62d531d3290fde5255077179bd3b5",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
-            "score": 46,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3miujlc522n2k"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Ebrahim Zolfaghari, spokesperson for the IRGC's Khatam al-Anbiya Central Headquarters, says President Trump's 'baseless' threats would not deter Iran's military operations",
-            "score": 46,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3miueycoiik2r"
-          },
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Israel's military warns Iranians in Farsi to avoid taking trains throughout the day, likely signaling intended strikes on the rail network",
-            "score": 44,
-            "url": "https://bsky.app/profile/apnews.com/post/3miv4gxv66p2e"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "Donald Trump threatened to jail journalists who published details of a daring US military raid to rescue two airmen whose aircraft was shot down over Iran",
-            "score": 34,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3miup3y635q2s"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Videos published by Iraqi accounts online appear to show drone attacks in Erbil, northern Iraq",
-            "score": 44,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3miupma6rtc2r"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 2,
-        "score": 82,
-        "topic": "Hormuz Energy Crisis",
-        "domain": "commodities",
-        "headline": "Qatar LNG Tankers Attempt First Hormuz Exit Since War",
-        "summary": "Two Qatari LNG tankers are heading toward the Strait of Hormuz in what would mark the first export outside the Gulf since the war started, while over four dozen empty tankers remain idle across Asia. Iraq has told buyers they can load crude as vessels can now transit Hormuz thanks to an Iranian exemption.",
-        "signal": "First successful LNG export through Hormuz could signal partial reopening and energy price relief.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/ships-with-qatar-lng-attempt-first-hormuz-exit-since-war-started",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 76,
-        "topic": "RBI Rupee Intervention",
-        "domain": "india",
-        "headline": "Rupee Extends Rally After Biggest Surge in 12 Years",
-        "summary": "The Indian rupee climbed, extending its biggest rally in 12 years after the central bank doubled down on curbing speculation against the local currency. The RBI's aggressive moves have successfully stabilized the currency amid global uncertainties.",
-        "signal": "RBI's intervention strategy appears effective but sustainability depends on continued policy support.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/rupee-extends-rally-after-biggest-surge-in-12-years-on-rbi-moves",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 68,
-        "topic": "Global Oil Market Disruption",
-        "domain": "commodities",
-        "headline": "Asian Markets Rise While Oil Prices Keep Climbing",
-        "summary": "Asian markets are mostly gaining despite soaring oil prices as investors watch the Iran war unfold and anticipate Trump's next moves. OPEC+ agreed to hike oil output but warns of slow recovery after attacks, with the increase being largely symbolic as key members cannot raise production.",
-        "signal": "Oil price trajectory will depend on Hormuz reopening and extent of infrastructure damage to Iran.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "Nikkei Asia"
-        ],
-        "source_url": "https://apnews.com/article/stock-markets-trump-oil-war-iran-148682a5d853dbdb16aaf08e554b001b",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "As Iran war exposes global dependence on fossil fuels, the biggest emitters are reaping the rewards",
-            "score": 31,
-            "url": "https://bsky.app/profile/theguardian.com/post/3miv43xkc4l2g"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 65,
-        "topic": "Wheat Price Surge",
-        "domain": "commodities",
-        "headline": "Hedge Funds Turn Bullish on Wheat First Time in Four Years",
-        "summary": "Hedge funds have turned net bullish on wheat for the first time in nearly four years, betting on higher prices driven by dry weather in the US and fertilizer/fuel shortages from the Middle East war. The shift marks a significant change in sentiment for the grain market.",
-        "signal": "Food inflation pressures building as agricultural supply chains face dual weather and geopolitical shocks.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/hedge-funds-turn-bullish-on-wheat-for-first-time-in-four-years",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 62,
-        "topic": "US Aviator Rescue Operation",
-        "domain": "geopolitics",
-        "headline": "US Successfully Rescues Aviator from Inside Iran Territory",
-        "summary": "The US military completed a complex extraction of an aviator nearly two days after being shot down over Iran, involving multiple government agencies in hostile territory. Trump announced the successful rescue while threatening journalists who reported operational details.",
-        "signal": "Rescue success may embolden further US military operations inside Iranian territory.",
-        "sources": [
-          "Associated Press",
-          "BBC News"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-pilot-military-rescue-fde473d07fb59e871a71cd2ad2ffe4fe",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 58,
-        "topic": "Bitcoin Resilience",
-        "domain": "markets",
-        "headline": "Bitcoin Rises Despite Trump's Iran War Threats",
-        "summary": "Bitcoin gained in early Asian trading even as President Trump's fresh threats about attacking Iranian infrastructure clouded global markets. The cryptocurrency's resilience contrasts with broader market uncertainty over escalating geopolitical tensions.",
-        "signal": "Bitcoin's divergence from risk-off sentiment suggests growing safe-haven status amid traditional market stress.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/bitcoin-ticks-up-even-as-trump-s-iran-war-threats-cloud-markets",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 55,
-        "topic": "Vietnam Energy Crisis",
-        "domain": "commodities",
-        "headline": "Vietnam Gig Workers Hit by Doubling Fuel Costs",
-        "summary": "Diesel prices have more than doubled in Vietnam amid Iran's blockade of the Strait of Hormuz, severely impacting gig workers and the broader Southeast Asian economy. The price surge highlights the region's vulnerability to Middle East supply disruptions.",
-        "signal": "Southeast Asia facing acute energy inflation as Hormuz closure bites regional economies.",
-        "sources": [
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 52,
-        "topic": "Orban Electoral Challenge",
-        "domain": "europe",
-        "headline": "Vance in Budapest as Orban Faces Toughest Election",
-        "summary": "US Vice President JD Vance landed in Budapest five days before Hungary's election as Viktor Orban faces his toughest electoral challenge in 15 years. Despite Trump and Rubio interventions, Orban's fortunes continue flagging amid domestic pressures.",
-        "signal": "Orban defeat would reshape EU-Russia dynamics and weaken populist alliance with Trump.",
-        "sources": [
-          "Politico Europe",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.politico.eu/article/last-throw-of-maga-dice-for-viktor-orban-jd-vance/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "US vice president's Budapest trip highlights US-Hungary far-right alignment as Orban faces toughest electoral challenge",
-            "score": 37,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3miumwkmk3o2u"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 50,
-        "topic": "Iran Supreme Leader Health",
-        "domain": "geopolitics",
-        "headline": "Reports Suggest Iran's Supreme Leader May Be Unconscious",
-        "summary": "Unconfirmed reports from Times of India suggest Iran's Supreme Leader Mojtaba Khamenei may be unconscious and unable to make decisions as the war rages on. The claims remain unverified but could signal potential leadership crisis in Tehran.",
-        "signal": "Leadership vacuum in Iran could either accelerate negotiations or trigger more unpredictable military responses.",
-        "sources": [
-          "Times of India"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/world/middle-east/unable-to-make-decisions-irans-supreme-leader-mojtaba-khamenei-unconscious-as-war-rages-on/articleshow/130075992.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 44,
-        "topic": "Offset Shooting Incident",
-        "domain": "corporate",
-        "headline": "Rapper Offset Shot, in Stable Condition",
-        "summary": "Migos rapper Offset has been shot and is in stable condition at a hospital, according to his spokesperson. The incident adds to recent violence affecting high-profile entertainment figures.",
-        "signal": "Monitor for any market impact on Live Nation or other entertainment company security concerns.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "High-profile celebrity incidents can impact entertainment stock sentiment and venue security protocols.",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "The rapper Offset has been shot and is in stable condition. A spokesperson for the Migos rapper has confirmed the shooting and says he is being treated at a hospital.",
-            "score": 44,
-            "url": "https://bsky.app/profile/apnews.com/post/3miv3zoqcqt2g"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 12,
-        "score": 42,
-        "topic": "Barito Renewables Decline",
-        "domain": "markets",
-        "headline": "Indonesian Renewable Stock Hits Two-Year Low on Shareholding Concerns",
-        "summary": "PT Barito Renewables Energy shares tumbled to their lowest in over two years after the Indonesian stock exchange flagged the company for having a highly concentrated shareholder base. The regulatory concern highlights governance issues in Indonesia's renewable sector.",
-        "signal": "Watch for broader regulatory crackdown on concentrated ownership structures in Indonesian markets.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/bren-ij-barito-renewables-hits-two-year-low-on-high-stakes-concentration",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 40,
-        "topic": "Singapore Power Bank Restrictions",
-        "domain": "geopolitics",
-        "headline": "Singapore Limits Travelers to Two Power Banks Each",
-        "summary": "Singapore will cap the number of power banks to two per traveler flying out of the city state to reduce fire risk associated with lithium batteries. The new restriction reflects growing aviation safety concerns over lithium-ion devices.",
-        "signal": "Potential template for other aviation hubs to follow similar lithium battery restrictions.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/travelers-flying-out-of-singapore-limited-to-two-power-banks",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 38,
-        "topic": "Chinese Battery Storage Growth",
-        "domain": "commodities",
-        "headline": "Chinese Battery Supplier Expects Shipments to Double in 2026",
-        "summary": "Beijing HyperStrong Technology Co., one of China's top energy-storage suppliers, expects to more than double shipments this year on robust domestic and international demand. The growth highlights China's dominance in the global battery storage market.",
-        "signal": "Monitor for Western response to growing Chinese battery storage market dominance.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-06/chinese-battery-storage-supplier-sees-shipments-doubling-in-2026",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 35,
-        "topic": "AI Industry Collaboration",
-        "domain": "corporate",
-        "headline": "OpenAI, Anthropic, Google Unite Against Chinese AI Competition",
-        "summary": "Leading AI companies OpenAI, Anthropic and Google are working together to prevent Chinese competitors from copying their AI models, marking unprecedented collaboration among rivals. The initiative reflects growing concerns over intellectual property theft in the AI sector.",
-        "signal": "Watch for escalating US-China AI technology competition and potential policy responses.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Major AI collaboration suggests rising competitive pressure from Chinese firms and potential regulatory coordination.",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "EXCLUSIVE: OpenAI, Anthropic and Google are working together to clamp down on Chinese competitors copying their AI models",
-            "score": 35,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3miutfzzsqd2s"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 16,
-        "score": 32,
-        "topic": "UCLA Basketball Championship",
-        "domain": "corporate",
-        "headline": "UCLA Wins First NCAA Women's Basketball Title",
-        "summary": "UCLA routed South Carolina 79-51 to win its first NCAA championship in women's basketball, with Lauren Betts earning Most Outstanding Player honors. The victory completed the Bruins' dominant March Madness run.",
-        "signal": "Monitor for merchandising and broadcasting revenue impacts for NCAA and partner brands.",
-        "sources": [
-          "Associated Press",
-          "BBC News"
-        ],
-        "source_url": "https://apnews.com/article/march-madness-ucla-south-carolina-score-1b7d7aa969d6bded7ad857fa1d760e32",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Michigan has won its second national title in men's basketball. The high-scoring Wolverines had to get down and dirty Monday, making only two 3-pointers all night but still muscling their way to a 69-",
-            "score": 39,
-            "url": "https://bsky.app/profile/apnews.com/post/3miutwegr5t2r"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 30,
-        "topic": "Artemis II Moon Mission",
-        "domain": "geopolitics",
-        "headline": "Artemis II Astronauts Break Distance Record from Earth",
-        "summary": "The Artemis II crew has shattered Apollo 13's 56-year-old distance record from Earth during their historic moon flyby mission. The four astronauts completed a successful six-hour lunar flyby, coming within 6,550 km of the lunar surface.",
-        "signal": "Successful mission advances US space dominance and commercial space sector opportunities.",
-        "sources": [
-          "Associated Press",
-          "BBC News",
-          "Japan Times"
-        ],
-        "source_url": "https://apnews.com/article/nasa-artemis-moon-flyby-astronauts-e470e962d028d1a4b811cbf31cdacd90",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 25,
-        "topic": "India Assembly Elections",
-        "domain": "india",
-        "headline": "Campaigning Ends in Kerala, Assam, Puducherry Elections",
-        "summary": "Single-phase polling will be held for 126 seats in Assam, 140 in Kerala and 30 seats in Puducherry as campaigning concluded. The elections are causing labor disruptions across India as migrant workers return home to vote.",
-        "signal": "Results will indicate regional political trends and potential impact on national coalition dynamics.",
-        "sources": [
-          "The Hindu",
-          "Times of India"
-        ],
-        "source_url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-puducherry-assam-live-updates-april-7-2026/article70832717.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
       }
     ],
     "social_count": 30
