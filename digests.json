@@ -1,5 +1,610 @@
 [
   {
+    "timestamp": "2026-04-13T09:17:16.263141+00:00",
+    "timestamp_ist": "13 Apr 2026 \u00b7 14:47 IST",
+    "story_count": 28,
+    "avg_score": 70,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran Peace Talks Collapse",
+        "domain": "geopolitics",
+        "headline": "US-Iran Ceasefire Talks Fail After VP Vance Leaves Pakistan",
+        "summary": "Historic face-to-face negotiations between the US and Iran ended without agreement after Tehran refused to commit to not developing nuclear weapons. The failure threatens a fragile two-week ceasefire and leaves uncertainty over the ongoing 44-day conflict.",
+        "signal": "Watch for renewed military escalation and oil price spikes as diplomatic path narrows.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "Bloomberg"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 83,
+        "topic": "Hormuz Strait Oil Crisis",
+        "domain": "commodities",
+        "headline": "Supertankers U-Turn in Hormuz as US-Iran Tensions Escalate",
+        "summary": "Two empty supertankers made last-minute U-turns in the Strait of Hormuz as US-Iran peace talks broke down, while three laden tankers managed to exit the waterway. The critical shipping chokepoint remains under threat amid fragile ceasefire conditions.",
+        "signal": "Monitor Hormuz transit flows closely - any blockade would trigger severe oil supply disruption.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/two-supertankers-u-turn-in-hormuz-as-us-iran-talks-break-down",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Trump's threat to blockade the Strait of Hormuz after talks with Iran collapsed over the weekend risks widening a war now entering its seventh week, spiking oil prices and raising the prospect of furt",
+            "score": 34,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjeiuu2yod2a"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "China warns that a blockade of the Strait of Hormuz threatens global trade",
+            "score": 41,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjeh7bzoz42r"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: China has called for unobstructed navigation through the Strait of Hormuz, a day after US President Donald Trump threatened to blockade it. FM spokesman Guo Jiakun said keeping the strait se",
+            "score": 54,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjef37po522w"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Starmer confirms UK will not support US blockade of strait of Hormuz \u2013 UK politics live",
+            "score": 41,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjegwlq55s2o"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "topic": "Hungarian Election Orban Defeat",
+        "domain": "europe",
+        "headline": "Viktor Orban Loses Power After 16 Years in Hungary",
+        "summary": "Hungarian Prime Minister Viktor Orban suffered a crushing defeat to opposition leader Peter Magyar in parliamentary elections, ending his 16-year hold on power. EU leaders celebrated the result as Magyar is expected to unlock frozen EU funds for Ukraine.",
+        "signal": "Expect major shift in EU-Hungary relations and accelerated Ukraine aid disbursement.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English",
+          "BBC News",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/hungarian-election-puts-orban-s-future-in-play-what-to-watch",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Viktor Orb\u00e1n is gone. What does his fall mean for Europe? Our panel responds",
+            "score": 21,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjejdsgz3q27"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 80,
+        "topic": "Indian Markets Oil Crash",
+        "domain": "markets",
+        "headline": "Sensex Plunges 1600 Points as Iran Talks Fail",
+        "summary": "Indian stock markets crashed with the Sensex falling over 1600 points and Nifty dropping 495 points as failed US-Iran negotiations fueled concerns of prolonged conflict. Oil prices hitting $102 per barrel amplified market fears about inflation and supply disruption.",
+        "signal": "Sustained oil price elevation above $100 will pressure RBI policy and corporate margins.",
+        "sources": [
+          "NDTV News",
+          "The Hindu",
+          "Economic Times"
+        ],
+        "source_url": "https://www.thehindu.com/business/markets/stock-markets-plunge-as-failure-of-usiran-negotiations-fuels-concerns-of-prolonged-conflict/article70856239.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 79,
+        "topic": "RBI Rupee Intervention Policy",
+        "domain": "india",
+        "headline": "RBI Criticizes Banks' Rupee Arbitrage Amid Middle East Crisis",
+        "summary": "A senior Reserve Bank of India official criticized foreign-exchange market makers for aggravating rupee weakness during Middle East tensions. The rupee plunged 49 paise to 93.32 against the dollar as the regulator maintains its tough currency defense stance.",
+        "signal": "RBI may intensify FX intervention if rupee weakening accelerates beyond 94 level.",
+        "sources": [
+          "Bloomberg",
+          "The Hindu"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/india-forex-regulator-criticizes-banks-rupee-arbitrage-trades",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 78,
+        "topic": "Iranian Crude Returns India",
+        "domain": "commodities",
+        "headline": "Iranian Oil Returns to India After Seven Years",
+        "summary": "Iranian crude oil has returned to Indian ports for the first time in seven years under a one-month exemption for oil already in transit. The move aims to ease global supply disruptions and contain rising oil prices amid the ongoing conflict.",
+        "signal": "Watch for extension of Iranian oil exemptions if supply crisis worsens.",
+        "sources": [
+          "The Hindu"
+        ],
+        "source_url": "https://www.thehindu.com/news/national/iranian-crude-returns-to-india-after-seven-years-as-tankers-dock-at-key-ports/article70856822.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 77,
+        "topic": "Trump Pope Leo Attack",
+        "domain": "geopolitics",
+        "headline": "Trump Attacks Pope Leo as 'Weak' Over Iran Criticism",
+        "summary": "President Trump launched a savage attack on Pope Leo XIV, calling him 'weak on crime' and 'weak on nuclear weapons' after the Pope criticized the US-Israeli war on Iran. Trump followed up with an AI-generated image of himself as a Christ-like figure healing the sick.",
+        "signal": "Religious-political tensions could complicate US diplomatic efforts in Middle East conflict.",
+        "sources": [
+          "Politico Europe",
+          "Times of India"
+        ],
+        "source_url": "https://www.politico.eu/article/donald-trump-launches-savage-attack-on-pope-leo/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Donald Trump attacked Pope Leo XIV for his criticisms of the US-Israeli war on Iran, calling the leader of the Catholic Church \"WEAK on crime.\"",
+            "score": 49,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjeeoqceen2d"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US President Donald Trump has lashed out at Pope Leo XIV, falsely characterising him as supporting a nuclear-armed Iran.",
+            "score": 44,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjefqx2w6c2t"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 8,
+        "score": 76,
+        "topic": "Saudi Pipeline Restoration",
+        "domain": "commodities",
+        "headline": "Saudi East-West Pipeline Restored to Full Capacity",
+        "summary": "Saudi Arabia has restored full pumping capacity of its East-West pipeline to 7 million barrels per day, rehabilitating a vital oil export link via the Red Sea. The restoration comes as global energy markets face severe disruption from Middle East tensions.",
+        "signal": "Saudi capacity restoration provides some supply cushion but Hormuz blockade risk remains critical.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/saudi-arabia-says-east-west-pipeline-restored-to-full-capacity",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 75,
+        "topic": "Malaysia Fuel Shortage Crisis",
+        "domain": "commodities",
+        "headline": "Malaysia Faces Critical Fuel Period by June",
+        "summary": "Malaysia's Economy Minister warns the country faces a 'critical period' for fuel supply by June due to Middle East conflict disruptions. The government is implementing emergency measures to address shortages triggered by regional tensions.",
+        "signal": "Southeast Asian fuel supply stress indicates broader regional energy crisis developing.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/malaysia-faces-critical-period-for-fuel-by-june-minister-says",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 74,
+        "topic": "Japan Oil Supply Disruption",
+        "domain": "japan",
+        "headline": "Japan Seeks Asian Cooperation to Ease Oil Bottleneck",
+        "summary": "Japan's Economy Minister announced plans to work with Asian nations to address petroleum product shortages, particularly for medical equipment manufacturing. The Iran war has severely disrupted supply chains for essential petroleum-based products across the region.",
+        "signal": "Asian energy cooperation initiatives signal recognition of prolonged supply crisis ahead.",
+        "sources": [
+          "Bloomberg",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/japan-to-work-with-asian-nations-to-ease-oil-bottleneck-akazawa",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "BOJ's Ueda calls for vigilance against impact of Middle East war",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjei22ahmh22"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 73,
+        "topic": "China Taiwan Diplomacy Breakthrough",
+        "domain": "geopolitics",
+        "headline": "China Announces Taiwan Goodwill After Opposition Leader Talks",
+        "summary": "China unveiled policy measures demonstrating 'goodwill' toward Taiwan following a landmark meeting between President Xi Jinping and Taiwan opposition leader Cheng Li-wun. The rare opposition talks signal potential diplomatic opening amid regional tensions.",
+        "signal": "Cross-strait diplomatic progress could reshape regional power dynamics while US focuses on Middle East.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/china-unveils-taiwan-goodwill-steps-after-rare-opposition-talks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 72,
+        "topic": "Asha Bhosle Death Tribute",
+        "domain": "india",
+        "headline": "Bollywood Legend Asha Bhosle Dies Aged 92",
+        "summary": "Legendary playback singer Asha Bhosle, whose voice became the soundtrack for generations of Indians, died aged 92. Political leaders, film personalities and admirers gathered in Mumbai to pay respects as she received full state honors.",
+        "signal": "Cultural icon's passing marks end of Bollywood's golden era amid industry transformation.",
+        "sources": [
+          "BBC News",
+          "The Hindu",
+          "Indian Express"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c6ppd0qdp1do",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 71,
+        "topic": "Pakistan Defense Saudi Deployment",
+        "domain": "geopolitics",
+        "headline": "Pakistan Sends Fighter Jets to Saudi Arabia",
+        "summary": "Pakistan deployed fighter aircraft to Saudi Arabia under their mutual defense pact as Islamabad hosts fragile US-Iran ceasefire talks. The military deployment signals deepening regional security cooperation amid escalating Middle East tensions.",
+        "signal": "Regional military alliances strengthening suggests preparation for wider conflict scenario.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 70,
+        "topic": "US Military Asia Pivot",
+        "domain": "geopolitics",
+        "headline": "Iran War Diverts US Military Assets from Asia",
+        "summary": "The US finds itself still at war in the Middle East 15 years after Obama's Asia pivot, with military assets being pulled from the Pacific to address Iran conflict. This strategic redeployment weakens America's position against China's rise in the region.",
+        "signal": "Prolonged Middle East engagement creates strategic opportunity for Chinese expansion in Asia-Pacific.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/iran-war-asia-china-trump-xi-44891d1bdf2c6b47acc766a8faf69ec6",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 69,
+        "topic": "Iraq Presidential Election",
+        "domain": "middleeast",
+        "headline": "Iraq Elects Kurdish Politician as New President",
+        "summary": "Iraq's parliament elected Kurdish politician Nizar Amedi as president with 227 votes, ending five months of political deadlock. The new president pledged an 'Iraq First' policy as the country navigates regional tensions.",
+        "signal": "Iraqi political stability could provide buffer against regional conflict spillover.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 68,
+        "topic": "US Hormuz Naval Operations",
+        "domain": "geopolitics",
+        "headline": "US Naval Ships Transit Hormuz for Mine-Clearing",
+        "summary": "Two US naval vessels transited the Strait of Hormuz for mine-clearing operations as control of the strategic waterway remains a key sticking point in US-Iran negotiations. Iran's IRGC warned that approaching military vessels constitute a ceasefire breach.",
+        "signal": "Naval mine-clearing suggests US preparing for potential Hormuz blockade scenario.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 67,
+        "topic": "UN Hormuz Toll Rejection",
+        "domain": "geopolitics",
+        "headline": "UN Says Iran Cannot Charge Hormuz Tolls",
+        "summary": "The International Maritime Organisation chief told Al Jazeera that the world should reject Iran's attempts to charge tolls in the Strait of Hormuz waterway. The statement comes amid tensions over control of the critical shipping chokepoint.",
+        "signal": "International law backing against Iranian toll demands could escalate confrontation over Hormuz.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/12/iran-must-not-be-allowed-charge-tolls-in-strait-of-hormuz-un-watchdog-says",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 66,
+        "topic": "Chagos Islands Deal Halt",
+        "domain": "geopolitics",
+        "headline": "UK Shelves Chagos Transfer After US Pulls Support",
+        "summary": "Britain put its plan to transfer the Chagos Islands to Mauritius on hold after the Trump administration withdrew support for the deal. The strategic islands home to a crucial US military base remain under British control as legislation runs out of parliamentary time.",
+        "signal": "Strategic base retention suggests US prioritizing military assets amid Middle East conflict.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/uk-chagos-islands-mauritius-trump-c37afa22677ec8e504c5a1dab6313d1c",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 65,
+        "topic": "Artemis Moon Mission Return",
+        "domain": "corporate",
+        "headline": "NASA Artemis II Crew Returns from Moon Mission",
+        "summary": "NASA's Artemis II crew successfully splashed down after completing a history-making lunar mission, marking a significant milestone in America's return to the Moon. The mission represents a major achievement for the US space program amid global tensions.",
+        "signal": "Space program success provides positive US technological leadership narrative during conflict period.",
+        "sources": [
+          "The Wall Street Journal"
+        ],
+        "source_url": "https://www.wsj.com/science/space-astronomy/nasas-artemis-set-for-return-after-history-making-moon-mission-5848a309?mod=hp_featst_pos3",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 64,
+        "topic": "Eric Swalwell Assault Allegations",
+        "domain": "geopolitics",
+        "headline": "Swalwell Supporters Withdraw Over Assault Claims",
+        "summary": "Prominent supporters of California Rep. Eric Swalwell's gubernatorial bid are withdrawing support after he denied sexual assault allegations. The political reversal leaves his California governor campaign in crisis mode.",
+        "signal": "Political scandals during wartime could reshape California's gubernatorial race dynamics.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/california-governor-eric-swalwell-assault-allegations-aa1d13afe441be38d1d16f648e06d503",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Democratic Rep. Eric Swalwell's abrupt exit from the race for California governor left his rivals scrambling to lock down his former supporters in a crowded contest with no clear leader, injecting mor",
+            "score": 34,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjeiuwau472k"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 21,
+        "score": 63,
+        "topic": "Benin Presidential Election",
+        "domain": "geopolitics",
+        "headline": "Ex-Deloitte Executive Leads Benin Presidential Vote",
+        "summary": "Finance Minister Romuald Wadagni, a former Deloitte executive, is heavily favored to win Benin's presidential election as the West African nation heads to polls. The vote represents a potential shift toward technocratic leadership in the region.",
+        "signal": "West African political stability matters for global commodity supply chains amid broader disruptions.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/ex-deloitte-executive-set-to-win-as-benin-votes-for-new-leader",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 22,
+        "score": 62,
+        "topic": "Pakistan Mpox Health Alert",
+        "domain": "geopolitics",
+        "headline": "Pakistan Reports Mpox Cases Linked to Newborn Deaths",
+        "summary": "Health officials in Pakistan's Sindh province confirmed 14 mpox cases this year, including infections linked to five newborn deaths according to local media reports. The outbreak adds another health crisis dimension to regional instability.",
+        "signal": "Health crises in conflict-adjacent regions could complicate humanitarian responses and refugee flows.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/mpox-in-pakistan-s-sindh-linked-to-newborn-deaths-reports-say",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 23,
+        "score": 61,
+        "topic": "UK Reform Party Elections",
+        "domain": "europe",
+        "headline": "Reform UK's Startup Culture Raises Electoral Risks",
+        "summary": "Reform UK's internal candidate selection processes show organizational weaknesses ahead of May local elections, with superiors remotely replacing rejected candidates with Conservative defectors. The party's startup-like culture creates operational vulnerabilities.",
+        "signal": "UK political fragmentation could affect stability during international crisis periods.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/reform-s-startup-culture-raises-risks-ahead-of-local-elections",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 24,
+        "score": 60,
+        "topic": "Tribal Gas Stations Relief",
+        "domain": "markets",
+        "headline": "Drivers Find Gas Relief at Tribal Lands",
+        "summary": "Rising gas prices due to the Iran war are driving consumers to tribally-owned gas stations exempt from state fuel taxes, offering significantly lower prices. The trend is particularly pronounced in California, New Mexico, New York, Oklahoma and Washington state.",
+        "signal": "Consumer behavior shifts during energy crises reveal regulatory arbitrage opportunities and stress points.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/iran-war-gasoline-prices-native-american-reservation-7f272163a63b12eec15f23463ae3907b",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 25,
+        "score": 59,
+        "topic": "Japan Nuclear Waste Survey",
+        "domain": "japan",
+        "headline": "Japan Considers Remote Pacific Island for Nuclear Waste",
+        "summary": "Japan's central government has been given approval to survey Minamitorishima, a remote Pacific island, for suitability as a permanent radioactive waste disposal site. The search for nuclear waste storage continues as the country seeks long-term solutions.",
+        "signal": "Nuclear waste storage decisions reflect long-term energy security planning amid current crisis.",
+        "sources": [
+          "Japan Times"
+        ],
+        "source_url": "https://www.japantimes.co.jp/news/2026/04/13/japan/ogasawara-mayor-survey-minamitorishima/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Japan is proposing a remote Pacific island as a possible host for a nuclear waste-disposal site, reports say.",
+            "score": 41,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjedtsbrca2b"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 26,
+        "score": 58,
+        "topic": "Delhi Assembly Bomb Threat",
+        "domain": "india",
+        "headline": "Delhi Assembly Receives Bomb Threat After Security Breach",
+        "summary": "The Delhi Legislative Assembly received a bomb threat via email, triggering multi-agency response including police and bomb disposal units. No suspicious items were found, but the incident follows a recent major security breach at the assembly.",
+        "signal": "Security incidents at Indian government facilities could reflect broader regional instability spillover.",
+        "sources": [
+          "Times of India",
+          "Economic Times"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/days-after-major-security-breach-delhi-assembly-receives-bomb-threat/articleshow/130230857.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 27,
+        "score": 57,
+        "topic": "Noida Workers Violent Protest",
+        "domain": "india",
+        "headline": "Noida Workers Protest Turns Violent Over Pay Dispute",
+        "summary": "Several vehicles were burned and roads blocked as Noida workers' protests turned violent over better pay demands. The second phase of protests saw stones thrown and significant property damage amid labor unrest.",
+        "signal": "Labor unrest during economic stress from oil crisis could spread to other industrial regions.",
+        "sources": [
+          "NDTV News",
+          "Economic Times"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/noida-workers-protest-phase-2-vehicles-burnt-stones-thrown-as-noida-workers-protest-for-better-pay-11349392#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 28,
+        "score": 56,
+        "topic": "Supreme Court Bengal SIR",
+        "domain": "india",
+        "headline": "Supreme Court Flags Bengal Electoral Roll Errors",
+        "summary": "The Supreme Court expressed serious concerns about West Bengal's electoral roll revision, noting a 'margin of error' and overwhelming of judicial officers leading to potential wrongful voter deletions. The court refused to intervene but demanded stronger appeals processes.",
+        "signal": "Electoral integrity concerns in key battleground state could affect future political outcomes.",
+        "sources": [
+          "Times of India",
+          "Indian Express"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/supreme-court-flags-margin-of-error-in-bengal-sir-refuses-to-intervene/articleshow/130231882.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-13T07:31:08.995753+00:00",
     "timestamp_ist": "13 Apr 2026 \u00b7 13:01 IST",
     "story_count": 20,
@@ -14865,279 +15470,6 @@
         "social_signals": [],
         "trend": "stable",
         "breaking_on_social": false
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-09T15:11:44.909207+00:00",
-    "timestamp_ist": "09 Apr 2026 \u00b7 20:41 IST",
-    "story_count": 10,
-    "avg_score": 76,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 93,
-        "topic": "US-Iran Ceasefire Deal",
-        "domain": "geopolitics",
-        "headline": "US-Iran agree fragile two-week ceasefire, Pakistan to host talks",
-        "summary": "Iran, the US and Israel reached a tentative two-week ceasefire Wednesday after Trump threatened to destroy Iranian civilization, with Pakistan brokering the deal. Despite the truce, attacks continue in Lebanon and Gulf states report ongoing strikes, raising doubts about compliance.",
-        "signal": "Watch for ceasefire violations and oil market reactions as Strait of Hormuz reopening remains uncertain.",
-        "sources": [
-          "Associated Press",
-          "Bloomberg",
-          "Al Jazeera English",
-          "BBC News",
-          "@reuters.com"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-8-2026-38d75d5e4f1c7339a1456fc99415bb2a",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "As Donald Trump neared his self-imposed deadline to extinguish Iran's 'entire civilization,' it became apparent one country had enough clout to convince Tehran to deescalate: America's biggest rival",
-            "score": 34,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mj335ocud72s"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "US-Iran talks in Pakistan: Who's attending, what's on the agenda?",
-            "score": 26,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj2xrjq4pu2b"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Has Iran's 10-point plan changed, as JD Vance claims?",
-            "score": 26,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj334t52hb2b"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 88,
-        "topic": "Strait of Hormuz Closure",
-        "domain": "commodities",
-        "headline": "Iran maintains Hormuz chokehold despite ceasefire, shipping stalled",
-        "summary": "Despite the ceasefire, Iran continues to threaten unauthorized ships in the Strait of Hormuz with destruction, keeping 42 Japanese vessels stranded in the Persian Gulf. UAE's ADNOC CEO confirms the strait remains shut and must reopen without conditions for normal oil flows.",
-        "signal": "Oil prices remain elevated until actual Hormuz reopening with safe passage guarantees.",
-        "sources": [
-          "Bloomberg",
-          "Times of India",
-          "Nikkei Asia",
-          "@reuters.com",
-          "@nikkei.com"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/world/us/trump-tests-nato-demands-pledges-to-secure-hormuz-as-iran-keeps-chokehold-on-strait/articleshow/130144325.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Strait of Hormuz is shut, must reopen without conditions, UAE oil giant ADNOC's CEO says",
-            "score": 56,
-            "url": "https://bsky.app/profile/reuters.com/post/3mj337jf2442d"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "What is Iran's Strait of Hormuz protocol and will other nations accept it?",
-            "score": 26,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj2zh6qwym2p"
-          },
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u6d77\u904b\u3084\u77f3\u6cb9\u5404\u793e\u3001\u30db\u30eb\u30e0\u30ba\u6d77\u5ce1\u5de1\u308a\u69d8\u5b50\u898b\u7d9a\u304f\u3000\u901a\u904e\u53ef\u5426\u306e\u5224\u65ad\u96e3\u3057\u304f",
-            "score": 43,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mj2uhk4qkf2e"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 3,
-        "score": 86,
-        "topic": "Israel Lebanon Attacks",
-        "domain": "geopolitics",
-        "headline": "Israel strikes Lebanon despite Iran ceasefire, hundreds of casualties",
-        "summary": "Israel launched its largest coordinated strikes across Lebanon since the war began, killing dozens and causing hundreds of casualties hours after the Iran-US ceasefire announcement. The Israeli military claims the ceasefire doesn't apply to its fight with Iranian-backed Hezbollah.",
-        "signal": "Lebanon conflict threatens to derail broader ceasefire as Israel escalates despite truce.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "Middle East Eye"
-        ],
-        "source_url": "https://apnews.com/article/israel-lebanon-hezbollah-beirut-strikes-9402965418687c634d4a157c966ec6ea",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Israeli settlers stormed the Al-Aqsa Mosque compound in occupied East Jerusalem shortly after it reopened following 40 days of closure",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj2uslfobs2i"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 82,
-        "topic": "Iran War Economic Impact",
-        "domain": "macro",
-        "headline": "War drives aluminum premiums up 12%, Polish mortgage surge",
-        "summary": "The Iran war disrupted Middle East aluminum imports, prompting Rio Tinto and Century Aluminum to hike US premiums by 12%. Polish mortgage demand surged to 18-year highs as borrowers rushed to lock rates amid inflation fears from the conflict.",
-        "signal": "Commodity price inflation spreading beyond oil as supply chains remain disrupted.",
-        "sources": [
-          "Bloomberg",
-          "IMF",
-          "The National UAE"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-08/top-aluminum-makers-hike-us-surcharge-as-war-disrupts-supply",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 80,
-        "topic": "India TCS Earnings Beat",
-        "domain": "corporate",
-        "headline": "TCS profit jumps 12% to \u20b913,718 crore, announces salary hikes",
-        "summary": "Tata Consultancy Services reported a 12.2% year-on-year rise in Q4 profit to \u20b913,718 crore, beating estimates as North American demand held up. The IT giant declared a final dividend of \u20b931 per share and announced salary hikes for all employees starting April 1.",
-        "signal": "IT sector resilience suggests global tech spending remains robust despite geopolitical tensions.",
-        "sources": [
-          "LiveMint Markets",
-          "TCS",
-          "@reuters.com"
-        ],
-        "source_url": "https://www.livemint.com/market/tcs-q4-results-board-declares-final-dividend-of-rs-31-per-share-details-here-11775731090057.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "India's TCS beats fourth quarter view as North America holds up",
-            "score": 40,
-            "url": "https://bsky.app/profile/reuters.com/post/3mj33p2hemh2l"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 78,
-        "topic": "Indian Markets Tumble",
-        "domain": "markets",
-        "headline": "Sensex crashes 931 points on fragile ceasefire concerns",
-        "summary": "Indian markets plunged with Sensex falling 931 points to 77,000 and Nifty dropping to 23,775 as confidence in the Iran-US ceasefire faded. Weak Asian trends, rising crude oil prices, and foreign fund outflows added to investor jitters.",
-        "signal": "Indian markets vulnerable to Middle East developments given oil import dependence.",
-        "sources": [
-          "Hindu Business",
-          "LiveMint Markets"
-        ],
-        "source_url": "https://www.thehindu.com/business/markets/sensex-tumbles-931-points-nifty-plunges-to-23775-level-amid-fading-confidence-on-iran-us-ceasefire/article70842528.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 75,
-        "topic": "NATO-Trump Iran Tensions",
-        "domain": "geopolitics",
-        "headline": "Trump-NATO rift widens over Iran war response",
-        "summary": "NATO Secretary-General Mark Rutte meets Trump to smooth tensions after the alliance gave a cold shoulder to US demands for help securing the Strait of Hormuz. Trump suggested the US may consider leaving NATO after the bloc's lukewarm Iran war support.",
-        "signal": "Transatlantic alliance fractures could reshape global security architecture.",
-        "sources": [
-          "Associated Press",
-          "Times of India"
-        ],
-        "source_url": "https://apnews.com/article/trump-nato-rutte-iran-war-981d250a7265774a4913b63d8797fc34",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 70,
-        "topic": "China Airspace Closure",
-        "domain": "geopolitics",
-        "headline": "China imposes unexplained 40-day airspace ban near Shanghai",
-        "summary": "China sealed off 73,000 sq km of airspace near Shanghai for 40 days without explanation, sparking speculation about military exercises. The massive restriction, twice Taiwan's size, is unusual in scale and duration according to aviation experts.",
-        "signal": "Monitor for Chinese military preparations amid Taiwan tensions and regional instability.",
-        "sources": [
-          "Times of India"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/world/china/no-possible-use-other-than-military-china-closes-huge-airspace-zone-off-shanghai-for-40-days-offers-no-explanation/articleshow/130144133.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 65,
-        "topic": "EU Energy Crisis Response",
-        "domain": "europe",
-        "headline": "EU backs windfall tax on big firms for energy crisis",
-        "summary": "Brussels supports coordinated windfall taxes on large corporations to cushion energy crisis fallout, while Ireland deploys army to clear fuel price protesters blocking key ports. The Commission seeks European-level approach to ease pain from ongoing energy disruptions.",
-        "signal": "European fiscal policy shifting toward crisis intervention as energy costs bite.",
-        "sources": [
-          "Politico Europe"
-        ],
-        "source_url": "https://www.politico.eu/article/brussels-backs-windfall-tax-to-cushion-fallout-from-energy-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 43,
-        "topic": "Trump Iran Strategy Failure",
-        "domain": "geopolitics",
-        "headline": "Trump's Iran attack goals incomplete, 'spectacular failure' risk",
-        "summary": "Analysis shows Trump's stated objectives for Iran attacks\u2014destroying missile capabilities and stopping nuclear development\u2014remain largely unachieved despite weeks of bombing.",
-        "signal": "Incomplete military objectives may force policy escalation or strategic pivot.",
-        "sources": [
-          "@nikkei.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Japanese media analysis of Trump's Iran strategy provides independent assessment of US military effectiveness.",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u30c8\u30e9\u30f3\u30d7\u6c0f\u3001\u8aa4\u7b97\u6b62\u307e\u3089\u306c\u30a4\u30e9\u30f3\u653b\u6483\u3000\u534a\u7aef\u306b\u7d42\u308f\u308b5\u3064\u306e\u6226\u7565\u76ee\u6a19",
-            "score": 43,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mj2r47wuzk2e"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
       }
     ],
     "social_count": 30
