@@ -1,5 +1,499 @@
 [
   {
+    "timestamp": "2026-04-15T20:33:48.758029+00:00",
+    "timestamp_ist": "16 Apr 2026 \u00b7 02:03 IST",
+    "story_count": 23,
+    "avg_score": 60,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 84,
+        "topic": "US-Iran Peace Talks",
+        "domain": "geopolitics",
+        "headline": "Pakistan mediates US-Iran talks as Trump claims breakthrough possible",
+        "summary": "Pakistan's army chief landed in Iran with a new US message as Pakistani officials propose a second round of US-Iran talks following inconclusive negotiations in Pakistan. Trump claims the war 'can be over very soon' while Vice President Vance says talks 'made some progress,' though key disputes over Iran's nuclear program and the Strait of Hormuz blockade persist.",
+        "signal": "Watch for any concrete announcements from Pakistan mediation efforts or Iranian response to new US proposals.",
+        "sources": [
+          "Times of India",
+          "Associated Press",
+          "Al Jazeera English",
+          "The Hindu",
+          "Politico Europe",
+          "Middle East Eye",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-14-2026",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Sources tell Al Jazeera that Pakistani mediators are hopeful about a breakthrough on Iran's nuclear programme.",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjkoorzxwr2f"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 78,
+        "topic": "US Hormuz Blockade",
+        "domain": "geopolitics",
+        "headline": "Trump escalates Iran tensions with full naval blockade",
+        "summary": "Trump announced a blockade of all Iranian ports following failed 21-hour ceasefire talks in Pakistan, with the US reporting nine vessels turned back in 48 hours. Iranian ships continue crossing the Strait despite the blockade, as Iran accuses the US of 'piracy' and thousands rally in Tehran against the measure.",
+        "signal": "Monitor shipping data and oil prices as blockade effectiveness remains questionable despite US claims.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "The National (UAE)",
+          "Economic Times"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-talks-ceasefire-36cd009a0b238fcad4665a5a02cc895e",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 78,
+        "topic": "Israel-Lebanon Direct Talks",
+        "domain": "geopolitics",
+        "headline": "Israel and Lebanon hold first direct talks since 1993",
+        "summary": "Israel and Lebanon met for their first high-level talks in over 30 years in what Israel's US ambassador called a 'victory for sanity,' though officials downplayed hopes for ending the Hezbollah war. The US-brokered talks face threats from Hezbollah's rejection and over 2,100 people have been killed in Lebanon since Israeli attacks resumed in March.",
+        "signal": "Track whether Hezbollah's opposition derails these unprecedented direct negotiations.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/israel-hails-lebanon-talks-despite-slim-chances-for-breakthrough",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 73,
+        "topic": "Iran War Economic Impact",
+        "domain": "macro",
+        "headline": "IMF warns Iran war threatens global growth, UK hardest hit",
+        "summary": "The IMF downgraded global growth to 3.1% from 3.3% due to the Iran war, with the UK facing the biggest hit among major economies. The fund warns the conflict threatens to throw the global economy 'off course' and could turbocharge a looming government debt crisis as aging populations meet price-sensitive bond markets.",
+        "signal": "Prepare for prolonged global economic weakness if Iran conflict escalates further.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "Politico Europe"
+        ],
+        "source_url": "https://apnews.com/article/economy-imf-outlook-iran-war-trump-inflation-growth-e3d8a239509abb50757f8c8d42fb32d8",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 70,
+        "topic": "Swalwell Sexual Assault Allegations",
+        "domain": "geopolitics",
+        "headline": "Democratic Rep Swalwell resigns after rape allegations surface",
+        "summary": "California Rep Eric Swalwell and Texas Rep Tony Gonzales officially resigned from Congress following sexual misconduct allegations. A California woman accused Swalwell of drugging and raping her in 2018, prompting his withdrawal from the California governor's race.",
+        "signal": "Watch for potential special elections and impacts on Democratic House margins.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg"
+        ],
+        "source_url": "https://apnews.com/article/eric-swalwell-congress-rape-accusation-california-bd42cd883afdcb20990c3fa4b0d82f9d",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 66,
+        "topic": "Venezuela Sanctions Relief",
+        "domain": "geopolitics",
+        "headline": "US eases Venezuela sanctions after Maduro capture",
+        "summary": "The Trump administration is easing sanctions on Venezuela to allow transactions with the country's central bank following the capture of former president Nicol\u00e1s Maduro. The move aims to revive Venezuela's oil sector as Trump pushes energy production increases.",
+        "signal": "Monitor Venezuelan oil output increases and potential market supply impacts.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/us-eases-venezuela-sanctions-to-allow-central-bank-transactions",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 66,
+        "topic": "Disney Mass Layoffs",
+        "domain": "corporate",
+        "headline": "Disney begins layoffs expected to cut 1,000 jobs",
+        "summary": "Walt Disney Co. has begun layoffs expected to lead to 1,000 job cuts across the company following earlier consolidation of Disney's marketing division. CEO Josh D'Amaro announced broader layoffs following moves in January to streamline operations.",
+        "signal": "Watch for further cost-cutting measures at major media companies facing streaming pressures.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/disney-layoffs-8434044668b03755c8a8c7a4b51f57bd",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 66,
+        "topic": "Commerzbank Takeover Battle",
+        "domain": "markets",
+        "headline": "Commerzbank CEO says UniCredit valuation talks at odds",
+        "summary": "Commerzbank CEO Bettina Orlopp said she has had talks with UniCredit about a deal after the Italian bank announced a takeover bid for the German lender. The two companies remain at odds over valuation in what could be a major European banking consolidation.",
+        "signal": "Monitor for regulatory approval challenges and potential nationalist resistance to the Italian takeover.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/commerzbank-ceo-says-bank-unicredit-are-at-odds-over-valuation",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 65,
+        "topic": "DHS Funding Deal",
+        "domain": "geopolitics",
+        "headline": "Senate leader pushes GOP on narrow DHS funding",
+        "summary": "Senate Majority Leader John Thune will push Republicans to accept narrowly focused legislation to end the record-long funding lapse at the Department of Homeland Security. The move shelves GOP demands for other priorities to focus on core DHS operations.",
+        "signal": "Watch for Republican unity on the compromise and potential government function impacts.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/thune-to-press-fractious-gop-to-back-narrow-dhs-funding-plan",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 64,
+        "topic": "Lebanon IMF Emergency Aid",
+        "domain": "macro",
+        "headline": "IMF discusses $1 billion emergency aid for Lebanon",
+        "summary": "The International Monetary Fund and Lebanon are discussing fast-track assistance up to $1 billion to help the country absorb the impact of the Middle East war. The rapid financing would provide immediate relief as Lebanon faces economic pressure from the ongoing conflict.",
+        "signal": "Monitor for IMF approval and Lebanese economic stability amid continued Israeli strikes.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/imf-lebanon-hold-talks-on-up-to-1-billion-in-rapid-financing",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 62,
+        "topic": "AI Bot Internet Traffic",
+        "domain": "corporate",
+        "headline": "AI bots now comprise half of internet traffic",
+        "summary": "Over half of the planet's internet traffic now consists of AI bots, according to Lumen Technologies CEO Kate Johnson. This shift is forcing executives across sectors to rethink how companies handle network infrastructure and capacity planning.",
+        "signal": "Expect network infrastructure investment acceleration and potential service disruption risks.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/lumen-ceo-says-ai-bots-are-taking-over-the-internet",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 62,
+        "topic": "Argentina Energy Inflation",
+        "domain": "macro",
+        "headline": "Argentina inflation surges on Iran war energy shock",
+        "summary": "Argentina's inflation picked up more than expected in March as prices at the pump rose sharply due to the Iran war and education costs surged on annual tuition adjustments. The energy shock from Middle East conflict is driving broader price pressures across the economy.",
+        "signal": "Watch for regional spillover effects as energy-dependent economies face inflation pressures.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/argentina-inflation-picked-up-more-than-expected-on-energy-shock",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 60,
+        "topic": "Spain Immigration Amnesty",
+        "domain": "europe",
+        "headline": "Spain approves amnesty for 500,000 undocumented immigrants",
+        "summary": "The Spanish government approved an amnesty programme that could see 500,000 undocumented people apply for legal status. The plan makes Spain an outlier as anti-immigration sentiments fester elsewhere in Europe.",
+        "signal": "Monitor for EU political backlash and potential migration flow changes toward Spain.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/14/spanish-government-approves-amnesty-programme-for-undocumented-immigrants-2",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 58,
+        "topic": "Rohingya Boat Tragedy",
+        "domain": "geopolitics",
+        "headline": "250 Rohingya feared missing in Andaman Sea capsizing",
+        "summary": "About 250 people, including children, are feared missing after a Rohingya boat capsized in the Andaman Sea, according to the United Nations. The tragedy highlights the continuing plight of displaced Rohingya refugees seeking safety.",
+        "signal": "Watch for increased regional pressure on Myanmar and refugee policy responses.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/14/hundreds-missing-after-rohingya-boat-capsizes-in-andaman-sea-un",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 58,
+        "topic": "Deportation Court Ruling",
+        "domain": "geopolitics",
+        "headline": "Appeals court blocks Trump deportation flight contempt case",
+        "summary": "A federal appeals court ordered a judge to end his 'intrusive' contempt investigation of the Trump administration for failing to comply with orders over Venezuelan migrant deportation flights. The ruling removes legal obstacles to continued deportation operations.",
+        "signal": "Expect accelerated deportation operations with reduced judicial oversight constraints.",
+        "sources": [
+          "Al Jazeera English",
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/trump-judge-boasberg-contempt-f5ab5110336be20773e8aa8d5b484879",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 55,
+        "topic": "Caterpillar EV Acquisition",
+        "domain": "corporate",
+        "headline": "Caterpillar acquires struggling electric tractor startup Monarch",
+        "summary": "Caterpillar acquired self-driving electric tractor startup Monarch, representing one of a growing number of green companies struggling to commercialize their technology. The move expands Caterpillar's push into autonomous electric equipment.",
+        "signal": "Watch for accelerated consolidation as established industrials acquire struggling green-tech startups.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/caterpillar-acquires-california-based-electric-tractor-startup-monarch",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 54,
+        "topic": "Tax Day Funding Pressure",
+        "domain": "markets",
+        "headline": "Tax payments threaten to pressure calm US funding",
+        "summary": "Wall Street strategists expect robust Treasury cash inflows this week as Americans pay taxes, potentially pressuring relatively calm US funding markets. The seasonal drain could test market liquidity conditions.",
+        "signal": "Monitor repo rates and money market conditions for signs of funding stress.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/a-tax-day-cash-drain-is-coming-for-calm-us-funding-markets",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 50,
+        "topic": "Middle East Energy Damage",
+        "domain": "commodities",
+        "headline": "Middle East war damage may cost $58 billion",
+        "summary": "Middle East war damage to energy assets may cost up to $58 billion according to research firm Rystad. The assessment highlights the massive infrastructure costs from the ongoing Iran conflict.",
+        "signal": "Monitor for insurance market impacts and energy security investment acceleration.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Significant infrastructure damage estimate could drive energy security investments and insurance costs.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Middle East war damage to energy assets may cost up to $58 billion, research firm Rystad says",
+            "score": 50,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjkpjvnj3n2v"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 19,
+        "score": 49,
+        "topic": "Trump Tariff Refund Issue",
+        "domain": "markets",
+        "headline": "Trump flags delays in $166 billion tariff refunds",
+        "summary": "The Trump administration is flagging an issue that could delay refunds of about $166 billion in tariffs overturned by the US Supreme Court earlier this year. The potential delays could impact business cash flows significantly.",
+        "signal": "Watch for business working capital pressures and legal challenges to refund delays.",
+        "sources": [
+          "@bloomberg.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Massive tariff refund delays could create significant business cash flow issues.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "The Trump administration is flagging an issue that it says could delay refunds of about $166 billion in tariffs that were overturned by the US Supreme Court earlier this year.",
+            "score": 49,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjkqeqf5k32t"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 20,
+        "score": 45,
+        "topic": "Ticketmaster Antitrust Verdict",
+        "domain": "corporate",
+        "headline": "Jury finds Ticketmaster has anticompetitive monopoly",
+        "summary": "A jury found that Ticketmaster and Live Nation had an anticompetitive monopoly over big concert venues. The verdict could lead to significant changes in the live entertainment ticketing industry.",
+        "signal": "Expect potential breakup orders and major shifts in concert ticketing market structure.",
+        "sources": [
+          "@apnews.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Major antitrust verdict could reshape the entire live entertainment industry.",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: A jury finds that Ticketmaster and Live Nation had an anticompetitive monopoly over big concert venues.",
+            "score": 45,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjkm2yncjs2p"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 21,
+        "score": 42,
+        "topic": "Hungary Political Transition",
+        "domain": "europe",
+        "headline": "Magyar urges Hungarian president to quit, targets media",
+        "summary": "Hungary's prime minister-elect Peter Magyar is urging the president to resign and vows to overhaul state-controlled media after defeating Viktor Orb\u00e1n. Magyar promises to shut down Orb\u00e1n-affiliated broadcasters until they guarantee objective reporting.",
+        "signal": "Watch for EU relations improvement and potential reversal of Hungarian autocratic policies.",
+        "sources": [
+          "@aljazeera.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Major democratic transition in Hungary could significantly alter EU dynamics.",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Hungary's Magyar urges president to quit, vows to overhaul state media",
+            "score": 42,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjkqefywhc2f"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 22,
+        "score": 37,
+        "topic": "Trump Pope Clash",
+        "domain": "geopolitics",
+        "headline": "Trump lashes out at Pope over Iran criticism",
+        "summary": "US President Donald Trump has lashed out at the Pope over calls for peace and criticism of the US war on Iran. The confrontation highlights growing tensions between Trump and traditional diplomatic voices calling for de-escalation.",
+        "signal": "Monitor for further diplomatic isolation as Trump rejects international peace appeals.",
+        "sources": [
+          "@aljazeera.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Unusual diplomatic clash with Vatican could signal further international isolation.",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US President Donald Trump has lashed out at pope over calls for peace and criticism of US war on Iran.",
+            "score": 37,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjkmz42bfr2a"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 23,
+        "score": 37,
+        "topic": "Sudan War Escalation",
+        "domain": "geopolitics",
+        "headline": "UN calls end to Sudan nightmare as conflict enters year four",
+        "summary": "UN chief calls for end to 'nightmare' war as Sudan's conflict enters its fourth year, while Khartoum rejects an international conference as 'colonial tutelage approach.' Hundreds have been killed by drone strikes in recent months.",
+        "signal": "Watch for further humanitarian crisis deepening and regional destabilization.",
+        "sources": [
+          "@aljazeera.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Four-year conflict escalation threatens regional stability and humanitarian catastrophe.",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "UN chief calls for end to 'nightmare' war as Khartoum rejects international conference as 'colonial tutelage approach'.",
+            "score": 37,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjkjnv2dne2f"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-15T16:16:25.098296+00:00",
     "timestamp_ist": "15 Apr 2026 \u00b7 21:46 IST",
     "story_count": 20,
@@ -15037,373 +15531,5 @@
       }
     ],
     "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-11T08:08:42.582888+00:00",
-    "timestamp_ist": "11 Apr 2026 \u00b7 13:38 IST",
-    "story_count": 16,
-    "avg_score": 59,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 85,
-        "topic": "US-Iran Peace Talks Pakistan",
-        "domain": "geopolitics",
-        "headline": "High-Stakes US-Iran Peace Talks Begin in Islamabad",
-        "summary": "US Vice President JD Vance and Iranian negotiators have arrived in Islamabad for critical peace talks brokered by Pakistan, aimed at turning the fragile ceasefire into lasting peace. The talks face deep mistrust as Trump demands Iran reopen the Strait of Hormuz while Iran enters negotiations 'in good faith' despite skepticism about US intentions.",
-        "signal": "Success could normalize energy markets and reduce global inflation; failure risks renewed conflict and prolonged supply chain disruptions.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera English",
-          "Associated Press",
-          "The National (UAE)",
-          "Middle East Eye"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/trump-warns-on-reopening-of-hormuz-before-us-iran-peace-talks",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "US Vice President JD Vance has arrived in Islamabad for high-stakes ceasefire talks with Iran. Follow for the latest updates and analysis.",
-            "score": 37,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mj7bm4dnd62s"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 78,
-        "topic": "Strait of Hormuz Shipping Crisis",
-        "domain": "commodities",
-        "headline": "Shipping Trickles Through Hormuz Despite US-Iran Ceasefire",
-        "summary": "Despite the ceasefire, shipping through the critical Strait of Hormuz remains severely restricted with only a trickle of vessels transiting. Trump threatens to reopen the waterway 'with or without' Iran while the first Indian LPG tanker successfully crossed since the ceasefire announcement.",
-        "signal": "Energy prices may take months to normalize; watch for shipping volume data and any escalation in Trump's threats.",
-        "sources": [
-          "Al Jazeera English",
-          "Indian Express",
-          "Associated Press"
-        ],
-        "source_url": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Trump says Washington will not accept Iran's imposition of a de facto toll booth system in the critical waterway.",
-            "score": 41,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj6virmvdt2f"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 75,
-        "topic": "Asian AI Stock Rally",
-        "domain": "markets",
-        "headline": "Global Funds Return to Asian AI Stocks Post-Ceasefire",
-        "summary": "As Middle East tensions ease following the US-Iran ceasefire, global investors are flowing fresh funds back into Asian tech stocks after weeks of selling. The sentiment-driven rally contrasts with record outflows from Indian equities due to growth fears from the energy shock.",
-        "signal": "Tech stock rally may be short-lived if peace talks fail; monitor fund flow data for sustainability of the rotation.",
-        "sources": [
-          "Bloomberg",
-          "LiveMint Markets",
-          "The National (UAE)"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/global-funds-flow-back-into-asian-ai-stocks-as-war-tensions-ease",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 72,
-        "topic": "US Inflation Surge Expected",
-        "domain": "macro",
-        "headline": "US Inflation May Jump Most in Four Years",
-        "summary": "Inflation is forecast to surge to 3.4% in March from 2.4% in February, potentially the largest monthly increase in nearly four years as gas prices spike from the Iran war. Monthly prices are expected to rise 0.9%, creating challenges for Federal Reserve policy.",
-        "signal": "Sharp inflation jump could force Fed to delay rate cuts and pressure Trump administration on economic policy.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/inflation-prices-gas-federal-reserve-trump-bf00c3105d5da88a0b01d9107ed4ecee",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 68,
-        "topic": "Myanmar Junta Leadership Change",
-        "domain": "geopolitics",
-        "headline": "Myanmar Coup Leader Min Aung Hlaing Sworn In",
-        "summary": "Min Aung Hlaing has been sworn in as Myanmar's president, pledging to fix the country's economic crisis and enhance international relations with ASEAN. The transition comes as Myanmar faces ongoing civil war and spiraling economic conditions.",
-        "signal": "Watch for ASEAN response and any shifts in international sanctions or engagement with Myanmar.",
-        "sources": [
-          "Al Jazeera English",
-          "Bloomberg"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/10/myanmars-coup-leader-min-aung-hlaing-sworn-in-as-president",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 65,
-        "topic": "India Equity Fund Inflows",
-        "domain": "india",
-        "headline": "India Equity Inflows Hit Second-Highest on Record",
-        "summary": "India's stock mutual fund inflows surged in March to the second-highest level on record, showing resilience among domestic investors despite heightened geopolitical tensions. This contrasts with record foreign fund outflows due to growth concerns from the energy shock.",
-        "signal": "Domestic resilience may support Indian markets even as foreign investors retreat; monitor retail participation trends.",
-        "sources": [
-          "Bloomberg",
-          "LiveMint Markets"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/india-equity-fund-inflows-hit-second-highest-on-record-in-march",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 62,
-        "topic": "Artemis II Moon Mission",
-        "domain": "geopolitics",
-        "headline": "Artemis II Crew Successfully Returns from Moon",
-        "summary": "NASA's Artemis II crew successfully splashed down in the Pacific after a historic 10-day lunar mission, marking humanity's first crewed journey beyond Earth orbit in decades. The mission tested critical systems for future Moon landings and Mars missions.",
-        "signal": "Success boosts US space leadership and opens commercial opportunities for aerospace companies in lunar economy.",
-        "sources": [
-          "Associated Press",
-          "The National (UAE)",
-          "NDTV News",
-          "Times of India"
-        ],
-        "source_url": "https://apnews.com/article/mahmoud-khalil-protester-appeal-deportation-trump-94e926c5a6bfd7fbcb0fe52066a77dbb",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Artemis II marks historic lunar return with Pacific splashdown success https://aje.news/cm66se",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj7cw5g5ex2o"
-          },
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u30a2\u30e1\u30ea\u30ab\u4e3b\u5c0e\u306e\u30a2\u30eb\u30c6\u30df\u30b9\u8a08\u753b\u3000\u30c8\u30e8\u30bf\u3084\u30b9\u30ab\u30d1\u30fc\u53c2\u52a0\u3001\u65e5\u672c\u767a\u306e\u6280\u8853\u304c\u652f\u3048",
-            "score": 43,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mj7cx2oj6w2l"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 58,
-        "topic": "Melania Trump Epstein Denial",
-        "domain": "geopolitics",
-        "headline": "Melania Trump Denies Jeffrey Epstein Connection",
-        "summary": "First Lady Melania Trump delivered a rare White House statement denying any relationship with Jeffrey Epstein and called for congressional hearings for Epstein survivors. The surprise address drew significant media attention given her typically low public profile.",
-        "signal": "Unusual public statement suggests potential political pressure or preparation for upcoming revelations.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "BBC News"
-        ],
-        "source_url": "https://apnews.com/article/melania-trump-white-house-epstein-1df98e9902386609608886f7bd256980",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 55,
-        "topic": "Russia-Ukraine Easter Truce",
-        "domain": "geopolitics",
-        "headline": "Russia-Ukraine Agree Orthodox Easter Ceasefire",
-        "summary": "Vladimir Putin announced a temporary truce between Russia and Ukraine lasting from Saturday afternoon through Easter Sunday. The brief respite comes amid the ongoing conflict that has been overshadowed by the US-Iran war.",
-        "signal": "Monitor whether truce leads to broader negotiations or remains merely symbolic gesture.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cn0wkkwev2vo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 52,
-        "topic": "Porsche China Sales Slump",
-        "domain": "corporate",
-        "headline": "Porsche Sales Tumble on China Weakness",
-        "summary": "Porsche AG's first-quarter sales fell sharply after a steep drop in China where luxury spending remains subdued. The decline compounds pressure from model transitions and slower US demand for electrified vehicles.",
-        "signal": "German luxury automakers face sustained headwinds from Chinese market weakness and EV transition challenges.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/porsche-sales-tumble-on-china-slump-model-changeovers",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 50,
-        "topic": "Democrats Target Trump Iran Threats",
-        "domain": "geopolitics",
-        "headline": "Democrats Seek Trump Removal Over Iran Threats",
-        "summary": "Dozens of Democratic lawmakers are calling for President Trump's removal after he threatened that Iranian civilization would 'die' if it didn't meet his demands. The episode has unleashed demands for Democrats to oppose the Republican president more forcefully.",
-        "signal": "Political pressure may constrain Trump's negotiating tactics in the critical Pakistan talks.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/trump-iran-threats-democrats-impeachment-ea13fc589d1dd75e552de883f2e86e71",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 48,
-        "topic": "Turkey Bank Leadership Reshuffle",
-        "domain": "corporate",
-        "headline": "Turkey Reshuffles State Bank Leadership",
-        "summary": "Turkey has overhauled the top ranks of two state-owned banks, installing new leadership at Halkbank and transferring its outgoing CEO to Vakifbank. The moves come as the country continues economic policy adjustments.",
-        "signal": "Leadership changes may signal shifts in Turkey's financial sector strategy amid ongoing economic challenges.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/turkey-overhauls-leadership-at-state-lenders-halkbank-vakifbank",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 46,
-        "topic": "SoftBank Record Retail Bonds",
-        "domain": "corporate",
-        "headline": "SoftBank Prices Record-High Retail Bonds",
-        "summary": "SoftBank Group priced \u00a5418 billion in hybrid bonds targeting retail investors at a record 4.97% five-year coupon. The pricing reflects the highest level for such debt issued by the technology conglomerate.",
-        "signal": "High yields signal investor caution about SoftBank's risk profile amid tech sector uncertainties.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/softbank-group-prices-418-billion-retail-bonds-at-record-4-97",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 44,
-        "topic": "OpenAI Legal Musk Dispute",
-        "domain": "corporate",
-        "headline": "OpenAI Accuses Musk of Legal Ambush",
-        "summary": "OpenAI claims Elon Musk suddenly changed direction on what he's seeking in his lawsuit against the startup in a 'legal ambush' just weeks before trial. The dispute highlights ongoing tensions between the AI company and its co-founder.",
-        "signal": "Legal outcome could impact OpenAI's governance structure and competitive position in AI race.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "High-profile legal battle between AI industry leaders could set precedents for startup governance.",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "OpenAI says Elon Musk has suddenly changed direction on what he's seeking in his lawsuit against the startup in a \"legal ambush\" just weeks before trial",
-            "score": 44,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mj75vn4meb2e"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 15,
-        "score": 42,
-        "topic": "Djibouti Election Results",
-        "domain": "geopolitics",
-        "headline": "Djibouti President Wins Sixth Term",
-        "summary": "Djibouti President Isma\u00efl Omar Guelleh has been reelected for a sixth term with 97.81% of the vote in Friday's election. The 78-year-old leader continues his long rule of the strategically important Horn of Africa nation.",
-        "signal": "Continued stability in key Red Sea shipping route amid regional tensions around Iran conflict.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Strategic Horn of Africa nation remains stable amid regional turbulence affecting shipping routes.",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Djibouti President Isma\u00efl Omar Guelleh has been reelected for a sixth term after official results showed him winning 97.81% of the vote in Friday's election. Guelleh, 78, has ruled the small Horn of",
-            "score": 53,
-            "url": "https://bsky.app/profile/apnews.com/post/3mj7aiyfhvs2e"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Djibouti's President Guelleh wins sixth straight term in office https://aje.news/4y48d6",
-            "score": 42,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj7bagmtfw2c"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 16,
-        "score": 40,
-        "topic": "Libya Unified Budget",
-        "domain": "geopolitics",
-        "headline": "Libya Signs First Unified Budget",
-        "summary": "Libya has signed its first unified state budget in over a decade, marking a significant step toward political reconciliation. The agreement represents progress in the country's efforts to overcome years of division and conflict.",
-        "signal": "Political progress could unlock Libya's oil production potential and stabilize North African energy supplies.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Major political milestone for oil-rich nation divided since 2011 could impact Mediterranean energy flows.",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Libya signs first unified state budget in over a decade reut.rs/41ZEEIt",
-            "score": 40,
-            "url": "https://bsky.app/profile/reuters.com/post/3mj7eutalbc2j"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 29
   }
 ]
