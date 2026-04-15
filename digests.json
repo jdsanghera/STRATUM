@@ -1,5 +1,430 @@
 [
   {
+    "timestamp": "2026-04-15T06:26:00.996988+00:00",
+    "timestamp_ist": "15 Apr 2026 \u00b7 11:56 IST",
+    "story_count": 20,
+    "avg_score": 62,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 91,
+        "topic": "US-Iran Peace Talks",
+        "domain": "geopolitics",
+        "headline": "US-Iran War Nears End, Peace Talks Resume",
+        "summary": "Multiple wire sources confirm hopes for renewed US-Iran peace talks after Pakistan proposes second round negotiations. Trump claims Iran wants a deal while maintaining that war is 'very close to over,' though he won't extend current ceasefire.",
+        "signal": "Monitor oil prices and regional stability as genuine peace breakthrough would dramatically shift Middle East dynamics.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera",
+          "NDTV Profit",
+          "The Hindu",
+          "The National",
+          "Bloomberg"
+        ],
+        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-14-2026",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 89,
+        "topic": "US Naval Blockade Iran",
+        "domain": "geopolitics",
+        "headline": "US Enforces Total Naval Blockade Iranian Ports",
+        "summary": "US Central Command confirms full implementation of naval blockade with over 10,000 personnel halting all maritime trade to Iranian ports. No ships passed through in first 24 hours as operation aims to force Tehran to reopen Strait of Hormuz.",
+        "signal": "Escalating maritime tensions could trigger broader regional conflict if blockade enforcement meets resistance from Iran or allies.",
+        "sources": [
+          "Associated Press",
+          "Times of India",
+          "Al Jazeera",
+          "Middle East Eye"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-blockade-hormuz-april-13-2026-ed7a6cd4bc61dc47f317a2c82afcc1c9",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US Central Command say more than 10,000 armed forces members, as well as warships and planes, are involved in blockade.",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjj634iwsd2h"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 85,
+        "topic": "Oil Prices US-Iran Talks",
+        "domain": "commodities",
+        "headline": "Oil Falls Asian Markets Surge Iran Peace Hopes",
+        "summary": "Crude prices dropped for second day while Asian stock markets surged on renewed hopes for US-Iran peace talks. Oil fell from Monday's $100+ spike as Trump indicated Iranian officials are keen on a deal.",
+        "signal": "Sustained peace talks progress could trigger major oil price correction, benefiting global inflation outlook and equity markets.",
+        "sources": [
+          "BBC News",
+          "Al Jazeera",
+          "LiveMint",
+          "The Hindu Business"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cjr9qrnp821o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 82,
+        "topic": "China Vice FM Dismissal",
+        "domain": "geopolitics",
+        "headline": "China Dismisses Vice Foreign Minister Sun Weidong",
+        "summary": "Vice Foreign Minister Sun Weidong suddenly dismissed amid broader wave of removals in China's ongoing anticorruption campaign. The dismissal comes during critical period of US-Iran conflict and China's diplomatic positioning.",
+        "signal": "Leadership changes in China's foreign ministry could signal policy shifts or internal power struggles affecting international relations.",
+        "sources": [
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/14/china-dismisses-vice-minister-of-foreign-affairs-sun-weidong",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 80,
+        "topic": "AAP MP ED Raids",
+        "domain": "india",
+        "headline": "ED Raids AAP MP Ashok Mittal Properties",
+        "summary": "Enforcement Directorate conducts raids at AAP Rajya Sabha MP Ashok Mittal's residence and Lovely Professional University under FEMA violations probe. Kejriwal claims action is preparation for Punjab polls targeting recently appointed deputy leader.",
+        "signal": "Watch for broader crackdown on AAP ahead of Punjab elections and potential impact on party's political standing.",
+        "sources": [
+          "Times of India",
+          "The Hindu",
+          "Indian Express",
+          "NDTV News"
+        ],
+        "source_url": "https://www.thehindu.com/news/national/ed-raids-at-business-entities-linked-to-aap-mp-ashok-mittal-in-punjab/article70863944.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 80,
+        "topic": "Bihar BJP Chief Minister",
+        "domain": "india",
+        "headline": "Samrat Choudhary Becomes BJP's First Bihar CM",
+        "summary": "Samrat Choudhary sworn in as Bihar's new Chief Minister, marking BJP's first leader to hold the state's top post. This historic transition follows Nitish Kumar's departure after over two decades of leadership.",
+        "signal": "BJP's first CM in Bihar signals major political realignment in crucial eastern state ahead of national elections.",
+        "sources": [
+          "Times of India",
+          "NDTV News"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/first-bjp-cm-in-bihar-samrat-choudhary-takes-oath/articleshow/130273548.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 78,
+        "topic": "Evergrande Founder Fraud Guilty",
+        "domain": "markets",
+        "headline": "Evergrande Founder Pleads Guilty to Fraud Charges",
+        "summary": "Founder of China's once-largest real estate firm Evergrande pleads guilty to fraud charges. The company previously had a stock market valuation of more than $50 billion before its collapse.",
+        "signal": "Resolution of Evergrande case may provide clarity for Chinese property sector recovery and broader debt restructuring precedents.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cn788ymy5gno",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 75,
+        "topic": "Orb\u00e1n Election Defeat Hungary",
+        "domain": "europe",
+        "headline": "Young Hungarians Vote End Orb\u00e1n's 16-Year Rule",
+        "summary": "Many young Hungarians voted to end Prime Minister Viktor Orb\u00e1n's 16-year grip on power in Sunday's bombshell election outcome. The result marks a dramatic shift in Hungarian politics with youth leading the change.",
+        "signal": "Orb\u00e1n's departure removes major EU disruptor but leaves questions about Hungary's future European integration path.",
+        "sources": [
+          "Associated Press",
+          "Politico Europe"
+        ],
+        "source_url": "https://apnews.com/photo-gallery/hungary-election-youth-orban-magyar-f551706b019eb1e534280590a406088d",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 72,
+        "topic": "US Congress Resignations",
+        "domain": "geopolitics",
+        "headline": "Two US House Members Resign Amid Scandals",
+        "summary": "Republican Rep. Tony Gonzales of Texas and Democratic Rep. Eric Swalwell of California both announce resignations from Congress amid bipartisan calls. Gonzales cited affair with staff member who died by suicide; Swalwell faces sexual assault allegations.",
+        "signal": "Congressional turmoil may affect narrow party margins and upcoming legislative priorities in Trump's second term.",
+        "sources": [
+          "Associated Press",
+          "Wall Street Journal"
+        ],
+        "source_url": "https://apnews.com/article/congress-gonzales-retirement-affair-3791f1a1eefe9fabfeb1647bc7bb0b0f",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 70,
+        "topic": "Trump Pope Conflict",
+        "domain": "geopolitics",
+        "headline": "Trump Attacks Pope Leo Over Iran War",
+        "summary": "President Trump engaged in verbal assault on Pope Leo XIV, the first American pope, over Vatican's peace appeals regarding Iran war. Pope responds that Vatican message is rooted in Gospel, not direct attack on Trump but call for peace.",
+        "signal": "Religious-political tensions could affect Trump's Catholic voter base and complicate diplomatic relations with Vatican.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera"
+        ],
+        "source_url": "https://apnews.com/article/pope-leo-xiv-02f6b4554ea4b83af02af15987ae1f2d",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 65,
+        "topic": "Hezbollah Lebanon-Israel Talks",
+        "domain": "middleeast",
+        "headline": "Hezbollah Opposes Lebanon-Israel Washington Talks",
+        "summary": "Hezbollah leader Naim Qassem urges Lebanon's government to cancel direct talks with Israel scheduled in Washington. He calls negotiations a 'free concession' to Israel and criticizes Lebanon's diplomatic approach.",
+        "signal": "Hezbollah resistance to talks could derail broader Middle East peace efforts and maintain regional tensions.",
+        "sources": [
+          "Al Jazeera",
+          "Associated Press"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 55,
+        "topic": "Suntory Daiichi Sankyo Deal",
+        "domain": "corporate",
+        "headline": "Suntory Buys Daiichi Sankyo OTC Unit",
+        "summary": "Suntory Holdings acquiring Daiichi Sankyo's over-the-counter drug unit for reported 2000 billion yen to expand health business. Deal includes major brands like Loxonin pain relief and Gaster stomach medicine.",
+        "signal": "Major pharma consolidation in Japan signals sector restructuring and Suntory's diversification beyond beverages.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/business/business-deals/suntory-holdings-to-buy-daiichi-sankyo-s-otc-unit-to-expand-health-business",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u3010\u65e5\u7d4c\u7279\u5831\u3011\u30b5\u30f3\u30c8\u30ea\u30fcHD\u3001\u7b2c\u4e00\u4e09\u5171\u306e\u5e02\u8ca9\u85ac\u5b50\u4f1a\u793e\u3092\u8cb7\u53ce\u30002000\u5104\u5186\u898f\u6a21",
+            "score": 43,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjixrgfeyp2j"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 50,
+        "topic": "Novo Nordisk OpenAI Partnership",
+        "domain": "corporate",
+        "headline": "Novo Nordisk Partners OpenAI for Drug Development",
+        "summary": "Novo Nordisk will integrate OpenAI's artificial intelligence across the company to accelerate development of new obesity drugs. The partnership aims to speed pharmaceutical research and development processes.",
+        "signal": "AI-pharma partnerships could revolutionize drug discovery timelines and reshape competitive dynamics in obesity treatment market.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/novo-taps-openai-to-speed-development-of-new-obesity-drugs",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 45,
+        "topic": "Iran Chinese Spy Satellite",
+        "domain": "geopolitics",
+        "headline": "Iran Used Chinese Satellite Target US Bases",
+        "summary": "Iran secretly acquired Chinese spy satellite capability to target US military bases across Middle East during conflict. The intelligence cooperation highlights deepening Iran-China strategic partnership amid US pressure.",
+        "signal": "China-Iran intelligence sharing could complicate US military positioning and require enhanced base security protocols.",
+        "sources": [
+          "Economic Times",
+          "Middle East Eye"
+        ],
+        "source_url": "https://economictimes.indiatimes.com/news/defence/iran-used-chinese-spy-satellite-to-target-us-bases/articleshow/130273600.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 40,
+        "topic": "Xi China Spain Relations",
+        "domain": "geopolitics",
+        "headline": "Xi Promotes China-Spain Ties Counter Global Disarray",
+        "summary": "Chinese President Xi Jinping touted shared principles with Spain during PM Pedro S\u00e1nchez's visit to counter global disorder. Both sides have criticized US-Israeli attacks on Iran and called for peace.",
+        "signal": "China building European coalition against US Middle East policy could fragment Western unity on Iran sanctions.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/china-s-xi-urges-closer-spain-ties-to-counter-global-disarray",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 35,
+        "topic": "Indonesia US Defense Agreement",
+        "domain": "geopolitics",
+        "headline": "Indonesia US Sign Major Defense Cooperation Deal",
+        "summary": "Indonesia and United States sign 'major' defense cooperation agreement following reports that US is seeking overflight access for military planes. The partnership strengthens bilateral security ties in strategic Southeast Asian region.",
+        "signal": "Enhanced US-Indonesia defense cooperation could shift regional balance and provide strategic access in contested South China Sea.",
+        "sources": [
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 30,
+        "topic": "Benin Presidential Election",
+        "domain": "geopolitics",
+        "headline": "Ex-Deloitte Executive Wins Benin Presidential Vote",
+        "summary": "Finance Minister Romuald Wadagni, former Deloitte executive, secured landslide victory in West African Benin's presidential election on April 12. The result marks significant political transition in the region.",
+        "signal": "Business-oriented leadership in Benin could attract foreign investment and influence broader West African economic policies.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/ex-deloitte-executive-wins-benin-presidential-vote-by-landslide",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 48,
+        "topic": "Trump Italy Meloni Criticism",
+        "domain": "geopolitics",
+        "headline": "Trump Criticizes Italy PM Meloni Over Iran",
+        "summary": "President Trump told Italian newspaper that PM Giorgia Meloni, one of his closest allies, lacked courage for failing to join US in attacking Iran. The criticism strains relations with key European ally.",
+        "signal": "Tensions with Italy could weaken NATO unity and European support for US Middle East strategy.",
+        "sources": [],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "High-profile diplomatic rift with close ally signals potential broader strain in Trump's European relationships over Iran policy.",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US President Donald Trump told an Italian newspaper that PM Giorgia Meloni, one of his closest allies, lacked courage for failing to join the US in attacking Iran.",
+            "score": 44,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjj66ibpck22"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 19,
+        "score": 43,
+        "topic": "Tokyo DisneySea 25th Anniversary",
+        "domain": "japan",
+        "headline": "Tokyo DisneySea Celebrates 25 Years Foreign Growth",
+        "summary": "Tokyo DisneySea marks 25th anniversary with 'Sparkling Jubilee' celebration as international visitors increasingly fuel park growth. Foreign tourism becomes key driver for Japanese theme park sector recovery.",
+        "signal": "Japan's tourism recovery strength could indicate broader economic resilience and yen competitiveness trends.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/business/travel-leisure/tokyo-disneysea-celebrates-25-years-as-foreigners-increasingly-fuel-growth",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u6771\u4eac\u30c7\u30a3\u30ba\u30cb\u30fc\u30b7\u30fc\u304c\u958b\u696d25\u5468\u5e74\u3000\u300c\u9b45\u529b\u3092\u62e1\u5927\u3001\u30b2\u30b9\u30c8\u306b\u611f\u8b1d\u300d",
+            "score": 43,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjiz2gjf7r2n"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 26,
+        "topic": "Iraq Tanker Hormuz Transit",
+        "domain": "commodities",
+        "headline": "Iraq-Bound Tanker Crosses Strait of Hormuz",
+        "summary": "Iraq-bound supertanker successfully sailed through Strait of Hormuz westbound, potentially the first to head west through contested waterway during current tensions. Transit tests effectiveness of US blockade enforcement.",
+        "signal": "Successful tanker transits could indicate gaps in US blockade or negotiated exceptions affecting oil market calculations.",
+        "sources": [],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "First reported tanker transit through contested waterway could signal blockade limitations or evolving enforcement strategy.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "An Iraq-bound supertanker that aborted a weekend attempt to cross the Strait of Hormuz into the Persian Gulf is now sailing through the waterway, that would make it the first to head west through cond",
+            "score": 26,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjja347eot2t"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-14T21:14:05.988950+00:00",
     "timestamp_ist": "15 Apr 2026 \u00b7 02:44 IST",
     "story_count": 21,
@@ -14952,328 +15377,6 @@
         ],
         "trend": "stable",
         "breaking_on_social": true
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-10T20:07:20.222405+00:00",
-    "timestamp_ist": "11 Apr 2026 \u00b7 01:37 IST",
-    "story_count": 15,
-    "avg_score": 77,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 87,
-        "topic": "US-Iran Ceasefire Talks Pakistan",
-        "domain": "geopolitics",
-        "headline": "US-Iran ceasefire talks begin Pakistan amid rising tensions",
-        "summary": "Vice President JD Vance leads US delegation to Pakistan for crucial ceasefire talks with Iran as tensions escalate over Lebanon attacks. Trump warns of military action if negotiations fail, while Iran insists on preconditions including Lebanon ceasefire.",
-        "signal": "Watch for breakdown in talks given Iran's Lebanon demands and Trump's military threats.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "Times of India",
-          "The Hindu",
-          "@aljazeera.com",
-          "@bloomberg.com"
-        ],
-        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-09-2026",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "BREAKING: Pakistan's PM Shehbaz Sharif says the country hosting the US-Iran talks is \"not just a proud moment for Pakistan but for the entire Muslim world.\"",
-            "score": 53,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj5vw7voas2q"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "New tensions emerge before US-Iran war ceasefire talks in Pakistan",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj64e6lzaw22"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "President Donald Trump's insistence that Iran reopen the Strait of Hormuz as the two sides head for diplomatic talks this weekend is having no effect",
-            "score": 40,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mj62p2cygz2t"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 2,
-        "score": 85,
-        "topic": "Putin Orthodox Easter Ceasefire",
-        "domain": "geopolitics",
-        "headline": "Putin declares brief Russian ceasefire for Orthodox Easter",
-        "summary": "Russian President Vladimir Putin announced a brief ceasefire to mark Orthodox Easter, beginning Saturday 4 p.m. through Sunday. The announcement comes amid ongoing conflict as Russia continues military operations.",
-        "signal": "Monitor whether ceasefire holds and potential for extended diplomatic opening.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/putin-declares-brief-russian-ceasefire-for-orthodox-easter",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 84,
-        "topic": "Melania Trump Epstein Denial",
-        "domain": "geopolitics",
-        "headline": "Melania Trump denies Epstein ties in rare statement",
-        "summary": "First Lady Melania Trump issued a rare public statement denying any connection to Jeffrey Epstein and called for congressional hearings for survivors. Multiple wire services covered the unusual White House statement.",
-        "signal": "Watch for congressional response and potential Epstein investigation developments.",
-        "sources": [
-          "Bloomberg",
-          "BBC News",
-          "Associated Press",
-          "@theguardian.com"
-        ],
-        "source_url": "https://apnews.com/article/melania-trump-white-house-epstein-1df98e9902386609608886f7bd256980",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "Trump's war and Melania's Epstein statement, with US editor Betsy Reed \u2013 The Latest",
-            "score": 31,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mj633gzi242q"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 81,
-        "topic": "Democrats Trump Impeachment Threats",
-        "domain": "geopolitics",
-        "headline": "Democrats discuss removing Trump over Iran threats",
-        "summary": "Dozens of Democratic lawmakers are calling for Trump's removal from office after he threatened Iranian civilization would 'die' if demands aren't met. The episode has unleashed demands for opposition to the Republican president.",
-        "signal": "Monitor for formal impeachment proceedings and Republican response.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/trump-iran-threats-democrats-impeachment-ea13fc589d1dd75e552de883f2e86e71",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 80,
-        "topic": "Polymarket Iran War Betting",
-        "domain": "markets",
-        "headline": "Congress probes well-timed Iran war bets on Polymarket",
-        "summary": "Congressional calls for investigations into Polymarket after AP reported 50 new accounts placed substantial Iran ceasefire bets hours before President Trump's announcement. Questions raised about insider trading in prediction markets.",
-        "signal": "Watch for regulatory action on prediction markets and insider trading probes.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/polymarket-kalshi-trump-iran-prediction-congress-d16d7bdf9a56cc1466b44baaf634aeeb",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 79,
-        "topic": "DOJ NFL Investigation",
-        "domain": "corporate",
-        "headline": "Justice Department opens exclusive investigation into NFL",
-        "summary": "Wall Street Journal reports DOJ has opened an investigation into the National Football League. Details of the investigation scope remain unclear.",
-        "signal": "Monitor for antitrust or other regulatory issues facing major sports leagues.",
-        "sources": [
-          "The Wall Street Journal"
-        ],
-        "source_url": "https://www.wsj.com/sports/football/nfl-investigation-justice-department-8835a936?mod=hp_trendingnow_article_pos5",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 78,
-        "topic": "IMF Iran War Inflation",
-        "domain": "macro",
-        "headline": "IMF warns Iran war driving lasting inflation crisis",
-        "summary": "IMF cuts global growth forecast and warns of lasting economic damage from US-Israel war on Iran, with oil and gas price surges damaging energy infrastructure. Fund preparing \u20ac42.9bn emergency aid as 45 million face food insecurity.",
-        "signal": "Expect prolonged inflationary pressure and potential Fed policy shifts.",
-        "sources": [
-          "Al Jazeera English",
-          "Euronews Business"
-        ],
-        "source_url": "https://www.aljazeera.com/economy/2026/4/9/imf-warns-of-looming-inflation-crisis-on-back-of-us-israel-war-on-iran",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 77,
-        "topic": "UK Russian Submarine Tracking",
-        "domain": "geopolitics",
-        "headline": "UK tracks three Russian submarines in covert operation",
-        "summary": "British Defence Minister says operation tracked three Russian submarines but found no evidence of damage to UK undersea infrastructure. Operation monitored potential threats to Atlantic cables and pipelines.",
-        "signal": "Watch for escalating undersea warfare concerns and infrastructure protection measures.",
-        "sources": [
-          "Al Jazeera English",
-          "BBC News"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/9/uk-says-three-russian-submarines-tracked-during-covert-operation",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 76,
-        "topic": "OpenAI UK Investment Pause",
-        "domain": "corporate",
-        "headline": "OpenAI pauses UK investment over energy costs regulation",
-        "summary": "OpenAI has paused a major UK investment deal citing energy costs and regulatory concerns. The project was part of a package promising the UK could become an AI superpower.",
-        "signal": "Monitor UK's AI competitiveness and regulatory approach to tech investment.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/clyd032ej70o",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 75,
-        "topic": "Oil Prices Iran Ceasefire",
-        "domain": "commodities",
-        "headline": "Oil prices volatile as Iran ceasefire fragility emerges",
-        "summary": "Oil prices rose as traders eye fragile ceasefire deal after initial plunge Wednesday when Iran deal was announced. Strait of Hormuz opening remains key issue as transit still limited.",
-        "signal": "Expect continued oil volatility tied to ceasefire sustainability and shipping lane access.",
-        "sources": [
-          "BBC News",
-          "Nikkei Asia"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cq6j0rnvlzeo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 74,
-        "topic": "Israel Lebanon Strikes Ceasefire",
-        "domain": "geopolitics",
-        "headline": "Israeli Lebanon strikes threaten fragile Iran ceasefire",
-        "summary": "Israel killed 254 people in Lebanon strikes including 13 state security members, shaking Trump-Tehran ceasefire just hours after announcement. Democrats warn ceasefire must apply to Lebanon to prevent regional war reignition.",
-        "signal": "Watch for ceasefire collapse if Lebanon attacks continue despite diplomatic progress.",
-        "sources": [
-          "Al Jazeera English",
-          "Middle East Eye"
-        ],
-        "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 73,
-        "topic": "Live Nation Antitrust Trial",
-        "domain": "corporate",
-        "headline": "Live Nation jury weighs monopoly breakup case",
-        "summary": "New York jury deciding whether Live Nation Entertainment and Ticketmaster should be broken up heard company defend itself as 'fierce competitor' while states called it a 'monopolistic bully'. Major antitrust case for entertainment industry.",
-        "signal": "Monitor for potential breakup precedent affecting other tech platform monopolies.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/live-nation-jury-to-weigh-proof-of-competitor-versus-bully",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 72,
-        "topic": "Indian Market Rally Relief",
-        "domain": "india",
-        "headline": "Indian markets log best weekly gain in years",
-        "summary": "Sensex recorded sharpest weekly gain since February 2021 with over 9% surge on global relief from ceasefire developments. Nifty 50 rose 1.16% to close at 24,050.60 while Sensex gained 1.2% to end at 77,550.25.",
-        "signal": "Watch for sustained rally if geopolitical tensions continue to ease globally.",
-        "sources": [
-          "LiveMint Markets",
-          "Hindu Business"
-        ],
-        "source_url": "https://www.livemint.com/market/pulse-of-the-street-markets-log-best-weekly-gain-in-5-years-on-global-relief-11775825697244.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 71,
-        "topic": "Nitish Kumar Rajya Sabha",
-        "domain": "india",
-        "headline": "Nitish Kumar takes RS oath, set to quit CM",
-        "summary": "Bihar Chief Minister Nitish Kumar took Rajya Sabha oath and is set to step down as CM, with BJP to pick his successor. Major political transition in key Indian state.",
-        "signal": "Monitor BJP's choice of successor and implications for Bihar politics ahead of elections.",
-        "sources": [
-          "Economic Times"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/news/politics-and-nation/nitish-kumar-takes-rajya-sabha-oath-set-to-step-down-as-bihar-cm-bjp-to-pick-successor/articleshow/130177822.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 70,
-        "topic": "Congress Middle East Policy",
-        "domain": "india",
-        "headline": "Congress welcomes Middle East ceasefire in policy meet",
-        "summary": "Congress held high-level meeting discussing Middle East war and policy issues, welcoming recent ceasefire. Party positioning itself on international affairs amid domestic political developments.",
-        "signal": "Watch Congress foreign policy positioning as opposition strategy for upcoming elections.",
-        "sources": [
-          "NDTV News"
-        ],
-        "source_url": "https://www.ndtv.com/india-news/israel-iran-war-congress-holds-high-level-meet-discusses-middle-east-war-policy-issues-11341051#publisher=newsstand",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
       }
     ],
     "social_count": 30
