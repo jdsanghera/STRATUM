@@ -1,5 +1,467 @@
 [
   {
+    "timestamp": "2026-04-15T10:47:01.707290+00:00",
+    "timestamp_ist": "15 Apr 2026 \u00b7 16:17 IST",
+    "story_count": 21,
+    "avg_score": 51,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 82,
+        "topic": "US Iran Blockade Peace Talks",
+        "domain": "geopolitics",
+        "headline": "US blockades Iran ports as diplomatic talks restart",
+        "summary": "The US has announced a complete blockade of Iranian ports following failed talks in Pakistan, while simultaneously pursuing new diplomatic efforts. Pakistan, Turkey and other mediators are working to arrange second-round talks as Trump claims Tehran wants a deal.",
+        "signal": "Watch for oil price movements and regional proxy escalations if diplomatic efforts collapse.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "The National (UAE)",
+          "Middle East Eye"
+        ],
+        "source_url": "https://apnews.com/article/iran-us-talks-ceasefire-36cd009a0b238fcad4665a5a02cc895e",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Hopes rose for renewed talks between the United States and Iran on Wednesday, as the U.S. military said its blockade of Iranian ports was in full effect and Tehran threatened to retaliate by strike ta",
+            "score": 44,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjjlun3uvo2d"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Trump to keep all options on the table if Iran does not abandon its nuclear ambitions and conclude a deal, according to US media, citing the White House.",
+            "score": 54,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjjmwizyqk22"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "British Chancellor Rachel Reeves says she is \"very frustrated and angry\" over the US's failure to set out a clear exit plan or objectives for the war on Iran, according to a UK media report.",
+            "score": 44,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjjkzsbh6s22"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 75,
+        "topic": "Israel Lebanon Direct Talks",
+        "domain": "geopolitics",
+        "headline": "Israel Lebanon hold first direct talks since 1993",
+        "summary": "Israel and Lebanon are conducting their first direct diplomatic talks in decades, scheduled for Washington following over a month of conflict with Hezbollah. The US-brokered effort faces challenges from Hezbollah's rejection of the process.",
+        "signal": "Monitor for Hezbollah reactions and potential regional proxy escalations that could derail negotiations.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://apnews.com/article/lebanon-israel-us-war-hezbollah-negotiations-28b207b800de1804d8c2ab5242237542",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 72,
+        "topic": "Trump Pope Leo Iran Dispute",
+        "domain": "geopolitics",
+        "headline": "Trump escalates verbal attack on Pope Leo over Iran",
+        "summary": "President Trump has intensified his public dispute with Pope Leo XIV, the first American pope, over the Iran war during Leo's historic visit to Algeria. The conflict highlights divisions among US Catholics who supported Trump but are dismayed by his attacks on the pontiff.",
+        "signal": "Watch for Catholic voter sentiment shifts and potential impact on Trump's domestic approval ratings.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "Politico Europe"
+        ],
+        "source_url": "https://apnews.com/article/donald-trump-pope-leo-what-they-said-c9a721a132f1941eaebc139e1213937d",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 68,
+        "topic": "Strait Hormuz Economic Impact",
+        "domain": "commodities",
+        "headline": "Hormuz blockade triggers global food crisis warnings",
+        "summary": "The FAO warns of a potential global food catastrophe if the Strait of Hormuz disruption persists, while Chinese-owned tankers attempt to transit despite the US blockade. The crisis is driving up energy costs and stoking economic uncertainty.",
+        "signal": "Position for commodity price spikes and supply chain disruptions in agriculture and energy sectors.",
+        "sources": [
+          "Al Jazeera English",
+          "Bloomberg"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 65,
+        "topic": "US Small Business Iran Impact",
+        "domain": "macro",
+        "headline": "US small business optimism hits year low on Iran",
+        "summary": "US small business optimism dropped to its lowest level in nearly a year as the Iran war pushed up energy costs and created economic uncertainty. The sentiment decline reflects broader concerns about the conflict's economic spillover effects.",
+        "signal": "Monitor small business lending conditions and potential Federal Reserve policy responses to economic uncertainty.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/us-small-business-optimism-drops-to-lowest-in-nearly-a-year",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 60,
+        "topic": "BlackRock Client Inflows ETFs",
+        "domain": "markets",
+        "headline": "BlackRock pulls in $130 billion despite Iran volatility",
+        "summary": "BlackRock attracted net $130 billion in client cash during the first quarter, with ETF flows continuing despite market volatility from the Iran war. The inflows demonstrate continued investor appetite for diversified exposure amid geopolitical uncertainty.",
+        "signal": "ETF flows remain resilient; watch for sector rotation within BlackRock's product suite.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/blackrock-pulls-in-130-billion-of-client-cash-driven-by-etfs",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "BlackRock urges investors to spread hedge fund bets amid market swings reut.rs/4cboIsC",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjjp4kg2q427"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 58,
+        "topic": "Johnson Johnson Earnings Beat",
+        "domain": "corporate",
+        "headline": "J&J beats expectations on strong cancer drug growth",
+        "summary": "Johnson & Johnson reported first-quarter sales above Wall Street expectations and raised its full-year outlook, driven by strong growth in new cancer medicines and a treatment-resistant depression drug. The pharmaceutical giant's performance demonstrates resilience amid broader market volatility.",
+        "signal": "Healthcare sector showing defensive strength; monitor other pharma earnings for sector-wide trends.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/j-j-sales-beat-expectations-on-strong-cancer-medicine-growth",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 55,
+        "topic": "Trump UK Trade Tensions",
+        "domain": "geopolitics",
+        "headline": "Trump threatens UK trade deal over Iran opposition",
+        "summary": "President Trump is threatening to unpick trade agreements with the UK over Prime Minister Starmer's opposition to the Iran war. The dispute adds strain to the US-UK special relationship as Chancellor Reeves arrives in Washington for IMF meetings.",
+        "signal": "Watch for GBP volatility and potential impacts on UK-focused investments amid deteriorating diplomatic relations.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/donald-trump-keir-starmer-threatens-unpick-trade-deal-iran-war-opposition/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 53,
+        "topic": "North Korea Nuclear Activity",
+        "domain": "geopolitics",
+        "headline": "UN flags sharp rise in North Korea nuclear capability",
+        "summary": "The IAEA chief warned of a \"very serious increase\" in North Korea's nuclear weapons production capability, with heightened activity at the Yongbyon complex and new uranium enrichment facilities under construction. The development comes amid broader regional tensions.",
+        "signal": "Monitor for increased sanctions discussions and potential military posturing in Northeast Asia.",
+        "sources": [
+          "Times of India",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/defence/international/very-serious-increase-un-watchdog-flags-sharp-rise-in-north-koreas-nuclear-activity-at-yongbyon/articleshow/130280495.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "North Korea boosting ability to manufacture nuclear arms, IAEA chief warns https://aje.news/iyw9uq",
+            "score": 50,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjjn5uzquz22"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 50,
+        "topic": "India US Trade Talks",
+        "domain": "geopolitics",
+        "headline": "Indian delegation visits Washington for trade talks April 20",
+        "summary": "An Indian official delegation will visit Washington next week for bilateral trade talks following a call between PM Modi and President Trump. The meetings hold significance as both countries have finalized frameworks for an interim trade agreement.",
+        "signal": "Watch for announcements on tariff reductions and technology transfer agreements that could impact US-India trade flows.",
+        "sources": [
+          "Times of India",
+          "Indian Express",
+          "NDTV News",
+          "NDTV Profit"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-talks-indian-team-to-visit-washington-from-april-20-move-follows-modi-trump-call/articleshow/130279827.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 48,
+        "topic": "India Stock Market Rally",
+        "domain": "markets",
+        "headline": "Indian markets surge on US-Iran peace talk hopes",
+        "summary": "Indian stock markets surged in early trade with the Sensex jumping 1,422 points and Nifty climbing 438 points amid hopes of resumed US-Iran peace talks. The rally reflects investor optimism about potential de-escalation of regional tensions.",
+        "signal": "Monitor sustainability of rally and potential profit-taking if diplomatic progress stalls.",
+        "sources": [
+          "The Hindu",
+          "LiveMint Markets"
+        ],
+        "source_url": "https://www.thehindu.com/business/markets/stock-markets-surge-in-early-trade-amid-hopes-of-resumption-of-us-iran-peace-talks/article70863921.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 46,
+        "topic": "Foreign Investment India Wariness",
+        "domain": "markets",
+        "headline": "Foreign investors grow wary of India over FX curbs",
+        "summary": "Foreign investors are becoming increasingly cautious about India due to foreign exchange restrictions affecting bonds and earnings risks in equities. The wariness reflects broader concerns about regulatory constraints on international capital flows.",
+        "signal": "Watch for continued FII outflows and potential policy responses from Indian authorities to restore investor confidence.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Foreign investors grow more wary of India as FX curbs hit bonds, earnings risks haunt equities reut.rs/4vxnjnE",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjjpoicnyx27"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 13,
+        "score": 45,
+        "topic": "Saudi Pakistan Financial Support",
+        "domain": "macro",
+        "headline": "Saudi Arabia extends $3 billion fresh Pakistan support",
+        "summary": "Saudi Arabia announced a fresh $3 billion deposit to Pakistan and extended existing $5 billion support over a longer period. The financial assistance aims to ease Pakistan's debt pressure amid economic challenges.",
+        "signal": "Monitor Pakistan's currency stability and potential for reduced default risk with Saudi backing.",
+        "sources": [
+          "NDTV Profit",
+          "The National (UAE)"
+        ],
+        "source_url": "https://www.ndtvprofit.com/world/saudi-arabia-commits-fresh-3-billion-deposit-to-pakistan-extends-5-billion-support-11360086#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 44,
+        "topic": "Ukraine Russia Missile Attack",
+        "domain": "geopolitics",
+        "headline": "Russia launches 300+ drones missiles at Ukraine overnight",
+        "summary": "Russia launched 324 drones and three ballistic missiles at Ukraine overnight in one of the largest recent attacks. The escalation comes amid broader regional tensions and questions about sustained Western military support.",
+        "signal": "Watch for NATO response measures and potential impacts on European defense spending commitments.",
+        "sources": [
+          "The Hindu"
+        ],
+        "source_url": "https://www.thehindu.com/news/international/russia-launches-more-than-300-drones-missiles-at-ukraine-overnight/article70864722.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 42,
+        "topic": "Air India Financial Crisis",
+        "domain": "corporate",
+        "headline": "Air India seeks funds after $2.4 billion loss",
+        "summary": "Air India reported a wider-than-expected annual loss of over $2.4 billion, prompting the company to seek financial aid from shareholders Tata Group and Singapore Airlines. The massive loss highlights ongoing restructuring challenges at the state-owned carrier.",
+        "signal": "Watch for potential asset sales or deeper restructuring that could impact Indian aviation sector consolidation.",
+        "sources": [
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/companies/news/air-india-asks-tata-singapore-air-for-funds-after-2-4-billion-loss-11776237834047.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 40,
+        "topic": "Vietnam Currency Intervention",
+        "domain": "macro",
+        "headline": "Vietnam central bank ready to intervene for dong stability",
+        "summary": "Vietnam's central bank stated it's prepared to intervene to ensure foreign exchange market stability while vowing to contain inflation and improve banking system liquidity. The announcement reflects broader emerging market currency pressures amid global uncertainty.",
+        "signal": "Monitor for actual intervention actions and potential spillover to other ASEAN currencies facing similar pressures.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/vietnam-ready-to-act-to-stabilize-dong-will-boost-liquidity",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 38,
+        "topic": "Spain Business Confidence Drop",
+        "domain": "macro",
+        "headline": "Spain business confidence falls most since 2022",
+        "summary": "Spain's business confidence fell 2.3% in the second quarter, the biggest decline since late 2022, according to national statistics. The survey showed 21% of businesses expect unfavorable conditions ahead.",
+        "signal": "Watch for potential ECB policy implications and broader Eurozone sentiment indicators.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/spain-business-confidence-falls-2-3-in-2q-most-since-4q-2022",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 36,
+        "topic": "Luxury Stocks Iran War Impact",
+        "domain": "markets",
+        "headline": "Hermes Kering shares sink as Iran war knocks luxury",
+        "summary": "Luxury stocks including Hermes and Kering declined as the Iran war impacts the sector's recovery prospects. The conflict is creating uncertainty about consumer spending in key markets.",
+        "signal": "Monitor luxury consumption data from key markets and potential earnings guidance revisions.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Hermes, Kering shares sink as Iran war knocks luxury revival reut.rs/4sFDixB",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjjoum2be52b"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 19,
+        "score": 35,
+        "topic": "China Solar Equipment Export Curbs",
+        "domain": "geopolitics",
+        "headline": "China weighs export curbs on solar equipment to US",
+        "summary": "China is considering restrictions on exports of solar manufacturing equipment to the United States, according to exclusive reporting. The potential move would escalate trade tensions in the renewable energy sector.",
+        "signal": "Watch for US solar installation cost impacts and potential acceleration of domestic manufacturing incentives.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Exclusive: China weighs curbs on exports of solar manufacturing equipment to US reut.rs/3O4cV6j",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjjpfnwvpp2z"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 20,
+        "score": 32,
+        "topic": "Rep Tony Gonzales Retirement",
+        "domain": "geopolitics",
+        "headline": "Republican Rep Tony Gonzales announces retirement amid scandal",
+        "summary": "Republican Rep. Tony Gonzales of Texas announced he will retire from Congress amid bipartisan calls for his expulsion. Gonzales had already said he wouldn't seek reelection after admitting to an affair with a staff member who later died by suicide.",
+        "signal": "Watch for special election implications and potential shift in House Republican dynamics.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/congress-gonzales-retirement-affair-3791f1a1eefe9fabfeb1647bc7bb0b0f",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 21,
+        "score": 30,
+        "topic": "Eric Swalwell Campaign Collapse",
+        "domain": "geopolitics",
+        "headline": "California governor race continues after Swalwell campaign collapses",
+        "summary": "The race for California governor is moving forward after the dramatic downfall of Democratic U.S. Rep. Eric Swalwell, once a leading candidate to replace Gov. Gavin Newsom. Swalwell suspended his campaign and announced his resignation from Congress.",
+        "signal": "Monitor for impacts on California Democratic primary dynamics and potential candidate reshuffling.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/california-governor-swalwell-porter-steyer-democrats-ef083e5e5901e31b8bc2dcaf4144ad71",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-15T07:14:35.284488+00:00",
     "timestamp_ist": "15 Apr 2026 \u00b7 12:44 IST",
     "story_count": 20,
@@ -14944,482 +15406,5 @@
       }
     ],
     "social_count": 29
-  },
-  {
-    "timestamp": "2026-04-11T05:50:05.119843+00:00",
-    "timestamp_ist": "11 Apr 2026 \u00b7 11:20 IST",
-    "story_count": 20,
-    "avg_score": 59,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 84,
-        "topic": "Artemis II Moon Mission Return",
-        "domain": "geopolitics",
-        "headline": "NASA Artemis II astronauts return from historic moon flyby",
-        "summary": "Four Artemis II astronauts successfully splashed down in the Pacific Ocean after completing humanity's first lunar mission in over 50 years. The 10-day voyage set a new record for human distance from Earth at 252,756 miles.",
-        "signal": "Space achievements may drive geopolitical competition and defense technology advancement.",
-        "sources": [
-          "Associated Press",
-          "Bloomberg",
-          "BBC News",
-          "@bloomberg.com",
-          "@apnews.com",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://apnews.com/article/artemis-ii-launch-one-extraordinary-photo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "BREAKING: NASA's Artemis crew of four astronauts has splashed down in the Pacific Ocean, capping humanity's first return to the moon in more than 50 years",
-            "score": 53,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mj6knkektm2t"
-          },
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Artemis II's astronauts return to Earth, ending a record-breaking trip around the moon with a splashdown in the Pacific.",
-            "score": 41,
-            "url": "https://bsky.app/profile/apnews.com/post/3mj6kfow3mi2l"
-          },
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Artemis II astronauts emerge one-by-one from their moon capsule after returning to Earth with an ocean splashdown.",
-            "score": 31,
-            "url": "https://bsky.app/profile/apnews.com/post/3mj6pio4d362k"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Artemis II splashdown: Astronauts return to Earth after lunar mission",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj6osatgls2f"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 82,
-        "topic": "US-Iran Peace Talks Pakistan",
-        "domain": "geopolitics",
-        "headline": "US-Iran peace talks begin in fortified Islamabad",
-        "summary": "High-stakes negotiations between US and Iranian delegations commenced in Pakistan's heavily secured capital, aimed at ending their brutal war. Iran's delegation carried photos of children killed in US strikes, while deep mistrust threatens the fragile ceasefire talks.",
-        "signal": "Energy markets will swing dramatically based on progress or failure of these negotiations.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera English",
-          "The National (UAE)",
-          "Middle East Eye",
-          "@reuters.com"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/pakistan-takes-rare-global-stage-for-us-iran-peace-talks",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "US, Iran set for peace talks but doubts emerge over Lebanon, sanctions",
-            "score": 36,
-            "url": "https://bsky.app/profile/reuters.com/post/3mj74ila7x522"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 78,
-        "topic": "Strait Hormuz Shipping Crisis",
-        "domain": "commodities",
-        "headline": "Shipping remains minimal through Strait of Hormuz despite ceasefire",
-        "summary": "Critical oil transit route sees only trickle of traffic as Iran struggles to clear mines from waterway. Trump accuses Tehran of failing to meet ceasefire commitments to reopen the strategic passage.",
-        "signal": "Oil price volatility will persist until shipping normalizes through this critical chokepoint.",
-        "sources": [
-          "Al Jazeera English",
-          "Japan Times",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Trump says Washington will not accept Iran's imposition of a de facto toll booth system in the critical waterway.",
-            "score": 41,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj6virmvdt2f"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 75,
-        "topic": "Iran War Energy Impact",
-        "domain": "commodities",
-        "headline": "Iran war triggers global energy shock, inflation surge expected",
-        "summary": "Oil posts biggest weekly loss since 2020 ahead of peace talks while US inflation may jump to 3.4% due to gas price spikes. Crisis-scarred countries like Sri Lanka and Pakistan face renewed economic pressure from rising energy costs.",
-        "signal": "Monitor emerging market debt distress and Federal Reserve policy response to energy-driven inflation.",
-        "sources": [
-          "Associated Press",
-          "LiveMint Markets",
-          "Japan Times",
-          "@bloomberg.com"
-        ],
-        "source_url": "https://apnews.com/article/inflation-prices-gas-federal-reserve-trump-bf00c3105d5da88a0b01d9107ed4ecee",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "A farmer in Western Australia was playing sports with colleagues when news of the Iran war broke. Minutes later they were on their phones, scrambling to secure fuel.",
-            "score": 39,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mj747ycxff2a"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 72,
-        "topic": "Israeli Lebanon Strikes Ceasefire",
-        "domain": "geopolitics",
-        "headline": "Israeli strikes on Lebanon threaten US-Iran peace talks",
-        "summary": "Israeli attacks kill 1,953 in Lebanon since March while hospitals struggle with casualties and supply shortages. Iran warns time is running out as continued violence jeopardizes fragile ceasefire negotiations.",
-        "signal": "Any escalation in Lebanon could derail peace talks and reignite broader regional conflict.",
-        "sources": [
-          "Al Jazeera English",
-          "Middle East Eye",
-          "Times of India",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Lebanese Health Ministry says people killed in Israeli attacks since March 2 rises to 1,953 with 6,303 wounded.",
-            "score": 46,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj6lgyf2fx2y"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 68,
-        "topic": "Indian Rupee RBI Intervention",
-        "domain": "india",
-        "headline": "Rupee leads Asia gains after RBI speculation crackdown",
-        "summary": "Indian rupee becomes Asia's best-performing currency following central bank action against speculation. Most speculative positions unwound ahead of Friday's deadline as RBI successfully stabilizes the currency.",
-        "signal": "RBI intervention signals commitment to currency stability amid global energy shock volatility.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/rupee-leads-asia-gains-after-rbi-cracks-down-on-speculation",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 65,
-        "topic": "Polymarket Iran War Betting",
-        "domain": "markets",
-        "headline": "Congress demands probe into suspicious Iran ceasefire betting",
-        "summary": "At least 50 new Polymarket accounts placed substantial bets on US-Iran ceasefire hours before President Trump's announcement. Lawmakers call for investigations into potential insider trading on prediction markets.",
-        "signal": "Regulatory scrutiny of prediction markets could limit their growth and institutional adoption.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/polymarket-kalshi-trump-iran-prediction-congress-d16d7bdf9a56cc1466b44baaf634aeeb",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 62,
-        "topic": "China Battery Industry Capacity",
-        "domain": "corporate",
-        "headline": "China warns battery makers against excessive capacity expansion",
-        "summary": "Chinese authorities summon leading battery manufacturers for second time in three months to restrict capacity expansion. Iran war upheaval boosts overseas demand for one top Chinese battery storage maker's first-quarter profits.",
-        "signal": "Watch for consolidation in Chinese battery sector and supply chain disruption benefits.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/china-reminds-battery-makers-to-resist-excessive-capacity-growth",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 60,
-        "topic": "Melania Trump Epstein Denial",
-        "domain": "geopolitics",
-        "headline": "First Lady denies Epstein ties in surprise White House statement",
-        "summary": "Melania Trump delivered an unexpected White House address denying any relationship with Jeffrey Epstein and calling for congressional hearings for survivors. The statement aims to halt circulating rumors linking her to the convicted sex offender.",
-        "signal": "Political distraction could impact Trump administration focus on Iran negotiations.",
-        "sources": [
-          "Associated Press",
-          "BBC News",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://apnews.com/article/melania-trump-white-house-epstein-1df98e9902386609608886f7bd256980",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 58,
-        "topic": "Sam Altman Attack OpenAI",
-        "domain": "corporate",
-        "headline": "OpenAI CEO's home attacked with Molotov cocktail",
-        "summary": "San Francisco police arrested 20-year-old for throwing Molotov cocktail at Sam Altman's residence and making threats at OpenAI headquarters. Altman links the attack to growing AI anxiety while OpenAI identifies separate security issue with third-party tool.",
-        "signal": "Rising AI backlash could prompt increased security costs and regulatory pressure on tech leaders.",
-        "sources": [
-          "LiveMint Companies",
-          "NDTV Profit",
-          "@reuters.com"
-        ],
-        "source_url": "https://www.livemint.com/companies/people/sam-altmans-home-hit-by-molotov-cocktail-openai-ceo-shares-rare-family-photo-in-first-reaction-we-try-to-be-11775872359338.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "OpenAI identifies security issue involving third-party tool, says user data was not accessed",
-            "score": 46,
-            "url": "https://bsky.app/profile/reuters.com/post/3mj74rms5m22y"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 56,
-        "topic": "Alibaba AI Video Model",
-        "domain": "corporate",
-        "headline": "Stealth Alibaba video AI model tops global rankings",
-        "summary": "Mysterious video generation model developed by Alibaba team sweeps to top of global benchmarks on debut. The surprise development sends ripples across China's competitive AI industry landscape.",
-        "signal": "Chinese AI capabilities advancing faster than expected, potentially shifting global tech competition.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/stealth-alibaba-video-ai-model-tops-global-ranking-on-debut",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 54,
-        "topic": "Russia Ukraine Easter Truce",
-        "domain": "geopolitics",
-        "headline": "Russia and Ukraine agree Orthodox Easter ceasefire",
-        "summary": "Vladimir Putin announced truce lasting from Saturday afternoon through Easter Sunday. The temporary pause in fighting provides brief respite in the ongoing conflict between the two nations.",
-        "signal": "Monitor whether religious ceasefire creates opening for broader diplomatic engagement.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cn0wkkwev2vo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 52,
-        "topic": "Brazil US Arms Seizure",
-        "domain": "geopolitics",
-        "headline": "Brazil seizes 1,168 illicit US arms in past year",
-        "summary": "President Lula's government reports major seizure of illegal weapons imported from United States over 12-month period. The scale suggests significant arms trafficking flow between the two countries.",
-        "signal": "US-Brazil relations could face strain over arms trafficking and border security issues.",
-        "sources": [
-          "@aljazeera.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Large-scale arms seizures could indicate broader security cooperation issues between major regional partners.",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "President Lula's government said it has seized 1,168 illicit arms imported from the US in the last 12 months alone.",
-            "score": 52,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mj6n4m6b7v2z"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 14,
-        "score": 50,
-        "topic": "EU Travel Fingerprint System",
-        "domain": "europe",
-        "headline": "EU fingerprint travel rules launch for UK passengers",
-        "summary": "European Union's long-delayed Entry/Exit System finally comes into force, changing travel procedures for UK citizens. The new system requires fingerprints and photos for entry to 29 countries.",
-        "signal": "Post-Brexit travel friction could impact UK tourism and business travel patterns.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/c39rkpe8mj2o",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 48,
-        "topic": "US Military Draft Registration",
-        "domain": "geopolitics",
-        "headline": "US plans automatic military draft registration system",
-        "summary": "Proposed new rule would end decades of mandatory self-registration for Selective Service in America. The change comes amid rising global tensions and military recruitment challenges.",
-        "signal": "Automatic registration signals potential preparation for larger military mobilization needs.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cd6lx2lpl9xo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 46,
-        "topic": "Third Point CoStar Exit",
-        "domain": "corporate",
-        "headline": "Third Point abandons proxy fight, exits CoStar position",
-        "summary": "Activist investor Third Point will not pursue proxy battle at commercial real estate data company CoStar Group. The hedge fund has exited its position according to letter obtained exclusively.",
-        "signal": "Activist retreat suggests challenging environment for corporate governance campaigns.",
-        "sources": [
-          "@reuters.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Major activist investor pullbacks could signal reduced corporate governance pressure in current market.",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Exclusive: Third Point won't run proxy fight at CoStar, exits position, letter says",
-            "score": 46,
-            "url": "https://bsky.app/profile/reuters.com/post/3mj752lirn42m"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 17,
-        "score": 44,
-        "topic": "Democrats Trump Removal Calls",
-        "domain": "geopolitics",
-        "headline": "Democrats demand Trump removal over Iran threats",
-        "summary": "Dozens of Democratic lawmakers call for President's removal from office after threatening Iranian civilization would die if demands aren't met. The threats during peace talks have unleashed opposition demands for action against the Republican president.",
-        "signal": "Political instability could undermine US negotiating position in critical Iran talks.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/trump-iran-threats-democrats-impeachment-ea13fc589d1dd75e552de883f2e86e71",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 42,
-        "topic": "Global FII India Exodus",
-        "domain": "india",
-        "headline": "Foreign funds flee Indian stocks at record pace",
-        "summary": "Global investors dump Indian equities at unprecedented rate as energy shock from US-Iran war threatens growth outlook. The exodus reflects concerns about the world's fastest-growing major economy facing energy-driven headwinds.",
-        "signal": "Sustained FII outflows could pressure rupee and force RBI intervention despite recent stabilization.",
-        "sources": [
-          "LiveMint Markets"
-        ],
-        "source_url": "https://www.livemint.com/market/global-funds-flee-indian-stocks-at-record-pace-on-growth-fears-11775878617032.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 19,
-        "score": 40,
-        "topic": "Kim Jong Un China Ties",
-        "domain": "geopolitics",
-        "headline": "North Korea backs China's multipolar world push",
-        "summary": "Kim Jong Un emphasizes strengthening ties with Beijing in talks with Chinese Foreign Minister Wang Yi. The North Korean leader showcases tighter alliance bonds before Trump's upcoming China trip.",
-        "signal": "China-North Korea alignment could complicate US diplomatic efforts in Asia-Pacific region.",
-        "sources": [
-          "The Hindu",
-          "Japan Times",
-          "NDTV Profit"
-        ],
-        "source_url": "https://www.thehindu.com/news/international/north-korean-leader-kim-backs-chinas-push-for-multipolar-world-in-talks-with-foreign-minister/article70850045.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 20,
-        "score": 38,
-        "topic": "Lufthansa Strike Disruption",
-        "domain": "europe",
-        "headline": "Lufthansa strike cancels 500+ flights during Easter return",
-        "summary": "German airline faces significant disruptions from cabin crew walkout affecting major hubs. The strike hits travelers returning from Easter vacation, causing hundreds of flight cancellations.",
-        "signal": "European travel sector remains vulnerable to labor disruptions during peak periods.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/lufthansa-cabin-crew-strike-set-to-cancel-more-than-500-flights",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      }
-    ],
-    "social_count": 30
   }
 ]
