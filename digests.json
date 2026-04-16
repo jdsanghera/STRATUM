@@ -1,5 +1,441 @@
 [
   {
+    "timestamp": "2026-04-16T21:09:06.547338+00:00",
+    "timestamp_ist": "17 Apr 2026 \u00b7 02:39 IST",
+    "story_count": 20,
+    "avg_score": 59,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran War Blockade",
+        "domain": "geopolitics",
+        "headline": "US Blockade Fully Implemented as Trump Claims Iran Deal Close",
+        "summary": "The U.S. Navy has fully implemented a blockade of Iranian ports at the Strait of Hormuz, while President Trump claims Iran has agreed to surrender its uranium stockpile and that a deal ending the conflict is \"very close\". Pakistan is mediating talks between the US and Iran, with discussions of a 20-year suspension of Iran's nuclear program.",
+        "signal": "Watch for oil price volatility and European fuel shortages if blockade continues; potential market rally if nuclear deal materializes.",
+        "sources": [
+          "Associated Press",
+          "Times of India",
+          "Al Jazeera English",
+          "@bloomberg.com"
+        ],
+        "source_url": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-hormuz-15-april-2026-f1b02d16f81d6fdcf68c0ed16d7a719d",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Pakistan has stepped up efforts to ensure the US and Iran prolong a ceasefire that's set to end next week.",
+            "score": 31,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjnau3ncsh2u"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 78,
+        "topic": "Israel-Lebanon Ceasefire Deal",
+        "domain": "geopolitics",
+        "headline": "Trump Announces 10-Day Israel-Lebanon Ceasefire Agreement",
+        "summary": "President Trump announced a 10-day ceasefire between Israel and Lebanon, with Israeli strikes killing dozens in Lebanon hours before the truce takes effect. Saudi Arabia reportedly pressed the US to secure the ceasefire to preserve Iran negotiations.",
+        "signal": "Monitor for ceasefire violations and regional stability improvements; potential positive for regional markets if sustained.",
+        "sources": [
+          "The Hindu",
+          "Middle East Eye",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.com/news/2026/04/16/trump-iran-war-israel-lebanon-ceasefire-00876638",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 76,
+        "topic": "European Fuel Crisis",
+        "domain": "commodities",
+        "headline": "Europe Has Six Weeks Jet Fuel Left, Airlines Cancel Flights",
+        "summary": "The IEA chief warns Europe has only six weeks of jet fuel remaining due to the Strait of Hormuz crisis, with airlines already cancelling flights and grounding planes. Lufthansa is retiring 27 planes while KLM cuts 80 return flights from Amsterdam.",
+        "signal": "Critical supply chain disruption for European aviation and logistics sectors; potential energy sector opportunities.",
+        "sources": [
+          "Euronews Business",
+          "Politico Europe"
+        ],
+        "source_url": "http://www.euronews.com/my-europe/2026/04/16/europe-has-six-weeks-of-jet-fuel-left-caused-by-dire-strait-crisis-iea-chief-warns",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 75,
+        "topic": "Hungary Election Aftermath",
+        "domain": "europe",
+        "headline": "Orb\u00e1n Admits Defeat as Magyar Prepares Government Transition",
+        "summary": "Viktor Orb\u00e1n has broken his silence after Hungary's election defeat, admitting \"the opponent's message was stronger\" and that \"a political era has ended\". Incoming Prime Minister Peter Magyar says his government could be formed by mid-May and vows to overhaul state media.",
+        "signal": "Significant shift in EU dynamics with Hungary moving away from populist alignment; potential policy changes affecting regional cooperation.",
+        "sources": [
+          "Al Jazeera English",
+          "Politico Europe",
+          "@theguardian.com"
+        ],
+        "source_url": "https://www.politico.eu/article/political-era-ended-orban-breaks-silence-hungary-election-defeat/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Orb\u00e1n's defeat threatens to halt Hungarian support of populist right",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjna56a2o22f"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 72,
+        "topic": "US Markets Record High",
+        "domain": "markets",
+        "headline": "Wall Street Hits All-Time High on War Optimism",
+        "summary": "U.S. stocks hit a record with the S&P 500 rising 0.8% to eclipse its January high, gaining roughly 10% from late March lows. The rally is driven by hopes for Middle East ceasefire extension and strong earnings, with small-cap stocks also gaining traction.",
+        "signal": "Sustained risk-on sentiment if geopolitical tensions continue easing; watch for profit-taking at these elevated levels.",
+        "sources": [
+          "Associated Press",
+          "LiveMint Markets"
+        ],
+        "source_url": "https://apnews.com/article/stock-markets-trump-oil-iran-war-7659569791b1f5e108489360d18e50f1",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 70,
+        "topic": "Trump Economic Warfare Iran",
+        "domain": "geopolitics",
+        "headline": "Trump Administration Pivots to Economic Warfare Against Iran",
+        "summary": "The Trump administration is shifting toward economically focused warfare aimed at choking Tehran into submission rather than relying on bombs alone. Treasury Secretary Scott Bessent is leading the economic pressure campaign as part of the broader strategy.",
+        "signal": "Potential for sustained sanctions impact on global trade and energy markets; watch for secondary sanctions effects.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/trump-treasury-bessent-iran-sanctions-f45619d7ea3050bd4b1cdd9c3881ca2b",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 68,
+        "topic": "SpaceX Mega IPO Plans",
+        "domain": "corporate",
+        "headline": "SpaceX Plans Investor Site Visits for Record IPO",
+        "summary": "SpaceX is preparing to take potential anchor investors on tours of its marquee sites across America as Elon Musk's company targets the biggest ever market debut. The company is gearing up for what could be the largest IPO in history.",
+        "signal": "Major liquidity event approaching; watch for valuation impacts on space sector and private market multiples.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/spacex-plans-site-visits-for-large-investors-as-mega-ipo-nears",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 65,
+        "topic": "Fed Powell Firing Threat",
+        "domain": "macro",
+        "headline": "Trump Threatens to Fire Powell if Fed Chair Stays",
+        "summary": "President Trump has again threatened to fire Jerome Powell if the Federal Reserve Chair decides to stay on the central bank's governing board after his term as chair expires next month. Trump told Fox Business \"Well then I'll have to fire him, OK?\" regarding Powell's potential continuation.",
+        "signal": "Central bank independence under pressure; potential market volatility if Fed leadership changes accelerate.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/federal-reserve-jerome-powell-trump-16f1777a974cf0dece60d78abe4eb973",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 63,
+        "topic": "Pope Trump Religious Feud",
+        "domain": "geopolitics",
+        "headline": "Pope Leo Condemns War Religious Manipulation Amid Trump Rift",
+        "summary": "Pope Leo XIV issued his most explicit condemnation yet of the Trump administration's biblical invocation for war, saying the world \"is being ravaged by tyrants\" and condemning those who \"manipulate religion\" for conflict. The pontiff has been a vocal opponent of US and Israeli military operations against Iran.",
+        "signal": "Growing religious and moral opposition to war policy; potential impact on Catholic voter sentiment and international legitimacy.",
+        "sources": [
+          "BBC News",
+          "Politico Europe",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.politico.eu/article/pope-leo-says-world-ravaged-tyrants-donald-trump/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 62,
+        "topic": "China Savings Haven Status",
+        "domain": "macro",
+        "headline": "China's $51 Trillion Savings Boost Bonds During War",
+        "summary": "China's $51 trillion savings glut has fueled demand for its debt, entrenching its role as a haven as the Iran war drives global volatility. Chinese bonds are outperforming during the current geopolitical turmoil.",
+        "signal": "Alternative safe-haven emerging to US Treasuries; monitor for sustained capital flows into Chinese assets.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/china-s-51-trillion-savings-help-bonds-to-outperform-during-war",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 58,
+        "topic": "United American Airlines Merger",
+        "domain": "corporate",
+        "headline": "White House Withholds Judgment on United-American Merger Proposal",
+        "summary": "The White House declined to discuss United Airlines' proposal to merge with American Airlines, a tie-up that would raise significant antitrust concerns. The administration is withholding judgment on the potential mega-merger in the airline sector.",
+        "signal": "Major airline consolidation potential; antitrust scrutiny likely to intensify under current administration.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/white-house-declines-to-opine-on-possible-united-american-merger",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 55,
+        "topic": "Mexico Fracking Energy Independence",
+        "domain": "commodities",
+        "headline": "Mexico Eyes Fracking Plan to Reduce US Gas Dependence",
+        "summary": "Mexican President Claudia Sheinbaum wants to see more domestic natural gas production to ease longstanding dependence on US supplies, including potentially using fracking techniques. She believes fracking can sidestep major ecological concerns while boosting domestic energy security.",
+        "signal": "Potential disruption to North American energy trade patterns; environmental and regulatory risks to monitor.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/sheinbaum-eyes-fracking-plan-in-mexico-to-lessen-reliance-on-us-imports",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 52,
+        "topic": "Cuba Oil Blockade Impact",
+        "domain": "geopolitics",
+        "headline": "US Oil Blockade Threatens Cuban Cigar Industry Survival",
+        "summary": "Since January, the Trump administration has blocked foreign oil to Cuba as part of its economic warfare strategy. The island's famous cigar industry faces an existential crisis due to the severe energy shortage affecting production and curing processes.",
+        "signal": "Luxury goods supply chain disruption; potential premium pricing for existing Cuban tobacco inventory.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 50,
+        "topic": "Senate Iran War Powers",
+        "domain": "geopolitics",
+        "headline": "Senate Republicans Again Reject Iran War Limits Resolution",
+        "summary": "The Republican-led Senate has rejected the latest Democratic attempt to halt President Trump's war in Iran, turning aside a resolution requiring US force withdrawal until Congress authorizes further military action. This marks the fourth Senate War Powers vote since the conflict began.",
+        "signal": "Congressional oversight of war powers remains limited; sustained military engagement likely to continue.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://apnews.com/article/iran-war-trump-war-powers-8a47ef050f05d49677c5f4cf2f6bfbd4",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 48,
+        "topic": "CATL US Military List",
+        "domain": "corporate",
+        "headline": "CATL Seeks Removal from Pentagon Military Companies List",
+        "summary": "The world's largest electric-vehicle battery maker is pushing for removal from a Pentagon list of companies tied to China's military, in a campaign led by one of the firm's co-founders. The listing has cast a pall over CATL's US business prospects.",
+        "signal": "China-US tech decoupling continues; battery supply chain reorganization accelerating in EV sector.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/world-s-biggest-battery-maker-catl-seeks-relief-from-us-curbs",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 45,
+        "topic": "India Census Caste Listing",
+        "domain": "india",
+        "headline": "Amit Shah Confirms Census Will List Caste Data",
+        "summary": "Home Minister Amit Shah confirmed that India's upcoming census will include caste enumeration, while ruling out separate quotas for Muslim women. The announcement comes as Parliament debates the Women's Reservation Bill and delimitation exercises.",
+        "signal": "Major demographic and political implications for Indian reservation policies and electoral dynamics.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/census-will-list-caste-says-amit-shah-rules-out-muslim-womens-quota/articleshow/130317637.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 43,
+        "topic": "Madison Air NYSE Debut",
+        "domain": "markets",
+        "headline": "Madison Air Valued at $15.7 Billion on NYSE Debut",
+        "summary": "Airflow products maker Madison Air saw strong debut performance on NYSE with shares rising significantly. The company achieved a market valuation of $15.7 billion in its public market entry.",
+        "signal": "Industrial IPO market showing strength; potential sector rotation into infrastructure plays.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Notable IPO performance indicates continued appetite for industrial infrastructure investments despite market volatility.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Airflow products maker Madison Air valued at $15.7 billion as shares rise on NYSE debut",
+            "score": 48,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjncsjndgm2g"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 18,
+        "score": 43,
+        "topic": "QVC Bankruptcy Filing",
+        "domain": "corporate",
+        "headline": "QVC Owner Plans Chapter 11 Bankruptcy Filing",
+        "summary": "The owner of home shopping network pioneer QVC, which garnered millions of TV viewers seeking deals on baubles and housewares, is planning to file for Chapter 11 bankruptcy. The retail pioneer faces financial restructuring amid changing consumer habits.",
+        "signal": "Traditional retail model under severe stress; potential asset fire sales and sector consolidation ahead.",
+        "sources": [
+          "@apnews.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Major retail brand bankruptcy signals broader challenges for traditional television-based commerce models.",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "The owner of home shopping network pioneer QVC _ which for years garnered the attention of millions of TV viewers looking for a deal on baubles and housewares, is planning to file for Chapter 11 bankr",
+            "score": 43,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjncjomt4q2a"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 19,
+        "score": 40,
+        "topic": "Arxis Aerospace IPO Surge",
+        "domain": "markets",
+        "headline": "Arxis Surges in Nasdaq Debut Signaling Aerospace Demand",
+        "summary": "Aerospace company Arxis saw significant gains in its Nasdaq debut, signaling strong investor demand for aerospace IPOs. The performance indicates continued appetite for defense and aerospace sector investments.",
+        "signal": "Aerospace sector benefiting from geopolitical tensions; potential continued premium valuations for defense contractors.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Strong aerospace IPO performance suggests investors are positioning for sustained defense spending amid global conflicts.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Arxis surges in Nasdaq debut, signals strong demand for aerospace IPOs",
+            "score": 40,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjnclkbuq42c"
+          },
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Arxis surges in Nasdaq debut, signals strong demand for aerospace IPOs",
+            "score": 40,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjncacowyu2g"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 20,
+        "score": 36,
+        "topic": "Turkish School Shooting",
+        "domain": "geopolitics",
+        "headline": "Turkey School Shooting Kills 10 Students",
+        "summary": "Death toll has risen to 10 after a shooting by a 14-year-old student at the Ayser Calik School in Kahramanmaras, Turkey. The incident represents a rare but significant security incident in the Turkish education system.",
+        "signal": "Monitor for copycat incidents and security policy changes in regional education systems.",
+        "sources": [
+          "@aljazeera.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Rare but significant security incident that could influence regional education security policies and social stability concerns.",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Death toll rises to 10 after shooting by 14-year-old student at the Ayser Calik School in Kahramanmaras.",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjn3shugvt23"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 28
+  },
+  {
     "timestamp": "2026-04-16T20:12:50.319551+00:00",
     "timestamp_ist": "17 Apr 2026 \u00b7 01:42 IST",
     "story_count": 15,
@@ -14781,509 +15217,6 @@
         ],
         "trend": "rising",
         "breaking_on_social": false
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-12T06:16:37.631356+00:00",
-    "timestamp_ist": "12 Apr 2026 \u00b7 11:46 IST",
-    "story_count": 21,
-    "avg_score": 65,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 89,
-        "topic": "US-Iran War Ceasefire Talks",
-        "domain": "geopolitics",
-        "headline": "US-Iran talks fail after 21 hours in Pakistan",
-        "summary": "Vice President JD Vance and Iranian officials concluded marathon negotiations in Islamabad without reaching agreement on ceasefire or nuclear issues. Iran rejected US demands on nuclear commitments while disagreeing on sanctions relief and regional control.",
-        "signal": "Failed talks increase risk of renewed military escalation and prolonged energy crisis.",
-        "sources": [
-          "Associated Press",
-          "Bloomberg",
-          "Al Jazeera",
-          "Politico",
-          "@aljazeera.com",
-          "@bloomberg.com"
-        ],
-        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-11-2026",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "US Vice President JD Vance says the US and Iran have failed to reach an agreement after marathon talks in Islamabad. Follow the latest updates and analysis.",
-            "score": 50,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjbaqls5iw2b"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "US and Iran fail to reach peace deal after marathon talks in Pakistan",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjbodyczwj2b"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "US Vice President JD Vance says the US delegation has failed to reach an agreement with Iran after 21 hours of negotiations in Pakistan.",
-            "score": 55,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjbctghfns2v"
-          },
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Pakistan called on Iran and the United States to keep their commitment to maintain a ceasefire after the countries ended historic, face-to-face talks without an agreement.",
-            "score": 34,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjbj56z3kb2l"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 84,
-        "topic": "US-Iran War Energy Impact",
-        "domain": "commodities",
-        "headline": "Iran war drives global fuel shortages, inflation surge",
-        "summary": "Energy disruptions from the Middle East conflict threaten Asia's rice production and push US inflation to potentially 3.4% in March. Fuel shortages force farmers to leave harvest-ready fields idle across major growing regions.",
-        "signal": "Food security crisis brewing as energy costs cascade through global supply chains.",
-        "sources": [
-          "Bloomberg",
-          "Associated Press",
-          "Nikkei Asia"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/fuel-shortages-from-iran-war-threaten-asia-s-biggest-food-staple",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "South Korea close to securing oil supplies from Kazakhstan, minister says",
-            "score": 56,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjbl27esk527"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Three supertankers laden with oil exit waterway amid global energy crunch, shipping data shows.",
-            "score": 31,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjbmobucrp24"
-          },
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "'We're trapped': despair for sellers as Iran war knocks confidence in UK housing market",
-            "score": 31,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mjbonwi7sl2h"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 82,
-        "topic": "Indian Markets Iran Impact",
-        "domain": "india",
-        "headline": "Foreign funds dump Indian stocks at record pace",
-        "summary": "Global investors are fleeing Indian equities at unprecedented levels as the US-Iran war's energy shock threatens the world's fastest-growing major economy. Market analysts expect continued volatility as geopolitical tensions persist.",
-        "signal": "Watch for broader emerging market contagion if India's growth outlook deteriorates further.",
-        "sources": [
-          "Bloomberg",
-          "LiveMint"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/global-funds-flee-indian-stocks-at-record-pace-on-growth-fears",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Samson rediscovers form with match-winning century for Chennai in IPL",
-            "score": 40,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjbirg7ny226"
-          }
-        ],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 81,
-        "topic": "Japan AI Chip Investment",
-        "domain": "japan",
-        "headline": "Japan bets $16 billion on Rapidus AI chips",
-        "summary": "Japan approved $4 billion in additional subsidies for startup Rapidus Corp to accelerate entry into AI chipmaking. The government's total commitment reaches $16 billion for the project widely seen as challenging established players.",
-        "signal": "Japan's massive AI chip bet signals intensifying US-China tech competition spillover effects.",
-        "sources": [
-          "Bloomberg",
-          "Nikkei Asia"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/japan-bets-16-billion-to-propel-startup-rapidus-into-ai-chips",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\u304c\u56fd\u7523AI\u306e\u65b0\u4f1a\u793e\u8a2d\u7acb\u3001NEC\u3084\u30db\u30f3\u30c0\u306a\u30698\u793e\u51fa\u8cc7",
-            "score": 43,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjbeppjh6d2m"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 78,
-        "topic": "UK Defense Spending Politics",
-        "domain": "europe",
-        "headline": "Starmer plots higher UK defense spending amid leadership pressure",
-        "summary": "PM Keir Starmer plans to accelerate Britain's defense spending increases beyond current proposals, hoping security focus during escalating conflicts can prevent leadership challenge next month. The move comes as political pressure mounts on his administration.",
-        "signal": "UK political instability could affect NATO commitments and defense industrial orders.",
-        "sources": [
-          "Bloomberg",
-          "BBC News"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/starmer-plots-higher-uk-defense-spending-in-bid-to-save-his-job",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 76,
-        "topic": "Hungary Election Opposition Challenge",
-        "domain": "europe",
-        "headline": "Hungarian opposition leads polls against Orb\u00e1n",
-        "summary": "P\u00e9ter Magyar's opposition movement leads in polls as tens of thousands fill Budapest's Heroes' Square in final push before crucial vote. The election is widely seen as Europe's most consequential this year that could unseat populist PM Viktor Orb\u00e1n.",
-        "signal": "Orb\u00e1n defeat would reshape EU-Russia relations and NATO eastern flank dynamics.",
-        "sources": [
-          "BBC News",
-          "Associated Press"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/c0q9527y41lo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Hungarians were casting ballots in what is widely seen as Europe's most consequential election this year, a vote that could unseat populist Prime Minister Viktor Orb\u00e1n",
-            "score": 37,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjbkyzbinv2p"
-          },
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "Hungarians vote in hard-fought election that could oust Viktor Orb\u00e1n after 16 years",
-            "score": 28,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mjbonxrffk2a"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 75,
-        "topic": "OpenAI Musk Legal Battle",
-        "domain": "corporate",
-        "headline": "OpenAI accuses Musk of 'ambush' before $100B trial",
-        "summary": "OpenAI claims Elon Musk suddenly changed his lawsuit demands in a 'legal ambush' weeks before the major trial. The dispute involves Musk's allegations against the AI startup he co-founded.",
-        "signal": "Legal outcome could reshape AI industry governance and founder equity structures.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/openai-accuses-musk-of-ambush-as-100-billion-plus-trial-looms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 74,
-        "topic": "Artemis Moon Mission Return",
-        "domain": "geopolitics",
-        "headline": "Artemis II astronauts return after record moon flyby",
-        "summary": "Four astronauts successfully completed humanity's first lunar voyage in over 50 years, splashing down in the Pacific after testing heat shields during high-speed re-entry. The mission marks a leadoff in NASA's push toward lunar landing in two years.",
-        "signal": "Space race acceleration as geopolitical tensions drive national prestige projects.",
-        "sources": [
-          "Associated Press",
-          "BBC News",
-          "Al Jazeera"
-        ],
-        "source_url": "https://apnews.com/article/nasa-artemis-astronauts-moon-splashdown-16adc5450f0127a0743292ef30b239f1",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 72,
-        "topic": "Swalwell California Governor Scandal",
-        "domain": "geopolitics",
-        "headline": "Democrats pressure Swalwell to exit California governor race",
-        "summary": "Key Democrats call for Rep. Eric Swalwell to end his California gubernatorial campaign following sexual assault allegations. Swalwell denies the accusations but faces mounting party pressure for transparency and accountability.",
-        "signal": "California governor race reshuffling could affect Democratic 2028 presidential pipeline.",
-        "sources": [
-          "Wall Street Journal",
-          "Associated Press",
-          "Politico"
-        ],
-        "source_url": "https://www.wsj.com/politics/elections/democrats-pressure-swalwell-to-exit-california-governors-race-after-allegations-8dc9f56e?mod=hp_lead_pos4",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 70,
-        "topic": "Air India Tata Struggles",
-        "domain": "india",
-        "headline": "Tata warns Air India faces 'challenging time'",
-        "summary": "Tata Sons Chairman tells employees Air India is navigating difficult period as the carrier struggles to reverse record losses and fix operational failures. The warning highlights ongoing integration challenges since Tata's acquisition.",
-        "signal": "Air India troubles could signal broader Indian aviation sector stress amid fuel price spikes.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/tata-group-chair-tells-workers-air-india-faces-challenging-time",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 68,
-        "topic": "Melania Trump Epstein Denial",
-        "domain": "geopolitics",
-        "headline": "Melania Trump denies Epstein ties, sparks questions",
-        "summary": "First Lady Melania Trump issued statement denying any connection to Jeffrey Epstein, fighting 'unfounded and baseless lies' about links to the late financier. Her intervention places her at odds with administration efforts to end the investigation.",
-        "signal": "Epstein controversy resurging could complicate Trump administration's political agenda.",
-        "sources": [
-          "BBC News",
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/donald-melania-trump-statement-epstein-521c939210345312c2cd9584aeb2afd3",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 65,
-        "topic": "Prince Harry Charity Lawsuit",
-        "domain": "europe",
-        "headline": "Prince Harry sued by charity he co-founded",
-        "summary": "Prince Harry faces defamation lawsuit from Sentebale, the charity he co-founded but left last year following acrimonious management dispute. The legal action highlights tensions over the organization's direction.",
-        "signal": "Royal legal troubles could affect charitable sector governance standards.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cr517n2v7myo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 62,
-        "topic": "Trump Washington Triumphal Arch",
-        "domain": "geopolitics",
-        "headline": "Trump unveils plans for 250-foot golden arch",
-        "summary": "President Trump released detailed plans for new triumphal arch in Washington featuring towering winged figure with torch and crown, flanked by eagles and lions. The proposal faces legal and congressional hurdles as Trump reshapes capital's landscape.",
-        "signal": "Monument plans signal Trump's intention to leave permanent mark on Washington symbolism.",
-        "sources": [
-          "Associated Press",
-          "Politico"
-        ],
-        "source_url": "https://apnews.com/article/trump-arch-9ac0b34c18a8801d44a9ef2dbb23132b",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 58,
-        "topic": "Ukraine Russia Prisoner Swap",
-        "domain": "geopolitics",
-        "headline": "Ukraine Russia swap 175 prisoners during Easter ceasefire",
-        "summary": "Ukraine and Russia exchanged 175 war prisoners as Easter ceasefire begins, with the swap mediated by United Arab Emirates. The prisoner exchange provides rare diplomatic breakthrough amid ongoing conflict.",
-        "signal": "Prisoner swaps suggest potential for broader ceasefire negotiations despite war continuation.",
-        "sources": [
-          "Politico Europe"
-        ],
-        "source_url": "https://www.politico.eu/article/ukraine-russia-swap-175-war-prisoners-easter-ceasefire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 55,
-        "topic": "Oracle AI Infrastructure Strain",
-        "domain": "corporate",
-        "headline": "Oracle's AI build-out causes cash crunch, layoffs",
-        "summary": "Once a cash-generating software stalwart, Oracle has transformed into debt-heavy infrastructure builder with the strain showing through layoffs. The company's massive AI infrastructure investment is pressuring financial resources.",
-        "signal": "Oracle's struggles highlight capital intensity risks in AI infrastructure race.",
-        "sources": [
-          "LiveMint"
-        ],
-        "source_url": "https://www.livemint.com/companies/news/oracle-layoffs-india-oracle-job-cuts-11775824138456.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 52,
-        "topic": "Asha Bhosle Critical Condition",
-        "domain": "india",
-        "headline": "Legendary singer Asha Bhosle remains critical after cardiac arrest",
-        "summary": "Veteran playback singer Asha Bhosle, who recorded over 12,500 songs across eight decades, remains in critical condition following cardiac arrest. PM Modi has expressed concern over her health condition.",
-        "signal": "Health of cultural icons often triggers public sentiment shifts during political periods.",
-        "sources": [
-          "NDTV Profit",
-          "Economic Times"
-        ],
-        "source_url": "https://www.ndtvprofit.com/india/asha-bhosle-health-update-legendary-playback-singer-remains-in-critical-condition-following-cardiac-arrest-11345694#publisher=newsstand",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 48,
-        "topic": "Kamala Harris 2028 Presidential Bid",
-        "domain": "geopolitics",
-        "headline": "Kamala Harris teases 2028 presidential campaign",
-        "summary": "Former VP Kamala Harris told Al Sharpton she knows 'what it requires' to be president, fueling speculation about 2028 run. Black voters are questioning what it'll take to win the White House as Democratic names gather momentum.",
-        "signal": "Early 2028 positioning could reshape Democratic primary dynamics and donor networks.",
-        "sources": [
-          "Al Jazeera",
-          "Politico"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/10/democrat-kamala-harris-teases-2028-presidential-bid-following-trump-loss",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 45,
-        "topic": "Diego Garcia Handover Delay",
-        "domain": "geopolitics",
-        "headline": "UK shelves Diego Garcia deal after Trump opposition",
-        "summary": "UK government puts Chagos Islands handover on hold to appease Trump, who warned Starmer he was 'making a big mistake' giving over the strategic island. Officials say they haven't abandoned the agreement but ran out of time.",
-        "signal": "Strategic base decisions show Trump's influence on allied military positioning.",
-        "sources": [
-          "BBC News",
-          "Politico"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/c04x1lg1lygo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 19,
-        "score": 43,
-        "topic": "Meta Poaches OpenAI Talent",
-        "domain": "corporate",
-        "headline": "Former OpenAI Stargate leaders join Meta Platforms",
-        "summary": "Three key players in OpenAI's massive AI data center capacity effort are joining Meta Platforms. The talent migration involves leaders from the Stargate project worth hundreds of billions in AI infrastructure.",
-        "signal": "Tech talent wars intensifying as AI infrastructure competition heats up.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/former-openai-stargate-leaders-plan-to-join-meta-platforms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 20,
-        "score": 40,
-        "topic": "Israel Hezbollah Escalation",
-        "domain": "middleeast",
-        "headline": "Israel Hezbollah attacks intensify before crucial talks",
-        "summary": "At least 13 Lebanese security personnel killed in Israeli strike while Hezbollah claims attack on naval base in Ashdod. Escalation comes ahead of crucial US-Iran negotiations.",
-        "signal": "Regional escalation could derail diplomatic efforts and spread conflict.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/lebanon-israel-hezbollah-war-conflict-iran-talks-9b6faa0c2d139aca1faa451325a5c788",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Hundreds have rallied in Tel Aviv against the Israeli government, demanding an end to war and warning against what some describe as a cycle of never-ending conflict.",
-            "score": 40,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjbcza5eac2v"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 21,
-        "score": 47,
-        "topic": "Trump Fertilizer Price Gouging",
-        "domain": "commodities",
-        "headline": "Trump vows to prevent fertilizer price gouging",
-        "summary": "President Trump said he's monitoring fertilizer values closely and won't accept any 'price gouging' amid supply disruptions.",
-        "signal": "Government intervention in commodity pricing could signal broader market controls.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Trump's focus on fertilizer costs suggests administration concern over agricultural input inflation.",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "President Donald Trump said he's watching fertilizer values closely and won't accept any 'price gouging'",
-            "score": 47,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mja2fjlvzy2t"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
       }
     ],
     "social_count": 30
