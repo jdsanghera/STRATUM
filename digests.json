@@ -1,5 +1,484 @@
 [
   {
+    "timestamp": "2026-04-16T15:17:38.732688+00:00",
+    "timestamp_ist": "16 Apr 2026 \u00b7 20:47 IST",
+    "story_count": 22,
+    "avg_score": 55,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US Iran War Diplomacy",
+        "domain": "geopolitics",
+        "headline": "US-Iran war talks in Pakistan as blockade continues",
+        "summary": "Trump hints at second round of talks with Iran possibly in Pakistan while US maintains blockade of Iranian ports. Defense Secretary Hegseth warns Iran to accept peace deal or face continued strikes on infrastructure.",
+        "signal": "Watch for breakthrough or escalation as diplomatic window remains narrow amid ongoing blockade.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "The Hindu",
+          "Times of India",
+          "NDTV Profit"
+        ],
+        "source_url": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-hormuz-15-april-2026-f1b02d16f81d6fdcf68c0ed16d7a719d",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US urges resolution through talks, but says Washington 'locked and loaded' to resume attacks",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjmmpnb3wp2i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "topic": "Strait of Hormuz Blockade",
+        "domain": "commodities",
+        "headline": "Double blockade keeps Hormuz shipping at fraction levels",
+        "summary": "Shipping through Strait of Hormuz remains far below peacetime levels as effective double blockade stifles vessel movements. Ships resort to altering location data and information to navigate the crisis.",
+        "signal": "Oil supply disruptions could intensify if blockade extends beyond current timeframe.",
+        "sources": [
+          "Bloomberg",
+          "Nikkei Asia",
+          "The National"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/double-blockade-keeps-hormuz-shipping-at-fraction-of-peace-level",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 78,
+        "topic": "Europe Fuel Crisis",
+        "domain": "commodities",
+        "headline": "Europe has six weeks jet fuel left warns IEA",
+        "summary": "IEA chief Fatih Birol warns Europe has maybe six weeks of jet fuel remaining due to Strait of Hormuz crisis. Flight cancellations could begin within weeks if oil supplies are not restored.",
+        "signal": "Aviation sector faces imminent disruption if shipping routes remain blocked.",
+        "sources": [
+          "NDTV Profit",
+          "Euronews Business"
+        ],
+        "source_url": "http://www.euronews.com/my-europe/2026/04/16/europe-has-six-weeks-of-jet-fuel-left-caused-by-dire-strait-crisis-iea-chief-warns",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 75,
+        "topic": "US Markets Rally",
+        "domain": "markets",
+        "headline": "S&P 500 hits record on ceasefire optimism",
+        "summary": "S&P 500 on track for first record close since January amid ceasefire rally and optimism over US-Iran talks. Wall Street flirts with records following big two-week rally on war resolution hopes.",
+        "signal": "Market momentum could reverse quickly if diplomatic talks collapse.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "NDTV Profit",
+          "LiveMint"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/s-p-500-on-pace-for-record-close-as-ceasefire-rally-continues",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 72,
+        "topic": "Trump Fed Chair Threat",
+        "domain": "macro",
+        "headline": "Trump threatens to fire Powell after term expires",
+        "summary": "President Trump threatens to fire Jerome Powell if Fed Chair stays on governing board after his term expires next month. Trump told Fox Business 'Well then I'll have to fire him, OK?'",
+        "signal": "Fed independence under threat could trigger market volatility and policy uncertainty.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/federal-reserve-jerome-powell-trump-16f1777a974cf0dece60d78abe4eb973",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 70,
+        "topic": "Vedanta Plant Explosion",
+        "domain": "corporate",
+        "headline": "Vedanta plant blast death toll rises to 17",
+        "summary": "Death toll in Vedanta Ltd power plant explosion in eastern India rose sharply to 17, making it one of deadliest industrial disasters in recent times. Company begins internal probe into the incident.",
+        "signal": "Regulatory scrutiny and compensation costs could impact Vedanta operations and stock.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/vedanta-plant-blast-toll-rises-to-17-as-company-begins-probe",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 68,
+        "topic": "UK Ukraine Drone Support",
+        "domain": "geopolitics",
+        "headline": "UK pledges 120,000 drones for Ukraine priority",
+        "summary": "UK Defense Secretary John Healey promises 120,000 drones this year to Ukraine, calling drones Ukraine's priority in defending against Russian invasion. Represents stepped up British military support.",
+        "signal": "Escalating Western military aid could provoke stronger Russian response.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/uk-pledges-120-000-drones-for-ukraine-calling-it-priority",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 65,
+        "topic": "Wipro Results Buyback",
+        "domain": "corporate",
+        "headline": "Wipro approves Rs 15,000 crore buyback program",
+        "summary": "Wipro reports Q4 net profit decline of 2% YoY to Rs 3,502 crore but announces massive Rs 15,000 crore share buyback. Board approves buyback of up to 60 crore shares at 5.7% of equity capital.",
+        "signal": "Large buyback signals confidence but profit decline raises growth concerns.",
+        "sources": [
+          "LiveMint",
+          "NDTV Profit",
+          "Economic Times"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/wipro-q4-results-net-profit-falls-2-yoy-to-rs-3-502-crore-board-approves-rs-15-000-crore-share-buyback-11776334697603.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 62,
+        "topic": "India Delimitation Bill",
+        "domain": "india",
+        "headline": "India's delimitation bill promises major electoral changes",
+        "summary": "Amit Shah explains 850-seat Lok Sabha breakdown amid opposition criticism of delimitation bill. Priyanka Gandhi calls it attack on democracy, while NC MP warns it will reduce minority political power.",
+        "signal": "Major constitutional changes could reshape India's political landscape and coalition dynamics.",
+        "sources": [
+          "NDTV News",
+          "The Hindu",
+          "Economic Times",
+          "Times of India"
+        ],
+        "source_url": "https://economictimes.indiatimes.com/news/politics-and-nation/delimitation-bill-2026-explained-what-is-delimitation-bill-meaning-process-impact-constituency-changes/articleshow/130299908.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "India plans more seats for women in parliament, links it to 'delimitation'",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjmhopkg6c2u"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 58,
+        "topic": "Trump Pope Dispute",
+        "domain": "geopolitics",
+        "headline": "Trump-Pope Leo rift costs valuable Catholic support",
+        "summary": "Pope Leo XIV emphasizes peace and dialogue despite Trump criticism on flight to Cameroon. Leading conservative Catholics tell BBC they back the American pontiff in spat with Trump over Iran war stance.",
+        "signal": "Religious voter base erosion could impact Trump's domestic political support.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://apnews.com/article/pope-leo-trump-vatican-africa-war-069cfa8a2c60fd1d400caaee4951ab20",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Archbishop of Canterbury backs pope's calls for peace amid Trump feud",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjmoxj6nye2l"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Pope, in Cameroon, calls for 'decisive change of course' that leads away from conflict and the exploitation of the land.",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjmjedq4ez2e"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 55,
+        "topic": "US Syria Withdrawal",
+        "domain": "geopolitics",
+        "headline": "US military fully withdraws from Syria completely",
+        "summary": "Syrian army takes control of last US base as Al Shara tightens grip on country. American troops and equipment reportedly exited via Jordan after 10 years of military presence.",
+        "signal": "Complete US withdrawal could reshape Middle East power balance and Iranian influence.",
+        "sources": [
+          "Middle East Eye",
+          "The National"
+        ],
+        "source_url": "https://www.middleeasteye.net/news/us-military-fully-withdraws-syria-after-10-years",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 52,
+        "topic": "Lebanon Israel Strikes",
+        "domain": "geopolitics",
+        "headline": "Israel launches deadly Lebanon strikes despite diplomacy",
+        "summary": "Anger in Lebanon as Israel launches deadly strikes despite diplomatic drive for ceasefire. Hezbollah lawmaker calls negotiating with enemy wrong and warns of internal division.",
+        "signal": "Continued strikes during talks could derail diplomatic efforts entirely.",
+        "sources": [
+          "Al Jazeera English",
+          "Associated Press",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/15/anger-in-lebanon-as-israel-launches-deadly-strikes-despite-diplomatic-drive",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 50,
+        "topic": "Germany Hormuz Minesweepers",
+        "domain": "geopolitics",
+        "headline": "Germany prepared to send Hormuz minesweepers",
+        "summary": "Berlin signals readiness to send minesweeping vessels to Strait of Hormuz as international effort to reopen crucial maritime passage. Germany prepared to make contribution to reopening waterway.",
+        "signal": "European military involvement escalation could draw NATO deeper into Middle East conflict.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/germany-signals-readiness-to-send-minesweeping-vessels-to-the-strait-of-hormuz/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 48,
+        "topic": "Turkiye School Shootings",
+        "domain": "geopolitics",
+        "headline": "Turkey suffers second school shooting in days",
+        "summary": "Four killed in Turkey's second school shooting in two days in Kahramanmaras province. Three students and teacher killed according to local governor in unprecedented violence.",
+        "signal": "Unusual pattern of school violence in Turkey raises security and social stability concerns.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/15/four-killed-in-turkiyes-second-school-shooting-in-two-days",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 45,
+        "topic": "Former Virginia Lt Gov Death",
+        "domain": "geopolitics",
+        "headline": "Former Virginia Lt Gov Fairfax murder-suicide confirmed",
+        "summary": "Former Virginia Lt. Gov. Justin Fairfax killed his wife before taking his own life in their home, police confirm.",
+        "signal": "High-profile political figure death could impact Virginia Democratic politics.",
+        "sources": [],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Breaking news of political figure's death from credible AP source warrants monitoring despite being unverified.",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Former Virginia Lt. Gov. Justin Fairfax killed his wife before taking his own life in their home, police say.",
+            "score": 45,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjmjl4ogru2a"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 16,
+        "score": 42,
+        "topic": "UK Mandelson Security Clearance",
+        "domain": "geopolitics",
+        "headline": "Mandelson security vetting overruled for US ambassadorship",
+        "summary": "Peter Mandelson failed security vetting clearance but decision was overruled by Foreign Office to ensure he could take up post as ambassador to US.",
+        "signal": "Security clearance override could complicate US-UK diplomatic relations and intelligence sharing.",
+        "sources": [],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Exclusive Guardian investigation into senior diplomatic appointment raises legitimate security concerns.",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "EXCL: Peter Mandelson failed his security vetting clearance but the decision was overruled by Foreign Office to ensure he could take up his post as ambassador to US - a Guardian investigation",
+            "score": 35,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjmlm6jp2s24"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 17,
+        "score": 40,
+        "topic": "Sudan War Impact",
+        "domain": "geopolitics",
+        "headline": "Sudan war devastates infrastructure after three years",
+        "summary": "Sudan's civil war, which erupted three years ago, has devastated civilian infrastructure and pushed millions into misery. Army and RSF remain locked in military impasse.",
+        "signal": "Prolonged conflict creates refugee crisis and regional instability risks.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/15/erosion-of-a-countrys-future-what-has-the-war-cost-sudan",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "After three years of war, Sudan army and RSF locked in military impasse",
+            "score": 40,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjmofazt4r2z"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 38,
+        "topic": "Russia Ukraine Attack",
+        "domain": "geopolitics",
+        "headline": "Russia pounds Ukraine killing 16 in overnight",
+        "summary": "At least 16 killed as Russia pounds Ukraine in overnight attack with nearly 700 drones and 44 missiles. Kremlin continues intensive bombardment as Kyiv struggles to defend itself.",
+        "signal": "Escalating Russian attacks indicate no near-term resolution to conflict.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/ukraine-kyiv-russia-100-people-wounded-dozen-killed-latest-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 35,
+        "topic": "London Synagogue Attack",
+        "domain": "geopolitics",
+        "headline": "Antisemitic arson attack targets London synagogue",
+        "summary": "Police arrest two suspects who threw petrol-filled bottles at Finchley Reform Synagogue in attempted arson attack. Bottles did not ignite but represent serious antisemitic violence.",
+        "signal": "Rising antisemitic attacks indicate growing security concerns for Jewish communities.",
+        "sources": [
+          "BBC News",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cew77rwrevdo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 32,
+        "topic": "India Nuclear Advancement",
+        "domain": "india",
+        "headline": "India's fast breeder reactor achieves criticality milestone",
+        "summary": "India's nuclear program reaches pivotal stage with Prototype Fast Breeder Reactor achieving criticality at Kalpakkam. Positions India as leader in advanced nuclear technology for energy security.",
+        "signal": "Nuclear advancement strengthens India's energy independence and technology leadership position.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/business/india-business/indias-big-nuclear-leap-how-stage-2-criticality-at-kalpakkam-will-power-the-road-to-energy-security/articleshow/130309103.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 21,
+        "score": 28,
+        "topic": "Delhi Airport Safety Incidents",
+        "domain": "india",
+        "headline": "Multiple safety incidents reported at Delhi Airport",
+        "summary": "Series of close calls at Delhi Airport including planes landing on wrong runways and engine sucking in containers. Safety-related events raise concerns about airport operations.",
+        "signal": "Aviation safety issues could impact India's growing domestic and international air traffic.",
+        "sources": [
+          "NDTV News",
+          "Economic Times"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/akasa-air-spicejet-plane-landing-on-wrong-runway-to-engine-sucking-in-container-close-calls-at-delhi-airport-11367125#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 22,
+        "score": 25,
+        "topic": "TCS Nashik Religious Conversion",
+        "domain": "india",
+        "headline": "TCS Nashik case sparks religious conversion debate",
+        "summary": "Supreme Court plea filed amid TCS Nashik case seeks stringent steps against forced religious conversions. Petition argues forced conversion should be treated as terrorist act.",
+        "signal": "Religious tensions could impact India's IT sector workplace policies and social harmony.",
+        "sources": [
+          "Times of India",
+          "NDTV News"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/terrorist-act-plea-in-supreme-court-over-tcs-nashik-case-seeks-stringent-steps-against-forced-religious-conversions/articleshow/130307961.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 25
+  },
+  {
     "timestamp": "2026-04-16T10:49:39.777764+00:00",
     "timestamp_ist": "16 Apr 2026 \u00b7 16:19 IST",
     "story_count": 20,
@@ -14856,402 +15335,6 @@
         ],
         "trend": "stable",
         "breaking_on_social": true
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-11T17:08:32.084993+00:00",
-    "timestamp_ist": "11 Apr 2026 \u00b7 22:38 IST",
-    "story_count": 17,
-    "avg_score": 52,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 85,
-        "topic": "US-Iran Peace Talks Pakistan",
-        "domain": "geopolitics",
-        "headline": "US-Iran peace talks begin in Pakistan after Vance arrives",
-        "summary": "Vice President JD Vance has arrived in Islamabad for direct US-Iran negotiations, marking the first such talks since 1979. Multiple high-credibility sources confirm the talks are underway with modest goals of keeping dialogue alive amid deep divisions.",
-        "signal": "Watch for breakthrough announcements or early collapse that could trigger renewed military escalation.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera",
-          "Nikkei Asia",
-          "@apnews.com",
-          "@nikkei.com"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-negotiations-vance-trump-b82625fd24adb2336a5a9615b6953629",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Vice President JD Vance and other U.S. officials are meeting face-to-face with Iranian delegation in Islamabad, White House says.",
-            "score": 47,
-            "url": "https://bsky.app/profile/apnews.com/post/3mja4gpdwof2l"
-          },
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u30a2\u30e1\u30ea\u30ab\u3068\u30a4\u30e9\u30f3\u3001\u521d\u5354\u8b70\u306e\u958b\u59cb\u9045\u308c\u3000\u30ec\u30d0\u30ce\u30f3\u653b\u6483\u505c\u6b62\u306a\u3069\u6761\u4ef6\u3067\u5fdc\u916c",
-            "score": 35,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mj7ratgpet25"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 78,
-        "topic": "Iran War Inflation Surge",
-        "domain": "macro",
-        "headline": "US inflation jumps to highest level in two years",
-        "summary": "Consumer prices surged in March following the outbreak of war with Iran, with multiple sources confirming the sharpest increase in nearly four years. Gas price spikes from energy supply disruptions are driving the inflationary pressure across states.",
-        "signal": "Federal Reserve policy pivot likely if inflation persists above 3% target.",
-        "sources": [
-          "Associated Press",
-          "Wall Street Journal",
-          "Politico"
-        ],
-        "source_url": "https://apnews.com/article/inflation-prices-gas-federal-reserve-trump-bf00c3105d5da88a0b01d9107ed4ecee",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 72,
-        "topic": "Strait Hormuz Military Transit",
-        "domain": "geopolitics",
-        "headline": "US warships cross Strait of Hormuz amid ceasefire talks",
-        "summary": "Two US military vessels have crossed through the Strait of Hormuz for mine removal operations, marking the first such transit since the Iran conflict began. The move comes as peace talks continue in Pakistan with Iran maintaining control over the strategic waterway.",
-        "signal": "Monitor for Iranian response that could derail fragile ceasefire negotiations.",
-        "sources": [
-          "Middle East Eye",
-          "NDTV Profit",
-          "@reuters.com"
-        ],
-        "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-two-its-warships-passed-through-hormuz-remove-mines",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "US military says two of its ships crossed through Strait of Hormuz reut.rs/4efGtby",
-            "score": 46,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjactdg32u26"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 65,
-        "topic": "China Sulfuric Acid Export Ban",
-        "domain": "commodities",
-        "headline": "China moves to ban sulfuric acid exports over Iran war",
-        "summary": "China has indicated it will halt sulfuric acid exports from May due to supply bottlenecks from the Iran conflict. The move will hit metals and fertilizer industries already strained by raw material shortages from the ongoing war.",
-        "signal": "Expect further commodity supply chain disruptions and price spikes in affected sectors.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/china-moves-to-ban-sulfuric-acid-exports-as-iran-war-hits-supply",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 65,
-        "topic": "Blackstone Data Center IPO",
-        "domain": "corporate",
-        "headline": "Blackstone eyes $2 billion data center acquisition firm IPO",
-        "summary": "Blackstone Inc. is considering an initial public offering that could raise $2 billion for an acquisition company focused on data centers. The move comes as demand for data infrastructure continues to surge amid AI growth.",
-        "signal": "Watch for pricing and investor appetite as indicator of data center market valuations.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/blackstone-eyes-2-billion-ipo-for-data-center-acquisition-firm",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 60,
-        "topic": "Ukraine Lukoil Caspian Strike",
-        "domain": "geopolitics",
-        "headline": "Ukraine hits Russian Lukoil drilling rigs in Caspian Sea",
-        "summary": "Ukraine struck drilling platforms owned by Russian oil major Lukoil in the Caspian Sea, the latest attack before an Orthodox Easter ceasefire. The action demonstrates Ukraine's expanding strike capabilities against Russian energy infrastructure.",
-        "signal": "Energy price volatility likely if attacks on Russian oil assets escalate.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/ukraine-says-it-hit-russia-s-lukoil-drilling-rigs-in-caspian-sea",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 58,
-        "topic": "Russia-Ukraine Easter Ceasefire",
-        "domain": "geopolitics",
-        "headline": "Russia-Ukraine begin Orthodox Easter ceasefire amid prisoner swap",
-        "summary": "A 32-hour ceasefire between Russia and Ukraine has begun for Orthodox Easter, with both sides conducting a prisoner exchange of 175 individuals. Ukraine has warned it will respond immediately to any Russian violations of the temporary truce.",
-        "signal": "Monitor compliance as indicator of broader peace negotiation prospects.",
-        "sources": [
-          "Politico",
-          "South China Morning Post",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://www.politico.eu/article/ukraine-russia-swap-175-war-prisoners-easter-ceasefire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Russia-Ukraine Orthodox Easter ceasefire begins https://aje.news/bu06uk",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjab3l2pbg2f"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 55,
-        "topic": "Japan Oil Dependency Crisis",
-        "domain": "commodities",
-        "headline": "Japan's Middle East oil dependence hits record 95%",
-        "summary": "Japan's crude oil imports from Middle East countries have reached a record 95% in 2024, reversing decades of diversification efforts. Three key factors including China's economic rise and loss of alternative suppliers have driven the concentration despite original plans for supply security.",
-        "signal": "Energy security crisis for Japan if Middle East conflicts escalate further.",
-        "sources": [
-          "@nikkei.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "This highlights a critical strategic vulnerability for the world's third-largest economy amid regional conflicts.",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u539f\u6cb9\u5206\u6563\u8abf\u9054\u306b3\u3064\u306e\u8aa4\u7b97\u3000\u4e2d\u6771\u4f9d\u5b58\u5ea695%\u306b\u4e0a\u6607",
-            "score": 51,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mj7rzul5ll25"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 9,
-        "score": 52,
-        "topic": "Artemis II Moon Return",
-        "domain": "geopolitics",
-        "headline": "Artemis II astronauts return after historic moon flyby mission",
-        "summary": "The Artemis II spacecraft is set to splash down in the Pacific after completing humanity's first moon voyage in over 50 years. The mission has drawn conspiracy theories online but represents a major milestone in space exploration.",
-        "signal": "Success could accelerate commercial space investment and geopolitical competition.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera",
-          "Japan Times"
-        ],
-        "source_url": "https://apnews.com/article/nasa-artemis-astronauts-moon-splashdown-16adc5450f0127a0743292ef30b239f1",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 48,
-        "topic": "Trump Fertilizer Price Warning",
-        "domain": "commodities",
-        "headline": "Trump warns against fertilizer price gouging amid supply crisis",
-        "summary": "President Trump said he's watching fertilizer values closely and won't accept price gouging as supply chains face strain from the Iran conflict. The warning comes as agricultural inputs face significant disruption from geopolitical tensions.",
-        "signal": "Potential government intervention if fertilizer prices spike further, affecting agricultural costs.",
-        "sources": [
-          "@bloomberg.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Direct presidential intervention in commodity pricing suggests serious supply chain concerns.",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "President Donald Trump said he's watching fertilizer values closely and won't accept any 'price gouging'",
-            "score": 47,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mja2fjlvzy2t"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 11,
-        "score": 45,
-        "topic": "EU Fuel Shortage Warning",
-        "domain": "commodities",
-        "headline": "EU airline industry fears fuel shortages from Hormuz closure",
-        "summary": "European airports warn of potential fuel shortages if the Strait of Hormuz remains closed for three more weeks. The closure has already significantly disrupted global oil flows despite ongoing ceasefire negotiations.",
-        "signal": "European aviation sector vulnerable to extended Middle East supply disruption.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/c3w37ggp011o",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 42,
-        "topic": "Asha Bhosle Hospitalization",
-        "domain": "india",
-        "headline": "Legendary singer Asha Bhosle hospitalized with chest infection",
-        "summary": "Bollywood legend Asha Bhosle has been admitted to Mumbai's Breach Candy Hospital with a chest infection. The 90-year-old singer, with a career spanning seven decades, is currently receiving treatment with her condition being monitored.",
-        "signal": "Watch for updates on the health of one of India's most celebrated cultural icons.",
-        "sources": [
-          "Times of India",
-          "Economic Times"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/legendary-singer-asha-bhosle-suffers-a-heart-attack-rushed-to-breach-candy-hospital-in-mumbai/articleshow/130194960.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 38,
-        "topic": "Palestine Action London Arrests",
-        "domain": "europe",
-        "headline": "Over 90 arrested at Palestine protest in London",
-        "summary": "More than 90 people were arrested as hundreds gathered in London to defy the government's ban on Palestine Action. The demonstration in Trafalgar Square saw elderly protesters escorted away by police amid ongoing tensions over Middle East policy.",
-        "signal": "UK domestic pressure rising over Middle East stance as conflicts continue.",
-        "sources": [
-          "Middle East Eye",
-          "@theguardian.com",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/over-90-arrested-hundreds-gather-defy-palestine-action-ban-london",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "More than 90 people arrested at Palestine Action protest in London",
-            "score": 36,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mjac3mq4lt2o"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Hundreds of people gather in Trafalgar Square for demonstration, as elderly woman with cane is escorted away by police.",
-            "score": 31,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mja5qcpydx2f"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 35,
-        "topic": "Irish Fuel Price Protests",
-        "domain": "europe",
-        "headline": "Irish police deploy military to break fuel protest blockade",
-        "summary": "Irish authorities have deployed army engineers to break barricades at the Whitegate oil refinery after truckers and farmers blocked the facility demanding fuel tax cuts. The military intervention follows a standoff over rising fuel costs linked to Middle East tensions.",
-        "signal": "European governments facing domestic pressure over energy costs from regional conflicts.",
-        "sources": [
-          "BBC News",
-          "Politico"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cy814wypp5go",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 32,
-        "topic": "Ranveer Singh Box Office Record",
-        "domain": "india",
-        "headline": "Ranveer Singh's Dhurandhar 2 nears Rs 1100 crore milestone",
-        "summary": "The Bollywood thriller starring Ranveer Singh continues its record-breaking run, approaching Rs 1100 crore domestically after becoming the first Hindi film to cross Rs 1000 crore. The film has set new benchmarks in the Indian entertainment industry within just 24 days.",
-        "signal": "Indian entertainment sector showing resilience despite broader economic pressures.",
-        "sources": [
-          "Times of India",
-          "NDTV Profit"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-24-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjun-r-madhavan-film-inches-towards-rs-1100-crore-in-india-on-fourth-saturday-despite-ipl-fever-targets-rs-1700-crore-worldiwde/articleshow/130185972.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 28,
-        "topic": "UK Diego Garcia Handover Delay",
-        "domain": "geopolitics",
-        "headline": "UK suspends Diego Garcia handover to appease Trump",
-        "summary": "Britain has put the Chagos Islands handover deal on hold after President Trump withdrew support for transferring Diego Garcia. The decision reflects Trump's influence over UK foreign policy regarding strategic military bases.",
-        "signal": "US-UK coordination on strategic assets may face continued Trump intervention.",
-        "sources": [
-          "Economic Times",
-          "Politico"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/news/defence/uk-puts-chagos-islands-handover-deal-on-hold-after-donald-trump-withdraws-support/articleshow/130191093.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 25,
-        "topic": "Pakistan-Saudi Defense Cooperation",
-        "domain": "middleeast",
-        "headline": "Pakistan sends fighter jets to Saudi Arabia under defense pact",
-        "summary": "Pakistan has deployed fighter aircraft to Saudi Arabia as part of their bilateral defense agreement. The move comes as regional tensions escalate and Gulf states seek enhanced security partnerships amid ongoing Middle East conflicts.",
-        "signal": "Regional military alignments shifting as Middle East tensions persist.",
-        "sources": [
-          "Economic Times",
-          "The National UAE"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/news/defence/saudi-arabia-says-pakistan-sends-fighter-jets-to-kingdom-under-defence-pact/articleshow/130191615.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
       }
     ],
     "social_count": 30
