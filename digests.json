@@ -1,5 +1,412 @@
 [
   {
+    "timestamp": "2026-04-17T10:40:11.076713+00:00",
+    "timestamp_ist": "17 Apr 2026 \u00b7 16:10 IST",
+    "story_count": 16,
+    "avg_score": 60,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 86,
+        "topic": "US-Iran Peace Talks",
+        "domain": "geopolitics",
+        "headline": "Pakistan Mediates as US-Iran Talks Gain Momentum",
+        "summary": "Pakistan is mediating between the US and Iran to extend the current ceasefire and arrange a second round of negotiations. Pakistani sources suggest there has been a 'major breakthrough' on Iran's nuclear program, with Trump claiming Iran has made key concessions.",
+        "signal": "Watch for formal announcement of extended ceasefire or breakthrough in nuclear negotiations.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Al Jazeera",
+          "The Hindu"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-16/pakistan-boosts-mediation-efforts-as-us-iran-weigh-longer-truce",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Trump claims Iran has made key concessions in talks with the US and that a deal to end the war could be announced \"fairly soon.\"",
+            "score": 39,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjoo4e6m2q23"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 84,
+        "topic": "Israel-Lebanon Ceasefire",
+        "domain": "geopolitics",
+        "headline": "Israel-Lebanon 10-Day Ceasefire Takes Effect",
+        "summary": "A 10-day ceasefire between Israel and Lebanon took effect on Thursday, with thousands of Lebanese returning to southern areas despite Israeli warnings. India welcomed the truce as part of broader peace efforts.",
+        "signal": "Monitor compliance and whether ceasefire holds as foundation for broader regional peace deal.",
+        "sources": [
+          "The Hindu",
+          "Al Jazeera",
+          "Associated Press"
+        ],
+        "source_url": "https://www.thehindu.com/news/national/india-welcomes-israel-lebanon-ceasefire/article70873355.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Celebrations in Lebanon as a 10-day ceasefire begins, opening the door to talks on a longer-term Israel-Lebanon deal.",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjomg3ylk42j"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 78,
+        "topic": "US Iran Oil Blockade",
+        "domain": "commodities",
+        "headline": "US Navy Enforces Iranian Oil Blockade Operations",
+        "summary": "US Navy forces are actively enforcing restrictions on Iran's maritime routes with over 10,000 personnel deployed. The blockade is set to boost American oil exports while increasing prices at the pump.",
+        "signal": "Rising oil prices likely to continue as blockade tightens Iranian supply routes.",
+        "sources": [
+          "Wall Street Journal",
+          "Times of India",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.wsj.com/business/energy-oil/u-s-oil-blockade-is-set-to-boost-american-exportsand-prices-at-the-pump-005e1a70",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 76,
+        "topic": "European Energy Crisis",
+        "domain": "commodities",
+        "headline": "Europe Jets Six Weeks From Fuel Crisis",
+        "summary": "European aviation faces critical fuel shortages with only six weeks of jet fuel remaining according to IEA warnings. Lufthansa has begun suspending some operations as the continent imports 75% of aviation fuel from the Middle East.",
+        "signal": "Expect flight disruptions and higher airfares across Europe through summer travel season.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-energy-crisis-spreads-across-asia-but-investors-stay-bullish",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u6b27\u5dde\u30b8\u30a7\u30c3\u30c8\u71c3\u6599\u300c\u6b8b\u308a6\u9031\u9593\u300d\u3000IEA\u8b66\u544a\u3001\u30eb\u30d5\u30c8\u30cf\u30f3\u30b6\u306f\u4e00\u90e8\u505c\u6b62",
+            "score": 51,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjokt4lf3t2b"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 71,
+        "topic": "Trump Iran Economic Warfare",
+        "domain": "geopolitics",
+        "headline": "Trump Shifts to Economic Warfare on Iran",
+        "summary": "The Trump administration is pivoting toward economically focused efforts to pressure Tehran rather than relying solely on military action. Treasury Secretary Bessent outlined plans to choke Iran's economy into submission through enhanced sanctions.",
+        "signal": "Expect escalated financial sanctions and pressure on Iranian banking system.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/trump-treasury-bessent-iran-sanctions-f45619d7ea3050bd4b1cdd9c3881ca2b",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 68,
+        "topic": "Indian Markets Rally",
+        "domain": "markets",
+        "headline": "Indian Markets Surge on Middle East Tensions Easing",
+        "summary": "Indian stocks gained strongly with Sensex rising 505 points and Nifty ending above 24,350, adding \u20b95 lakh crore in investor wealth. The rally was driven by easing Middle East tensions and strong performance in consumer goods and oil sectors.",
+        "signal": "Sustained rally depends on continued de-escalation in Middle East conflicts.",
+        "sources": [
+          "LiveMint",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/sensex-gains-500-points-nifty-50-ends-above-24-350-investors-earn-5-lakh-crore-in-a-day-11776419724364.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 65,
+        "topic": "Indian Political Battle Delimitation",
+        "domain": "india",
+        "headline": "Rahul Gandhi Attacks Delimitation Bill as Electoral Manipulation",
+        "summary": "Rahul Gandhi strongly opposed the government's delimitation and women's reservation bills in Parliament, calling them attempts to change India's electoral map rather than empower women. He alleged the moves aim to weaken OBC and Dalit political representation.",
+        "signal": "Expect intensified political confrontation as bills head to crucial vote at 4 PM.",
+        "sources": [
+          "Times of India",
+          "The Hindu",
+          "NDTV"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/attempt-to-change-electoral-map-of-india-rahul-gandhi-slams-centre-over-delimitation-bill-in-lok-sabha-top-quotes/articleshow/130328608.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 62,
+        "topic": "Russia Wealth Fund Rebuilding",
+        "domain": "macro",
+        "headline": "Russia to Rebuild Sovereign Wealth Fund on Oil Windfall",
+        "summary": "Russia may start rebuilding its sovereign wealth fund as soon as next month from windfall oil gains following the surge in crude prices over the Middle East war. The move signals Moscow's confidence in sustained high energy revenues.",
+        "signal": "Higher oil prices strengthening Russia's fiscal position amid ongoing sanctions.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-16/russia-looks-to-boost-wealth-fund-as-soon-as-may-on-oil-windfall",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 58,
+        "topic": "UK Food Shortage Preparations",
+        "domain": "europe",
+        "headline": "UK Prepares for Food Shortages Under Iran War Scenario",
+        "summary": "The UK could face food shortages by summer under worst-case scenarios drawn up by officials regarding the Iran conflict. The government is preparing contingency plans for supply chain disruptions.",
+        "signal": "Monitor UK food import dependency and supply chain vulnerabilities.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cpvxp4xnrwdo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 54,
+        "topic": "Hormuz Supply Chain Conference",
+        "domain": "geopolitics",
+        "headline": "Macron Starmer Host Hormuz Supply Chain Summit",
+        "summary": "French and UK leaders are hosting an international summit to push efforts to reopen the Strait of Hormuz, the vital oil route affected by the US-Israeli war with Iran. The conference focuses on restoring critical global supply chains.",
+        "signal": "Watch for coordinated Western response to secure energy supply routes.",
+        "sources": [
+          "The National UAE",
+          "Associated Press"
+        ],
+        "source_url": "https://www.thenationalnews.com/news/europe/2026/04/17/macron-and-starmer-host-hormuz-conference-on-restoring-critical-supply-chains/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "The leaders of France and the U.K. are holding an international summit to push forward efforts to reopen the Strait of Hormuz, a vital oil route affected by the U.S.-Israeli war with Iran.",
+            "score": 34,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjod77spt526"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 52,
+        "topic": "Myanmar Political Developments",
+        "domain": "geopolitics",
+        "headline": "Myanmar Pardons Thousands Including Ex-President",
+        "summary": "Myanmar's military government freed over 4,000 prisoners including former President Win Myint in a broad amnesty marking the traditional New Year. Former leader Aung San Suu Kyi's sentence was also reduced from 27 to a shorter term.",
+        "signal": "Monitor whether prisoner releases signal broader political reconciliation efforts.",
+        "sources": [
+          "Japan Times",
+          "Associated Press",
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.japantimes.co.jp/news/2026/04/17/asia-pacific/crime-legal/myanmar-ex-leader-pardon/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Myanmar's state media says former President Win Myint has been freed in a broad prisoner amnesty by newly inaugurated President Min Aung Hlaing to mark the traditional New Year.",
+            "score": 50,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjoprlqmrj2a"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Myanmar pardons over 4,000 prisoners, including deposed president",
+            "score": 42,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjoj2sbuek2i"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 48,
+        "topic": "Mandelson UK Vetting Row",
+        "domain": "europe",
+        "headline": "Starmer Furious Over Mandelson Security Vetting Failure",
+        "summary": "UK PM Keir Starmer expressed fury at not being told that Peter Mandelson had failed security checks to be ambassador to the US. The vetting row has sparked criticism of state processes and government communication.",
+        "signal": "Watch for potential cabinet reshuffle or diplomatic appointment changes.",
+        "sources": [
+          "Politico Europe",
+          "Associated Press",
+          "The Guardian"
+        ],
+        "source_url": "https://www.politico.eu/article/keir-starmer-uk-labour-critics-seize-peter-mandelson-vetting-row/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "U.K. leader Keir Starmer says he is \"furious\" he wasn't told Peter Mandelson had failed security checks to be ambassador to U.S.",
+            "score": 41,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjoovwf2g52a"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Starmer says it is 'staggering' and 'unforgivable' he was not told Mandelson failed vetting \u2013 UK politics live",
+            "score": 41,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjoovs67dr2w"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 46,
+        "topic": "Federal Reserve Policy Expectations",
+        "domain": "macro",
+        "headline": "Deutsche Bank Expects Fed Rate Hold Through 2026",
+        "summary": "Deutsche Bank analysts expect the Federal Reserve to hold interest rates steady throughout 2026 amid ongoing global economic uncertainty and geopolitical tensions affecting monetary policy decisions.",
+        "signal": "Prolonged higher rates likely to impact global capital flows and emerging markets.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Major bank forecasts often influence market expectations and trading strategies.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Deutsche Bank expects Fed to hold rates in 2026",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjopsluuhu2d"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 14,
+        "score": 42,
+        "topic": "OnlyFans Valuation",
+        "domain": "corporate",
+        "headline": "OnlyFans Nears $3 Billion Valuation Deal",
+        "summary": "Adult content platform OnlyFans is in advanced talks to sell a minority stake in a deal valuing the company at more than $3 billion, representing significant growth from previous valuations.",
+        "signal": "Watch for mainstream acceptance of adult content platforms as investment assets.",
+        "sources": [
+          "Bloomberg",
+          "Economic Times"
+        ],
+        "source_url": "https://economictimes.indiatimes.com/tech/technology/life-after-leonid-radvinsky-onlyfans-nears-minority-stake-deal-valuing-it-at-3-billion/articleshow/130328024.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "OnlyFans is in advanced talks to sell a minority stake in a deal that would value the company, best known for adult content, at more than $3 billion.",
+            "score": 39,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjoora22rc24"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 40,
+        "topic": "China Economic Policy",
+        "domain": "macro",
+        "headline": "China Expected to Hold Lending Rates After GDP",
+        "summary": "China is expected to keep benchmark lending rates steady after strong GDP data showed economic resilience, suggesting monetary policy makers see no immediate need for stimulus adjustments.",
+        "signal": "Stable Chinese rates support currency and regional market stability.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "China's monetary policy signals often influence global emerging market sentiment.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "China expected to keep benchmark lending rates steady after strong GDP data",
+            "score": 40,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjopih5us52g"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 16,
+        "score": 36,
+        "topic": "Apple China iPhone Sales",
+        "domain": "corporate",
+        "headline": "Apple iPhone Shipments Surge 20% in China",
+        "summary": "Apple's iPhone shipments in China surged 20% in Q1, showing strong recovery in the world's largest smartphone market despite ongoing trade tensions and local competition.",
+        "signal": "Apple's China recovery could boost quarterly earnings and stock performance.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Apple's China performance is crucial for global revenue and market sentiment.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Apple's iPhone shipments in China surge 20% in Q1, data shows",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjoowusiav2g"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-17T07:15:15.818124+00:00",
     "timestamp_ist": "17 Apr 2026 \u00b7 12:45 IST",
     "story_count": 19,
@@ -14752,445 +15159,6 @@
         "social_signals": [],
         "trend": "rising",
         "breaking_on_social": false
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-12T11:23:54.610768+00:00",
-    "timestamp_ist": "12 Apr 2026 \u00b7 16:53 IST",
-    "story_count": 17,
-    "avg_score": 52,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 83,
-        "topic": "US-Iran Peace Talks Collapse",
-        "domain": "geopolitics",
-        "headline": "US-Iran Peace Talks Fail in Pakistan After Marathon Sessions",
-        "summary": "US Vice President JD Vance and Iranian negotiators failed to reach an agreement in Islamabad after over 20 hours of talks, with Iran refusing to give assurances about not pursuing nuclear weapons. Both sides blamed each other for the breakdown, with Iran citing lack of US trust and the US emphasizing Iran's unwillingness to commit on nuclear issues.",
-        "signal": "Failed ceasefire negotiations likely to escalate Middle East tensions and maintain pressure on oil markets and shipping lanes.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "Politico Europe",
-          "Times of India",
-          "@bloomberg.com",
-          "@apnews.com",
-          "@nikkei.com"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "US Vice President JD Vance says the US and Iran have failed to reach an agreement after marathon talks in Islamabad.",
-            "score": 50,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjbaqls5iw2b"
-          },
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Iran's chief negotiator to the Islamabad talks has blamed the U.S. after the two sides failed to reach a deal.",
-            "score": 31,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjc257763w2d"
-          },
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u7c73\u30a4\u30e9\u30f3\u5354\u8b70\u300120\u6642\u9593\u8d85\u3082\u5408\u610f\u306b\u81f3\u3089\u305a",
-            "score": 40,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjc3s7gsc42s"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 72,
-        "topic": "Strait of Hormuz Oil Transit",
-        "domain": "commodities",
-        "headline": "Oil Tankers Resume Transit Through Hormuz Strait Amid Tensions",
-        "summary": "Three oil supertankers, including two Chinese vessels, successfully transited the Strait of Hormuz following fragile ceasefire conditions. Trump announced plans to reopen the waterway 'soon' while rejecting Iran's toll booth system, and Saudi Arabia restored its East-West pipeline to full capacity.",
-        "signal": "Gradual reopening of critical oil transit routes could ease energy price pressures but remains fragile pending peace negotiations.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera English",
-          "Japan Times",
-          "The National (UAE)",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/three-oil-supertankers-appear-to-make-move-through-hormuz-strait",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
-            "score": 46,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjc5gqpjb62u"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 71,
-        "topic": "War Economic Impact Analysis",
-        "domain": "macro",
-        "headline": "Iran War Fuels Global Inflation Surge, Market Volatility",
-        "summary": "The Iran conflict is driving a rapid inflation increase with March estimates reaching 3.4% annually in the US, the largest jump in nearly four years due to spiking fuel costs. European energy markets are extending trading hours to 21 hours daily to handle unprecedented volatility from the crisis.",
-        "signal": "Sustained inflationary pressure from energy costs threatens central bank policy normalization and consumer spending globally.",
-        "sources": [
-          "Associated Press",
-          "Bloomberg",
-          "LiveMint Markets",
-          "@reuters.com"
-        ],
-        "source_url": "https://apnews.com/article/inflation-prices-gas-federal-reserve-trump-bf00c3105d5da88a0b01d9107ed4ecee",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Economic shock of Middle East war to cast shadow over IMF, World Bank meetings",
-            "score": 40,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjc7xmpuoi2m"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 69,
-        "topic": "Asha Bhosle Death",
-        "domain": "india",
-        "headline": "Legendary Singer Asha Bhosle Dies At 92 In Mumbai",
-        "summary": "Bollywood icon Asha Bhosle, whose voice defined Indian cinema for eight decades, passed away in Mumbai after suffering cardiac arrest and respiratory issues. The Guinness World Record holder for most recorded artist leaves behind an unparalleled legacy spanning 70 years and countless hit songs.",
-        "signal": "Major cultural loss for India's entertainment industry; expect extensive tribute coverage and potential impact on media stocks.",
-        "sources": [
-          "Times of India",
-          "The Hindu",
-          "Indian Express",
-          "The National (UAE)",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/entertainment/veteran-singer-asha-bhosle-passes-away-at-age-92/articleshow/130204281.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Legendary Indian playback singer Asha Bhosle, whose voice defined Bollywood music through the 1970s and 1980s, died in Mumbai aged 92",
-            "score": 49,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjc75vqmkc2b"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Legendary Bollywood singer Asha Bhosle dies aged 92",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjc3r45sgo2f"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 65,
-        "topic": "UK Chagos Islands Deal Shelved",
-        "domain": "geopolitics",
-        "headline": "UK Suspends Chagos Islands Handover After Trump Opposition",
-        "summary": "Britain has indefinitely shelved plans to transfer sovereignty of the Chagos Islands to Mauritius after failing to secure US backing under Trump. The deal involves Diego Garcia, home to a strategic UK-US military base critical for Middle East operations.",
-        "signal": "Trump administration reshaping UK foreign policy decisions; potential strain on UK-US defense cooperation arrangements.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera English",
-          "BBC News",
-          "Politico Europe",
-          "@apnews.com"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/uk-government-shelves-chagos-islands-plan-opposed-by-trump",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Britain's agreement to hand Mauritius the Chagos Islands that are home to a strategic U.K.-American military base is on indefinite hold",
-            "score": 40,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjbyg62rpb2u"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 61,
-        "topic": "Artemis II Moon Mission Return",
-        "domain": "corporate",
-        "headline": "NASA Artemis II Astronauts Return From Historic Lunar Flyby",
-        "summary": "Four astronauts successfully completed humanity's first moon voyage in over 50 years, splashing down in the Pacific after a nine-day mission that took them further from Earth than any humans before. The mission was nearly flawless but considerable obstacles remain before lunar landing attempts.",
-        "signal": "Major milestone for NASA's lunar program; potential boost for aerospace contractors and space technology investments.",
-        "sources": [
-          "BBC News",
-          "Al Jazeera English",
-          "Associated Press"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cr51z54d5rpo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 58,
-        "topic": "Israel-Lebanon Attacks Escalate",
-        "domain": "geopolitics",
-        "headline": "Israel Rejects Hezbollah Ceasefire Amid Escalating Lebanon Strikes",
-        "summary": "Israel launched fresh attacks on Lebanon killing at least 13 security personnel while rejecting ceasefire proposals ahead of Washington talks next week. Hezbollah claimed attacks on Israeli naval facilities as violence intensified following failed US-Iran negotiations.",
-        "signal": "Lebanon front escalation could derail broader Middle East peace efforts and maintain regional instability pressures.",
-        "sources": [
-          "Al Jazeera English",
-          "Associated Press",
-          "Middle East Eye",
-          "@reuters.com"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Israeli strike kills infant girl in south Lebanon during father's funeral",
-            "score": 36,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjc7oknhh52s"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 55,
-        "topic": "Eric Swalwell Campaign Collapse",
-        "domain": "geopolitics",
-        "headline": "Swalwell California Governor Bid Collapses Over Assault Allegations",
-        "summary": "Prominent Democratic supporters are withdrawing backing for Rep. Eric Swalwell's California gubernatorial campaign following sexual assault allegations. The congressman denied the allegations but faces mounting pressure from key Democrats to end his campaign.",
-        "signal": "Major disruption to California's gubernatorial race; potential reshuffling of Democratic primary dynamics and endorsements.",
-        "sources": [
-          "Associated Press",
-          "Politico Europe"
-        ],
-        "source_url": "https://apnews.com/article/california-governor-eric-swalwell-assault-allegations-aa1d13afe441be38d1d16f648e06d503",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 52,
-        "topic": "Pakistan-Saudi Defense Pact",
-        "domain": "geopolitics",
-        "headline": "Pakistan Deploys Military Forces to Saudi Arabia Under Defense Pact",
-        "summary": "A Pakistani military force arrived at King Abdulaziz Air Base as part of a strategic defense agreement between the two countries. The deployment comes amid heightened regional tensions and Pakistan's role as mediator in US-Iran talks.",
-        "signal": "Strengthening Pakistan-Saudi military ties could shift regional power balance and influence Middle East security arrangements.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/pakistan-sends-military-force-to-saudi-arabia-as-part-of-pact",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 48,
-        "topic": "Microsoft Carbon Removal Pause",
-        "domain": "corporate",
-        "headline": "Microsoft Pauses World's Largest CO2 Removal Program",
-        "summary": "Microsoft staff informed carbon removal developers that the company is pausing what is currently the world's biggest program for financing atmospheric CO2 extraction. The move affects the broader carbon credits market and climate technology investments.",
-        "signal": "Major setback for carbon removal industry; potential impact on climate tech valuations and corporate sustainability strategies.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/microsoft-staff-tell-developers-it-s-pausing-co2-removals-deals",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 45,
-        "topic": "Hungary Pivotal Election",
-        "domain": "europe",
-        "headline": "Hungary Votes in Landmark Election Challenging Orban",
-        "summary": "Hungarians are voting in a closely watched election with high early turnout, as opposition leader P\u00e9ter Magyar's center-right Tisza party leads in polls against Prime Minister Viktor Orb\u00e1n. The election is being monitored by the EU, Russia, and US given Hungary's strategic importance.",
-        "signal": "Potential end to Orb\u00e1n's illiberal democracy model could reshape EU-Russia relations and Trump's European allies.",
-        "sources": [
-          "Politico Europe",
-          "Japan Times"
-        ],
-        "source_url": "https://www.politico.eu/article/hungary-2026-election-high-voter-turnout-viktor-orban-peter-magyar/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 42,
-        "topic": "West Bengal Election Campaign",
-        "domain": "india",
-        "headline": "Modi, Mamata Trade Barbs in Heated Bengal Campaign",
-        "summary": "Prime Minister Modi attacked the TMC over security and alleged madrasa funding while Chief Minister Mamata Banerjee accused the BJP of the biggest scam in recent times and conducting obscene security checks. The election represents a major test for both leaders.",
-        "signal": "High-stakes Bengal election could determine BJP's eastern expansion and TMC's national relevance; watch for impact on coalition dynamics.",
-        "sources": [
-          "Indian Express",
-          "The Hindu",
-          "ET Top Stories"
-        ],
-        "source_url": "https://indianexpress.com/article/cities/kolkata/anti-tribal-anti-tea-garden-anti-women-pm-modi-slams-tmc-over-siliguri-corridor-security-10632674/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 38,
-        "topic": "Haiti Tourist Stampede",
-        "domain": "geopolitics",
-        "headline": "Deadly Stampede at Haiti Tourist Site Kills 30",
-        "summary": "At least 30 people died in a stampede at a mountaintop fortress popular with tourists in northern Haiti. The incident highlights ongoing safety and security challenges in the crisis-hit Caribbean nation.",
-        "signal": "Another tragic incident underscores Haiti's deteriorating security situation; potential impact on regional stability and tourism.",
-        "sources": [
-          "@apnews.com"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "A stampede at a mountaintop fortress popular with tourists in northern Haiti Saturday has reportedly left at least 30 people dead.",
-            "score": 36,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjbtf7zi2s2u"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 14,
-        "score": 35,
-        "topic": "Ukraine-Russia Prisoner Swap",
-        "domain": "geopolitics",
-        "headline": "Ukraine-Russia Exchange 175 Prisoners During Easter Ceasefire",
-        "summary": "Ukraine and Russia conducted a prisoner of war exchange involving 175 individuals as an Easter ceasefire began. The swap was mediated by the United Arab Emirates according to Russia's defense ministry.",
-        "signal": "Humanitarian gesture could signal potential for broader peace negotiations; watch for ceasefire extension possibilities.",
-        "sources": [
-          "Politico Europe"
-        ],
-        "source_url": "https://www.politico.eu/article/ukraine-russia-swap-175-war-prisoners-easter-ceasefire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 32,
-        "topic": "Indian Market Corporate Updates",
-        "domain": "india",
-        "headline": "TCS Cuts Campus Hiring Amid Demand Uncertainty",
-        "summary": "TCS made 25,000 fresher offers in FY27, down from 44,000 last year, with CEO indicating future hiring depends on demand conditions. The company is using AI to allocate half of internal roles while reducing dividend payouts to Tata Sons.",
-        "signal": "IT sector hiring slowdown signals broader demand weakness; monitor for impact on campus recruitment and sector valuations.",
-        "sources": [
-          "LiveMint Companies",
-          "NDTV Profit"
-        ],
-        "source_url": "https://www.livemint.com/companies/news/tcs-makes-25-000-fresher-offers-in-fy27-says-more-hiring-hinges-on-demand-report-11775977193435.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 28,
-        "topic": "London Palestine Rally Arrests",
-        "domain": "europe",
-        "headline": "Over 500 Arrested at London Palestine Action Rally",
-        "summary": "More than 500 people were arrested during a London rally for Palestine Action, marking one of the largest mass arrests at a pro-Palestinian demonstration in the UK.",
-        "signal": "Escalating protest activity could strain UK police resources and influence government policy on Middle East conflicts.",
-        "sources": [
-          "@aljazeera.com"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "More than 500 people arrested at London rally for Palestine Action",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjc74kg3of2h"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 17,
-        "score": 26,
-        "topic": "Iran War Day 44 Updates",
-        "domain": "geopolitics",
-        "headline": "Iran War Enters 44th Day Amid Failed Negotiations",
-        "summary": "The US-Iran conflict continues into its 44th day following the collapse of peace talks in Pakistan, with both sides maintaining military readiness and regional tensions remaining high.",
-        "signal": "Prolonged conflict duration increases likelihood of broader regional escalation and sustained economic disruption.",
-        "sources": [
-          "@aljazeera.com"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Iran war: What is happening on day 44 of the US-Iran conflict?",
-            "score": 26,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjbwq6zoed22"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
       }
     ],
     "social_count": 30
