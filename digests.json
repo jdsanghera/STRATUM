@@ -1,5 +1,491 @@
 [
   {
+    "timestamp": "2026-04-17T06:28:14.949738+00:00",
+    "timestamp_ist": "17 Apr 2026 \u00b7 11:58 IST",
+    "story_count": 22,
+    "avg_score": 56,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran War Peace Talks",
+        "domain": "geopolitics",
+        "headline": "Pakistan Mediates US-Iran Talks Amid Diplomatic Push",
+        "summary": "Pakistan's army chief is meeting Iranian officials in Tehran to broker a second round of US-Iran peace negotiations after seven weeks of war. Multiple diplomatic channels report growing optimism for breakthrough talks, with Trump claiming Iran is close to a deal on uranium enrichment.",
+        "signal": "Watch for concrete announcements from Islamabad talks and Trump's claimed Iranian concessions on nuclear program.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera",
+          "Bloomberg",
+          "Times of India"
+        ],
+        "source_url": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-pakistan-hormuz-16-april-2026-297a8d2bb94add26e503a4ef3a5d1151",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Gold was steady after President Donald Trump expressed renewed optimism that the US and Iran could agree a permanent ceasefire",
+            "score": 32,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjnzygpshe22"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Donald Trump sought to assuage voters' fears about higher energy prices, calling his war in Iran 'a little diversion.'",
+            "score": 31,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjoaovcpja25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "topic": "Israel-Lebanon Ceasefire Deal",
+        "domain": "geopolitics",
+        "headline": "Israel-Lebanon 10-Day Ceasefire Begins Amid Regional Tensions",
+        "summary": "A temporary 10-day ceasefire between Israel and Lebanon has taken effect, with Trump calling it potentially a 'historic day.' Netanyahu agreed to facilitate discussions but rejected Hezbollah's demand for full Israeli withdrawal from southern Lebanon.",
+        "signal": "Monitor ceasefire compliance and whether this creates momentum for broader Middle East peace negotiations.",
+        "sources": [
+          "Al Jazeera",
+          "The National"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Celebratory gunfire heard in Beirut as truce takes effect, though Lebanese military reports violations.",
+            "score": 41,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjnzxyj5ws2x"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 80,
+        "topic": "Iran War Economic Impact",
+        "domain": "macro",
+        "headline": "Iran War Drives Economic Warfare Shift, Corporate Impact",
+        "summary": "Trump administration pivots to economic warfare against Iran as Treasury Secretary announces 'financial equivalent' to bombings. Major corporations including Pernod Ricard blame Iran conflict for expected sales slumps up to 4%.",
+        "signal": "Expect escalating sanctions regime and continued corporate earnings headwinds from Middle East disruption.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "Wall Street Journal"
+        ],
+        "source_url": "https://apnews.com/article/trump-treasury-bessent-iran-sanctions-f45619d7ea3050bd4b1cdd9c3881ca2b",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Trump administration officials urged US oil producers to boost output, driving home a message to the industry that's become more urgent amid the war in Iran",
+            "score": 34,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjnwncna5k23"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 78,
+        "topic": "UK GDP Growth Pre-War",
+        "domain": "macro",
+        "headline": "UK Economy Surged 0.5% Before Iran War Impact",
+        "summary": "UK GDP expanded faster than expected at 0.5% in February, showing strong growth in weeks before Middle East war outbreak. Both BBC and Bloomberg report the conflict has since changed British economic fortunes significantly.",
+        "signal": "Watch for Q1 GDP data to show full war impact on UK growth trajectory.",
+        "sources": [
+          "BBC News",
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-16/uk-economy-in-surprise-gdp-jump-before-hit-from-iran-war",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 75,
+        "topic": "Senate War Powers Resolutions",
+        "domain": "geopolitics",
+        "headline": "Senate Again Rejects Democratic Iran War Limits",
+        "summary": "Republican-led Senate rejected latest Democratic resolution requiring Congressional authorization for Iran war operations. The vote came despite growing Democratic discontent, with over three dozen Democrats supporting Bernie Sanders' effort to halt arms sales to Israel.",
+        "signal": "Congressional opposition remains insufficient to constrain Trump's Iran war authority.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera"
+        ],
+        "source_url": "https://apnews.com/article/iran-war-trump-war-powers-8a47ef050f05d49677c5f4cf2f6bfbd4",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 72,
+        "topic": "Strait of Hormuz Shipping",
+        "domain": "commodities",
+        "headline": "Iran Ships Navigate New Routes Despite US Blockade",
+        "summary": "At least two US-sanctioned Iran-linked vessels entered Persian Gulf through new routes from UAE, circumventing the three-day US naval blockade. European nations discuss mine clearance capabilities for Hormuz Strait as shipping disruptions continue.",
+        "signal": "Monitor shipping insurance rates and alternate route development as Iran adapts to naval restrictions.",
+        "sources": [
+          "Bloomberg",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-16/iran-linked-ships-take-new-path-to-trickle-into-the-persian-gulf",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 70,
+        "topic": "Russian Ukraine Offensive",
+        "domain": "geopolitics",
+        "headline": "Russia Launches Major Attack on Ukrainian Cities",
+        "summary": "Russia carried out one of its largest attacks on Ukraine this year, killing at least 15 civilians including a 12-year-old child in overnight missile and drone strikes. The assault targeted Kyiv, Dnipro, Odesa and Kharkiv with significant damage to residential buildings.",
+        "signal": "Escalation suggests Russia capitalizing on Western focus on Iran war to intensify Ukraine operations.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-16/heavy-russian-attack-on-ukraine-s-major-cities-kills-civilians",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 68,
+        "topic": "TSMC AI Earnings Beat",
+        "domain": "corporate",
+        "headline": "TSMC Profit Surges 58% on AI Demand",
+        "summary": "Taiwan Semiconductor Manufacturing reported a 58% profit surge, demonstrating that early weeks of Middle East war failed to dampen booming AI investment. The results signal sustained chip demand despite geopolitical tensions.",
+        "signal": "AI infrastructure investment remains resilient to geopolitical shocks; watch for supply chain risk premiums.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-16/tsmc-s-profit-beats-estimates-after-war-failed-to-dent-ai-demand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 65,
+        "topic": "USS Gerald Ford Record",
+        "domain": "geopolitics",
+        "headline": "US Carrier Breaks Vietnam-Era Deployment Record",
+        "summary": "The USS Gerald R. Ford has broken the US record for longest deployment since Vietnam War at 295 days, participating in both Venezuela military operations and the Iran war. The extended deployment reflects sustained US military commitment in multiple theaters.",
+        "signal": "Naval force projection indicates long-term US commitment despite diplomatic efforts; watch for crew rotation challenges.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/aircraft-carrier-uss-gerald-r-ford-record-deployment-4144a52a981e5aa079326123686f2497",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 62,
+        "topic": "European Bond Opportunities",
+        "domain": "markets",
+        "headline": "PIMCO Buys European Bonds After War Selloff",
+        "summary": "Pacific Investment Management Co. is purchasing European government bonds following sharp selloff triggered by Middle East war. The move suggests institutional investors see value in risk assets after geopolitical repricing.",
+        "signal": "Watch for broader institutional re-entry into European fixed income as war premiums potentially overdone.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-16/pimco-sees-opportunity-in-europe-s-bonds-after-selloff-on-war",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 58,
+        "topic": "Malaysia Iran Diplomacy",
+        "domain": "geopolitics",
+        "headline": "Malaysia Serves as Gulf-Iran Communication Channel",
+        "summary": "Malaysian PM Anwar Ibrahim revealed that Gulf state leaders are using Malaysia as a diplomatic channel to Iran's leadership. The disclosure highlights Southeast Asian nation's growing role in Middle East mediation efforts.",
+        "signal": "Malaysia positioning as neutral mediator could provide additional diplomatic pathway beyond Pakistan talks.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-16/anwar-says-mideast-states-are-using-malaysia-to-engage-iran",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 55,
+        "topic": "Japan Iran War Impact",
+        "domain": "geopolitics",
+        "headline": "Japan Home Stores Limit Sales Amid War Panic-Buying",
+        "summary": "Japanese home improvement stores are restricting sales to curb panic-buying related to Iran war concerns. The measures reflect consumer anxiety about supply disruptions and economic impacts spreading to Asia.",
+        "signal": "Monitor Japanese consumer sentiment and supply chain preparations as war fears affect retail behavior.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/japan-s-home-improvement-stores-limit-sales-to-curb-iran-war-panic-buying",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u547c\u5b50\u306e\u30a4\u30ab\u30fb\u3042\u307e\u304a\u3046\u30fb\u30ab\u30f3\u30d1\u30c1\u2026\u4e2d\u6771\u5371\u6a5f\u3001\u7279\u7523\u54c1\u63fa\u3089\u3059 \u71c3\u6599\u8cbb\u3084\u8cc7\u6750\u306e\u9ad8\u9a30\u304c\u8fb2\u6c34\u7523\u696d\u3092\u76f4\u6483",
+            "score": 38,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjo22od6ym2u"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 52,
+        "topic": "Pope Iran War Criticism",
+        "domain": "geopolitics",
+        "headline": "Pope Leo XIV Condemns Religious War Manipulation",
+        "summary": "Pope Leo XIV issued explicit condemnation of the Trump administration's biblical justifications for the US-Israeli war on Iran, slamming 'those who manipulate religion' for war. The first American pontiff faces continued criticism from Trump over his positions.",
+        "signal": "Religious opposition could complicate domestic support for war among Christian voters.",
+        "sources": [
+          "Associated Press",
+          "Middle East Eye"
+        ],
+        "source_url": "https://apnews.com/article/pope-leo-xiv-media-coverage-trump-africa-bb65bbd4d88949e549f0b0b27916d5da",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 48,
+        "topic": "Oil Market Volatility",
+        "domain": "commodities",
+        "headline": "Oil Trades Below $100 on Peace Deal Hopes",
+        "summary": "Brent crude fell 1.16% to $98.24 amid renewed optimism for US-Iran ceasefire negotiations. The decline reflects market hope that diplomatic progress could ease supply disruption concerns from the Strait of Hormuz blockade.",
+        "signal": "Oil prices remain highly sensitive to diplomatic headlines; watch for volatility spikes on negotiation updates.",
+        "sources": [
+          "Hindu Business",
+          "LiveMint"
+        ],
+        "source_url": "https://www.thehindu.com/business/markets/rupee-rises-28-paise-to-9286-against-us-dollar-in-early-trade/article70872334.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Asia stocks set for weekly gain, oil under $100 on peace deal hopes",
+            "score": 40,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjobaif4lk2g"
+          }
+        ],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 45,
+        "topic": "Indian Markets Rally",
+        "domain": "markets",
+        "headline": "Nifty Jumps Above 24,200 on Corporate Earnings",
+        "summary": "Indian markets traded higher with Nifty advancing to 24,234 and Sensex up 200 points, led by strong Q4 corporate results. VST Industries and Waaree Renewable surged over 13% after earnings beats, while small-cap index jumped 13% in April.",
+        "signal": "Indian equities showing resilience to geopolitical tensions; monitor for foreign institutional flow changes.",
+        "sources": [
+          "NDTV Profit",
+          "LiveMint"
+        ],
+        "source_url": "https://www.ndtvprofit.com/markets/stock-market-crash-news-live-updates-share-market-today-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-q4-results-fy26-fno-futures-optio-11369236#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 42,
+        "topic": "Tamil Nadu Election Campaign",
+        "domain": "india",
+        "headline": "Vijay Releases TVK Manifesto Criticizing Dravidian Parties",
+        "summary": "Actor Vijay released his TVK party manifesto for Tamil Nadu elections, promising free LPG and wedding gold while criticizing major Dravidian parties' poll promises. He asserted his party has only promised practical and implementable policies.",
+        "signal": "Watch for Vijay's political impact on traditional DMK-AIADMK dynamics in Tamil Nadu assembly race.",
+        "sources": [
+          "Times of India",
+          "The Hindu"
+        ],
+        "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijay-releases-tvk-manifesto-criticises-dravidian-majors-poll-promises/article70869346.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 40,
+        "topic": "Parliament Women's Reservation",
+        "domain": "india",
+        "headline": "Parliament Debates Women's Reservation Amendment Bills",
+        "summary": "Parliament's special session focuses on three amendment bills to operationalize women's reservation law providing 33% quota in Lok Sabha and state assemblies. PM Modi assured southern states their proportional representation will remain intact despite fresh delimitation exercise.",
+        "signal": "Watch voting patterns and regional party positions on delimitation impact for 2029 general elections.",
+        "sources": [
+          "The Hindu",
+          "NDTV News"
+        ],
+        "source_url": "https://www.thehindu.com/news/national/parliament-special-session-live-updates-lok-sabha-delimitation-bill-womens-reservation-bill-voting-april-17/article70872149.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 38,
+        "topic": "Indian Economy Global Ranking",
+        "domain": "macro",
+        "headline": "India Slides to 6th Largest Economy",
+        "summary": "Indian economy has dropped to 6th largest globally, with Japan and UK overtaking India. The slide reflects currency depreciation and relative growth performance compared to other major economies.",
+        "signal": "Monitor rupee stability and GDP growth trajectory for potential rankings recovery in coming quarters.",
+        "sources": [
+          "Indian Express"
+        ],
+        "source_url": "https://indianexpress.com/article/explained/explained-economics/how-indian-economy-slid-to-6th-largest-in-the-world-10641012/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 35,
+        "topic": "Wipro Earnings Disappointment",
+        "domain": "corporate",
+        "headline": "Wipro Shares Fall 4% on Weak Q4 Results",
+        "summary": "Wipro shares tumbled after profit declined and the IT firm projected subdued outlook citing cautious client spending. Revenue growth in core IT services remained sluggish despite a share buyback announcement.",
+        "signal": "IT services sector faces continued headwinds from client spending caution; watch for sector-wide impact.",
+        "sources": [
+          "Times of India",
+          "NDTV Profit"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/business/india-business/wipro-shares-slide-up-to-4-after-weak-q4-muted-outlook-dents-sentiment/articleshow/130324343.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 32,
+        "topic": "Venezuela-US Relations",
+        "domain": "geopolitics",
+        "headline": "Venezuela Resumes Ties Called 'Great Achievement'",
+        "summary": "Acting President Delcy Rodr\u00edguez described resumption of ties as 'great achievement' of Venezuelan diplomacy. The diplomatic development comes amid broader US focus on Iran war operations.",
+        "signal": "Watch for broader Latin American diplomatic realignments as US attention remains on Middle East.",
+        "sources": [],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Potential shift in US-Venezuela relations could affect regional oil markets and sanctions policy.",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Acting President Delcy Rodr\u00edguez calls resumption of ties 'great achievement' of Venezuelan diplomacy",
+            "score": 42,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjnycefm3p2b"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 21,
+        "score": 31,
+        "topic": "Iranian Diaspora Tensions",
+        "domain": "geopolitics",
+        "headline": "Iranian Activist Killing Exposes Diaspora Divisions",
+        "summary": "The killing of an Iranian activist in Canada has exposed bitter divisions within the diaspora over the Iran war. The incident highlights internal community tensions as the conflict continues.",
+        "signal": "Monitor diaspora communities for security concerns and potential domestic terrorism risks.",
+        "sources": [],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Diaspora tensions could spill over into domestic security concerns in Western countries.",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "The killing of an Iranian activist in Canada has exposed bitter divisions within the diaspora over the Iran war.",
+            "score": 31,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjoaoonixx25"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 22,
+        "score": 26,
+        "topic": "Anti-War Protest Analysis",
+        "domain": "geopolitics",
+        "headline": "Western Anti-War Protests Remain Muted on Iran",
+        "summary": "Analysis examines why anti-war protests in Western countries have been notably subdued regarding the Iran conflict compared to previous Middle East wars.",
+        "signal": "Limited public opposition could give policymakers more latitude for sustained military operations.",
+        "sources": [],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Muted protest response suggests different public sentiment dynamics compared to Iraq War era.",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Why are anti-war protests in the West muted on Iran?",
+            "score": 26,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjoaoksb622f"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-16T21:09:06.547338+00:00",
     "timestamp_ist": "17 Apr 2026 \u00b7 02:39 IST",
     "story_count": 20,
@@ -14734,488 +15220,6 @@
         "context": "",
         "social_signals": [],
         "trend": "stable",
-        "breaking_on_social": false
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-12T06:56:36.265901+00:00",
-    "timestamp_ist": "12 Apr 2026 \u00b7 12:26 IST",
-    "story_count": 20,
-    "avg_score": 66,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 89,
-        "topic": "US-Iran Ceasefire Talks Fail",
-        "domain": "geopolitics",
-        "headline": "US-Iran talks collapse after 21 hours without breakthrough",
-        "summary": "Vice President JD Vance confirmed that US-Iran negotiations in Islamabad ended without agreement after marathon 21-hour talks mediated by Pakistan. Iran refused to provide assurances on nuclear weapons development, with differences on three key issues preventing progress.",
-        "signal": "Watch for renewed military escalation and oil price spikes as diplomatic path appears blocked.",
-        "sources": [
-          "Al Jazeera",
-          "Associated Press",
-          "Bloomberg",
-          "The Hindu",
-          "Politico",
-          "@bloomberg.com",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-11-2026",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "US Vice President JD Vance says the US and Iran have failed to reach an agreement after marathon talks in Islamabad.",
-            "score": 50,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjbaqls5iw2b"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "US and Iran fail to reach peace deal after marathon talks in Pakistan",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjbodyczwj2b"
-          }
-        ],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 87,
-        "topic": "US-Iran War Energy Impact",
-        "domain": "commodities",
-        "headline": "Iran conflict disrupts global energy supplies, inflation concerns mount",
-        "summary": "The US-Iran war has created severe disruptions to global oil flows through the Strait of Hormuz, with Iran reportedly unable to locate some naval mines. Malaysia warns of critical fuel supply shortages by June, while inflation in the US may jump to 3.4% as gas prices spike.",
-        "signal": "Energy crisis deepening with potential for severe supply shortages and accelerating inflation globally.",
-        "sources": [
-          "Associated Press",
-          "South China Morning Post",
-          "Indian Express",
-          "LiveMint",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://apnews.com/article/inflation-prices-gas-federal-reserve-trump-bf00c3105d5da88a0b01d9107ed4ecee",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Three supertankers laden with oil exit waterway amid global energy crunch, shipping data shows.",
-            "score": 31,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjbmobucrp24"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "In interview with Al Jazeera, International Maritime Organisation chief says world should reject tolls in waterway.",
-            "score": 33,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjbfxpusbf22"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 85,
-        "topic": "Global Funds Exit India",
-        "domain": "markets",
-        "headline": "Foreign investors flee Indian stocks at record pace",
-        "summary": "Global funds are dumping Indian equities at unprecedented levels as the US-Iran war energy shock threatens India's growth outlook. The world's fastest-growing major economy faces headwinds from disrupted supply chains and higher energy costs.",
-        "signal": "Indian market correction accelerating as foreign capital flight intensifies amid regional conflicts.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/global-funds-flee-indian-stocks-at-record-pace-on-growth-fears",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 82,
-        "topic": "Hungary Election Challenge",
-        "domain": "europe",
-        "headline": "Hungarians vote in crucial election threatening Orb\u00e1n's rule",
-        "summary": "Hungary holds what analysts call Europe's most consequential election this year, with opposition challenger P\u00e9ter Magyar leading in polls against Viktor Orb\u00e1n. Tens of thousands of anti-Orb\u00e1n supporters filled Budapest's Heroes' Square in the final push for votes after 16 years of populist rule.",
-        "signal": "EU-Russia-US dynamics could shift significantly if Orb\u00e1n loses power in key Eastern European ally.",
-        "sources": [
-          "BBC News",
-          "Japan Times",
-          "@apnews.com",
-          "@theguardian.com",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://www.japantimes.co.jp/news/2026/04/12/world/politics/hungary-election-eu-russia-us/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Hungarians were casting ballots in what is widely seen as Europe's most consequential election this year, a vote that could unseat populist Prime Minister Viktor Orb\u00e1n",
-            "score": 37,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjbkyzbinv2p"
-          },
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "Hungarians vote in hard-fought election that could oust Viktor Orb\u00e1n after 16 years",
-            "score": 28,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mjbonxrffk2a"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "The parliamentary election could end Prime Minister Viktor Orban's 16-year hold on power.",
-            "score": 34,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjbpzmuyov2l"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 80,
-        "topic": "OpenAI-Musk Legal Battle",
-        "domain": "corporate",
-        "headline": "OpenAI accuses Musk of legal ambush before $100B trial",
-        "summary": "OpenAI claims Elon Musk suddenly changed direction on his lawsuit demands in a \"legal ambush\" just weeks before the massive trial. The dispute involves Musk's claims against the AI startup, with the trial potentially involving over $100 billion in damages.",
-        "signal": "AI industry consolidation at risk if landmark litigation reshapes startup-founder relationships.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/openai-accuses-musk-of-ambush-as-100-billion-plus-trial-looms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 78,
-        "topic": "Artemis II Moon Mission",
-        "domain": "geopolitics",
-        "headline": "NASA Artemis II astronauts return after successful moon flyby",
-        "summary": "The Artemis II crew completed humanity's first lunar voyage in over half a century, splashing down in the Pacific Ocean after a record-setting moon flyby. The mission marks a crucial step toward NASA's planned lunar landing in two years.",
-        "signal": "Space race acceleration as US demonstrates renewed lunar capability ahead of China competition.",
-        "sources": [
-          "Associated Press",
-          "BBC News",
-          "Al Jazeera"
-        ],
-        "source_url": "https://apnews.com/article/nasa-artemis-astronauts-moon-splashdown-16adc5450f0127a0743292ef30b239f1",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 75,
-        "topic": "Japan AI Chip Investment",
-        "domain": "japan",
-        "headline": "Japan bets $16 billion on Rapidus AI chip venture",
-        "summary": "Japan approved \u00a5631.5 billion ($4 billion) in additional subsidies for Rapidus Corp, bringing total support to $16 billion for the AI chipmaking startup. The massive investment aims to propel Japan into competition with global semiconductor leaders in the AI era.",
-        "signal": "Japan's semiconductor sovereignty push intensifies amid US-China tech competition and AI boom.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/japan-bets-16-billion-to-propel-startup-rapidus-into-ai-chips",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 73,
-        "topic": "Swalwell California Governor Race",
-        "domain": "geopolitics",
-        "headline": "Democrats pressure Swalwell to exit California governor race",
-        "summary": "Key Democrats are calling on Rep. Eric Swalwell to end his California gubernatorial campaign following sexual assault allegations. The former House Speaker said the allegations \"must be appropriately investigated with full transparency and accountability.\"",
-        "signal": "California Democratic primary reshaping as leading candidate faces pressure to withdraw over scandal.",
-        "sources": [
-          "Wall Street Journal",
-          "Associated Press",
-          "Politico"
-        ],
-        "source_url": "https://apnews.com/article/california-governor-eric-swalwell-sexual-assault-allegations-3b13ddbea678b4886fc9f513dbd0d1c2",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 70,
-        "topic": "UK Defense Spending Boost",
-        "domain": "europe",
-        "headline": "Starmer plots higher UK defense spending to save leadership",
-        "summary": "Keir Starmer has resolved to accelerate Britain's defense spending increases beyond current plans, hoping security focus amid escalating conflicts can prevent a leadership challenge next month. The move comes as his government faces internal pressure over handling of multiple crises.",
-        "signal": "UK political instability could reshape NATO spending commitments and European defense strategy.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/starmer-plots-higher-uk-defense-spending-in-bid-to-save-his-job",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 68,
-        "topic": "Air India Crisis",
-        "domain": "india",
-        "headline": "Tata chairman warns Air India faces challenging times",
-        "summary": "Tata Sons Chairman Natarajan Chandrasekaran told employees that Air India is navigating a \"challenging time\" as the carrier struggles with record losses and operational failures. The warning signals continued turbulence for India's flagship airline despite Tata's acquisition.",
-        "signal": "India's aviation sector consolidation at risk if flagship carrier cannot stabilize operations and finances.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/tata-group-chair-tells-workers-air-india-faces-challenging-time",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 65,
-        "topic": "Israel-Hezbollah Escalation",
-        "domain": "middleeast",
-        "headline": "Israel-Hezbollah attacks escalate ahead of ceasefire talks",
-        "summary": "Tensions intensified between Israel and Hezbollah with at least 13 Lebanese security personnel killed in Israeli strikes and Hezbollah claiming attacks on Israeli naval bases. The escalation comes as crucial US-Iran talks were underway in Pakistan.",
-        "signal": "Multi-front conflict risk rising as regional proxies escalate despite diplomatic efforts.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/lebanon-israel-hezbollah-war-conflict-iran-talks-9b6faa0c2d139aca1faa451325a5c788",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 62,
-        "topic": "Prince Harry Defamation Suit",
-        "domain": "europe",
-        "headline": "Prince Harry sued by charity Sentebale he co-founded",
-        "summary": "Prince Harry is facing a defamation lawsuit from Sentebale, the charity he co-founded but left last year in an acrimonious dispute over management. The legal action represents an unusual conflict between a royal and his own charitable creation.",
-        "signal": "Royal family legal exposure expanding as personal disputes become public litigation risks.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cr517n2v7myo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 60,
-        "topic": "Austria Hydropower Crisis",
-        "domain": "europe",
-        "headline": "Austria scrambles for power as Alpine glaciers shrink",
-        "summary": "Melting Alpine glaciers are forcing Austria to rethink its hydropower-dependent economy as \"peak water\" approaches. The country is racing to secure alternative power supplies as climate change undermines the foundation of its energy system.",
-        "signal": "European energy security at risk as climate change destroys traditional renewable infrastructure.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/shrinking-alpine-glaciers-is-forcing-austria-to-shift-away-from-hydropower",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 58,
-        "topic": "Djibouti Election Results",
-        "domain": "geopolitics",
-        "headline": "Djibouti's Guelleh claims sixth term with 97 percent",
-        "summary": "Longtime ruler Isma\u00efl Omar Guelleh has secured 97 percent of the vote according to official results, extending his rule since 1999. The strategic Horn of Africa nation continues under the same leadership amid growing regional tensions.",
-        "signal": "Red Sea strategic chokepoint remains under stable but aging leadership as regional conflicts intensify.",
-        "sources": [
-          "Al Jazeera"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 56,
-        "topic": "South Korea Kazakhstan Oil",
-        "domain": "commodities",
-        "headline": "South Korea secures Kazakhstan oil supplies amid crisis",
-        "summary": "South Korea is close to securing oil supplies from Kazakhstan as global energy markets remain disrupted by Middle East conflicts. The diversification move aims to reduce dependence on traditional Gulf suppliers amid ongoing supply chain disruptions.",
-        "signal": "Asian energy importers rapidly diversifying supply chains as Middle East reliability collapses.",
-        "sources": [
-          "@reuters.com"
-        ],
-        "source_url": "https://bsky.app/profile/reuters.com/post/3mjbl27esk527",
-        "standalone_social": true,
-        "context": "Alternative oil supply arrangements signal broader shifts in global energy trade patterns.",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "South Korea close to securing oil supplies from Kazakhstan, minister says",
-            "score": 56,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjbl27esk527"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 16,
-        "score": 50,
-        "topic": "Ukraine-Russia Prisoner Swap",
-        "domain": "geopolitics",
-        "headline": "Ukraine-Russia swap 175 prisoners during Easter ceasefire",
-        "summary": "Ukraine and Russia exchanged 175 war prisoners as an Easter ceasefire begins, with the swap mediated by the United Arab Emirates. The prisoner exchange represents a rare moment of cooperation amid the ongoing conflict.",
-        "signal": "Humanitarian corridors may be expanding even as broader conflict remains frozen.",
-        "sources": [
-          "Politico"
-        ],
-        "source_url": "https://www.politico.eu/article/ukraine-russia-swap-175-war-prisoners-easter-ceasefire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 48,
-        "topic": "China-Taiwan Relations Thaw",
-        "domain": "geopolitics",
-        "headline": "China resumes Taiwan ties including direct flights",
-        "summary": "China announced it will resume direct flights to Taiwan and import Taiwanese aquaculture products after suspending ties. The move comes as Taiwan's opposition party leader concluded a visit to mainland China, signaling potential diplomatic thaw.",
-        "signal": "Cross-strait tensions may be easing as Beijing engages with Taiwan opposition ahead of potential power shifts.",
-        "sources": [
-          "The Hindu",
-          "Japan Times",
-          "@apnews.com"
-        ],
-        "source_url": "https://www.thehindu.com/news/international/china-says-it-will-resume-some-ties-with-taiwan-including-more-direct-flights/article70853479.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "China said it would resume some ties it had suspended with Taiwan such as direct flights to cities across China and imports of Taiwanese aquaculture products",
-            "score": 36,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjbpztl4d62d"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 47,
-        "topic": "Trump Fertilizer Price Warning",
-        "domain": "commodities",
-        "headline": "Trump warns against fertilizer price gouging amid crisis",
-        "summary": "President Donald Trump said he's watching fertilizer values closely and won't accept any \"price gouging\" as agricultural input costs spike. The warning comes amid global supply chain disruptions affecting food production costs.",
-        "signal": "Food inflation pressures building as administration signals intervention in agricultural commodity markets.",
-        "sources": [
-          "@bloomberg.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Presidential intervention in commodity pricing suggests broader inflation concerns beyond energy sector.",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "President Donald Trump said he's watching fertilizer values closely and won't accept any 'price gouging'",
-            "score": 47,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mja2fjlvzy2t"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 19,
-        "score": 45,
-        "topic": "UK Housing Market Strain",
-        "domain": "europe",
-        "headline": "Iran war dampens UK housing market confidence",
-        "summary": "UK housing market sellers report feeling \"trapped\" as the Iran war undermines buyer confidence and economic outlook. The geopolitical crisis is adding to existing pressures on Britain's property market from high interest rates and economic uncertainty.",
-        "signal": "UK property market correction accelerating as geopolitical risks compound domestic economic headwinds.",
-        "sources": [
-          "@theguardian.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Housing market sentiment often provides early indicator of broader economic confidence deterioration.",
-        "social_signals": [
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "'We're trapped': despair for sellers as Iran war knocks confidence in UK housing market",
-            "score": 31,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mjbonwi7sl2h"
-          }
-        ],
-        "trend": "falling",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 20,
-        "score": 43,
-        "topic": "Japan AI Development Initiative",
-        "domain": "japan",
-        "headline": "SoftBank leads new Japanese AI consortium with eight firms",
-        "summary": "SoftBank and seven other Japanese companies established a new firm to develop high-performance AI models, with government support being considered. The initiative aims to create autonomous control systems for robots and machinery through \"Physical AI\" capabilities.",
-        "signal": "Japan accelerating AI sovereignty efforts to compete with US and Chinese dominance in foundation models.",
-        "sources": [
-          "Japan Times",
-          "@nikkei.com"
-        ],
-        "source_url": "https://www.japantimes.co.jp/business/2026/04/12/companies/softbank-ai-new-firm/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\u304c\u56fd\u7523AI\u306e\u65b0\u4f1a\u793e\u8a2d\u7acb\u3001NEC\u3084\u30db\u30f3\u30c0\u306a\u30698\u793e\u51fa\u8cc7",
-            "score": 43,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjbeppjh6d2m"
-          }
-        ],
-        "trend": "rising",
         "breaking_on_social": false
       }
     ],
