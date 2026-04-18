@@ -1,5 +1,453 @@
 [
   {
+    "timestamp": "2026-04-18T09:09:12.165875+00:00",
+    "timestamp_ist": "18 Apr 2026 \u00b7 14:39 IST",
+    "story_count": 20,
+    "avg_score": 60,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "Iran Closes Hormuz Strait",
+        "domain": "geopolitics",
+        "headline": "Iran Reimposed Restrictions On Strait Of Hormuz Over US Blockade",
+        "summary": "Iran announced it would resume strict management of the Strait of Hormuz, reversing earlier moves to allow shipping after accusing the U.S. of violating agreements. The Iranian Revolutionary Guard imposed navigation rules while tanker convoys were seen crossing the strategic waterway amid ongoing tensions.",
+        "signal": "Oil markets face renewed volatility as critical shipping route remains contested despite temporary reopening.",
+        "sources": [
+          "Associated Press",
+          "The Hindu",
+          "Al Jazeera English",
+          "@apnews.com"
+        ],
+        "source_url": "https://www.thehindu.com/news/international/iran-reimposes-restrictions-on-strait-of-hormuz-accusing-us-of-violating-deal-to-reopen-it/article70877016.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Iran has reimposed restrictions on the Strait of Hormuz, accusing the U.S. of violating deal to reopen it.",
+            "score": 45,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjqzppjms42v"
+          },
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "UK's Cooper urges full resumption of shipping through Hormuz Strait",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjqxutu2ij2f"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Middle East crisis live: Iran warns it will close strait of Hormuz if US blockade continues",
+            "score": 41,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjqyyrhwji2g"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Shipping companies said several things had to be clarified, including the presence of mines, Iranian conditions.",
+            "score": 41,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjqaf2simr2i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "topic": "Lebanon Israel Ceasefire",
+        "domain": "geopolitics",
+        "headline": "Ten-Day Lebanon Ceasefire Takes Effect With Cautious Returns",
+        "summary": "A 10-day ceasefire between Israel and Hezbollah began with tens of thousands of displaced Lebanese cautiously returning to war-torn villages. Trump called it a 'historic day for Lebanon' while expressing optimism about broader Iran war negotiations, though tensions remain high.",
+        "signal": "Watch for ceasefire extension talks and broader regional de-escalation momentum as deadline approaches Wednesday.",
+        "sources": [
+          "Associated Press",
+          "BBC News",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-pakistan-hormuz-17-april-2026-4bd5a29af608ecbd72356559b3c55d67",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Tens of thousands of people forcibly displaced by Israeli attacks on Lebanon use first day of ceasefire to return home.",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjq6pgsnul2f"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 76,
+        "topic": "Women's Reservation Bill Fails",
+        "domain": "india",
+        "headline": "India Women's Quota Bill Fails Parliament Test Despite Majority Support",
+        "summary": "India's women's reservation bill failed to secure the required two-thirds majority in the Lok Sabha, with the government blaming opposition parties for the setback. Priyanka Gandhi called it a 'black day for the Centre' while PM Modi warned the opposition would face consequences from women voters.",
+        "signal": "Political fallout likely ahead of upcoming state elections as women's empowerment becomes campaign battleground.",
+        "sources": [
+          "Times of India",
+          "NDTV News",
+          "The Hindu"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/shouldnt-be-considered-failure-of-govt-rijiju-on-womens-reservation-bill-not-clearing-ls/articleshow/130349618.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 74,
+        "topic": "Yes Bank Q4 Results",
+        "domain": "india",
+        "headline": "Yes Bank Q4 Profit Jumps 45% To Rs 1,068 Crore",
+        "summary": "Yes Bank reported strong fourth-quarter results with net profit surging 44.7% to Rs 1,068.42 crore compared to the previous year. Net Interest Income grew 16% year-on-year, reflecting the bank's recovery momentum and improved asset quality.",
+        "signal": "Indian private banking sector recovery gains momentum ahead of other major bank earnings next week.",
+        "sources": [
+          "LiveMint Markets",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/yes-bank-q4-results-net-profit-jumps-45-to-rs-1-068-crore-nii-up-16-yoy-11776500820893.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "India's Yes Bank post higher profit on loan growth",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjr3ie54oa2a"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 71,
+        "topic": "Japan Australia Defense Deal",
+        "domain": "japan",
+        "headline": "Japan Seals Largest-Ever Defense Contract With Australia Frigate Sale",
+        "summary": "Japan signed its biggest defense export deal ever, selling Australia the first three of 11 planned Mogami-class frigates. The contract highlights Japan's defense industry expansion and deeper Australia-Japan security cooperation amid regional tensions.",
+        "signal": "Japan's arms export pivot accelerates as regional defense partnerships deepen against China backdrop.",
+        "sources": [
+          "Japan Times",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://www.japantimes.co.jp/news/2026/04/18/japan/mogami-japan-australia-announcement/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 68,
+        "topic": "ECB Iran War Policy",
+        "domain": "europe",
+        "headline": "ECB Must Stay Vigilant On Iran War Inflation Risks",
+        "summary": "European Central Bank Governing Council member Madis Muller said the ECB needs to remain vigilant about potential inflation risks from the Iran war but shouldn't rush into rate hikes. The comments reflect central bank caution amid geopolitical uncertainty affecting energy markets.",
+        "signal": "European monetary policy caught between war-driven inflation risks and economic growth concerns.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/ecb-must-be-vigilant-without-rushing-rate-hikes-muller-says",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 65,
+        "topic": "Jio Platforms IPO Filing",
+        "domain": "india",
+        "headline": "Ambani's Jio Platforms Plans IPO Filing Next Month",
+        "summary": "Reliance Industries is likely to file draft paperwork for Jio Platforms' initial public offering in May, incorporating full fiscal year earnings. The move would mark one of India's most anticipated tech IPOs amid strong digital services growth.",
+        "signal": "Indian tech IPO market revival expected as Ambani's digital crown jewel prepares for public listing.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/ambani-s-jio-platforms-is-said-to-plan-filing-for-ipo-next-month",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 63,
+        "topic": "Myanmar Prisoner Release",
+        "domain": "geopolitics",
+        "headline": "Myanmar Pardons Over 4,000 Prisoners Including Deposed President",
+        "summary": "Myanmar's military government pardoned former President Win Myint and over 4,000 other prisoners, the biggest concession by the junta since the 2021 coup. However, Aung San Suu Kyi remains imprisoned despite sentence reduction, offering little hope for democratic restoration.",
+        "signal": "Limited tactical concessions by Myanmar junta unlikely to ease international pressure or restore democracy.",
+        "sources": [
+          "Al Jazeera English",
+          "Japan Times"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/17/myanmar-pardons-over-4000-prisoners-including-deposed-president",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 61,
+        "topic": "Japan Wage Growth Momentum",
+        "domain": "japan",
+        "headline": "Japan Wage Growth Exceeds 5% After Small Firm Deals",
+        "summary": "Japan's largest labor union group secured average pay increases exceeding 5% even after including smaller firms in wage talks results. The sustained momentum will likely encourage the Bank of Japan to maintain its monetary tightening trajectory.",
+        "signal": "BOJ rate hike prospects strengthen as broad-based wage growth supports inflation target achievement.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/japan-s-wage-growth-holds-momentum-after-small-firms-reach-deals",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 59,
+        "topic": "India Power Demand Slowdown",
+        "domain": "india",
+        "headline": "India Power Use Growth Hits Six-Year Low On Weather",
+        "summary": "India's electricity consumption grew at the slowest pace in six years through March, as mild summer weather reduced air conditioning demand and abundant rains curbed farm irrigation needs. The unexpected slowdown reflects changing consumption patterns amid economic growth.",
+        "signal": "India's energy demand trajectory shifting as weather patterns affect traditional consumption drivers.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/india-s-power-use-sees-slowest-growth-in-years-on-cooler-weather",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 57,
+        "topic": "Mythos AI Security Concerns",
+        "domain": "markets",
+        "headline": "Finance Ministers Raise Serious Concerns About Mythos AI Model",
+        "summary": "Finance ministers and banking leaders expressed serious concerns about Anthropic's Mythos AI model, which experts say has unprecedented ability to identify and exploit cybersecurity weaknesses. JPMorgan is testing the system while CEO Jamie Dimon admits AI is currently making security threats worse.",
+        "signal": "AI-powered cybersecurity arms race intensifies as advanced models become double-edged security tools.",
+        "sources": [
+          "BBC News",
+          "Times of India"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c2ev24yx4rmo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 55,
+        "topic": "European Stock Market Outlook",
+        "domain": "europe",
+        "headline": "JPMorgan UBS See Little European Stock Upside Left",
+        "summary": "Major banks including JPMorgan and UBS warn European stocks will struggle to rise further this year due to looming downgrades to over-optimistic earnings expectations. The cautious outlook reflects concerns about economic headwinds and geopolitical risks.",
+        "signal": "European equity markets face earnings reality check as optimistic forecasts meet economic headwinds.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/jpmorgan-ubs-see-little-stock-upside-left-in-europe-this-year",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 53,
+        "topic": "UK EU Relations Reset",
+        "domain": "europe",
+        "headline": "UK Adopts Ruthlessly Pragmatic Approach To EU Ties",
+        "summary": "The UK is pursuing a 'ruthlessly pragmatic' approach to becoming closer to European neighbors in volatile times, according to the UK's EU minister. The reset comes amid questions about the costs and benefits of deeper integration.",
+        "signal": "Post-Brexit UK-EU relationship evolution continues as geopolitical pressures drive pragmatic cooperation.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cqj8pg5yppwo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 50,
+        "topic": "Trump Iran Ultimatum",
+        "domain": "geopolitics",
+        "headline": "Trump Threatens Bombing Iran If No Deal By Wednesday",
+        "summary": "President Trump warned the US will 'have to start dropping bombs again' if no US-Iran deal is reached by Wednesday. He indicated the current ceasefire may not be extended without progress in negotiations, escalating pressure for diplomatic breakthrough.",
+        "signal": "Iran war escalation risk rises sharply if diplomatic deadline passes without agreement Wednesday.",
+        "sources": [],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "High-stakes diplomatic ultimatum could determine whether Iran war resumes or de-escalates this week.",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US President Donald Trump says the US will 'have to start dropping bombs again' if no US-Iran deal is reached by Wednesday.",
+            "score": 50,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjqs2lynms2c"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 48,
+        "topic": "Central Govt DA Hike",
+        "domain": "india",
+        "headline": "Government Approves 2% Dearness Allowance Hike For Employees",
+        "summary": "The Cabinet approved a 2% increase in Dearness Allowance for central government employees and pensioners, effective from January 2026. The hike brings the total DA to 60% of basic salary, benefiting millions of government workers amid inflation pressures.",
+        "signal": "Government salary adjustments signal continued fiscal support for public sector amid economic challenges.",
+        "sources": [
+          "Times of India",
+          "NDTV News",
+          "NDTV Profit"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/business/india-business/da-hike-govt-approves-2-dearness-allowance-raise-for-central-govt-employees/articleshow/130349174.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 47,
+        "topic": "Nagano Prefecture Earthquake",
+        "domain": "japan",
+        "headline": "Magnitude 5 Earthquake Strikes Northern Nagano Prefecture",
+        "summary": "A strong magnitude 5 earthquake shook northern Nagano Prefecture with no tsunami risk according to Japan's Meteorological Agency. The quake caused no immediate reports of major damage or casualties in the mountainous region.",
+        "signal": "Japan's seismic monitoring systems continue tracking regional earthquake activity amid ongoing geological instability.",
+        "sources": [
+          "Japan Times"
+        ],
+        "source_url": "https://www.japantimes.co.jp/news/2026/04/18/japan/earthquake-northern-nagano/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Magnitude 5 earthquake strikes off mountainous Nagano in Japan, NHK says",
+            "score": 50,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjqwzeepmf2a"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 17,
+        "score": 46,
+        "topic": "Colombia Latin America Policy",
+        "domain": "geopolitics",
+        "headline": "Colombia's Petro Warns Of Latin American Rebellion",
+        "summary": "Colombian President Gustavo Petro warned of a potential Latin American 'rebellion' if the US doesn't rethink its regional policy approach. The comments reflect growing tensions over American influence and intervention in Latin American affairs.",
+        "signal": "US-Latin America relations face mounting pressure as regional leaders challenge traditional power dynamics.",
+        "sources": [],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Regional diplomatic tensions escalating as Latin American leaders increasingly challenge US hegemony.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Colombia's Petro warns of Latin American 'rebellion' if US doesn't rethink policy",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjqzas7bab2d"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 18,
+        "score": 45,
+        "topic": "IMF Venezuela Ties",
+        "domain": "geopolitics",
+        "headline": "IMF World Bank Restore Ties With Venezuela",
+        "summary": "The International Monetary Fund and World Bank announced they are restoring ties with Venezuela, with Acting President Delcy Rodriguez calling the resumption a 'great achievement' of Venezuelan diplomacy. The move signals potential economic reintegration for the sanctioned nation.",
+        "signal": "Venezuela's international economic isolation begins to crack as multilateral institutions reengage.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/economy/2026/4/17/imf-world-bank-say-they-are-restoring-ties-with-venezuela",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 44,
+        "topic": "Iran War Economic Impact",
+        "domain": "geopolitics",
+        "headline": "Iran War Creates Big Winners In Finance And Defense",
+        "summary": "Al Jazeera analysis shows the Iran war has created significant beneficiaries including Wall Street firms, weapons manufacturers, AI companies and green energy sectors. While the global economic outlook remains grim if conflict continues, certain industries are experiencing unprecedented growth.",
+        "signal": "Conflict-driven market distortions create new investment themes while traditional sectors suffer disruption.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/17/iran-wars-big-winners-wall-street-weapons-firms-ai-and-green-energy",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 42,
+        "topic": "Europe Hormuz Security Mission",
+        "domain": "europe",
+        "headline": "Europe Accelerates Hormuz Security Effort Despite Trump Opposition",
+        "summary": "European leaders held an international summit to advance efforts securing the Strait of Hormuz despite Trump's order for them to stay away. More than 30 leaders joined video calls to map out a coalition mission excluding the US for shipping protection.",
+        "signal": "Transatlantic security coordination fractures as Europe charts independent course on critical energy routes.",
+        "sources": [
+          "Associated Press",
+          "Politico Europe"
+        ],
+        "source_url": "https://apnews.com/article/hormuz-strait-iran-blockade-britain-france-10518e69aecbb986c9118ff42ab0ca02",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-18T06:20:45.405824+00:00",
     "timestamp_ist": "18 Apr 2026 \u00b7 11:50 IST",
     "story_count": 20,
@@ -15278,555 +15726,6 @@
         "social_signals": [],
         "trend": "stable",
         "breaking_on_social": false
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-13T07:31:08.995753+00:00",
-    "timestamp_ist": "13 Apr 2026 \u00b7 13:01 IST",
-    "story_count": 20,
-    "avg_score": 57,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 90,
-        "topic": "US-Iran Peace Talks Collapse",
-        "domain": "geopolitics",
-        "headline": "US-Iran talks fail, Trump threatens Hormuz blockade",
-        "summary": "Historic face-to-face talks between the US and Iran in Pakistan ended without agreement after Iran refused to commit to not developing nuclear weapons. President Trump announced a military blockade of the Strait of Hormuz starting Monday, threatening global energy supplies.",
-        "signal": "Energy security crisis escalates as major oil chokepoint faces closure, risking severe supply disruptions and price spikes.",
-        "sources": [
-          "Associated Press",
-          "Bloomberg",
-          "Al Jazeera English",
-          "@bloomberg.com"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "US President Donald Trump's move to blockade the Strait of Hormuz risks deepening an unfolding economic crisis for Asia's energy-dependent economies, including America's allies in the region and China",
-            "score": 40,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjdtiowalw2d"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "- Global energy crisis escalates as US moves to blockade the Strait of Hormuz\n- Brent oil jumps to more than $103 a barrel\n- Trump claims he doesn't care if Iran returns for talks after failed negotia",
-            "score": 39,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjdsjtpmbe2e"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Oil prices surge past $103 a barrel after US announces blockade of Iran https://aje.news/69hwsc",
-            "score": 46,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjdrfpbbnr2o"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Iran war live: US military says it will block Iranian traffic in Hormuz https://aje.news/sbsw1y",
-            "score": 46,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjdmesdxf32f"
-          },
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "Oil price tops $100 a barrel after US-Iran talks fail and Trump orders strait of Hormuz blockade",
-            "score": 36,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mjednnzraq2f"
-          },
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "Oil price tops $100 a barrel again after Trump announces strait of Hormuz blockade \u2013 business live",
-            "score": 46,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mjeafaui5f2h"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 82,
-        "topic": "Hungary Election Orb\u00e1n Defeated",
-        "domain": "europe",
-        "headline": "Orb\u00e1n loses power after 16 years in crushing defeat",
-        "summary": "Hungarian Prime Minister Viktor Orb\u00e1n suffered a devastating electoral defeat to opposition leader P\u00e9ter Magyar, ending his 16-year hold on power. Magyar's grassroots party is on course to win a supermajority in parliament, potentially reshaping EU dynamics and Ukraine support.",
-        "signal": "Major shift in EU power balance as key Putin ally exits, likely accelerating Ukraine aid and weakening MAGA international network.",
-        "sources": [
-          "Al Jazeera English",
-          "Bloomberg",
-          "BBC News",
-          "Politico Europe"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/12/hungarians-vote-as-pm-orban-faces-toughest-election-challenge-in-years",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 78,
-        "topic": "Trump Pope Leo Feud",
-        "domain": "geopolitics",
-        "headline": "Trump attacks Pope Leo over Iran war criticism",
-        "summary": "President Trump launched a savage attack on Pope Leo XIV, calling him 'WEAK on crime' and criticizing the pontiff's calls for peace in the Iran war. The US-born pope has emerged as an outspoken critic of Trump's foreign and immigration policies.",
-        "signal": "Unprecedented US president-Vatican rift signals deepening international isolation for Trump administration.",
-        "sources": [
-          "Associated Press",
-          "Politico Europe",
-          "Japan Times",
-          "@bloomberg.com"
-        ],
-        "source_url": "https://apnews.com/article/pope-leo-usisraeli-war-iran-7309c5df6c7312b942e0510ea65502cb",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "President Donald Trump attacked Pope Leo XIV for his criticisms of the US-Israeli war on Iran, calling the leader of the Catholic Church \"WEAK on crime.\"",
-            "score": 44,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjdurlawcm25"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Leo, \u200bwho last year became the first US-born pope, has emerged as an outspoken critic of the US-Israeli \u2060war on Iran.",
-            "score": 31,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mje6svussk2h"
-          },
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u30c8\u30e9\u30f3\u30d7\u6c0f\u3001\u30ed\u30fc\u30de\u6559\u7687\u3092\u975e\u96e3\u3000\u300c\u5e73\u548c\u3092\u9078\u3079\u300d\u767a\u8a00\u306b\u53cd\u767a\u304b",
-            "score": 43,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mje4fcrape2z"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 76,
-        "topic": "Global Oil Crisis",
-        "domain": "commodities",
-        "headline": "Oil surges past $100 as Hormuz blockade threatens supplies",
-        "summary": "Oil prices jumped above $103 per barrel following failed US-Iran talks and Trump's announced blockade of the Strait of Hormuz. The crisis is disrupting Asian economies and forcing countries like Japan and Malaysia to implement emergency fuel measures.",
-        "signal": "Energy-dependent economies face severe supply constraints; expect accelerated inflation and potential recession risks in Asia.",
-        "sources": [
-          "Bloomberg",
-          "The National (UAE)",
-          "Nikkei Asia",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.thenationalnews.com/business/energy/2026/04/13/oil-surges-as-us-iran-talks-fail-and-trump-announces-strait-of-hormuz-blockade/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Iran's Hormuz gamble ushers in a tense new normal for Gulf energy reut.rs/4svLctd",
-            "score": 36,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjecz4nyii2j"
-          },
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Kuwait raises May crude prices for Asia, pricing document shows reut.rs/4c7i2M5",
-            "score": 28,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjedkwbfsf26"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 74,
-        "topic": "Indian Stock Market Crash",
-        "domain": "india",
-        "headline": "Indian markets plunge as Iran crisis escalates inflation fears",
-        "summary": "Indian stock markets crashed with Sensex falling 1,700 points and Nifty dropping near 23,500 as failed US-Iran talks fueled concerns about prolonged conflict and rising oil prices. The rupee plunged 49 paise to 93.32 against the dollar as FPI outflows hit \u20b91.8 lakh crore year-to-date.",
-        "signal": "India faces dual pressure from energy inflation and capital flight; expect RBI intervention and potential policy tightening.",
-        "sources": [
-          "NDTV Profit",
-          "The Hindu",
-          "LiveMint Markets"
-        ],
-        "source_url": "https://www.thehindu.com/business/markets/stock-markets-plunge-as-failure-of-usiran-negotiations-fuels-concerns-of-prolonged-conflict/article70856239.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 72,
-        "topic": "Noida Workers Violence",
-        "domain": "india",
-        "headline": "Violent worker protests in Noida over wage disparities",
-        "summary": "Industrial workers in Noida launched violent protests demanding wage parity with Haryana, leading to vehicles being torched and roads blocked in Phase 2. The demonstrations turned destructive due to significant pay gaps and spillover effects from Manesar labor unrest.",
-        "signal": "Labor unrest spreading across Delhi NCR industrial belt threatens manufacturing disruptions and supply chain stability.",
-        "sources": [
-          "Times of India",
-          "NDTV News",
-          "Indian Express"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/city/noida/why-noida-workers-protests-turned-violent-wage-gap-rising-anger-and-manesar-stir-spillover/articleshow/130226119.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 68,
-        "topic": "Japan Supply Chain Disruption",
-        "domain": "japan",
-        "headline": "Japanese manufacturers halt production amid Iran war disruptions",
-        "summary": "Japanese companies including TOTO are suspending operations due to oil-derived material shortages from the Iran conflict. Japan's government is coordinating with Asian nations to address petroleum product bottlenecks affecting medical equipment and manufacturing.",
-        "signal": "Japan's manufacturing sector faces extended disruptions; expect production cuts and price increases across multiple industries.",
-        "sources": [
-          "Nikkei Asia",
-          "Bloomberg",
-          "Japan Times"
-        ],
-        "source_url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-toto-suspends-pre-fab-bath-orders-as-iran-war-hits-glue-supply",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "TOTO\u3001\u30e6\u30cb\u30c3\u30c8\u30d0\u30b9\u306e\u53d7\u6ce8\u505c\u6b62\u3078\u3000\u4e2d\u6771\u60c5\u52e2\u3067\u6750\u6599\u30ca\u30d5\u30b5\u304c\u4e0d\u8db3",
-            "score": 35,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjdzb63nwv2a"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 65,
-        "topic": "Sam Altman Home Attacks",
-        "domain": "corporate",
-        "headline": "OpenAI CEO Altman's home attacked twice in two days",
-        "summary": "San Francisco police arrested two individuals after shots were fired outside OpenAI CEO Sam Altman's home, following a firebomb attack just two days earlier. Three firearms were seized in the latest incident targeting the AI executive.",
-        "signal": "Escalating violence against tech leaders signals growing anti-AI sentiment; expect increased corporate security measures.",
-        "sources": [
-          "Times of India",
-          "Economic Times"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altmans-home-attacked-second-time-in-two-days-heres-what-police-said/articleshow/130224629.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 62,
-        "topic": "China-Taiwan Diplomacy",
-        "domain": "geopolitics",
-        "headline": "China announces Taiwan goodwill measures after opposition talks",
-        "summary": "China unveiled policy measures demonstrating 'goodwill' toward Taiwan following landmark meeting between President Xi Jinping and Taiwan opposition leader Cheng Li-wun. The rare diplomatic engagement signals potential shift in cross-strait relations.",
-        "signal": "Beijing's Taiwan strategy pivots toward opposition engagement; watch for Taiwanese political realignment ahead of elections.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/china-unveils-taiwan-goodwill-steps-after-rare-opposition-talks",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "China is poised to benefit from the Iran war as global energy disruptions accelerate a shift away from fossil fuels and toward clean technologies and renewable power, industries that China dominates.",
-            "score": 34,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjeaisdvsa2k"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 58,
-        "topic": "Asha Bhosle Death",
-        "domain": "india",
-        "headline": "Legendary singer Asha Bhosle passes away in Mumbai",
-        "summary": "Bollywood playback singing legend Asha Bhosle died in Mumbai, receiving full state honors as tributes poured in from across the film and political industries. The iconic vocalist was known for her vast repertoire and international restaurant ventures.",
-        "signal": "End of an era for Indian cinema music; expect significant cultural impact and commemorative events across entertainment industry.",
-        "sources": [
-          "The Hindu",
-          "Indian Express",
-          "The National (UAE)"
-        ],
-        "source_url": "https://www.thehindu.com/news/national/asha-bhosle-singer-dies-in-mumbai-asha-bhosle-passes-away-entertainment-music-news-updates/article70853643.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 55,
-        "topic": "NASA Artemis Mission",
-        "domain": "corporate",
-        "headline": "NASA Artemis II crew returns from historic Moon mission",
-        "summary": "NASA's Artemis II crew successfully completed their history-making lunar mission and splashed down safely. The mission marks a significant milestone in America's return to Moon exploration after decades.",
-        "signal": "Space sector momentum builds as lunar missions resume; expect increased investment in aerospace and satellite technologies.",
-        "sources": [
-          "The Wall Street Journal"
-        ],
-        "source_url": "https://www.wsj.com/science/space-astronomy/nasas-artemis-set-for-return-after-history-making-moon-mission-5848a309?mod=hp_featst_pos3",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 52,
-        "topic": "India Russian Oil Imports",
-        "domain": "india",
-        "headline": "India ramps up Russian crude purchases to near 3-year high",
-        "summary": "Indian refiners have significantly increased Russian crude oil purchases over the past two months, reaching the highest levels in almost three years. The surge comes as concerns about Trump administration sanctions on Russian oil have eased.",
-        "signal": "India's energy diversification accelerates amid geopolitical shifts; expect continued Russia-India energy partnership despite Western pressure.",
-        "sources": [
-          "Times of India"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/business/india-business/highest-in-almost-3-years-india-buying-all-the-russian-crude-it-can-get-its-hands-on-as-trump-sanctions-threat-fades/articleshow/130227314.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "India's March palm oil imports fall 19% to three-month low reut.rs/3Q4OsOJ",
-            "score": 36,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjech6cysy2z"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "Two sanctioned supertankers laden with Iranian crude have dropped anchor off Indian ports, marking what could be the first such cargoes to arrive in the country in nearly seven years.",
-            "score": 26,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjdwh2pn7p2t"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 48,
-        "topic": "Rory McIlroy Masters Win",
-        "domain": "corporate",
-        "headline": "McIlroy wins back-to-back Masters tournaments at Augusta",
-        "summary": "Rory McIlroy captured his second consecutive Masters title at Augusta National, joining golf's elite with back-to-back victories. The Northern Irish golfer now has six major championships to his name.",
-        "signal": "Golf sponsorship and media rights values likely to surge with McIlroy's dominant performance attracting global audience.",
-        "sources": [
-          "The National (UAE)"
-        ],
-        "source_url": "https://www.thenationalnews.com/sport/2026/04/13/rory-mcilroy-joins-greats-with-back-to-back-victories-at-the-masters/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "Rory McIlroy ignores Jack Nicklaus's advice and tames the deadly 12th at Augusta | Andy Bull",
-            "score": 36,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mjeaxvckfk2v"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 45,
-        "topic": "UK Chagos Islands Deal",
-        "domain": "geopolitics",
-        "headline": "UK shelves Chagos Islands transfer after US withdraws support",
-        "summary": "Britain has suspended plans to transfer the Chagos Islands to Mauritius after the Trump administration withdrew support for the deal. The islands house a crucial US military base, and the legislation ran out of time in Parliament.",
-        "signal": "Strategic military bases remain under Western control amid geopolitical tensions; expect continued disputes over sovereignty vs security.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/uk-chagos-islands-mauritius-trump-c37afa22677ec8e504c5a1dab6313d1c",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 42,
-        "topic": "Eric Swalwell Governor Bid",
-        "domain": "geopolitics",
-        "headline": "Swalwell supporters withdraw amid sexual assault allegations",
-        "summary": "Prominent supporters of California Rep. Eric Swalwell's gubernatorial bid are withdrawing their backing after allegations surfaced that he sexually assaulted a woman twice, including once when she worked for him. Swalwell has denied the allegations.",
-        "signal": "California governor's race reshapes as major Democratic contender faces credibility crisis; expect field realignment.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/california-governor-eric-swalwell-assault-allegations-aa1d13afe441be38d1d16f648e06d503",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 40,
-        "topic": "Danish Royal Death",
-        "domain": "europe",
-        "headline": "Queen Mary's father John Donaldson dies in Australia",
-        "summary": "The father of Denmark's Australian-born Queen Mary, John Donaldson, has died according to the royal house in Copenhagen. The death affects the Danish royal family's international connections.",
-        "signal": "Minor impact on Danish-Australian diplomatic relations; expect ceremonial protocol adjustments.",
-        "sources": [
-          "@apnews.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Royal deaths often trigger diplomatic protocol changes and can affect bilateral relations between nations.",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "The royal house in Copenhagen says the father of Denmark's Australian-born Queen Mary, John Donaldson, has died.",
-            "score": 41,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjdzsc7rlz2k"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 17,
-        "score": 38,
-        "topic": "Ireland Fuel Tax Cuts",
-        "domain": "europe",
-        "headline": "Ireland offers new fuel tax cuts amid price protests",
-        "summary": "Irish Prime Minister Micheal Martin announced new fuel tax cuts to address growing protests over soaring fuel costs. The government is responding to public anger over energy prices amid the global crisis.",
-        "signal": "European governments face mounting pressure to subsidize energy costs; expect similar measures across EU as political stability risks rise.",
-        "sources": [
-          "@apnews.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Government fuel subsidies during energy crises often signal broader economic policy shifts and fiscal pressure points.",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Irish Prime Minister Micheal Martin says his government will offer new fuel tax cuts to address protests over soaring fuel costs.",
-            "score": 47,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjdrgq6y342c"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 18,
-        "score": 35,
-        "topic": "Texas Water Crisis",
-        "domain": "commodities",
-        "headline": "Corpus Christi faces severe drought water crisis",
-        "summary": "The Texas city of Corpus Christi is experiencing a severe water crisis due to prolonged drought, threatening both residential use and critical refineries and petrochemical plants in the area.",
-        "signal": "US refining capacity at risk from water shortages; expect potential fuel supply disruptions and industrial relocations.",
-        "sources": [
-          "@apnews.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Water crises affecting refinery operations can trigger significant energy supply disruptions and regional economic impacts.",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "The Texas city of Corpus Christi is facing a severe water crisis because of a prolonged drought, and it is a threat not just to residential use but also to the refineries and petrochemical plants in a",
-            "score": 34,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjdurpmca22c"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 19,
-        "score": 32,
-        "topic": "Phil Garner Death",
-        "domain": "corporate",
-        "headline": "Former Astros manager Phil Garner dies",
-        "summary": "Phil Garner, a three-time All-Star infielder who managed the Houston Astros to their first World Series appearance, has died. He was a significant figure in baseball history.",
-        "signal": "Minor impact on sports media and memorabilia markets; expect commemorative coverage.",
-        "sources": [
-          "@apnews.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Deaths of prominent sports figures often trigger nostalgic coverage and can affect collectibles markets.",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Phil Garner, a three-time All-Star infielder who went on to manage the Houston Astros to their first World Series appearance, has died.",
-            "score": 31,
-            "url": "https://bsky.app/profile/apnews.com/post/3mje6tfurd62l"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 20,
-        "score": 30,
-        "topic": "World Bank Jobs Warning",
-        "domain": "macro",
-        "headline": "World Bank warns of looming jobs crisis post-war",
-        "summary": "World Bank chief has sounded the alarm about a looming jobs crisis that could persist even after the current war ends, highlighting long-term economic disruptions beyond immediate conflict impacts.",
-        "signal": "Global employment disruption extends beyond war period; expect prolonged labor market instability and policy interventions.",
-        "sources": [
-          "@reuters.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "World Bank warnings often precede major policy initiatives and can signal broader economic restructuring needs.",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "World Bank chief sounds alarm about looming jobs crisis even after war ends reut.rs/4swt0Qf",
-            "score": 36,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjecq4erlh2o"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
       }
     ],
     "social_count": 30
