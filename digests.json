@@ -1,5 +1,461 @@
 [
   {
+    "timestamp": "2026-04-18T11:54:28.795432+00:00",
+    "timestamp_ist": "18 Apr 2026 \u00b7 17:24 IST",
+    "story_count": 20,
+    "avg_score": 47,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 78,
+        "topic": "Iran Hormuz Strait Tensions",
+        "domain": "geopolitics",
+        "headline": "Iran Reopens Then Restricts Hormuz Strait Amid US Negotiations",
+        "summary": "Iran initially reopened the Strait of Hormuz after Israel agreed to a Lebanon ceasefire, but quickly reimposed restrictions following US claims it had agreed to transfer enriched uranium abroad. Multiple tanker convoys have attempted passage with mixed success as Tehran threatens closure if US blockade continues.",
+        "signal": "Oil markets face renewed volatility as critical energy route remains unstable despite diplomatic progress.",
+        "sources": [
+          "AP",
+          "Bloomberg",
+          "Al Jazeera",
+          "Japan Times",
+          "Middle East Eye",
+          "@apnews.com",
+          "@aljazeera.com",
+          "@nikkei.com"
+        ],
+        "source_url": "https://apnews.com/article/stock-markets-trump-oil-iran-war-50e10bf2aa9b0b658c51e17db3eb3b13",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Iran has reimposed restrictions on the Strait of Hormuz, accusing the U.S. of violating deal to reopen it.",
+            "score": 45,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjqzppjms42v"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US President Donald Trump says the US will \"have to start dropping bombs again\" if no US-Iran deal is reached by Wednesday.",
+            "score": 50,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjqs2lynms2c"
+          },
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30db\u30eb\u30e0\u30ba\u6d77\u5ce1\u3001\u8907\u6570\u306e\u8239\u8236\u304c\u901a\u904e\u3000\u300c\u822a\u884c\u306e\u6b63\u5e38\u5316\u300d\u306b\u306f\u6642\u9593",
+            "score": 35,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjr7pugczl2o"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 73,
+        "topic": "Israel Lebanon Ceasefire",
+        "domain": "geopolitics",
+        "headline": "US Brokers Fragile 10-Day Israel-Lebanon Ceasefire",
+        "summary": "A fragile 10-day ceasefire brokered by President Trump has taken hold between Israel and Hezbollah, allowing thousands of displaced Lebanese families to return home. Hezbollah warns it has its \"finger on the trigger\" for any Israeli violations of the temporary truce.",
+        "signal": "Regional tensions may ease temporarily but underlying conflicts remain unresolved with ceasefire expiring next week.",
+        "sources": [
+          "AP",
+          "Al Jazeera",
+          "Reuters",
+          "@reuters.com"
+        ],
+        "source_url": "https://apnews.com/article/lebanon-israel-hezbollah-ceasefire-united-states-e0412bb734d09aef492051c1730b5821",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Lebanon PM condemns attack on French UNIFIL troops on Saturday",
+            "score": 40,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjre5m4e432v"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 69,
+        "topic": "UK Mandelson Security Scandal",
+        "domain": "geopolitics",
+        "headline": "Starmer Defends Mandelson US Ambassador Appointment After Vetting Failure",
+        "summary": "Prime Minister Keir Starmer faces parliamentary scrutiny after Lord Mandelson failed security vetting for the US ambassador role, with Starmer calling it \"unforgivable\" he wasn't informed. The scandal has sparked intense criticism and calls for accountability over the botched appointment process.",
+        "signal": "UK-US diplomatic relations may face strain as Starmer's leadership credibility comes under renewed pressure.",
+        "sources": [
+          "BBC",
+          "Bloomberg",
+          "@theguardian.com",
+          "@apnews.com"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/defiant-starmer-to-defend-himself-in-parliament-over-mandelson",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "'Pure shock': how ministers reacted to revelation of Mandelson vetting failure",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjre2evkih2r"
+          },
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "British Prime Minister Keir Starmer faces renewed scrutiny over his decision to appoint Peter Mandelson as ambassador to the U.S.",
+            "score": 37,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjr37legai2b"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 65,
+        "topic": "Anthropic Mythos AI Concerns",
+        "domain": "corporate",
+        "headline": "White House Meets Anthropic CEO Amid Mythos Cybersecurity Fears",
+        "summary": "Finance ministers and top bankers express serious concerns about Anthropic's Mythos AI model, which experts say has unprecedented ability to identify and exploit cybersecurity weaknesses. The White House held an \"introductory meeting\" with Anthropic's CEO as the Trump administration considers deployment amid the ongoing feud.",
+        "signal": "AI regulatory crackdown likely as cybersecurity threats from advanced models trigger government intervention.",
+        "sources": [
+          "BBC",
+          "Bloomberg",
+          "Politico"
+        ],
+        "source_url": "https://www.politico.com/news/2026/04/17/white-house-to-meet-with-anthropic-ceo-as-mythos-anxiety-spreads-00878960?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 60,
+        "topic": "US Iran Negotiations",
+        "domain": "geopolitics",
+        "headline": "Trump Claims Iran Deal Imminent Despite Tehran Pushback",
+        "summary": "President Trump touted progress in US-Iran negotiations claiming a deal may be imminent, while Pakistan's army chief meets Iranian officials in Tehran to extend the ceasefire. Iran denies US claims about uranium transfer and threatens renewed Hormuz closure if blockade continues.",
+        "signal": "Energy markets face whipsaw volatility as diplomatic breakthrough claims clash with Iranian denials.",
+        "sources": [
+          "Bloomberg",
+          "AP",
+          "Reuters",
+          "@bloomberg.com",
+          "@reuters.com"
+        ],
+        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-17-2026",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Donald Trump said a deal with Iran to end the seven-week war may be imminent though disagreements remain",
+            "score": 42,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjr6ktq3ri2g"
+          },
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Iran says no date set for next round of negotiations with US",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjrepicoue2d"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 58,
+        "topic": "Indian Bank Q4 Results",
+        "domain": "markets",
+        "headline": "Major Indian Banks Report Strong Q4 Earnings Growth",
+        "summary": "HDFC Bank reported 9% profit growth to \u20b919,221 crore with \u20b913 dividend per share, while ICICI Bank posted 8.5% profit rise to \u20b913,702 crore. Yes Bank showed strongest performance with 45% profit jump to \u20b91,068 crore and improved asset quality metrics.",
+        "signal": "Indian banking sector strength supports market optimism despite global uncertainty from Iran conflict.",
+        "sources": [
+          "LiveMint",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/hdfc-bank-q4-results-net-profit-rises-9-to-rs-19-221-crore-nii-up-3-8-yoy-declares-dividend-of-rs-13-per-share-11776500563671.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 55,
+        "topic": "Tesla India Launch",
+        "domain": "corporate",
+        "headline": "Tesla Prepares Six-Seater Model Y Launch in India",
+        "summary": "Tesla is preparing to introduce a new, larger version of its Model Y electric SUV in India as early as next week. The six-seater variant represents Tesla's major push into the world's largest auto market amid growing EV adoption.",
+        "signal": "EV market expansion accelerates as Tesla targets price-sensitive Indian consumers with larger family-oriented models.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/tesla-is-preparing-to-launch-six-seater-model-y-variant-in-india",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 52,
+        "topic": "Japan Defense Spending",
+        "domain": "geopolitics",
+        "headline": "Japan Defense Budget Reaches 1.9% of GDP",
+        "summary": "Japan's defense spending for fiscal 2026 totals \u00a510.6 billion, equivalent to 1.9% of GDP, just below PM Takaichi's 2% target. The country also sealed its largest-ever defense contract by supplying Australia with 11 Mogami-class frigates in a deal highlighting Japan's growing defense industry.",
+        "signal": "Regional defense buildup accelerates as Japan approaches NATO spending standards amid China tensions.",
+        "sources": [
+          "Bloomberg",
+          "Japan Times",
+          "Nikkei"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/japan-sees-defense-budget-just-short-of-target-at-1-9-of-gdp",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 50,
+        "topic": "China Auto Europe Expansion",
+        "domain": "corporate",
+        "headline": "Chinese Automaker Changan Eyes Spanish Manufacturing Plant",
+        "summary": "Chongqing Changan Automobile is considering opening a plant in Spain, following other Chinese carmakers establishing European production. The move reflects China's strategy to bypass EU tariffs and establish local manufacturing footprints in Europe.",
+        "signal": "European auto market faces increased Chinese competition as manufacturers circumvent trade barriers through local production.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/china-s-changan-is-said-to-weigh-setting-up-auto-plant-in-spain",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 48,
+        "topic": "Russian Port Drone Attack",
+        "domain": "geopolitics",
+        "headline": "Russia Struggles to Extinguish Tuapse Port Fire",
+        "summary": "Russia's emergency services are stepping up efforts to extinguish a massive fire in the Black Sea port city of Tuapse after a Ukrainian drone attack over 24 hours earlier. The prolonged fire highlights vulnerabilities in Russia's critical energy infrastructure.",
+        "signal": "Ukrainian drone capabilities threaten Russian energy exports as conflict extends to maritime infrastructure.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/russia-struggles-to-put-out-tuapse-port-fire-after-drone-strike",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 45,
+        "topic": "Modi Address to Nation",
+        "domain": "india",
+        "headline": "PM Modi to Address Nation at 8:30 PM",
+        "summary": "Prime Minister Narendra Modi is scheduled to address the nation at 8:30 PM today. The timing and announcement come amid various domestic and international developments including the Iran conflict and upcoming assembly elections.",
+        "signal": "Major policy announcement or response to current events likely as Modi uses prime-time national address.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/prime-minister-narendra-modi-to-address-nation-at-8-30pm/articleshow/130350274.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 42,
+        "topic": "US Military Iran Blockade",
+        "domain": "geopolitics",
+        "headline": "US Military Expands Iran-Linked Ship Targeting Worldwide",
+        "summary": "The US military has widened efforts beyond Iran's port blockade, allowing forces globally to stop any Iran-tied ships or those suspected of carrying supplies to Tehran. Gen. Dan Caine confirmed the expanded maritime interdiction campaign as diplomatic talks continue.",
+        "signal": "Global shipping costs may rise as US maritime enforcement expands beyond regional chokepoints.",
+        "sources": [
+          "AP"
+        ],
+        "source_url": "https://apnews.com/article/iran-blockade-trump-navy-caine-d16e89f4b50bd18ea109d4b0d2db3826",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 40,
+        "topic": "Central Govt DA Hike",
+        "domain": "india",
+        "headline": "Cabinet Approves 2% Dearness Allowance Hike",
+        "summary": "The Cabinet approved a 2% Dearness Allowance increase for central government employees, benefiting 1.18 crore staff members. Employee bodies continue pushing for significant pay structure reforms under the proposed 8th Pay Commission with higher fitment factors.",
+        "signal": "Government spending increases amid inflation concerns as employee compensation adjustments continue.",
+        "sources": [
+          "Times of India",
+          "ET"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/business/india-business/da-hike-govt-approves-2-dearness-allowance-raise-for-central-govt-employees/articleshow/130349174.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 38,
+        "topic": "Women Reservation Bill Failure",
+        "domain": "india",
+        "headline": "Women's Quota Bill Fails in Lok Sabha",
+        "summary": "The Modi government failed to pass the women's reservation bill in Parliament for the first time since 2014, with analysts suggesting this was a strategic move. By forcing a vote linked to delimitation, the BJP aimed to record every MP's stance for campaign purposes.",
+        "signal": "Political realignment ahead of elections as BJP creates campaign ammunition from parliamentary defeats.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/women-reservation-bill-fails-in-lok-sabha-strategic-move-or-poor-planning/articleshow/130351599.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 35,
+        "topic": "OpenAI Executive Departure",
+        "domain": "corporate",
+        "headline": "OpenAI CTO Srinivas Narayanan Leaves for India",
+        "summary": "Srinivas Narayanan, OpenAI's CTO for B2B applications, is departing after nearly three years to spend time with aging parents in India. The departure comes amid broader changes at the AI company as it faces regulatory scrutiny.",
+        "signal": "Tech talent retention challenges emerge as senior executives prioritize personal commitments over high-profile roles.",
+        "sources": [
+          "Times of India",
+          "LiveMint"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/technology/social/openais-senior-exec-srinivas-narayanan-announces-he-is-leaving-says-looking-forward-to-spending-some-time-with-my-aging-parents-in-india-before/articleshow/130349669.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 32,
+        "topic": "Karnataka Bird Flu",
+        "domain": "india",
+        "headline": "Karnataka Reports First 2026 Bird Flu Case",
+        "summary": "Karnataka reported its first bird flu case of 2026, leading to the culling of 7,444 chickens as a precautionary measure. A central team is expected to conduct detailed investigations into the outbreak.",
+        "signal": "Agricultural commodity prices may face pressure if bird flu spreads to other states.",
+        "sources": [
+          "NDTV"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/karnataka-reports-first-bird-flu-case-of-2026-thousands-of-chickens-culled-11375697#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 30,
+        "topic": "Myanmar Presidential Pardon",
+        "domain": "geopolitics",
+        "headline": "Myanmar Pardons Deposed President Win Myint",
+        "summary": "Myanmar's military government pardoned over 4,000 prisoners including deposed President Win Myint, marking the biggest concession yet by the post-coup leadership. However, little hope remains for broader democratic restoration despite the releases.",
+        "signal": "Regional stability concerns persist as Myanmar's military seeks legitimacy through limited prisoner releases.",
+        "sources": [
+          "Al Jazeera",
+          "Japan Times"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/17/myanmar-pardons-over-4000-prisoners-including-deposed-president",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 25,
+        "topic": "Cheetah Reintroduction Karnataka",
+        "domain": "india",
+        "headline": "Cheetahs Return to Karnataka After 70 Years",
+        "summary": "Four cheetahs brought from South Africa will be transferred to Bannerghatta National Park near Bengaluru, marking their return to Karnataka after 70 years. The reintroduction is part of India's broader cheetah conservation program.",
+        "signal": "Wildlife conservation efforts gain momentum as successful reintroduction programs expand across states.",
+        "sources": [
+          "NDTV"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/cheetahs-back-in-karnataka-after-70-years-4-brought-in-from-south-africa-11375627#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 23,
+        "topic": "Vedanta Boiler Blast",
+        "domain": "corporate",
+        "headline": "Vedanta Boiler Blast Death Toll Rises to 23",
+        "summary": "Two more workers died from the Vedanta boiler blast, bringing the total death count to 23. A central investigation team is expected to visit on April 18 for detailed investigation into the industrial accident.",
+        "signal": "Industrial safety regulations likely to face increased scrutiny as major accidents highlight operational risks.",
+        "sources": [
+          "NDTV",
+          "ET"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/two-more-workers-die-vedanta-boiler-blast-death-count-rises-to-23-11375657#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 22,
+        "topic": "Trump White House Ballroom",
+        "domain": "geopolitics",
+        "headline": "Judge Halts Trump's $400M White House Ballroom Construction",
+        "summary": "A judge halted aboveground construction of Trump's $400 million White House ballroom while allowing underground bunker work to proceed. Trump defended the project saying the ballroom \"is needed now\" despite Marie Antoinette comparisons from opponents.",
+        "signal": "Presidential spending priorities may face legal challenges as opulent projects draw public criticism.",
+        "sources": [
+          "BBC",
+          "AP"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c8r48mgnzmjo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-18T11:25:27.184532+00:00",
     "timestamp_ist": "18 Apr 2026 \u00b7 16:55 IST",
     "story_count": 20,
@@ -15103,488 +15559,6 @@
         ],
         "trend": "rising",
         "breaking_on_social": true
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-13T10:15:37.596878+00:00",
-    "timestamp_ist": "13 Apr 2026 \u00b7 15:45 IST",
-    "story_count": 20,
-    "avg_score": 56,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 85,
-        "topic": "US Iran Ceasefire Talks Collapse",
-        "domain": "geopolitics",
-        "headline": "US-Iran peace talks fail after 21 hours in Pakistan",
-        "summary": "Historic face-to-face negotiations between US Vice President JD Vance and Iran ended without agreement in Islamabad, with both sides blaming each other for the breakdown. The US says Iran refused to commit to not developing nuclear weapons, while Iran claims US terms were unacceptable, threatening a fragile two-week ceasefire.",
-        "signal": "Watch for immediate escalation in Middle East tensions and oil price volatility as diplomatic solution appears distant.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "Bloomberg",
-          "The Hindu"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Iran war: What is happening on day 45 of the US-Iran conflict?",
-            "score": 26,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjekkfi7ei2c"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Turkish FM Hakan Fidan says Israel may seek to designate Turkiye as a new adversary after Iran. He also said Iran and the US remain 'sincere' about reaching a ceasefire despite no deal in Pakistan-med",
-            "score": 40,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjekjutsos2q"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 84,
-        "topic": "US Iran Blockade Threat",
-        "domain": "commodities",
-        "headline": "Trump threatens Strait of Hormuz blockade as oil hits $102",
-        "summary": "US military announces naval blockade of Iranian ports starting Monday after failed peace talks, causing oil prices to spike above $100. Two supertankers made U-turns in the Strait of Hormuz as tensions escalated, while Britain and other allies distance themselves from the blockade plan.",
-        "signal": "Prepare for severe oil supply disruptions and potential global energy crisis if blockade proceeds.",
-        "sources": [
-          "Bloomberg",
-          "The National (UAE)",
-          "Politico Europe",
-          "The Hindu"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/two-supertankers-u-turn-in-hormuz-as-us-iran-talks-break-down",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Oil prices jump after US\u2011Iran talks fail and Washington moves to blockade the Strait of Hormuz. Listen to today's episode of the Morning Bid podcast for more",
-            "score": 43,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjemq6lca22z"
-          },
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "What does a US naval blockade of Iran mean for oil flows?",
-            "score": 26,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjembaf5yc2l"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "Trump's threat to blockade the Strait of Hormuz after talks with Iran collapsed over the weekend risks widening a war now entering its seventh week, spiking oil prices and raising the prospect of furt",
-            "score": 34,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjeiuu2yod2a"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "China warns that a blockade of the Strait of Hormuz threatens global trade",
-            "score": 41,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjeh7bzoz42r"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Growing gap between physical and on-paper oil prices points to more serious energy shock than appreciated, analysts say.",
-            "score": 31,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjem7zdx4u2f"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 82,
-        "topic": "Indian Markets Crash",
-        "domain": "markets",
-        "headline": "Sensex crashes 1,600 points as Iran talks fail",
-        "summary": "Indian stock markets plunged with Sensex falling over 1,600 points and Nifty dropping 495 points in early trade as failed US-Iran negotiations fueled concerns of prolonged Middle East conflict. Oil sector stocks led the decline as crude prices spiked above $100 per barrel, with investors losing Rs 2 lakh crore.",
-        "signal": "Expect continued volatility in emerging markets until geopolitical tensions stabilize or oil prices retreat.",
-        "sources": [
-          "The Hindu",
-          "NDTV News",
-          "Economic Times"
-        ],
-        "source_url": "https://www.thehindu.com/business/markets/stock-markets-plunge-as-failure-of-usiran-negotiations-fuels-concerns-of-prolonged-conflict/article70856239.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "South African rand weakens as US-Iran blockade threat drives oil above $100",
-            "score": 36,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjemj4nij626"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 81,
-        "topic": "Saudi Pipeline Restoration",
-        "domain": "commodities",
-        "headline": "Saudi East-West pipeline restored to full capacity after attacks",
-        "summary": "Saudi Arabia's Energy Ministry announced the East-West pipeline has been restored to full pumping capacity of 7 million barrels per day after recent attacks. The rehabilitation of this vital Red Sea export link provides some relief to global oil markets amid broader Middle East supply concerns.",
-        "signal": "Partial supply relief may temporarily ease oil price pressure, but broader geopolitical risks remain elevated.",
-        "sources": [
-          "Al Jazeera English",
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/saudi-arabia-says-east-west-pipeline-restored-to-full-capacity",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 78,
-        "topic": "Orban Election Defeat",
-        "domain": "europe",
-        "headline": "Viktor Orban loses Hungarian election after 16 years",
-        "summary": "Hungarian Prime Minister Viktor Orban suffered a crushing defeat to opposition leader Peter Magyar in parliamentary elections, ending his 16-year hold on power. EU leaders celebrated the result as Magyar promises a 'free, European' Hungary in stark contrast to Orban's authoritarian rule.",
-        "signal": "Major shift in EU dynamics ahead as Hungary pivots from Putin ally to pro-European stance.",
-        "sources": [
-          "Al Jazeera English",
-          "Bloomberg",
-          "BBC News",
-          "Politico Europe"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/12/hungarians-vote-as-pm-orban-faces-toughest-election-challenge-in-years",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "Magyar says his government will work for a 'free, European' Hungary in break with Orb\u00e1n era \u2013 Europe live",
-            "score": 47,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mjekozuyh326"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 68,
-        "topic": "Asha Bhosle Death",
-        "domain": "corporate",
-        "headline": "Legendary Bollywood singer Asha Bhosle dies aged 92",
-        "summary": "Bollywood icon Asha Bhosle, who recorded over 12,000 songs across seven decades in multiple Indian languages, has died at age 92. Her infectious voice became the soundtrack for generations of Indians, marking the end of an era in Indian cinema music.",
-        "signal": "Expect significant cultural impact across India and diaspora communities, potential tribute events affecting entertainment sector.",
-        "sources": [
-          "Al Jazeera English",
-          "BBC News"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 65,
-        "topic": "Trump Pope Conflict",
-        "domain": "geopolitics",
-        "headline": "Trump attacks Pope Leo over Iran war criticism",
-        "summary": "President Trump launched a savage attack on Pope Leo, calling him 'weak on crime, weak on nuclear weapons' after the pontiff criticized US actions in the Iran conflict. Pope Leo responded defiantly, saying he won't back down on war criticism and that Vatican peace appeals are rooted in Gospel teaching.",
-        "signal": "Watch for further deterioration in US-Vatican relations and potential impact on Catholic voter sentiment.",
-        "sources": [
-          "Times of India",
-          "Politico Europe"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/world/us/dont-fear-him-pope-leo-pushes-back-against-trump-says-he-wont-back-down-on-war-criticism/articleshow/130232038.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Pope Leo hit back at President Trump over the Iran war, saying the Vatican's appeals for peace and reconciliation are rooted in the Gospel, and that he didn't fear the Trump administration.",
-            "score": 50,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjejrpg5q72w"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 62,
-        "topic": "Noida Workers Protest",
-        "domain": "india",
-        "headline": "Noida factory workers protest turns violent over wage hikes",
-        "summary": "Factory workers protesting for wage increases in Noida's Phase-2 and Sector 60 turned violent, with vehicles being torched and stones pelted. Opposition parties blamed BJP policies for ignoring worker concerns as heavy police deployment was made to control the unrest.",
-        "signal": "Monitor for spread of labor unrest across industrial belt as inflationary pressures mount on workers.",
-        "sources": [
-          "The Hindu",
-          "NDTV News",
-          "Economic Times"
-        ],
-        "source_url": "https://www.thehindu.com/news/cities/Delhi/noida-workers-protest-violent-updates-delhi-border-april-13-2026/article70856363.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 60,
-        "topic": "RBI Forex Criticism",
-        "domain": "india",
-        "headline": "RBI criticizes banks over rupee arbitrage during Middle East tensions",
-        "summary": "A senior Reserve Bank of India official criticized foreign-exchange market makers for aggravating rupee weakness during Middle East tensions. The regulator continues tough messaging in its defense of the currency as geopolitical risks mount.",
-        "signal": "Expect increased RBI intervention in forex markets and potential regulatory action against banks.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/india-forex-regulator-criticizes-banks-rupee-arbitrage-trades",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 58,
-        "topic": "China Taiwan Engagement",
-        "domain": "geopolitics",
-        "headline": "China announces Taiwan goodwill measures after opposition talks",
-        "summary": "China unveiled policy measures demonstrating 'goodwill' toward Taiwan following landmark meeting between President Xi Jinping and Taiwan opposition leader Cheng Li-wun. The rare engagement signals potential shift in cross-strait relations amid regional tensions.",
-        "signal": "Watch for Taiwan's ruling party response and potential changes in regional military posture.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/china-unveils-taiwan-goodwill-steps-after-rare-opposition-talks",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 51,
-        "topic": "Lebanon Israel Ceasefire",
-        "domain": "middleeast",
-        "headline": "Lebanon seeks direct ceasefire negotiations with Israel",
-        "summary": "Lebanon's Foreign Minister Youssef Rajji announced the country is seeking a ceasefire deal with Israel through direct negotiations. This development comes as regional tensions escalate following the collapse of US-Iran peace talks.",
-        "signal": "Potential for separate peace track that could reduce regional escalation risks.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Direct Lebanon-Israel talks could provide alternative path to de-escalation amid broader regional conflict.",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "BREAKING: Lebanon is seeking a ceasefire deal with Israel through direct negotiations, says Foreign Minister Youssef Rajji.",
-            "score": 51,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjel5b5zps2q"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 12,
-        "score": 48,
-        "topic": "UK Energy Policy",
-        "domain": "europe",
-        "headline": "UK's Reeves plans business energy bill relief measures",
-        "summary": "Chancellor Rachel Reeves will outline plans to boost business competitiveness amid rising energy bills while warning against heavy government borrowing. The measures come as energy costs spike due to Middle East tensions.",
-        "signal": "Watch for UK fiscal policy balance between energy relief and debt constraints.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/uk-s-reeves-to-set-out-plans-to-help-business-with-energy-bills",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 45,
-        "topic": "Japan Iran War Impact",
-        "domain": "japan",
-        "headline": "Iran war disrupts Japan's supply chains and exports",
-        "summary": "Japan faces multiple disruptions from the Iran conflict, with Toto suspending pre-fab bath orders due to glue supply shortages and exports of matcha, wagyu, and tuna to the Middle East severely impacted. Bond yields hit 29-year highs on inflation fears.",
-        "signal": "Monitor Japanese corporate earnings for supply chain cost pressures and export revenue losses.",
-        "sources": [
-          "Nikkei Asia"
-        ],
-        "source_url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-toto-suspends-pre-fab-bath-orders-as-iran-war-hits-glue-supply",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u7fbd\u7530\u2015\u30ed\u30f3\u30c9\u30f3\u4fbf\u3001\u30a4\u30e9\u30f3\u653b\u6483\u5f8c9\u5272\u9ad8\u3082\u3000\u30b5\u30fc\u30c1\u30e3\u30fc\u30b88\u4e07\u5186\u53f0\u8996\u91ce",
-            "score": 43,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjeli4lup52n"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 42,
-        "topic": "Eric Swalwell Governor Exit",
-        "domain": "geopolitics",
-        "headline": "Swalwell exits California governor race over assault allegations",
-        "summary": "California Rep. Eric Swalwell's supporters are withdrawing from his gubernatorial campaign following sexual assault allegations he denies. His abrupt exit leaves rivals scrambling for support in the crowded contest with no clear leader.",
-        "signal": "Watch for reshuffling of Democratic primary dynamics and potential impact on 2026 California politics.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/california-governor-eric-swalwell-assault-allegations-aa1d13afe441be38d1d16f648e06d503",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Democratic Rep. Eric Swalwell's abrupt exit from the race for California governor left his rivals scrambling to lock down his former supporters in a crowded contest with no clear leader, injecting mor",
-            "score": 34,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjeiuwau472k"
-          }
-        ],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 40,
-        "topic": "Chagos Islands Deal",
-        "domain": "geopolitics",
-        "headline": "Britain shelves Chagos Islands transfer after US withdraws support",
-        "summary": "The UK has put its plan to transfer the Chagos Islands to Mauritius on hold after the Trump administration withdrew support for the deal. The legislation ran out of time in Parliament as US strategic priorities shifted.",
-        "signal": "Signals broader Trump administration review of predecessor's diplomatic agreements.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/uk-chagos-islands-mauritius-trump-c37afa22677ec8e504c5a1dab6313d1c",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 38,
-        "topic": "Malaysia Fuel Crisis",
-        "domain": "commodities",
-        "headline": "Malaysia faces critical fuel period by June",
-        "summary": "Malaysia is implementing emergency measures to address fuel shortages triggered by Middle East conflict, with officials warning of a 'critical period' by June. The Southeast Asian nation joins growing list of countries facing energy security challenges.",
-        "signal": "Watch for regional fuel rationing measures and potential social unrest in energy-dependent economies.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/malaysia-faces-critical-period-for-fuel-by-june-minister-says",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 35,
-        "topic": "Apple AI Leadership",
-        "domain": "corporate",
-        "headline": "Apple's AI chief John Giannandrea to exit",
-        "summary": "Apple's senior vice president for machine learning and AI strategy, John Giannandrea, will leave the company next week. The departure comes as Apple faces intensifying competition in artificial intelligence development.",
-        "signal": "Monitor Apple's AI strategy pivot and potential leadership restructuring in critical technology areas.",
-        "sources": [
-          "NDTV Profit"
-        ],
-        "source_url": "https://www.ndtvprofit.com/technology/apple-ai-chief-john-giannandrea-to-exit-next-week-11350204#publisher=newsstand",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 32,
-        "topic": "Benin Election",
-        "domain": "geopolitics",
-        "headline": "Ex-Deloitte executive favored to win Benin presidency",
-        "summary": "Finance Minister Romuald Wadagni is the heavy favorite to win Benin's presidential election on Sunday. The former Deloitte executive would become the West African nation's new leader in a closely watched democratic transition.",
-        "signal": "Watch for policy continuity and potential business-friendly reforms under technocratic leadership.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/ex-deloitte-executive-set-to-win-as-benin-votes-for-new-leader",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 19,
-        "score": 30,
-        "topic": "Pakistan Mpox Outbreak",
-        "domain": "geopolitics",
-        "headline": "Pakistan reports 14 mpox cases linked to newborn deaths",
-        "summary": "Health officials in Pakistan's Sindh province confirmed 14 mpox cases this year, including infections linked to five newborn deaths. The outbreak adds another health crisis to the region already dealing with conflict-related disruptions.",
-        "signal": "Monitor for potential cross-border health emergency and impact on regional stability.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/mpox-in-pakistan-s-sindh-linked-to-newborn-deaths-reports-say",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 20,
-        "score": 28,
-        "topic": "Vietnam Bullet Train",
-        "domain": "corporate",
-        "headline": "Vietnam launches first bullet train connecting major cities",
-        "summary": "Vingroup has launched Vietnam's first bullet train service linking major Vietnamese cities, marking a significant infrastructure milestone for the Southeast Asian nation. The development signals growing transportation connectivity in the region.",
-        "signal": "Watch for accelerated infrastructure development and potential regional connectivity projects.",
-        "sources": [
-          "Nikkei Asia"
-        ],
-        "source_url": "https://asia.nikkei.com/business/transportation/vingroup-launches-first-bullet-train-linking-vietnamese-cities",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
       }
     ],
     "social_count": 30
