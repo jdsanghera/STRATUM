@@ -1,5 +1,480 @@
 [
   {
+    "timestamp": "2026-04-18T17:26:24.078556+00:00",
+    "timestamp_ist": "18 Apr 2026 \u00b7 22:56 IST",
+    "story_count": 20,
+    "avg_score": 61,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 89,
+        "topic": "Iran Strait Hormuz Closure",
+        "domain": "commodities",
+        "headline": "Iran Re-Blocks Hormuz After Initial Opening, Oil Prices Plunge",
+        "summary": "Iran declared the Strait of Hormuz open for commercial ships during ceasefire but then reversed course, with gunboats firing on vessels attempting passage. Multiple sources confirm Iranian forces have stopped at least 14 India-bound ships, with oil prices plunging 10% on initial reopening news before tensions escalated again.",
+        "signal": "Watch for continued oil volatility as Iran uses Hormuz as leverage in US negotiations.",
+        "sources": [
+          "Bloomberg",
+          "BBC News",
+          "Associated Press",
+          "Al Jazeera English",
+          "The Hindu",
+          "Times of India",
+          "Politico Europe",
+          "Japan Times",
+          "Nikkei",
+          "The National UAE"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/north-sea-oil-plunges-after-iran-says-strait-of-hormuz-reopened",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30db\u30eb\u30e0\u30ba\u6d77\u5ce1\u3092\u518d\u5c01\u9396\u3001\u30a4\u30e9\u30f3\u9769\u547d\u9632\u885b\u968a\u304c\u8868\u660e\u3000\u958b\u653e\u5ba3\u8a00\u304b\u3089\u4e00\u8ee2",
+            "score": 35,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjrfshidrq2i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 87,
+        "topic": "US Iran Nuclear Negotiations",
+        "domain": "geopolitics",
+        "headline": "Trump Claims Iran Talks Progressing Despite Hormuz Escalation",
+        "summary": "President Trump says Iran nuclear negotiations are going 'very good' while warning US won't be blackmailed over Hormuz closure. Iran confirms reviewing new US proposals with Pakistan mediating, though no date set for next round.",
+        "signal": "Monitor for breakthrough or breakdown in talks as Hormuz tensions test negotiating dynamic.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English",
+          "Bloomberg",
+          "Economic Times",
+          "Middle East Eye",
+          "NDTV Profit"
+        ],
+        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-17-2026",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Iran's Deputy FM Saeed Khatibzadeh said that talks with the US cannot happen until the two sides agree on a shared 'framework'",
+            "score": 44,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjrrw2m7dk2j"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 84,
+        "topic": "Lebanon Israel Ceasefire",
+        "domain": "geopolitics",
+        "headline": "French Peacekeeper Killed as Lebanon Ceasefire Holds",
+        "summary": "A 10-day US-brokered ceasefire between Israel and Hezbollah remains fragile after a French UNIFIL soldier was killed in southern Lebanon. Thousands of displaced Lebanese are returning home despite warnings, while Hezbollah denies involvement in the peacekeeper attack.",
+        "signal": "Ceasefire durability uncertain with peacekeeping forces under threat and Hezbollah positioning.",
+        "sources": [
+          "Associated Press",
+          "Politico Europe",
+          "Al Jazeera English",
+          "The National UAE",
+          "Middle East Eye"
+        ],
+        "source_url": "https://apnews.com/article/lebanon-israel-hezbollah-ceasefire-united-states-e0412bb734d09aef492051c1730b5821",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "French soldier serving with UNIFIL killed in Lebanon attack",
+            "score": 40,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjrsoftkdc2i"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "A senior Hezbollah official has described negotiations between the Lebanese government and Israel as an act of 'surrender'",
+            "score": 50,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjrujmtapc2j"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 82,
+        "topic": "India Women Reservation Bill",
+        "domain": "india",
+        "headline": "Modi Attacks Opposition Over Blocked Women's Reservation Bill",
+        "summary": "PM Modi addressed the nation apologizing to women after the Women's Reservation Bill was defeated in Parliament. He accused Congress, DMK, TMC and SP of prioritizing self-interest over women's empowerment, calling the defeat 'foeticide'.",
+        "signal": "Watch for political fallout and potential electoral impact of women's quota controversy.",
+        "sources": [
+          "Times of India",
+          "NDTV News",
+          "NDTV Profit",
+          "Economic Times"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/dreams-of-nari-shakti-crushed-despite-our-best-effort-pm-modi-apologises-to-nations-women/articleshow/130356325.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 79,
+        "topic": "Kyiv Supermarket Shooting",
+        "domain": "geopolitics",
+        "headline": "Gunman Kills Six Before Police Shoot Him Dead",
+        "summary": "A gunman killed at least six people in Kyiv streets before taking hostages and barricading in a supermarket. Ukrainian police stormed the location and shot the attacker dead after negotiations failed, with four hostages rescued.",
+        "signal": "Monitor for details on motive and potential security implications in wartime Ukraine.",
+        "sources": [
+          "Times of India",
+          "Politico Europe",
+          "NDTV Profit",
+          "South China Morning Post"
+        ],
+        "source_url": "https://www.politico.eu/article/at-least-5-killed-by-gunman-in-kyiv-shooting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "A gunman who killed at least six people in the streets of Kyiv before taking hostages and barricading himself in a nearby supermarket has been shot dead by police",
+            "score": 44,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjrvnmoirb2s"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 73,
+        "topic": "Indian Bank Q4 Results",
+        "domain": "markets",
+        "headline": "HDFC, ICICI, Yes Bank Report Mixed Q4 Results",
+        "summary": "Major Indian banks posted varied Q4 results with HDFC Bank profit up 9% to \u20b919,221 crore, ICICI Bank up 8.5% to \u20b913,702 crore, and Yes Bank jumping 45% to \u20b91,068 crore. Asset quality improvements noted across lenders.",
+        "signal": "Banking sector health remains solid despite global uncertainties affecting loan growth.",
+        "sources": [
+          "LiveMint Markets",
+          "NDTV Profit",
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/hdfc-bank-q4-results-net-profit-rises-9-to-rs-19-221-crore-nii-up-3-8-yoy-declares-dividend-of-rs-13-per-share-11776500563671.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 69,
+        "topic": "UK Mandelson Vetting Controversy",
+        "domain": "europe",
+        "headline": "Starmer Faces Calls to Resign Over Mandelson Vetting",
+        "summary": "PM Starmer called it 'staggering' he wasn't told Lord Mandelson failed initial security vetting for US ambassador role. Opposition calls for PM's resignation over the security clearance revelation.",
+        "signal": "UK government credibility under pressure with potential diplomatic complications.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c17v2452vglo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 65,
+        "topic": "Fed Chair Warsh Nomination",
+        "domain": "macro",
+        "headline": "Warsh Hearing to Test Balance Sheet Reform Views",
+        "summary": "Fed Chair nominee Kevin Warsh will face his first major public platform next week to address concerns over the central bank's market footprint. His balance sheet reform stance will be closely scrutinized.",
+        "signal": "Watch for hawkish signals on Fed asset holdings that could impact bond markets.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/warsh-hearing-will-test-how-far-he-ll-push-balance-sheet-reform",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 62,
+        "topic": "Indian Maritime Insurance Pool",
+        "domain": "india",
+        "headline": "Government Approves \u20b912,980 Crore Maritime Insurance Pool",
+        "summary": "Cabinet approved Bharat Maritime Insurance Pool with sovereign guarantee amid global shipping upheaval from West Asia conflict. The move aims to provide coverage for Indian vessels in high-risk zones.",
+        "signal": "India hedging against shipping route disruptions with state-backed insurance mechanism.",
+        "sources": [
+          "Indian Express",
+          "Economic Times"
+        ],
+        "source_url": "https://indianexpress.com/article/india/bharat-maritime-insurance-pool-bmi-sovereign-guarantee-west-asia-conflict-10644018/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 59,
+        "topic": "Meta Layoffs May 2026",
+        "domain": "corporate",
+        "headline": "Meta Plans 8,000 Job Cuts in May Workforce Purge",
+        "summary": "Facebook and Instagram owner will lay off about 10% of global workforce starting May 20, with 8,000 employees affected in initial round. Further layoffs expected in second half of year.",
+        "signal": "Tech sector cost-cutting continues amid economic uncertainty and AI transition costs.",
+        "sources": [
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/companies/news/meta-layoffs-8-000-employees-likely-to-be-sacked-in-massive-workforce-purge-on-may-20-11776511294702.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 57,
+        "topic": "XTX Markets Windfall",
+        "domain": "markets",
+        "headline": "XTX Shareholders Share $3 Billion Trading Windfall",
+        "summary": "Billionaire Alex Gerko and other shareholders of algorithmic trading firm XTX Markets are sharing about $3 billion through one of the world's biggest market-making businesses. Earnings rose substantially amid market volatility.",
+        "signal": "High-frequency trading profits surge on increased market volatility and volumes.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/algo-trader-shares-3-billion-payday-amid-xtx-earnings-rise",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 55,
+        "topic": "Alamar Bio IPO Success",
+        "domain": "markets",
+        "headline": "Medical Device Maker Alamar Bio Jumps 33% Post-IPO",
+        "summary": "Alamar Biosciences shares climbed 33% after the medical device maker raised $191 million in an upsized US IPO that priced at the top of marketed range. Strong debut signals investor appetite for biotech.",
+        "signal": "Biotech IPO market showing renewed strength with premium valuations returning.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/medical-device-maker-alamar-bio-jumps-33-after-upsized-us-ipo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 52,
+        "topic": "Patrick Industries LCI Merger",
+        "domain": "corporate",
+        "headline": "Patrick Industries in Talks to Combine with LCI",
+        "summary": "Patrick Industries Inc. is in talks to combine with rival recreational-vehicle supplier LCI Industries. The potential merger would create a larger player in the RV supply market.",
+        "signal": "RV industry consolidation accelerating as companies seek scale amid demand uncertainty.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/patrick-industries-is-in-talks-to-combine-with-rival-lci",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 50,
+        "topic": "Japan ADB Yen Warning",
+        "domain": "japan",
+        "headline": "ADB Chief Warns of Yen Pressure from Slow Rate Hikes",
+        "summary": "Asian Development Bank chief warned of continued yen pressure due to Japan's too-slow interest rate increases. Currency weakness continues to challenge Japanese monetary policy.",
+        "signal": "Watch for BOJ intervention signals as yen weakness persists despite gradual tightening.",
+        "sources": [
+          "Reuters via BlueSky"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Important signal on Japanese monetary policy challenges affecting regional currency stability.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "ADB chief warns of yen pressure from Japan's too-slow rate hikes",
+            "score": 50,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjrv73lmfd2s"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 49,
+        "topic": "Costa Rica China Trade Dispute",
+        "domain": "geopolitics",
+        "headline": "Costa Rica Says China Failed Trade Deal Expectations",
+        "summary": "Costa Rica expressed dissatisfaction with export volumes to China under their free trade agreement. The Central American nation says the Asian giant hasn't fulfilled trade deal expectations.",
+        "signal": "China's trade relationships under scrutiny as partners question economic benefits.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/costa-rica-says-china-failed-to-fulfill-trade-deal-expectations",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 47,
+        "topic": "Pentagon Climate Programs",
+        "domain": "geopolitics",
+        "headline": "Pentagon Continues Climate Programs Despite Hegseth Opposition",
+        "summary": "Defense Secretary Pete Hegseth said Pentagon wouldn't do 'climate change crap' but the military continues fortifying bases against rising seas and stronger storms. Climate resilience programs persist despite political rhetoric.",
+        "signal": "Watch for policy disconnect between political messaging and operational military needs.",
+        "sources": [
+          "Bloomberg via BlueSky"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Reveals gap between Trump administration rhetoric and practical military planning requirements.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Pete Hegseth said the Pentagon wouldn't do any 'climate change crap.' It's still fortifying bases against rising seas and stronger storms",
+            "score": 47,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjrsowi5672y"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 17,
+        "score": 45,
+        "topic": "Roam Electric Iran War Demand",
+        "domain": "commodities",
+        "headline": "Kenyan E-Bike Maker Doubles Output on Iran War Demand",
+        "summary": "Roam Electric, a Kenyan e-motorcycle manufacturer, has seen demand double as consumers shift away from gasoline amid price surges driven by the Iran war. Alternative transportation gaining traction.",
+        "signal": "Iran conflict driving unexpected demand shifts toward electric alternatives in developing markets.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/kenyan-e-bike-maker-to-boost-output-as-iran-war-spurs-demand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 43,
+        "topic": "Indonesia SNS Age Restrictions",
+        "domain": "geopolitics",
+        "headline": "Indonesia Bans Under-16s from High-Risk Social Media",
+        "summary": "Indonesia becomes first Southeast Asian nation to ban under-16s from government-classified 'high risk' social media platforms. Minors can only access specially designed services with parental consent.",
+        "signal": "Regional trend toward youth social media restrictions could spread across Asia.",
+        "sources": [
+          "Nikkei via BlueSky"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "First major Southeast Asian move on youth social media protection, potentially influencing regional policy.",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u308216\u6b73\u672a\u6e80\u306eSNS\u898f\u5236\u3000\u653f\u5e9c\u304c\u30ea\u30b9\u30af\u5224\u65ad\u3001\u6771\u5357\u30a2\u30b8\u30a2\u521d",
+            "score": 43,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjrfdwsmoc2o"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 19,
+        "score": 42,
+        "topic": "Japanese Foreign Worker Migration",
+        "domain": "japan",
+        "headline": "Half of Foreign Workers Leave Rural Japan for Cities",
+        "summary": "Eight prefectures including Aomori and Shimane lose half their foreign technical trainees to big cities after program completion. Language barriers and isolation drive migration to urban areas.",
+        "signal": "Japan's rural labor shortage worsening as foreign worker retention programs fail.",
+        "sources": [
+          "Nikkei via BlueSky"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Critical insight into Japan's demographic crisis and failed rural development through foreign labor.",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u9752\u68ee\u30fb\u5cf6\u6839\u306a\u30698\u770c\u3001\u5916\u56fd\u4eba\u6750\u306e\u534a\u6570\u6d41\u51fa",
+            "score": 43,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjrg4wrvhz27"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 20,
+        "score": 40,
+        "topic": "Trump Psychedelics PTSD Order",
+        "domain": "markets",
+        "headline": "Trump Signs Order Expediting Psychedelics PTSD Research",
+        "summary": "President Donald Trump signed executive order to expedite research and access to psychedelics used outside the US to treat post-traumatic stress disorder. Policy shift toward alternative treatments.",
+        "signal": "Potential catalyst for psychedelics sector as federal support increases for medical applications.",
+        "sources": [
+          "Bloomberg via BlueSky"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Significant policy shift that could accelerate commercialization of psychedelic therapies.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Donald Trump signed an executive order to expedite research and access to psychedelics used outside the US to treat post-traumatic stress disorder",
+            "score": 40,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjrnnqqb4s22"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-18T15:58:02.712829+00:00",
     "timestamp_ist": "18 Apr 2026 \u00b7 21:28 IST",
     "story_count": 15,
@@ -15275,382 +15750,6 @@
         "social_signals": [],
         "trend": "rising",
         "breaking_on_social": false
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-13T21:13:45.939869+00:00",
-    "timestamp_ist": "14 Apr 2026 \u00b7 02:43 IST",
-    "story_count": 15,
-    "avg_score": 59,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 85,
-        "topic": "US-Iran Hormuz Blockade",
-        "domain": "geopolitics",
-        "headline": "Trump Launches Strait of Hormuz Blockade After Iran Peace Talks Fail",
-        "summary": "US-Iran peace talks in Pakistan collapsed without agreement, prompting Trump to order a naval blockade of the Strait of Hormuz. The blockade threatens Iran's $150 million daily oil revenue while risking global energy supply disruptions.",
-        "signal": "Energy prices and regional tensions escalating as critical shipping chokepoint becomes military flashpoint.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera",
-          "Bloomberg",
-          "The National",
-          "Politico"
-        ],
-        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-12-2026",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "Trump's deadline passed for the US to begin a blockade of the Strait of Hormuz, testing the durability of a fragile ceasefire with Iran and intensifying a global energy crisis",
-            "score": 34,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjfiqbj4wi25"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 84,
-        "topic": "Hungary Orban Election Defeat",
-        "domain": "europe",
-        "headline": "Viktor Orban Ousted After 16 Years as Hungary Opposition Wins",
-        "summary": "Peter Magyar's Tisza party defeated Viktor Orban's Fidesz in a landslide election, ending 16 years of populist rule. The victory could reshape Hungary's relationship with the EU, Russia, and Trump administration.",
-        "signal": "Major shift in European politics as key Putin ally removed, potential for renewed EU cohesion.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera",
-          "Associated Press",
-          "The Hindu",
-          "Politico"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/hungarians-sweep-away-orban-after-16-years-in-seismic-election",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Orban's exit signals potential end to Hungary's EU isolation and opens door for diplomatic and economic collaboration.",
-            "score": 31,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjfnquvozc2b"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 72,
-        "topic": "Swalwell California Governor Scandal",
-        "domain": "geopolitics",
-        "headline": "Eric Swalwell Under Pressure to Quit Governor Race Over Assault Allegations",
-        "summary": "Sexual assault allegations against Rep. Eric Swalwell have prompted fellow Democrats to abandon his California governor campaign. The House Ethics Committee has launched an investigation into the misconduct claims.",
-        "signal": "Major Democratic gubernatorial race disrupted with potential implications for 2026 California politics.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera"
-        ],
-        "source_url": "https://apnews.com/article/swalwell-democrats-california-governor-campaign-allegations-congress-8b60b0c226f93c691633231053d5ddf9",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "BREAKING: House Ethics panel launches investigation into sexual misconduct allegations against Rep. Eric Swalwell, a Democrat from California.",
-            "score": 45,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjfhevr3a32c"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 4,
-        "score": 70,
-        "topic": "Nigeria Market Airstrike Deaths",
-        "domain": "geopolitics",
-        "headline": "Over 100 Civilians Killed in Nigerian Air Force Market Strike",
-        "summary": "Nigerian Air Force targeting jihadi rebels accidentally hit a local market in northeastern Nigeria, killing over 100 civilians including children. Amnesty International confirmed the mistaken attack on Jilli village.",
-        "signal": "Military operations error highlights challenges in counter-insurgency campaigns affecting civilian populations.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera",
-          "BBC News"
-        ],
-        "source_url": "https://apnews.com/article/nigeria-airstrike-northeast-market-9da7e31dd8db3cec17e676e53f8b59cf",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 68,
-        "topic": "Trump Pope Leo Comments",
-        "domain": "geopolitics",
-        "headline": "Trump Deletes Jesus Image After Calling Pope Leo 'Not Big Fan'",
-        "summary": "Trump deleted a social media post depicting himself as Jesus after widespread condemnation, while also criticizing Pope Leo for being 'okay with Iran having nuclear weapons'. Italian PM Meloni called Trump's papal comments 'unacceptable'.",
-        "signal": "Religious controversy adds diplomatic strain as Trump's Iran stance creates friction with Catholic allies.",
-        "sources": [
-          "Politico",
-          "Bloomberg",
-          "Middle East Eye"
-        ],
-        "source_url": "https://www.politico.com/news/2026/04/13/trump-social-media-jesus-image-deleted-00869061",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "Italian Prime Minister Giorgia Meloni called Donald Trump's tirade against Pope Leo XIV 'unacceptable,' exposing a growing rift with the US leader over his war on Iran.",
-            "score": 44,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjfm3p5uxc2r"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "US President Donald Trump deleted a social media post that seemingly depicted him as a Jesus Christ-like figure, after the image incited criticism, including from the president's supporters.",
-            "score": 40,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjfkfzrt5y2d"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 65,
-        "topic": "Market Iran War Impact",
-        "domain": "markets",
-        "headline": "Bond Markets Refocus on Inflation as Iran War Threatens Higher Rates",
-        "summary": "Failed Iran ceasefire talks return bond market focus to inflation concerns, reinforcing higher-for-longer interest rate expectations. US airline stocks fell 3% as crude oil surged on renewed Middle East tensions.",
-        "signal": "Persistent geopolitical risk embedding inflation premium in markets, complicating monetary policy normalization.",
-        "sources": [
-          "Bloomberg",
-          "LiveMint"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/bond-traders-snap-back-to-inflation-as-higher-for-longer-sets-in",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "LVMH reports sales hit from Iran war in blow to hopes for luxury revival reut.rs/4cGkKbw",
-            "score": 50,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjfqkmbwev22"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 62,
-        "topic": "I-PAC Director Bengal Arrest",
-        "domain": "india",
-        "headline": "ED Arrests I-PAC Co-Founder in Bengal Coal Scam Case",
-        "summary": "Enforcement Directorate arrested Vinesh Chandel, co-founder of political consultancy I-PAC, in money-laundering probe linked to West Bengal coal scam. The investigation also examines I-PAC dealings with AAP's former communications head.",
-        "signal": "Political consulting firm crackdown may impact electoral strategies ahead of assembly elections.",
-        "sources": [
-          "Times of India",
-          "Indian Express",
-          "NDTV"
-        ],
-        "source_url": "https://indianexpress.com/article/india/ed-arrests-i-pac-director-vinesh-chandel-in-bengal-coal-scam-case-10634806/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 58,
-        "topic": "Fonterra CEO Appointment",
-        "domain": "corporate",
-        "headline": "Fonterra Names Richard Allen as New CEO in Strategy Shift",
-        "summary": "Fonterra Cooperative Group promoted ingredients head Richard Allen to CEO as it completes consumer business sale. The appointment signals focus on high-value ingredients from New Zealand milk.",
-        "signal": "Major dairy cooperative restructuring toward B2B ingredients business model.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/fonterra-promotes-ingredients-head-richard-allen-to-be-next-ceo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 55,
-        "topic": "New Jersey Mass Shooting",
-        "domain": "geopolitics",
-        "headline": "One Dead, Six Injured in New Jersey Chick-fil-A Shooting",
-        "summary": "Police report one person killed and six injured in mass shooting at Union, New Jersey Chick-fil-A Saturday evening. Investigators believe the attack was not random.",
-        "signal": "Targeted mass shooting raises questions about motive and public safety at commercial locations.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/new-jersey-mass-shooting-restaurant-73ab98904d3b799132a20e378ea203e7",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 52,
-        "topic": "LIC Bonus Share Issue",
-        "domain": "india",
-        "headline": "LIC Board Approves 1:1 Bonus Share Issuance",
-        "summary": "Life Insurance Corporation's board approved a 1:1 bonus share issue subject to shareholder approval. The move aims to reward 20.90 lakh retail shareholders while significantly increasing paid-up equity capital.",
-        "signal": "Major insurance giant's bonus issue could impact market liquidity and investor sentiment.",
-        "sources": [
-          "LiveMint",
-          "Economic Times"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-announces-11-bonus-issue-check-details/articleshow/130240698.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 48,
-        "topic": "Uber Sexual Assault Trial",
-        "domain": "corporate",
-        "headline": "Uber Faces Second Driver Sexual Assault Trial",
-        "summary": "Uber confronts second sexual assault trial involving drivers following an $8.5 million verdict in previous case. The ongoing litigation highlights platform safety concerns.",
-        "signal": "Gig economy safety liability risks mounting with potential for significant financial exposure.",
-        "sources": [
-          "Reuters via BlueSky"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Significant corporate liability case that could set precedent for platform responsibility in driver misconduct.",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Uber faces second driver sexual assault trial following $8.5 million verdict reut.rs/4msKNGr",
-            "score": 48,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjfr5ygfnw2v"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 12,
-        "score": 45,
-        "topic": "Venezuela Opposition Unity",
-        "domain": "geopolitics",
-        "headline": "Venezuela Opposition Unifies Behind Machado for Presidential Election",
-        "summary": "Venezuela's main opposition coalition backed Mar\u00eda Corina Machado as presidential candidate and outlined political transition conditions. The unified front challenges Maduro's continued rule.",
-        "signal": "Opposition consolidation could intensify Venezuelan political crisis and regional stability concerns.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/venezuela-opposition-backs-machado-as-candidate-in-next-vote",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 43,
-        "topic": "Google Pixel Japan Launch",
-        "domain": "corporate",
-        "headline": "Google Launches Japan-Exclusive Blue Pixel 10a with Disability Art Partnership",
-        "summary": "Google's Pixel 10a features Japan-limited 'Isai Blue' color developed with Heralabony, which showcases artwork by disabled artists. The collaboration ties to World Autism Awareness Day themes.",
-        "signal": "Corporate diversity initiatives expanding into product design and regional marketing strategies.",
-        "sources": [
-          "Nikkei via BlueSky"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Unique corporate social responsibility approach combining product launches with disability awareness advocacy.",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "Google\u306e\u300cPixel 10a\u300d\uff64\u65e5\u672c\u9650\u5b9a\u3067\u9bae\u3084\u304b\u306a\u9752\u3000\u30d8\u30e9\u30eb\u30dc\u30cb\u30fc\u304c\u63d0\u6848",
-            "score": 43,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjepmgotjf2l"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 14,
-        "score": 40,
-        "topic": "Japan Constitutional Reform",
-        "domain": "japan",
-        "headline": "Japan's Takaichi Targets Spring 2027 for Constitutional Revisions",
-        "summary": "Prime Minister Sanae Takaichi set spring 2027 as target for advancing constitutional amendments at LDP party conference. The timeline represents significant push for Japan's post-war charter changes.",
-        "signal": "Constitutional reform momentum could reshape Japan's security posture and regional defense capabilities.",
-        "sources": [
-          "Nikkei Asia",
-          "Nikkei via BlueSky"
-        ],
-        "source_url": "https://asia.nikkei.com/politics/japan-s-takaichi-targets-spring-2027-for-advancing-constitutional-revisions",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u9ad8\u5e02\u65e9\u82d7\u9996\u76f8\u3001\u6539\u61b2\u767a\u8b70\u300c27\u5e74\u6625\u307e\u3067\u306b\u3081\u3069\u300d\u3000\u81ea\u6c11\u515a\u5927\u4f1a\u3067\u6642\u671f\u306b\u8a00\u53ca",
-            "score": 40,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjerc2xsag2m"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 38,
-        "topic": "AI Colonial Dependence Risk",
-        "domain": "markets",
-        "headline": "Europe Warns of AI Colonization Risk from US Tech Giants",
-        "summary": "European concerns mount over potential AI colonization as American companies dominate artificial intelligence development. Critics warn of data, knowledge and capital flowing to AI-controlling nations and corporations.",
-        "signal": "AI sovereignty emerging as critical geopolitical issue with implications for economic independence.",
-        "sources": [
-          "Nikkei via BlueSky"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Important geopolitical trend highlighting concerns about technological dependency and economic sovereignty in AI era.",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "AI\u690d\u6c11\u5730\u5316\u306e\u6fc0\u6d41\u3000\u30a2\u30e1\u30ea\u30ab\u4f9d\u5b58\u306b\u843d\u3068\u3057\u7a74",
-            "score": 38,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjesxpoz4225"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
       }
     ],
     "social_count": 30
