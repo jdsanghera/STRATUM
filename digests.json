@@ -1,5 +1,436 @@
 [
   {
+    "timestamp": "2026-04-18T06:20:45.405824+00:00",
+    "timestamp_ist": "18 Apr 2026 \u00b7 11:50 IST",
+    "story_count": 20,
+    "avg_score": 51,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 72,
+        "topic": "US-Iran War Ceasefire Progress",
+        "domain": "geopolitics",
+        "headline": "Trump threatens bombs if no Iran deal by Wednesday",
+        "summary": "Donald Trump declared himself \"The Peace President\" while threatening military action if Iran negotiations fail by Wednesday. Trump welcomed Iran's announcement of reopening the Strait of Hormuz but maintains US blockade as leverage.",
+        "signal": "Watch for deal announcement or military escalation by Wednesday deadline - outcome determines oil prices and regional stability.",
+        "sources": [
+          "Times of India",
+          "Associated Press",
+          "Middle East Eye",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/us/trust-trump-not-panicans-donald-pushes-the-peace-president-image-after-reopening-hormuz/articleshow/130347262.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US President Donald Trump says the US will \"have to start dropping bombs again\" if no US-Iran deal is reached by Wednesday.",
+            "score": 50,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjqs2lynms2c"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Donald Trump is signaling he's ready to wrap up the US war with Iran, even as details of a deal remain murky",
+            "score": 34,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjq6pr2qix23"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 69,
+        "topic": "Hormuz Strait Blockade Status",
+        "domain": "commodities",
+        "headline": "Hormuz reopening uncertain despite claims from Iran, US",
+        "summary": "Iran announced reopening the Strait of Hormuz but shipping companies report confusion over safety conditions with many vessels turning back. CENTCOM says 21 ships have been turned back by US blockade since it began.",
+        "signal": "Monitor shipping traffic and oil flows - mixed signals suggest neither side fully committed to reopening critical energy chokepoint.",
+        "sources": [
+          "Times of India",
+          "Economic Times",
+          "Middle East Eye"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/middle-east/open-or-closed-uncertainty-lingers-as-iran-us-reopen-strait-of-hormuz-but-with-conditions/articleshow/130347306.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Shipping companies said several things had to be clarified, including the presence of mines, Iranian conditions.",
+            "score": 41,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjqaf2simr2i"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 66,
+        "topic": "Lebanon-Israel Ceasefire",
+        "domain": "geopolitics",
+        "headline": "Ten-day Lebanon ceasefire begins amid Trump diplomatic push",
+        "summary": "A 10-day ceasefire between Israel and Hezbollah has taken effect with celebrations in Beirut. The truce comes as part of broader Middle East peace efforts, though displaced Lebanese remain cautious about returning home.",
+        "signal": "Short-term ceasefire suggests possible broader regional de-escalation - watch for extension or violations in coming days.",
+        "sources": [
+          "Al Jazeera",
+          "BBC News",
+          "Associated Press"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/17/celebrations-in-lebanon-as-10-day-ceasefire-with-israel-begins",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Tens of thousands of people forcibly displaced by Israeli attacks on Lebanon use first day of ceasefire to return home.",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjq6pgsnul2f"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 64,
+        "topic": "ECB Rate Hikes Coming",
+        "domain": "macro",
+        "headline": "ECB to hike rates in June as Iran war drives inflation",
+        "summary": "A survey shows the European Central Bank will raise interest rates in June as the Iran war pushes inflation higher in 2026. The energy shock from Middle East conflict is forcing central bank policy reversal.",
+        "signal": "European rate hikes signal sustained inflation pressure from energy crisis - expect divergence from Fed policy if war continues.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/ecb-to-hike-rates-in-june-as-2026-inflation-jumps-survey-shows",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 62,
+        "topic": "Wheat Rally Iran Fertilizer Crisis",
+        "domain": "commodities",
+        "headline": "Wheat surges on weather woes and Iran fertilizer shortage",
+        "summary": "Wheat prices are set for their biggest weekly gain in almost two months due to persistent weather concerns and tighter fertilizer supplies linked to the Iran war. Supply outlook concerns are mounting globally.",
+        "signal": "Food inflation risk rising as Iran war disrupts fertilizer supply chains - monitor agricultural commodity prices for broader impact.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/wheat-rallies-on-weather-woes-and-iran-linked-fertilizer-crunch",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 60,
+        "topic": "Nuclear Power Asia Africa Expansion",
+        "domain": "macro",
+        "headline": "Iran war energy crisis spurs nuclear ambitions globally",
+        "summary": "The Iran war's global energy shock is driving Asian and African nations to boost nuclear power generation and spur atomic energy plans in non-nuclear countries. Nuclear power isn't a quick fix for current energy crisis but long-term planning accelerates.",
+        "signal": "Energy security concerns drive structural shift toward nuclear - expect increased uranium demand and nuclear technology partnerships.",
+        "sources": [
+          "Associated Press",
+          "The Hindu"
+        ],
+        "source_url": "https://apnews.com/article/middle-east-wars-nuclear-energy-asia-africa-ab082ccbbc1fca8ab7eb6871040bf4a3",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 58,
+        "topic": "Indian Rupee Oil FX Policy",
+        "domain": "india",
+        "headline": "Rupee leads Asia gains on oil FX facility reports",
+        "summary": "The Indian rupee was Asia's biggest gainer after reports that the central bank asked state oil refiners to route dollar purchases through a special credit facility. India is also reportedly settling some Iranian oil deals in yuan.",
+        "signal": "India developing alternative payment systems for energy imports - signals preparation for prolonged sanctions environment.",
+        "sources": [
+          "Bloomberg",
+          "NDTV",
+          "Indian Express"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/india-s-rupee-is-asia-s-biggest-gainer-on-oil-fx-window-report",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 56,
+        "topic": "UK Mandelson Vetting Crisis",
+        "domain": "europe",
+        "headline": "Starmer faces calls to resign over Mandelson vetting failure",
+        "summary": "UK PM Keir Starmer is under intense pressure after Lord Mandelson failed security vetting but was still allowed to take his Foreign Office post. Top official Olly Robbins is leaving over the scandal.",
+        "signal": "UK government credibility crisis could destabilize Labor leadership - watch for no-confidence motions or cabinet reshuffles.",
+        "sources": [
+          "BBC News",
+          "Times of India",
+          "Economic Times"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c8dl8l5l008o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "'Almost like a Bond villain': why Labour MPs expect Starmer to cling on as PM",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjqrzggfbv2x"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 54,
+        "topic": "Europe Hormuz Security Mission",
+        "domain": "geopolitics",
+        "headline": "Europe accelerates Hormuz security mission despite Trump warning",
+        "summary": "More than 30 leaders joined a video conference to map out an international mission to secure the Strait of Hormuz, despite Trump telling allies to 'STAY AWAY'. France and UK are leading coalition efforts excluding the US.",
+        "signal": "Transatlantic split on Middle East strategy emerging - European independent action could complicate US-Iran negotiations.",
+        "sources": [
+          "Associated Press",
+          "Politico Europe"
+        ],
+        "source_url": "https://apnews.com/article/hormuz-strait-iran-blockade-britain-france-10518e69aecbb986c9118ff42ab0ca02",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 52,
+        "topic": "Japan-Australia Defense Deal",
+        "domain": "geopolitics",
+        "headline": "Japan seals largest-ever defense contract with Australia frigate sale",
+        "summary": "Japan will supply Australia with the first three of a planned fleet of 11 new Mogami-class warships in Japan's largest-ever defense contract. The deal highlights progress of Japan's defense industry and deeper regional security ties.",
+        "signal": "Japan's defense export pivot accelerating amid regional tensions - signals broader Indo-Pacific military buildup.",
+        "sources": [
+          "Japan Times",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://www.japantimes.co.jp/news/2026/04/18/japan/mogami-japan-australia-announcement/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 50,
+        "topic": "China Chipmaker Market Cap Record",
+        "domain": "markets",
+        "headline": "Chinese chipmaker surpasses Moutai for highest mainland stock price",
+        "summary": "A Chinese laser chipmaker surpassed Kweichow Moutai to become mainland China's highest-priced stock. This highlights investor shift toward advanced technology and away from traditional consumer leaders.",
+        "signal": "China's tech sector leadership changing hands - signals structural shift in investor preferences toward semiconductors.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/chipmaker-tops-moutai-for-highest-price-tag-among-china-stocks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 48,
+        "topic": "Ericsson Q1 Earnings Miss",
+        "domain": "corporate",
+        "headline": "Ericsson Q1 profit misses estimates on sluggish telecom sales",
+        "summary": "Ericsson's first-quarter earnings missed analysts' forecasts as the Swedish company struggled in a weak telecommunications equipment market and faced rising chip costs due to the AI boom. The telecom equipment sector continues to face headwinds.",
+        "signal": "Telecom infrastructure spending weakness persists while AI drives component costs higher - sector margin pressure continues.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/ericsson-first-quarter-profit-misses-estimates-on-sluggish-sales",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 46,
+        "topic": "TCS Nashik Investigation",
+        "domain": "india",
+        "headline": "TCS forms oversight panel for Nashik conversion case probe",
+        "summary": "TCS has clarified that accused employee Nida Khan is not an HR manager, constituted a Keki Mistry-led oversight panel and engaged Deloitte and Trilegal for internal investigation. Police teams are searching for the absconding employee.",
+        "signal": "Corporate governance crisis at India's largest IT firm - watch for client impact and broader sector reputation effects.",
+        "sources": [
+          "NDTV",
+          "Times of India",
+          "LiveMint"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/tcs-nashik-conversion-case-nida-khan-no-complaints-received-through-internal-channels-says-tcs-amid-nashik-probe-11374136#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 44,
+        "topic": "D4vd Murder Arrest",
+        "domain": "corporate",
+        "headline": "Singer D4vd arrested for teen murder, body found in Tesla",
+        "summary": "Singer D4vd (David Burke) has been arrested on suspicion of killing 14-year-old Celeste Rivas Hernandez, whose decomposing and dismembered body was found in his Tesla. He is being held without bail.",
+        "signal": "High-profile celebrity criminal case could impact music industry reputation and streaming platforms' content policies.",
+        "sources": [
+          "BBC News",
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/d4vd-suspect-celeste-rivas-hernandez-f58e2983916aaf3340cc48b7e711118f",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 42,
+        "topic": "US Russian Oil Waiver Extension",
+        "domain": "commodities",
+        "headline": "US extends Russian oil sanctions waiver amid Iran crisis",
+        "summary": "The US Treasury extended a waiver allowing delivery of sanctioned Russian crude as the administration seeks to ease oil prices during the Iran war. The move faces bipartisan criticism as Ukraine war continues.",
+        "signal": "Energy security trumping sanctions policy - signals US prioritizing domestic price stability over geopolitical pressure.",
+        "sources": [
+          "Indian Express",
+          "Japan Times",
+          "Middle East Eye"
+        ],
+        "source_url": "https://indianexpress.com/article/explained/explained-economics/us-extends-russian-oil-waiver-india-imports-10642887/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 40,
+        "topic": "Xi China Diplomacy Surge",
+        "domain": "geopolitics",
+        "headline": "Xi welcomes world leaders as Trump fights Iran war",
+        "summary": "President Xi Jinping wrapped up an unusually busy week of diplomacy in Beijing, showcasing fervent interest of world leaders to develop China ties while the US is embroiled in conflict with Iran. China positioning as stable alternative to US leadership.",
+        "signal": "China capitalizing on US Middle East distraction to strengthen global partnerships - watch for new trade and investment deals.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/xi-welcomes-slew-of-world-leaders-as-trump-fights-with-allies",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 38,
+        "topic": "Indian Parliament Session Ends",
+        "domain": "india",
+        "headline": "Parliament special session ends with women quota bill failure",
+        "summary": "Parliament's special session concluded with the constitutional amendment for women's reservation failing in Lok Sabha. Opposition accused government of 'hiding behind women' to alter electoral map through delimitation.",
+        "signal": "Political deadlock on key reforms suggests continued parliamentary gridlock - watch for impact on upcoming state elections.",
+        "sources": [
+          "NDTV",
+          "Indian Express",
+          "The Hindu"
+        ],
+        "source_url": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 18,
+        "score": 36,
+        "topic": "OpenAI Executive Departure",
+        "domain": "corporate",
+        "headline": "OpenAI's Srinivas Narayanan quits to return to India",
+        "summary": "Srinivas Narayanan, former CTO of B2B Applications at OpenAI, is leaving after three years to spend time with aging parents in India before a new professional journey. Another high-profile departure from the AI leader.",
+        "signal": "Continued executive turnover at OpenAI raises questions about internal stability amid intense AI competition.",
+        "sources": [
+          "LiveMint",
+          "Economic Times"
+        ],
+        "source_url": "https://www.livemint.com/companies/people/who-is-srinivas-narayanan-us-techie-quits-openai-plans-to-return-to-india-to-spend-time-with-ageing-parents-11776481567716.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 34,
+        "topic": "Trump White House Ballroom Legal Block",
+        "domain": "geopolitics",
+        "headline": "Judge halts Trump's $400 million White House ballroom construction",
+        "summary": "A federal judge blocked aboveground construction of Trump's proposed $400 million White House ballroom while allowing underground bunker work to proceed. Trump defends project as 'needed now' despite Marie Antoinette comparisons.",
+        "signal": "Legal challenges to Trump's opulent spending could become political liability if economic conditions worsen from Iran war.",
+        "sources": [
+          "BBC News",
+          "Associated Press"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c8r48mgnzmjo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 32,
+        "topic": "Venezuela IMF World Bank Ties",
+        "domain": "geopolitics",
+        "headline": "IMF and World Bank restore ties with Venezuela",
+        "summary": "The International Monetary Fund and World Bank announced they are restoring ties with Venezuela. Acting President Delcy Rodriguez called the resumption of ties a 'great achievement' of Venezuelan diplomacy.",
+        "signal": "Venezuela's return to international financial institutions signals potential sanctions relief and investment opportunities.",
+        "sources": [
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.aljazeera.com/economy/2026/4/17/imf-world-bank-say-they-are-restoring-ties-with-venezuela",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-18T05:58:51.109236+00:00",
     "timestamp_ist": "18 Apr 2026 \u00b7 11:28 IST",
     "story_count": 26,
@@ -15399,263 +15830,5 @@
       }
     ],
     "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-12T20:03:20.859416+00:00",
-    "timestamp_ist": "13 Apr 2026 \u00b7 01:33 IST",
-    "story_count": 10,
-    "avg_score": 74,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 92,
-        "topic": "US-Iran Ceasefire Talks Collapse",
-        "domain": "geopolitics",
-        "headline": "Trump Orders Hormuz Blockade After US-Iran Peace Talks Fail",
-        "summary": "US-Iran ceasefire negotiations in Pakistan collapsed over nuclear and oil transit issues, with Iranian negotiators saying the US 'failed to gain trust'. Trump immediately announced a naval blockade of the Strait of Hormuz and threatened 50% tariffs on China if it aids Iran militarily.",
-        "signal": "Watch for oil price spikes and global supply chain disruptions as geopolitical tensions escalate beyond the fragile ceasefire.",
-        "sources": [
-          "Bloomberg",
-          "Associated Press",
-          "Politico",
-          "The National",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/us-iran-officials-begin-talks-with-pakistan-on-ending-war",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Mohammad Bagher Ghalibaf, who led Iran's delegation in talks to end the war, said US delegation 'failed to gain trust'.",
-            "score": 41,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjcta6zwau22"
-          },
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u30c8\u30e9\u30f3\u30d7\u6c0f\u3001\u30db\u30eb\u30e0\u30ba\u6d77\u5ce1\u306e\u6d77\u4e0a\u5c01\u9396\u3092\u958b\u59cb\u3078\u3000\u901a\u822a\u6599\u652f\u6255\u3044\u8a31\u3055\u305a",
-            "score": 35,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjck2hy4fr27"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 85,
-        "topic": "Hungary Election Upset",
-        "domain": "europe",
-        "headline": "Orb\u00e1n Concedes Defeat After 16 Years in Power",
-        "summary": "Hungarian Prime Minister Viktor Orb\u00e1n has conceded defeat to opposition leader P\u00e9ter Magyar's Tisza Party in a stunning electoral upset. Magyar is set to win a supermajority in the 199-seat parliament, ending Orb\u00e1n's 16-year rule and potentially reshaping EU-Russia relations.",
-        "signal": "Expect EU policy shifts toward stronger Ukraine support and tighter Russia sanctions as Hungary's pro-Moscow stance reverses.",
-        "sources": [
-          "Politico",
-          "South China Morning Post",
-          "Indian Express",
-          "@apnews.com"
-        ],
-        "source_url": "https://www.politico.eu/article/hungary-election-results-peter-magyar-viktor-orban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "BREAKING: Hungarian Prime Minister Viktor Orb\u00e1n concedes defeat to Peter Magyar after 'painful' election result, ending 16 years in power.",
-            "score": 56,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjd3o6ahlz2y"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "The party of opposition leader Peter Magyar is set to win Hungary's parliamentary election with a two-thirds majority",
-            "score": 37,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjd3prv75j2t"
-          },
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "Hungary election live: Viktor Orb\u00e1n concedes defeat in Hungarian election after 16 years in power",
-            "score": 36,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mjd3rvkehr2q"
-          },
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u30cf\u30f3\u30ac\u30ea\u30fc\u306716\u5e74\u3076\u308a\u653f\u6a29\u4ea4\u4ee3\u3001\u30aa\u30eb\u30d0\u30f3\u4e0e\u515a\u6557\u5317\u3000EU\u3068\u95a2\u4fc2\u4fee\u5fa9\u3078",
-            "score": 40,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjd5d5a34c2j"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 3,
-        "score": 84,
-        "topic": "Global Oil Market Scramble",
-        "domain": "commodities",
-        "headline": "Oil Markets In Panicked Race For Barrels Amid Iran Crisis",
-        "summary": "While diplomatic attention focused on Iran ceasefire talks, a desperate global scramble for oil cargoes has intensified as traders scour for immediately available supplies. India doubled diesel export taxes to 55.5 rupees per liter while Ireland deployed army forces to break refinery blockades amid soaring fuel prices.",
-        "signal": "Energy security concerns signal potential inflationary pressures and supply chain vulnerabilities requiring immediate hedging strategies.",
-        "sources": [
-          "Bloomberg",
-          "NDTV Profit",
-          "Nikkei Asia"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/the-oil-market-is-in-the-grip-of-a-panicked-race-for-barrels",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 82,
-        "topic": "Iraq Presidential Election",
-        "domain": "middleeast",
-        "headline": "Iraq Elects Kurdish Politician As President Amid War Fallout",
-        "summary": "Iraq's parliament elected Nizar Amedi from the Patriotic Union of Kurdistan as president after five months of political deadlock. The vote took place as Iraq deals with regional war fallout, with the new president pledging an 'Iraq First' policy after securing 227 votes.",
-        "signal": "Kurdish leadership could stabilize Iraq's position amid regional tensions while balancing Iran-US competing interests.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera",
-          "The National"
-        ],
-        "source_url": "https://apnews.com/article/iraq-president-nizar-amidi-d4279d9afb91ad10bcb761c1ea71a993",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 80,
-        "topic": "India Energy Diplomacy",
-        "domain": "india",
-        "headline": "India's Aggressive Middle East Energy Diplomacy Amid Crisis",
-        "summary": "Foreign Minister S Jaishankar met UAE President Sheikh Mohamed Bin Zayed in Abu Dhabi as India pursues aggressive energy diplomacy to restore oil imports. India also doubled export duties on diesel amid the energy crisis while coffee exporters face disrupted shipping routes due to the Iran conflict.",
-        "signal": "India's energy security moves indicate preparation for prolonged Middle East instability affecting global supply chains.",
-        "sources": [
-          "NDTV News",
-          "The National",
-          "Nikkei Asia"
-        ],
-        "source_url": "https://www.ndtv.com/india-news/indias-aggressive-energy-diplomacy-in-middle-east-to-restore-oil-imports-11348304#publisher=newsstand",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 72,
-        "topic": "Pope Condemns Iran War",
-        "domain": "geopolitics",
-        "headline": "Pope Leo XIV Blasts US-Israeli War Delusion",
-        "summary": "Pope Leo XIV delivered his strongest condemnation yet of the US-Israel war in Iran, denouncing the 'delusion of omnipotence' fueling the conflict. The Pope presided over evening prayers demanding political leaders stop and negotiate peace, while also expressing closeness to Lebanese people.",
-        "signal": "Religious diplomatic pressure adds moral weight to ceasefire calls but unlikely to influence military decisions.",
-        "sources": [
-          "Associated Press",
-          "Japan Times"
-        ],
-        "source_url": "https://apnews.com/article/pope-leo-usisraeli-war-iran-7309c5df6c7312b942e0510ea65502cb",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 70,
-        "topic": "AI Market Resilience",
-        "domain": "markets",
-        "headline": "AI Credit Juggernaut Continues Despite Middle East Tensions",
-        "summary": "The artificial intelligence credit market maintains momentum as investor demand for AI exposure trumps fears about Middle East conflict driving energy prices and inflation higher. Microsoft VP suggests AI could increase software business even if companies lay off 50% of workforce.",
-        "signal": "AI sector resilience indicates potential safe haven during geopolitical turmoil but watch for energy cost impacts.",
-        "sources": [
-          "Bloomberg",
-          "Times of India"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/ai-juggernaut-rumbles-on-even-as-markets-whipsaw-credit-weekly",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 65,
-        "topic": "Brazil Political Dynamics",
-        "domain": "markets",
-        "headline": "Lula Tied With Opponents Ahead Of October Election",
-        "summary": "Brazilian President Lula is tied with right-wing and center-right opponents in theoretical match-ups six months before October's election, according to Datafolha polling. Lula has chosen a new minister to negotiate with Congress on his reelection agenda.",
-        "signal": "Brazil political uncertainty could affect emerging market sentiment and commodity prices during global instability.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-11/brazil-s-lula-tied-with-main-competitors-datafolha-poll-shows",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 62,
-        "topic": "IPL Cricket Match",
-        "domain": "india",
-        "headline": "RCB Defeats MI In 462-Run IPL Thriller",
-        "summary": "Royal Challengers Bengaluru dominated Mumbai Indians by 18 runs in a high-scoring Wankhede thriller, posting 240/4 powered by Phil Salt's 78, Virat Kohli's 50, and Rajat Patidar's 53. Mumbai Indians' chase faltered as captain Rohit Sharma retired hurt with a hamstring injury.",
-        "signal": "Sports entertainment continues drawing audience attention despite geopolitical tensions, supporting media and sponsorship sectors.",
-        "sources": [
-          "Times of India",
-          "The Hindu",
-          "Indian Express"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-phil-salt-virat-kohli-rajat-patidar-shine-as-rcb-outgun-mi-in-462-run-thriller-at-wankhede/articleshow/130218751.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 49,
-        "topic": "Asha Bhosle Death Report",
-        "domain": "india",
-        "headline": "Bollywood Legend Asha Bhosle Dies At 92",
-        "summary": "Iconic Indian playback singer and two-time Grammy nominee Asha Bhosle has reportedly died at 92 in Mumbai according to social media reports. Her voice defined Bollywood music in the 1970s and 1980s.",
-        "signal": "Cultural icon's death could impact Indian entertainment industry and trigger verification of celebrity death rumors.",
-        "sources": [
-          "@aljazeera.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Major celebrity death claims require immediate verification given their cultural impact and market implications.",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Iconic Indian playback singer and two-time Grammy nominee Asha Bhosle, whose voice defined Bollywood music in the 1970s and 1980s, has died at 92 in Mumbai.",
-            "score": 49,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjczq3eddc2v"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 29
   }
 ]
