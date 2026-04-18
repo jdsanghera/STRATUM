@@ -1,5 +1,474 @@
 [
   {
+    "timestamp": "2026-04-18T15:02:08.785673+00:00",
+    "timestamp_ist": "18 Apr 2026 \u00b7 20:32 IST",
+    "story_count": 20,
+    "avg_score": 64,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 88,
+        "topic": "Hormuz Strait Closure Returns",
+        "domain": "geopolitics",
+        "headline": "Iran reverses Hormuz opening, gunfire hits merchant vessels",
+        "summary": "Iran reversed its earlier promise to keep the Strait of Hormuz open, with Iranian gunboats firing on merchant vessels attempting to cross the vital shipping lane. Despite a ceasefire in Lebanon and initial opening declarations, Iran cited continued US blockades as justification for re-closing the waterway.",
+        "signal": "Watch for oil price volatility and shipping disruptions as Hormuz remains contested despite peace talks.",
+        "sources": [
+          "BBC News",
+          "Bloomberg",
+          "Associated Press",
+          "Al Jazeera",
+          "Japan Times",
+          "Politico Europe",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/empty-lng-tankers-attempt-hormuz-crossing-into-persian-gulf",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "The British military says a cargo vessel was attacked near the Strait of Hormuz, damaging containers on board.",
+            "score": 41,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjrkepkdsf24"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Iran moved to restrict vessel traffic through the Strait of Hormuz in response to the continued US naval blockade",
+            "score": 40,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjrfbzuytf2b"
+          },
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30db\u30eb\u30e0\u30ba\u6d77\u5ce1\u3092\u518d\u5c01\u9396\u3001\u30a4\u30e9\u30f3\u9769\u547d\u9632\u885b\u968a\u304c\u8868\u660e\u3000\u958b\u653e\u5ba3\u8a00\u304b\u3089\u4e00\u8ee2",
+            "score": 35,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjrfshidrq2i"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjrlxsvahn2u"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "topic": "Oil Markets Hormuz Impact",
+        "domain": "commodities",
+        "headline": "Oil plunges 10% on brief Hormuz opening, then reverses",
+        "summary": "Brent crude initially fell 10% after Iran announced the Strait of Hormuz would remain open during the Lebanon ceasefire. However, prices began recovering after Iran reversed course and re-closed the waterway following gunfire incidents.",
+        "signal": "Energy markets remain highly volatile on Hormuz developments; expect continued price swings tied to shipping access.",
+        "sources": [
+          "BBC News",
+          "Bloomberg",
+          "Associated Press"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/ckg045z73z1o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "topic": "Israel-Lebanon Ceasefire Holds",
+        "domain": "geopolitics",
+        "headline": "10-day Israel-Lebanon truce begins as displaced return home",
+        "summary": "A fragile 10-day ceasefire between Israel and Hezbollah took effect, with thousands of displaced Lebanese families beginning to return home despite official warnings. The US-brokered truce has increased hopes for broader Middle East peace negotiations.",
+        "signal": "Monitor ceasefire compliance and extension prospects as foundation for wider Iran peace deal.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera",
+          "Bloomberg"
+        ],
+        "source_url": "https://apnews.com/article/lebanon-israel-hezbollah-ceasefire-united-states-e0412bb734d09aef492051c1730b5821",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 80,
+        "topic": "UN Peacekeeper Deaths Lebanon",
+        "domain": "geopolitics",
+        "headline": "French UN peacekeeper killed in Lebanon, Macron blames Hezbollah",
+        "summary": "A French UN peacekeeper was killed and three wounded in southern Lebanon during the second day of the ceasefire. President Macron blamed Hezbollah for the attack, though the group denied involvement.",
+        "signal": "Ceasefire fragility exposed; watch for escalation that could undermine broader peace efforts.",
+        "sources": [
+          "Politico Europe",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.politico.eu/article/french-peacekeeper-killed-hezbollah-lebanon-emmanuel-macron/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 78,
+        "topic": "EU Defense Independence Plans",
+        "domain": "geopolitics",
+        "headline": "EU tests NATO-style defense without US involvement",
+        "summary": "The European Union will run simulations of its mutual-assistance mechanism to operate independently of the US amid growing NATO strains. The tests reflect European concerns about American reliability under Trump's leadership.",
+        "signal": "European strategic autonomy accelerating; implications for transatlantic defense cooperation and burden-sharing.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/eu-to-test-nato-style-defense-guarantees-to-operate-without-us",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 75,
+        "topic": "Indian Women's Reservation Bill",
+        "domain": "india",
+        "headline": "Modi attacks opposition over failed women's reservation bill",
+        "summary": "Prime Minister Modi accused the DMK and Congress of petty politics after the women's reservation bill was defeated in Parliament. Modi directed ministers to expose the opposition's anti-women stance and reiterated commitment to implement 33% reservation by 2029.",
+        "signal": "Political ammunition for 2029 elections as women's rights become key battleground issue.",
+        "sources": [
+          "Times of India",
+          "NDTV News"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/troubles-dmk-congress-to-see-ordinary-women-rise-pm-modi-at-coimbatore-rally/articleshow/130355437.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 72,
+        "topic": "India Hormuz Shipping Safety",
+        "domain": "india",
+        "headline": "India raises alarm with Iran over Hormuz firing incident",
+        "summary": "India summoned the Iranian ambassador to lodge a strong protest after an Indian-flagged tanker was targeted in Hormuz firing incidents. The government expressed deep concern and sought safe passage for Indian commercial vessels.",
+        "signal": "India's Gulf trade routes at risk; watch for bilateral diplomatic escalation with Iran.",
+        "sources": [
+          "Times of India",
+          "NDTV Profit"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/hormuz-firing-row-india-summons-iranian-envoy-lodges-strong-protest/articleshow/130356344.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 70,
+        "topic": "Iranian Nuclear Enrichment Dispute",
+        "domain": "geopolitics",
+        "headline": "Iran denies US claims on uranium transfer agreement",
+        "summary": "Iran rejected US claims that it agreed to transfer enriched uranium abroad, with Russia offering to help with removal. The dispute undermines Trump administration assertions about progress in nuclear negotiations.",
+        "signal": "Nuclear talks remain stalled despite ceasefire progress; uranium enrichment continues as leverage.",
+        "sources": [
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-signals-re-closure-hormuz-it-rejects-uranium-transfer-abroad",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Trump claims on Iranian concessions trigger questions, rejections in Tehran",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjrkc763222i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 68,
+        "topic": "Nvidia Quantum Computing Surge",
+        "domain": "markets",
+        "headline": "Nvidia backing creates quantum computing billionaire in days",
+        "summary": "Xanadu Quantum Technologies founder became a billionaire within days after Nvidia threw its weight behind quantum computing. The rapid valuation surge reflects investor enthusiasm for the emerging technology sector.",
+        "signal": "Quantum computing bubble forming; monitor for sustainable fundamentals versus speculative froth.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/nvidia-helps-make-quantum-computing-ceo-a-billionaire-in-days",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 65,
+        "topic": "Meta Mass Layoffs Plan",
+        "domain": "corporate",
+        "headline": "Meta plans 8,000 layoffs in May workforce purge",
+        "summary": "Meta will lay off approximately 8,000 employees or 10% of its global workforce on May 20, with further cuts expected later in the year. The massive layoffs reflect continued cost-cutting pressure in the tech sector.",
+        "signal": "Tech sector downturn deepening; expect continued workforce reductions across major platforms.",
+        "sources": [
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/companies/news/meta-layoffs-8-000-employees-likely-to-be-sacked-in-massive-workforce-purge-on-may-20-11776511294702.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 62,
+        "topic": "Indian Banking Q4 Results",
+        "domain": "india",
+        "headline": "ICICI, HDFC, Yes Bank post strong Q4 profits",
+        "summary": "Major Indian banks reported robust Q4 results with ICICI Bank profit up 8.5% to \u20b913,702 crore, HDFC Bank up 9% to \u20b919,221 crore, and Yes Bank surging 45% to \u20b91,068 crore. Asset quality improvements and steady NIMs supported performance.",
+        "signal": "Indian banking sector resilient despite global uncertainties; credit growth momentum continues.",
+        "sources": [
+          "LiveMint Markets"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/icici-bank-q4-results-2026-profit-rises-8-5-yoy-nii-nim-provision-loan-growth-dividend-key-takeaways-11776494482515.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 60,
+        "topic": "OpenAI Executive Departure",
+        "domain": "corporate",
+        "headline": "OpenAI CTO Srinivas Narayanan leaves for India family time",
+        "summary": "OpenAI's CTO for B2B applications Srinivas Narayanan is departing after three years to spend time with aging parents in India. The departure adds to executive turnover at the leading AI company.",
+        "signal": "Monitor OpenAI leadership stability as competitive pressure intensifies in AI race.",
+        "sources": [
+          "Times of India",
+          "LiveMint Companies"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/technology/social/openais-senior-exec-srinivas-narayanan-announces-he-is-leaving-says-looking-forward-to-spending-some-time-with-my-aging-parents-in-india-before/articleshow/130349669.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 58,
+        "topic": "Anthropic AI Valuation Surge",
+        "domain": "markets",
+        "headline": "Anthropic reaches $800 billion valuation amid Trump meeting",
+        "summary": "AI firm Anthropic achieved an $800 billion valuation as its CEO met with the White House amid anxiety over the company's Mythos AI model. The rapid ascent reflects intense investor interest in AI capabilities.",
+        "signal": "AI valuation bubble concerns rise; regulatory scrutiny of advanced models intensifying.",
+        "sources": [
+          "Euronews Business",
+          "Politico Europe"
+        ],
+        "source_url": "http://www.euronews.com/business/2026/04/18/the-rapid-ascent-of-anthropic-inside-the-strategy-behind-an-800-billion-valuation",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 55,
+        "topic": "Australia-Japan Defense Deal",
+        "domain": "geopolitics",
+        "headline": "Australia, Japan sign Mogami frigate deal deepening ties",
+        "summary": "Australia and Japan signed the Mogami deal, pivoting to deeper defense cooperation amid regional security concerns. The agreement reflects strengthening Indo-Pacific partnerships against Chinese military expansion.",
+        "signal": "AUKUS alternative emerging; Japan becoming key defense partner beyond US alliance.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "https://asia.nikkei.com/politics/defense/australia-and-japan-sign-mogami-deal-pivot-to-deeper-defense-ties",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 50,
+        "topic": "Trump Psychedelics Order",
+        "domain": "markets",
+        "headline": "Trump speeds psychedelics review including controversial ibogaine",
+        "summary": "President Trump signed an executive order to accelerate reviews of psychedelic drugs including ibogaine for PTSD treatment. The move reflects growing conservative embrace of alternative therapies despite safety risks.",
+        "signal": "Psychedelics sector poised for regulatory breakthrough; watch for investment opportunities and safety concerns.",
+        "sources": [
+          "South China Morning Post"
+        ],
+        "source_url": "https://www.scmp.com/news/world/united-states-canada/article/3350593/trump-signs-order-speed-review-psychedelics-including-controversial-drug-ibogaine?utm_source=rss_feed",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Donald Trump signed an executive order to expedite research and access to psychedelics used outside the US to treat post-traumatic stress disorder",
+            "score": 40,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjrnnqqb4s22"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 45,
+        "topic": "Reed Hastings Netflix Exit",
+        "domain": "corporate",
+        "headline": "Netflix founder Reed Hastings departs as Trump attacks",
+        "summary": "Netflix co-founder Reed Hastings stepped down from the board as President Trump called him a 'SLEAZEBAG' on social media. Netflix shares fell 9% on weak guidance as the Hastings era ends.",
+        "signal": "Tech founder exits accelerating; political tensions affecting corporate leadership decisions.",
+        "sources": [
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/companies/reed-hastings-scripted-his-netflix-exit-founder-departures-aren-t-alway-this-smooth-11776499431200.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 40,
+        "topic": "Pope Leo Trump Relations",
+        "domain": "geopolitics",
+        "headline": "Pope Leo downplays feud with Trump over Iran",
+        "summary": "Pope Leo XIV said it was not in his interest to debate President Trump about the Iran war, though he would continue preaching peace. The comments suggest ongoing tension between the Vatican and White House over military action.",
+        "signal": "Religious opposition to Iran war growing; watch for broader faith community mobilization.",
+        "sources": [
+          "Reuters",
+          "Associated Press"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Pope Leo downplays feud with Trump, says 'not in my interest' to debate him",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjrmasa46a2g"
+          },
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Pope Leo XIV said that it was 'not in my interest at all' to debate U.S. President Donald Trump about the Iran war",
+            "score": 46,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjrlquq4pc25"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 18,
+        "score": 57,
+        "topic": "LAPD Settlement",
+        "domain": "corporate",
+        "headline": "LA pays $11.8M for police blinding during celebration",
+        "summary": "Los Angeles must pay $11.8 million to a 27-year-old blinded by police projectile while celebrating the Dodgers' 2020 World Series win. The settlement highlights ongoing police accountability issues and liability costs.",
+        "signal": "Municipal liability exposure rising; expect continued pressure on police reform budgets.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Significant police liability settlement that could set precedent for similar cases nationwide.",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "The city of Los Angeles must pay $11.8 million to a 27-year-old who was blinded by a projectile fired by police officers while he was celebrating the Dodgers 2020 World Series win.",
+            "score": 57,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjrimws64m26"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 19,
+        "score": 44,
+        "topic": "Israel Relations Fraying",
+        "domain": "geopolitics",
+        "headline": "European leaders increasingly critical of Israeli policies",
+        "summary": "Israel's relationships with European allies are deteriorating as leaders adopt sharper rhetoric against Israeli actions. The growing criticism is manifesting across diplomatic channels and media platforms.",
+        "signal": "Israeli diplomatic isolation deepening in Europe; potential impacts on defense cooperation and trade.",
+        "sources": [
+          "Al Jazeera"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Diplomatic shift could affect Israeli access to European markets and military technology.",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Israel's relations with its allies are fraying. Increasingly sharp rhetoric from European leaders is playing out in messaging and on media platforms.",
+            "score": 44,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjpxgqya522b"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 20,
+        "score": 43,
+        "topic": "Indonesia Social Media Ban",
+        "domain": "corporate",
+        "headline": "Indonesia bans under-16s from high-risk social platforms",
+        "summary": "Indonesia became the first Southeast Asian country to ban under-16s from government-classified 'high-risk' social media services. The policy requires parental consent and limits access to specially designed platforms for children.",
+        "signal": "Regional social media regulation trend emerging; expect similar policies across ASEAN markets.",
+        "sources": [
+          "Nikkei Asia"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "First major Southeast Asian social media restriction could trigger similar policies regionally.",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u308216\u6b73\u672a\u6e80\u306eSNS\u898f\u5236\u3000\u653f\u5e9c\u304c\u30ea\u30b9\u30af\u5224\u65ad\u3001\u6771\u5357\u30a2\u30b8\u30a2\u521d",
+            "score": 43,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjrfdwsmoc2o"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-18T11:54:28.795432+00:00",
     "timestamp_ist": "18 Apr 2026 \u00b7 17:24 IST",
     "story_count": 20,
@@ -15170,395 +15639,6 @@
         "social_signals": [],
         "trend": "stable",
         "breaking_on_social": false
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-13T12:15:38.048100+00:00",
-    "timestamp_ist": "13 Apr 2026 \u00b7 17:45 IST",
-    "story_count": 17,
-    "avg_score": 63,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 87,
-        "topic": "US-Iran Peace Talks Fail",
-        "domain": "geopolitics",
-        "headline": "US-Iran talks collapse, Trump threatens naval blockade",
-        "summary": "Historic US-Iran ceasefire talks in Islamabad ended without agreement, with both sides blaming each other for the failure. Trump announces plans for a naval blockade of Iranian ports starting Monday while Iran signals readiness for continued conflict.",
-        "signal": "Expect oil price volatility and regional military escalation as diplomatic options narrow.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera",
-          "Bloomberg",
-          "The Hindu",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "BREAKING: Israeli PM Benjamin Netanyahu says Israel supports US President Donald Trump's decision to impose a naval blockade on Iran, adding that his government is in \"constant coordination\" with Wash",
-            "score": 54,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjersroazk2o"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 82,
-        "topic": "Viktor Orban Election Defeat",
-        "domain": "europe",
-        "headline": "Hungary's Orban loses power after 16 years to Magyar",
-        "summary": "Hungarian opposition leader Peter Magyar's Tisza Party has won a parliamentary majority, ending Viktor Orban's 16-year rule. EU leaders celebrated the result as a return to European values.",
-        "signal": "Watch for shifts in EU-Hungary relations and potential changes to veto powers in European foreign policy.",
-        "sources": [
-          "Bloomberg",
-          "BBC News",
-          "Al Jazeera",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/polymarket-bets-on-orban-loss-jump-further-as-hungarians-vote",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Magyar's centre-right Tisza Party has won a two-thirds majority in Hungary's parliamentary elections.",
-            "score": 31,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjeswmpmv72o"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 79,
-        "topic": "Saudi Oil Pipeline Restored",
-        "domain": "commodities",
-        "headline": "Saudi Arabia restores East-West pipeline to full capacity",
-        "summary": "Saudi Arabia has restored its critical East-West pipeline to full 7 million barrel per day capacity following recent attacks. The pipeline is vital for oil exports via the Red Sea amid ongoing regional tensions.",
-        "signal": "Oil supply concerns may ease temporarily, but pipeline vulnerability remains a key risk factor.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/saudi-arabia-says-east-west-pipeline-restored-to-full-capacity",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 78,
-        "topic": "Trump-Pope Leo Feud",
-        "domain": "geopolitics",
-        "headline": "Pope Leo defies Trump criticism over Iran war stance",
-        "summary": "Pope Leo XIV vowed to continue speaking out against the US-Iran war despite sharp criticism from President Trump. The pontiff said he has \"no fear\" and accused Trump of abusing the Christian message.",
-        "signal": "US-Vatican relations deteriorating could impact Catholic voter sentiment and diplomatic initiatives.",
-        "sources": [
-          "Politico Europe",
-          "The National UAE",
-          "@bloomberg.com",
-          "@apnews.com",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://www.politico.eu/article/pope-leo-donald-trump-wont-silence-him-us-vatican-feud-over-iran/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "Pope Leo XIV vowed to keep criticizing the US-Israeli war on Iran, hours after President Donald Trump blasted the pontiff and opened up a fresh political rift with his Italian political allies.",
-            "score": 44,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjeplytve527"
-          },
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "Pope Leo hit back at President Trump over the Iran war, saying the Vatican's appeals for peace and reconciliation are rooted in the Gospel, and that he didn't fear the Trump administration.",
-            "score": 50,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjejrpg5q72w"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Pope Leo said he will continue to speak out against war despite sharp criticism from US President Donald Trump, telling reporters that the Christian message is being \"abused\" and that he does not want",
-            "score": 50,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjeqmnphss2g"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 78,
-        "topic": "Indian Market Impact Iran",
-        "domain": "india",
-        "headline": "Indian markets tumble as Iran talks fail, rupee weakens",
-        "summary": "Indian stock markets fell nearly 1% while the rupee weakened 56 paise to 93.39 against the dollar following failed US-Iran negotiations. The RBI criticized banks for aggravating rupee weakness during Middle East tensions.",
-        "signal": "Further rupee depreciation and market volatility likely if regional tensions escalate.",
-        "sources": [
-          "The Hindu Business",
-          "Bloomberg",
-          "LiveMint Markets"
-        ],
-        "source_url": "https://www.thehindu.com/business/markets/stock-markets-plunge-as-failure-of-usiran-negotiations-fuels-concerns-of-prolonged-conflict/article70856239.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 76,
-        "topic": "Asha Bhosle Death",
-        "domain": "india",
-        "headline": "Legendary Bollywood singer Asha Bhosle dies at 92",
-        "summary": "Iconic playback singer Asha Bhosle, who recorded over 12,000 songs across multiple Indian languages over seven decades, has died at age 92. Large crowds gathered in Mumbai for her final journey.",
-        "signal": "Cultural impact significant; expect tributes from entertainment industry and government officials.",
-        "sources": [
-          "Al Jazeera",
-          "The Hindu"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 75,
-        "topic": "Japan Iran War Impact",
-        "domain": "japan",
-        "headline": "Japan feels Iran war pinch on exports, supply chains",
-        "summary": "Japan's exports of matcha, wagyu, and tuna to Middle East hit by Iran war while companies like Toto suspend pre-fab bath orders due to glue supply disruptions. Bond yields hit 29-year highs on inflation fears.",
-        "signal": "Japanese corporate earnings may face pressure from supply chain disruptions and rising input costs.",
-        "sources": [
-          "Nikkei Asia",
-          "Japan Times"
-        ],
-        "source_url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/japan-s-matcha-wagyu-tuna-exports-to-middle-east-hit-by-iran-war",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 71,
-        "topic": "China Iran Response",
-        "domain": "geopolitics",
-        "headline": "China opposes Trump's Iran blockade, calls for restraint",
-        "summary": "China called Trump's planned Strait of Hormuz blockade against global interests and urged restraint after Trump warned of \"big problems\" if Beijing supplies weapons to Iran. China denied military support to Iran while defending their cooperation agreement.",
-        "signal": "US-China tensions may escalate if blockade affects Chinese energy imports or regional trade.",
-        "sources": [
-          "Nikkei Asia",
-          "NDTV Profit"
-        ],
-        "source_url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-calls-for-calm-as-trump-s-planned-iran-blockade-raises-pressure",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "China says Strait of Hormuz blockade against global interests, urges restraint reut.rs/3OgFz48",
-            "score": 46,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjesf4fpli2z"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 69,
-        "topic": "UK-France Naval Mission",
-        "domain": "geopolitics",
-        "headline": "UK and France plan Hormuz naval mission, reject Trump blockade",
-        "summary": "Britain and France announced plans for a multinational naval mission to secure the Strait of Hormuz, rejecting support for Trump's blockade. PM Starmer said the UK won't support Trump's approach while pursuing separate security measures.",
-        "signal": "Allied coordination fracturing could weaken Western response to regional crisis.",
-        "sources": [
-          "Politico Europe",
-          "NDTV Profit",
-          "Middle East Eye"
-        ],
-        "source_url": "https://www.politico.eu/article/uk-britain-wont-support-us-donald-trump-iran-blockade-keir-starmer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 65,
-        "topic": "Noida Workers Protest",
-        "domain": "india",
-        "headline": "Violent Noida worker protests disrupt traffic, demand wage hikes",
-        "summary": "Factory workers' wage hike demands escalated into violent clashes with cars burned and roads blocked in Noida. The protests paralyzed traffic and exposed deep anger over pay disparities and poor working conditions.",
-        "signal": "Labor unrest may spread to other industrial areas if wage demands aren't addressed.",
-        "sources": [
-          "Times of India",
-          "NDTV News"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/business/india-business/noida-workers-protest-key-issues-wages-and-other-demands-top-10-things-to-know/articleshow/130233464.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 60,
-        "topic": "Gulf States Weapons Shortage",
-        "domain": "middleeast",
-        "headline": "Gulf allies seek Asian arms suppliers as US stocks depleted",
-        "summary": "Saudi Arabia, UAE, and Qatar are urgently seeking weapons from South Korea, Ukraine, and Britain after depleting air defense stockpiles from sustained Iranian attacks. US delivery delays force alternative supplier searches.",
-        "signal": "Defense procurement patterns shifting could reshape global arms trade relationships.",
-        "sources": [
-          "Times of India"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/defence/international/what-can-you-deliver-in-30-days-us-allies-in-gulf-turn-to-uk-south-korea-for-fresh-armor/articleshow/130231353.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 55,
-        "topic": "Eric Swalwell Allegations",
-        "domain": "geopolitics",
-        "headline": "Swalwell drops governor bid amid sexual assault allegations",
-        "summary": "California Rep. Eric Swalwell withdrew from the governor's race after prominent supporters abandoned him following sexual assault allegations. Swalwell denied the allegations but his campaign collapsed rapidly.",
-        "signal": "California governor race reshuffles with no clear frontrunner emerging.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/california-governor-eric-swalwell-assault-allegations-aa1d13afe441be38d1d16f648e06d503",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 50,
-        "topic": "SpiceJet Financial Crisis",
-        "domain": "india",
-        "headline": "SpiceJet warns of collapse, seeks court relief from deposits",
-        "summary": "SpiceJet warned Delhi High Court of potential \"collapse\" while seeking relief from a \u20b9144.5 crore deposit requirement in the Maran dispute. The airline said operations and cash flows have been severely impacted by Gulf flight restrictions.",
-        "signal": "Indian aviation sector stress may worsen if regional tensions continue affecting operations.",
-        "sources": [
-          "LiveMint Companies"
-        ],
-        "source_url": "https://www.livemint.com/companies/news/spicejet-collapse-warning-delhi-high-court-relief-from-deposit-maran-dispute-payment-deadline-11776065514032.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 45,
-        "topic": "Lufthansa Pilots Strike",
-        "domain": "europe",
-        "headline": "Lufthansa pilots launch fourth strike this year",
-        "summary": "German airline Lufthansa faces a two-day pilot strike affecting hundreds of flights, marking the fourth strike this year by various employee groups. The Vereinigung Cockpit union is leading the Monday-Tuesday walkout.",
-        "signal": "European travel disruptions may compound regional economic pressures from energy costs.",
-        "sources": [
-          "DW Business"
-        ],
-        "source_url": "https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-the-fourth-this-year-hundreds-of-flights-canceled/a-76760890?maca=en-rss-en-bus-2091-rdf",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 40,
-        "topic": "Chagos Islands Deal Stalled",
-        "domain": "geopolitics",
-        "headline": "UK halts Chagos Islands transfer after US withdraws support",
-        "summary": "Britain put its plan to transfer the Chagos Islands to Mauritius on hold after the Trump administration withdrew US support for the deal. The legislation ran out of time in Parliament amid the policy reversal.",
-        "signal": "US policy reversals on territorial disputes may affect other sovereignty negotiations.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/uk-chagos-islands-mauritius-trump-c37afa22677ec8e504c5a1dab6313d1c",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 35,
-        "topic": "Vietnam Bullet Train Launch",
-        "domain": "geopolitics",
-        "headline": "Vietnam launches first bullet train linking major cities",
-        "summary": "Vingroup has launched Vietnam's first bullet train service connecting Vietnamese cities, marking a significant infrastructure milestone. The high-speed rail represents Vietnam's push to modernize transportation networks.",
-        "signal": "Southeast Asian infrastructure development accelerating may attract more regional investment.",
-        "sources": [
-          "Nikkei Asia"
-        ],
-        "source_url": "https://asia.nikkei.com/business/transportation/vingroup-launches-first-bullet-train-linking-vietnamese-cities",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 30,
-        "topic": "Argentina Credit Stress",
-        "domain": "macro",
-        "headline": "Argentina credit stress deepens on inflation, utility costs",
-        "summary": "Argentina faces mounting credit stress as inflation and rising utility costs hit households hard. The economic pressure is intensifying financial strain on consumers and businesses.",
-        "signal": "Latin American debt distress could spread if regional economic conditions deteriorate further.",
-        "sources": [
-          "@reuters.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Emerging market stress indicators often provide early warning signals for broader financial contagion.",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Argentina credit stress deepens as inflation and utility costs hit households reut.rs/48CHHtJ",
-            "score": 50,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjet7o7bkw22"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
       }
     ],
     "social_count": 30
