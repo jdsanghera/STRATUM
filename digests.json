@@ -1,5 +1,368 @@
 [
   {
+    "timestamp": "2026-04-18T15:58:02.712829+00:00",
+    "timestamp_ist": "18 Apr 2026 \u00b7 21:28 IST",
+    "story_count": 15,
+    "avg_score": 68,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 89,
+        "topic": "Iran-US Strait Hormuz Crisis",
+        "domain": "geopolitics",
+        "headline": "Iran Re-Closes Hormuz After Opening, Fires on Ships",
+        "summary": "Iran reopened the Strait of Hormuz for commercial shipping during the Lebanon ceasefire but then shut it again and fired on vessels attempting to cross. The flip-flopping on the vital oil route has prompted strong reactions from the US and India, with Trump warning Iran against 'blackmail' tactics.",
+        "signal": "Watch for oil price volatility and potential military escalation as shipping routes remain uncertain.",
+        "sources": [
+          "Bloomberg",
+          "BBC News",
+          "Associated Press",
+          "Al Jazeera",
+          "@reuters.com",
+          "@bloomberg.com",
+          "@nikkei.com"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/trump-says-iran-is-removing-sea-mines-from-strait-of-hormuz",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Two Indian-flagged ships attacked while crossing Strait of Hormuz, government confirms",
+            "score": 52,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjrq67tpk32x"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Iran moved to restrict vessel traffic through the Strait of Hormuz in response to the continued US naval blockade",
+            "score": 34,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjrfikfp2r2y"
+          },
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30db\u30eb\u30e0\u30ba\u6d77\u5ce1\u3092\u518d\u5c01\u9396\u3001\u30a4\u30e9\u30f3\u9769\u547d\u9632\u885b\u968a\u304c\u8868\u660e\u3000\u958b\u653e\u5ba3\u8a00\u304b\u3089\u4e00\u8ee2",
+            "score": 35,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjrfshidrq2i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 88,
+        "topic": "US-Iran Nuclear Diplomacy",
+        "domain": "geopolitics",
+        "headline": "Trump Claims Iran Nuclear Deal Close, Pakistan Mediating",
+        "summary": "President Trump says Iran nuclear negotiations are going 'very good' while Pakistan's army chief shuttles between capitals to broker talks. Iran confirms it's reviewing 'new proposals' from the US as both sides work toward extending the current ceasefire.",
+        "signal": "Monitor for breakthrough announcements that could reshape Middle East dynamics and oil markets.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera",
+          "Bloomberg",
+          "ET",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-17-2026",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Iran's Deputy FM said talks with the US cannot happen until the two sides agree on a shared 'framework'",
+            "score": 44,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjrrw2m7dk2j"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 86,
+        "topic": "Markets Rally on Ceasefire",
+        "domain": "markets",
+        "headline": "Stocks Rise, Oil Falls on Middle East Peace Optimism",
+        "summary": "Emerging market currencies have fully recovered war losses while Bitcoin hits two-month highs as investors bet on Iran-US peace talks. Oil prices plunged 10% after Iran's initial Hormuz reopening announcement, though volatility returned with the closure.",
+        "signal": "Position for continued market gains if ceasefire extends, but prepare for reversal on escalation.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "BBC News"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/emerging-currencies-erase-war-losses-as-traders-bet-on-peace",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjrlxsvahn2u"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 82,
+        "topic": "Lebanon Ceasefire Implementation",
+        "domain": "geopolitics",
+        "headline": "Lebanon Ceasefire Holds Despite UN Peacekeeper Death",
+        "summary": "The 10-day US-brokered Israel-Lebanon ceasefire remains in effect as thousands of displaced families return home. However, a French UN peacekeeper was killed in southern Lebanon, with France blaming Hezbollah though the group denies involvement.",
+        "signal": "Watch for ceasefire violations that could derail broader regional peace efforts.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera",
+          "Politico",
+          "Middle East Eye"
+        ],
+        "source_url": "https://apnews.com/article/lebanon-israel-hezbollah-ceasefire-united-states-e0412bb734d09aef492051c1730b5821",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 79,
+        "topic": "Modi Women's Reservation Defeat",
+        "domain": "india",
+        "headline": "Modi Blames Opposition for Women's Quota Bill Failure",
+        "summary": "Prime Minister Modi addressed the nation apologizing to women after the Women's Reservation Bill was defeated in Parliament despite BJP efforts. He accused Congress, DMK, TMC and SP of prioritizing self-interest over women's empowerment.",
+        "signal": "Expect this to become a major campaign issue in upcoming state elections.",
+        "sources": [
+          "Times of India",
+          "NDTV",
+          "Indian Express",
+          "The Hindu"
+        ],
+        "source_url": "https://www.thehindu.com/news/national/pm-modi-address-to-nation-live-updates-womens-reservation-bill-delimitation-april-18-2026/article70877110.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 78,
+        "topic": "India Banking Q4 Results",
+        "domain": "markets",
+        "headline": "HDFC, ICICI, Yes Bank Post Strong Q4 Results",
+        "summary": "Major Indian banks delivered robust fourth-quarter results with HDFC Bank's profit rising 9% to \u20b919,221 crore, ICICI up 8.5% to \u20b913,702 crore, and Yes Bank surging 44% to \u20b91,068 crore. Asset quality improved across the sector with no impact reported from West Asia tensions.",
+        "signal": "Banking sector strength supports broader Indian equity market optimism heading into earnings season.",
+        "sources": [
+          "LiveMint",
+          "NDTV Profit",
+          "ET"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/hdfc-bank-q4-results-net-profit-rises-9-to-rs-19-221-crore-nii-up-3-8-yoy-declares-dividend-of-rs-13-per-share-11776500563671.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 76,
+        "topic": "Anthropic AI Regulation Scrutiny",
+        "domain": "corporate",
+        "headline": "Global Watchdogs Focus on Anthropic's Mythos Model Risks",
+        "summary": "The Financial Stability Board is gathering intelligence on potential risks from Anthropic's Mythos AI model while the White House holds meetings with the company's CEO. The $800 billion valued AI firm faces increasing regulatory attention over its powerful capabilities.",
+        "signal": "Monitor for regulatory actions that could impact AI sector valuations and development timelines.",
+        "sources": [
+          "Bloomberg",
+          "Politico",
+          "Euronews"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/global-financial-watchdog-to-share-insights-on-anthropic-s-mythos",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 72,
+        "topic": "Trump Arctic Oil Expansion",
+        "domain": "commodities",
+        "headline": "Trump Plans Alaska Wildlife Refuge Oil Lease Sale",
+        "summary": "The Trump administration will offer at least 400,000 acres in Alaska's Arctic National Wildlife Refuge for oil drilling rights in June, marking the first such sale in the environmentally sensitive area. This represents a major expansion of domestic energy production despite environmental concerns.",
+        "signal": "Watch for oil sector investment flows and environmental opposition that could impact implementation.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/trump-plans-oil-lease-sale-in-alaska-s-arctic-wildlife-refuge",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 65,
+        "topic": "India Economic Ranking Decline",
+        "domain": "india",
+        "headline": "India Slips to 6th Largest Economy, Behind UK",
+        "summary": "India has dropped to the sixth position in global economic rankings according to the IMF's latest World Economic Outlook, falling behind the UK instead of overtaking Japan as expected. The slip raises questions about India's path to becoming the world's third-largest economy.",
+        "signal": "Monitor for policy responses and structural reforms to revive economic momentum.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/business/india-business/explained-on-way-to-4th-largest-how-india-slipped-to-6th-rank-what-it-means-for-3rd-largest-economy-dream/articleshow/130356662.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 62,
+        "topic": "Padres Record MLB Sale",
+        "domain": "corporate",
+        "headline": "San Diego Padres Set for Record $3.9B Sale",
+        "summary": "The Seidler family is selling the San Diego Padres to Clearlake co-founder Jos\u00e9 E. Feliciano and wife Kwanza Jones for an MLB record $3.9 billion. The deal represents the highest valuation ever paid for a Major League Baseball franchise.",
+        "signal": "Expect continued sports franchise valuation increases as institutional investors enter the market.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/san-diego-padres-set-for-3-9-billion-sale-to-jose-feliciano",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 58,
+        "topic": "Prediction Markets War Betting",
+        "domain": "markets",
+        "headline": "Congress Scrutinizes Iran War Betting on Prediction Markets",
+        "summary": "Polymarket and Kalshi face Washington scrutiny after controversial bets on Iran war outcomes, including when a US airman would be rescued. Rep. Seth Moulton's criticism led Polymarket to halt the betting amid concerns about well-timed trades.",
+        "signal": "Watch for regulatory restrictions on prediction markets that could limit their growth.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/kalshi-polymarket-iran-congress-scrutiny-legislation-trading-3a29fdaf0b42ec6c670a4eaffaf67cc0",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 54,
+        "topic": "Meta Mass Layoffs Coming",
+        "domain": "corporate",
+        "headline": "Meta Plans 8,000 Job Cuts in May Workforce Purge",
+        "summary": "Facebook and Instagram owner Meta will lay off about 8,000 employees on May 20, representing roughly 10% of its global workforce in the initial round. Additional layoffs are expected in the second half of the year as the company restructures operations.",
+        "signal": "Tech sector cost-cutting trend may accelerate if economic conditions worsen.",
+        "sources": [
+          "LiveMint"
+        ],
+        "source_url": "https://www.livemint.com/companies/news/meta-layoffs-8-000-employees-likely-to-be-sacked-in-massive-workforce-purge-on-may-20-11776511294702.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 50,
+        "topic": "US Military Iran Boarding Plans",
+        "domain": "geopolitics",
+        "headline": "US Military Prepares Iran Ship Boarding Operations",
+        "summary": "US forces are preparing to board Iran-linked vessels in the coming days according to Wall Street Journal reports, escalating military pressure in the Persian Gulf. This represents a significant escalation in maritime enforcement despite ongoing diplomatic talks.",
+        "signal": "Monitor for Iranian retaliation that could derail ceasefire negotiations.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Credible source suggests imminent military escalation despite diplomatic progress.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "US military prepares to board Iran-linked ships in coming days, WSJ reports",
+            "score": 50,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjrqptg5tg2g"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 14,
+        "score": 44,
+        "topic": "Kyiv Hostage Crisis",
+        "domain": "geopolitics",
+        "headline": "Gunman Kills Multiple People in Kyiv, Takes Hostages",
+        "summary": "A gunman killed at least several people in the streets of Kyiv before taking hostages in a nearby supermarket, but was shot dead by Ukrainian police. The incident adds to Ukraine's security challenges amid ongoing regional tensions.",
+        "signal": "Watch for any connections to broader regional instability or domestic Ukrainian issues.",
+        "sources": [
+          "@apnews.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Breaking news from credible wire service on developing security incident.",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "A gunman who killed at least people in the streets of Kyiv Saturday before taking hostages in a nearby supermarket has been shot dead by police",
+            "score": 44,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjrrz5ntvv2h"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 44,
+        "topic": "Tennessee Bee Truck Crash",
+        "domain": "corporate",
+        "headline": "Million Bees Swarm Tennessee Interstate After Truck Crash",
+        "summary": "About one million bees temporarily took over an interstate exit ramp in East Tennessee after a beekeepers' truck crashed and released the insects. The unusual incident caused traffic disruptions but appears to have been contained.",
+        "signal": "Minor regional transport disruption with no broader economic implications.",
+        "sources": [
+          "@apnews.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Unusual but verified incident from credible news source.",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "About 1 million bees temporarily took over an interstate exit ramp in East Tennessee after a beekeepers' truck crashed",
+            "score": 44,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjrpdlolbr2b"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-18T15:02:08.785673+00:00",
     "timestamp_ist": "18 Apr 2026 \u00b7 20:32 IST",
     "story_count": 20,
@@ -15288,357 +15651,6 @@
         ],
         "trend": "rising",
         "breaking_on_social": true
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-13T21:11:49.366623+00:00",
-    "timestamp_ist": "14 Apr 2026 \u00b7 02:41 IST",
-    "story_count": 15,
-    "avg_score": 59,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 85,
-        "topic": "US Hormuz Blockade Iran",
-        "domain": "geopolitics",
-        "headline": "US launches Strait of Hormuz blockade after Iran talks fail",
-        "summary": "The US began a naval blockade of the Strait of Hormuz after peace talks with Iran collapsed in Pakistan, with Trump threatening military action against ships challenging the blockade. The move escalates tensions as Iran loses $150 million daily in oil revenue while global energy markets face severe disruption.",
-        "signal": "Watch for Iranian military response and oil price spikes that could trigger broader Middle East conflict.",
-        "sources": [
-          "Bloomberg",
-          "Associated Press",
-          "Al Jazeera English",
-          "The National (UAE)",
-          "Politico Europe"
-        ],
-        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-12-2026",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "Trump's deadline passed for the US to begin a blockade of the Strait of Hormuz, testing the durability of a fragile ceasefire with Iran and intensifying a global energy crisis",
-            "score": 34,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjfiqbj4wi25"
-          },
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "China calls US-Iran ceasefire 'very fragile', urges unified opposition to escalation",
-            "score": 36,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjfqbnfbtv27"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 82,
-        "topic": "Hungary Orban Election Defeat",
-        "domain": "europe",
-        "headline": "Viktor Orban loses Hungary election after 16 years in power",
-        "summary": "Hungarian Prime Minister Viktor Orban conceded defeat to opposition leader Peter Magyar in a landslide election that ends 16 years of nationalist rule. Magyar's Tisza party won a supermajority, with the forint jumping to three-year highs as markets celebrated the pro-European victory.",
-        "signal": "Expect Hungary to realign with EU on Ukraine aid and sanctions while reversing authoritarian policies.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera English",
-          "Associated Press",
-          "The Hindu",
-          "Indian Express"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/hungarians-sweep-away-orban-after-16-years-in-seismic-election",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Orban's exit signals potential end to Hungary's EU isolation and opens door for diplomatic and economic collaboration.",
-            "score": 31,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjfnquvozc2b"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 78,
-        "topic": "Swalwell Sexual Assault Allegations",
-        "domain": "geopolitics",
-        "headline": "Eric Swalwell urged to quit governor race over assault allegations",
-        "summary": "Congressional Democrats are abandoning Rep. Eric Swalwell's California gubernatorial campaign after sexual assault allegations from a former staffer emerged. The House Ethics Committee launched an investigation as calls mount for his resignation from both the race and Congress.",
-        "signal": "Monitor Democratic primary reshuffling and potential special House election if Swalwell resigns seat.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://apnews.com/article/swalwell-democrats-california-governor-campaign-allegations-congress-8b60b0c226f93c691633231053d5ddf9",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "BREAKING: House Ethics panel launches investigation into sexual misconduct allegations against Rep. Eric Swalwell, a Democrat from California.",
-            "score": 45,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjfhevr3a32c"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 4,
-        "score": 75,
-        "topic": "Nigeria Air Strike Civilians",
-        "domain": "geopolitics",
-        "headline": "Nigerian air force kills over 100 civilians in market strike",
-        "summary": "A Nigerian Air Force strike targeting jihadi rebels mistakenly hit a local market in northeastern Nigeria, killing over 100 civilians including children. Officials confirmed the misfire while Amnesty International reported the death toll, highlighting ongoing military operations against insurgents.",
-        "signal": "Watch for public backlash against military operations and potential policy changes in counter-terrorism strategy.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "BBC News"
-        ],
-        "source_url": "https://apnews.com/article/nigeria-airstrike-northeast-market-9da7e31dd8db3cec17e676e53f8b59cf",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 72,
-        "topic": "Market Impact Iran Crisis",
-        "domain": "markets",
-        "headline": "Iran war escalation threatens global market volatility return",
-        "summary": "Failed US-Iran peace talks and the Hormuz blockade are refocusing bond markets on inflation while threatening fresh volatility across global assets. US airline stocks fell up to 3% as crude oil surged, with petrochemical prices climbing to three-year highs on shipping disruptions.",
-        "signal": "Prepare for sustained inflation pressure and sector rotation away from transport/logistics into energy/defense.",
-        "sources": [
-          "Bloomberg",
-          "LiveMint Markets",
-          "The Wall Street Journal"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/wary-investors-eye-another-escalation-in-iran-war-markets-wrap",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "LVMH reports sales hit from Iran war in blow to hopes for luxury revival",
-            "score": 50,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjfqkmbwev22"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 65,
-        "topic": "New Jersey Mass Shooting",
-        "domain": "geopolitics",
-        "headline": "One killed, six injured in targeted New Jersey Chick-fil-A shooting",
-        "summary": "A mass shooting at a Union, New Jersey Chick-fil-A left one dead and six injured Saturday evening, with police stating the attack was not random. Investigators are treating it as a targeted incident rather than an indiscriminate assault.",
-        "signal": "Monitor for suspect identification and potential domestic terrorism or workplace violence connection.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/new-jersey-mass-shooting-restaurant-73ab98904d3b799132a20e378ea203e7",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 62,
-        "topic": "India Iranian Oil Imports",
-        "domain": "india",
-        "headline": "India receives Iranian oil for first time in seven years",
-        "summary": "India has received its first Iranian oil cargo since May 2019, ending a seven-year gap amid the escalating Middle East crisis. The resumption comes as West Asian tensions threaten to impact India's agricultural output due to fertilizer and chemical supply disruptions.",
-        "signal": "Watch for US sanctions response and India's balancing act between energy security and diplomatic pressure.",
-        "sources": [
-          "NDTV News",
-          "The Hindu"
-        ],
-        "source_url": "https://www.ndtv.com/india-news/israel-iran-war-india-gets-iranian-oil-for-first-time-in-7-years-report-11353249#publisher=newsstand",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 58,
-        "topic": "I-PAC Director Arrest",
-        "domain": "india",
-        "headline": "ED arrests I-PAC co-founder in Bengal coal scam probe",
-        "summary": "The Enforcement Directorate arrested Vinesh Chandel, director and co-founder of political consultancy I-PAC, in a money-laundering investigation linked to West Bengal's coal scam. The probe also examines dealings between I-PAC and AAP's former communications chief.",
-        "signal": "Monitor for broader political fallout affecting AAP and other I-PAC client parties ahead of elections.",
-        "sources": [
-          "Times of India",
-          "Indian Express",
-          "NDTV News"
-        ],
-        "source_url": "https://indianexpress.com/article/india/ed-arrests-i-pac-director-vinesh-chandel-in-bengal-coal-scam-case-10634806/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 55,
-        "topic": "Fonterra CEO Appointment",
-        "domain": "corporate",
-        "headline": "Fonterra promotes Richard Allen as new CEO amid business refocus",
-        "summary": "New Zealand's Fonterra Cooperative Group promoted ingredients head Richard Allen to CEO as it completes its consumer business sale. The appointment comes as the dairy giant refocuses on producing high-value ingredients from New Zealand milk.",
-        "signal": "Watch for strategic shifts in global dairy markets and potential M&A activity in ingredients sector.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/fonterra-promotes-ingredients-head-richard-allen-to-be-next-ceo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 52,
-        "topic": "LIC Bonus Share Issue",
-        "domain": "india",
-        "headline": "LIC board approves 1:1 bonus equity shares for shareholders",
-        "summary": "Life Insurance Corporation's board approved a 1:1 bonus share issuance, subject to shareholder approval, aimed at rewarding its 20.90 lakh retail shareholders. The move will significantly increase paid-up equity capital while maintaining financial parameters.",
-        "signal": "Expect positive market reaction and increased retail investor participation in LIC stock.",
-        "sources": [
-          "LiveMint Markets",
-          "ET Top Stories"
-        ],
-        "source_url": "https://www.livemint.com/market/stock-market-news/lic-board-approves-issuance-of-bonus-equity-shares-in-1-1-ratio-11776100157553.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 48,
-        "topic": "Trump Pope Controversy",
-        "domain": "geopolitics",
-        "headline": "Trump faces backlash over attacks on Pope Leo XIV",
-        "summary": "Italian PM Giorgia Meloni called Trump's tirade against Pope Leo XIV 'unacceptable,' exposing growing rifts with the US leader over his Iran war stance. Trump also deleted a social media post depicting himself as Jesus after widespread condemnation from supporters.",
-        "signal": "Monitor for Catholic voter response and potential impact on Trump's European alliance relationships.",
-        "sources": [
-          "Politico Europe",
-          "Middle East Eye"
-        ],
-        "source_url": "https://www.politico.eu/article/giorgia-meloni-slams-unacceptable-us-donald-trump-comments-on-pope-leo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "Italian Prime Minister Giorgia Meloni called Donald Trump's tirade against Pope Leo XIV \"unacceptable,\" exposing a growing rift with the US leader over his war on Iran.",
-            "score": 44,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjfm3p5uxc2r"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "US President Donald Trump deleted a social media post that seemingly depicted him as a Jesus Christ-like figure, after the image incited criticism, including from the president's supporters.",
-            "score": 40,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjfkfzrt5y2d"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 12,
-        "score": 45,
-        "topic": "Venezuela Opposition Unity",
-        "domain": "geopolitics",
-        "headline": "Venezuela opposition backs Machado for next presidential election",
-        "summary": "Venezuela's main opposition coalition unified behind Mar\u00eda Corina Machado as their presidential candidate and outlined conditions for political transition. The move signals renewed opposition coordination despite ongoing government repression.",
-        "signal": "Watch for Maduro regime response and potential international recognition of opposition legitimacy.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/venezuela-opposition-backs-machado-as-candidate-in-next-vote",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 42,
-        "topic": "UK Rejects Hormuz Blockade",
-        "domain": "europe",
-        "headline": "UK refuses participation in Trump's Hormuz blockade plan",
-        "summary": "The UK announced it will not participate in the proposed US blockade of the Strait of Hormuz, creating another point of contention between Trump and PM Keir Starmer. The decision highlights growing transatlantic divisions over Iran policy approaches.",
-        "signal": "Monitor for NATO unity fractures and potential US retaliation against UK commercial interests.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-12/uk-won-t-take-part-in-trump-s-planned-blockade-of-hormuz-strait",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 38,
-        "topic": "Benin Presidential Election",
-        "domain": "geopolitics",
-        "headline": "Benin finance minister expected to win as polls close",
-        "summary": "Polls closed in Benin's presidential election with the finance minister expected to win, as former President Patrice Talon steps down after completing two five-year terms. The peaceful transition marks democratic continuity in West Africa.",
-        "signal": "Watch for final results and regional stability implications in volatile West African political landscape.",
-        "sources": [
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/12/polls-close-in-benin-with-finance-minister-expected-to-win-election",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 35,
-        "topic": "Peru Presidential Election",
-        "domain": "geopolitics",
-        "headline": "Peru votes for ninth president in less than decade",
-        "summary": "Peruvian voters chose from 35 presidential candidates, including a comedian, media baron, and political dynasty heiress, highlighting the country's ongoing political instability. This marks Peru's ninth president in less than a decade of political turmoil.",
-        "signal": "Monitor for market reaction and potential policy continuity challenges affecting mining and economic reforms.",
-        "sources": [
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/12/peru-votes-for-ninth-president-in-less-than-decade",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
       }
     ],
     "social_count": 30
