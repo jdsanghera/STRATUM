@@ -1,5 +1,394 @@
 [
   {
+    "timestamp": "2026-04-19T11:54:21.198663+00:00",
+    "timestamp_ist": "19 Apr 2026 \u00b7 17:24 IST",
+    "story_count": 15,
+    "avg_score": 50,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran Hormuz Crisis",
+        "domain": "geopolitics",
+        "headline": "Iran Reimposes Hormuz Restrictions as US Peace Deal Stalls",
+        "summary": "Iran has reimposed restrictions on the Strait of Hormuz after briefly reopening it, undermining Trump's claims of an imminent peace deal. The strategic waterway remains under Iranian military control as the two-week ceasefire nears expiration, with Iran turning back tankers and threatening full closure if the US blockade continues.",
+        "signal": "Oil markets remain volatile with supply disruption risks high as diplomatic breakthrough appears increasingly unlikely.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Al Jazeera English",
+          "Times of India",
+          "The Hindu"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/chaos-erupts-in-hormuz-after-trump-claimed-iran-deal-is-imminent-mo48sbi2",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Middle East crisis live: Iran says handing over enriched uranium a 'non-starter' as strait of Hormuz remains shut",
+            "score": 41,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjturzicsa25"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Foreign Minister Hakan Fidan says Turkiye remains 'optimistic' that the two-week ceasefire between Iran and the United States, set to expire on Wednesday, will be extended.",
+            "score": 54,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjts62rj322m"
+          },
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Allies fear a rushed US\u2013Iran framework deal could backfire, leaving technical deadlock",
+            "score": 28,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjtrt543ol2t"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Iran will resume international flights on Monday from Mashhad airport in the country's northeast, its civil aviation authority said.",
+            "score": 45,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjtv2tzpms2m"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 75,
+        "topic": "IMF Global Growth Downgrade",
+        "domain": "macro",
+        "headline": "IMF Cuts World Growth Forecast on Iran War Shock",
+        "summary": "The International Monetary Fund trimmed its global growth forecast for 2026 as the oil-price shock from the Iran war rippled across economies worldwide. Qatar's finance minister warned the \"full-fledged impact is coming\" and current energy costs are \"the tip of the iceberg.\"",
+        "signal": "Expect broader economic disruption and higher inflation globally if Middle East tensions persist.",
+        "sources": [
+          "Bloomberg",
+          "Euronews Business"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/world-economy-latest-imf-trims-global-growth-projections-on-oil-shock",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 70,
+        "topic": "Indian Banks Q4 Results",
+        "domain": "india",
+        "headline": "ICICI Bank and HDFC Beat Profit Forecasts",
+        "summary": "India's top private lenders ICICI Bank and HDFC Bank both reported better-than-expected Q4 earnings driven by robust loan growth. The results highlight the resilience of India's banking sector amid global economic uncertainties.",
+        "signal": "Strong Indian banking fundamentals support continued credit expansion and economic growth.",
+        "sources": [
+          "Bloomberg",
+          "LiveMint Markets"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/icici-bank-beats-profit-forecast-on-robust-lending-growth",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 65,
+        "topic": "Australia-Japan Warship Deal",
+        "domain": "geopolitics",
+        "headline": "Australia Signs First Japan Warship Contract",
+        "summary": "Australia completed a contract for the first three of 11 advanced warships from Japan, marking a breakthrough in Tokyo's defense export ambitions. The deal strengthens bilateral defense ties amid shared concerns over China's rise in the region.",
+        "signal": "Japan's emergence as major defense exporter reshapes Indo-Pacific security architecture.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/australia-signs-deal-for-first-batch-of-warships-from-japan",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Defence deal is the latest example of deepening ties between Canberra and Tokyo amid shared concerns over China's rise.",
+            "score": 31,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjtu2i4bkj2a"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 60,
+        "topic": "London Antisemitic Arson Attacks",
+        "domain": "europe",
+        "headline": "Spate of Arson Attacks Target Jewish Sites",
+        "summary": "Counter-terrorism police are investigating multiple attempted arson attacks at Jewish sites in north London, with UK PM Starmer expressing being \"appalled\" by the incidents. The attacks represent an escalation in antisemitic violence in Britain.",
+        "signal": "Rising antisemitic incidents in Europe signal broader security concerns for Jewish communities.",
+        "sources": [
+          "BBC News",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cqxl1qr11q2o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Another attempted arson attack at Jewish site in London, charity says",
+            "score": 50,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjtp2sj33g2x"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "UK PM Keir Starmer said he was 'appalled' by a recent spate of 'antisemitic' arson attacks targeting Jewish sites in north London.",
+            "score": 41,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjttrlp34k2m"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 6,
+        "score": 55,
+        "topic": "India-US Trade Talks Resume",
+        "domain": "india",
+        "headline": "India-US Begin Three-Day Trade Pact Negotiations",
+        "summary": "Indian and US trade negotiators will resume talks in Washington for three days starting April 20, focusing on the first phase of a proposed bilateral trade agreement. Recent changes in US tariff policy necessitate reviewing earlier framework discussions.",
+        "signal": "Progress on India-US trade deal could boost bilateral economic ties amid global supply chain realignments.",
+        "sources": [
+          "Times of India",
+          "NDTV Profit"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/business/india-business/us-india-trade-talks-negotiators-to-begin-three-day-trade-pact-talks-in-washington-from-apr-20-heres-whats-on-the-table/articleshow/130368981.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 50,
+        "topic": "Trump IRS Lawsuit Settlement",
+        "domain": "markets",
+        "headline": "Trump Administration Negotiates $10B IRS Tax Settlement",
+        "summary": "The Trump administration is in talks with the IRS to resolve a $10 billion lawsuit over leaked tax information from his previous presidency. Tax and ethics experts say the lawsuit raises significant legal and ethical questions about presidential financial transparency.",
+        "signal": "Presidential tax dispute resolution could set precedents for executive financial disclosure requirements.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/trump-treasury-irs-lawsuit-tax-whistleblower-c710244db618b066f3070a65e75820a5",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 45,
+        "topic": "Kyiv Mass Shooting",
+        "domain": "europe",
+        "headline": "Gunman Kills Five in Kyiv Hostage Incident",
+        "summary": "At least five people were killed by a gunman who took hostages in Kyiv, with four hostages successfully rescued according to Ukrainian President Zelenskyy. The incident adds to security concerns in Ukraine amid the ongoing conflict.",
+        "signal": "Domestic security incidents in Ukraine highlight strain on law enforcement amid wartime conditions.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/at-least-5-killed-by-gunman-in-kyiv-shooting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 41,
+        "topic": "US Midwest Tornado Outbreak",
+        "domain": "markets",
+        "headline": "Tornadoes Tear Through US Midwest",
+        "summary": "A series of reported tornadoes ripped through the US Midwest, tearing roofs off homes and leaving roads impassable. The severe weather outbreak caused significant property damage across multiple states in the region.",
+        "signal": "Severe weather events may impact agricultural production and insurance costs in affected regions.",
+        "sources": [
+          "AP News"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "A series of reported tornadoes has torn through the U.S. Midwest, ripping roofs off homes and leaving roads impassable.",
+            "score": 41,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjtqpeixks2y"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 10,
+        "score": 39,
+        "topic": "Nurburgring Racing Fatality",
+        "domain": "corporate",
+        "headline": "Driver Dies in Nurburgring Endurance Race",
+        "summary": "A driver died following a crash in an endurance sportscar race at the N\u00fcrburgring Nordschleife circuit in Germany. The accident occurred where Formula 1 champion Max Verstappen is preparing to race, highlighting ongoing safety concerns at the challenging circuit.",
+        "signal": "Motorsport safety incidents may prompt renewed scrutiny of racing regulations and venue safety standards.",
+        "sources": [
+          "AP News"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "A driver has died following a crash in an endurance sportscar race at the N\u00fcrburgring Nordschleife circuit in Germany, where four-time Formula 1 champion Max Verstappen is preparing to race.",
+            "score": 39,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjtgngdyfg2i"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 11,
+        "score": 38,
+        "topic": "Japan Nuclear Energy Revival",
+        "domain": "japan",
+        "headline": "Japan Embraces Nuclear Power Amid Energy Crisis",
+        "summary": "Japan is rapidly moving to restart nuclear reactors as artificial intelligence increases electricity demand and foreign wars choke gas supplies. The country is overcoming post-Fukushima hesitancy to address its energy security needs.",
+        "signal": "Japan's nuclear restart signals broader Asian shift toward energy security over climate concerns.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.com/news/2026/04/18/japan-nuclear-fukushima-energy-00816474?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 36,
+        "topic": "Lebanon Ceasefire Returns",
+        "domain": "middleeast",
+        "headline": "Lebanese Families Return Home After Israel Truce",
+        "summary": "Tens of thousands of people displaced by Israeli attacks on Lebanon used the first day of ceasefire to return home. Lebanon's president said the country is no longer a pawn, promising to preserve sovereignty and freedom.",
+        "signal": "Lebanon ceasefire provides temporary stability but underlying tensions with Israel remain unresolved.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://apnews.com/photo-gallery/lebanon-israel-hezbollah-ceasefire-photos-d94b334566c4e8650be76981b6dff174",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Displaced Lebanese families return home despite Israeli attacks",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjtsf4ggj723"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 35,
+        "topic": "NASCAR Kansas Speedway",
+        "domain": "corporate",
+        "headline": "Tyler Reddick Takes Pole at Kansas",
+        "summary": "Tyler Reddick secured the pole position for Sunday's NASCAR Cup Series race at Kansas Speedway. The qualifying result positions him favorably for the weekend's competition.",
+        "signal": "NASCAR events continue drawing audiences amid broader entertainment industry challenges.",
+        "sources": [
+          "AP News"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Tyler Reddick has secured the pole position for Sunday's NASCAR Cup Series race at Kansas Speedway.",
+            "score": 35,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjtloha5cq2t"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 14,
+        "score": 31,
+        "topic": "Virginia Tech Stadium Incident",
+        "domain": "markets",
+        "headline": "Skydiver Crashes Into Virginia Tech Scoreboard",
+        "summary": "A skydiver crashed into the Lane Stadium scoreboard before Virginia Tech's spring football game Saturday. The incident highlights safety risks associated with stadium entertainment events.",
+        "signal": "Stadium safety incidents may prompt review of pre-game entertainment protocols at sporting venues.",
+        "sources": [
+          "AP News"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "A skydiver crashed into the Lane Stadium scoreboard before Virginia Tech's spring football game Saturday.",
+            "score": 31,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjtbmirwye2p"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 26,
+        "topic": "Bulgaria Election Fatigue",
+        "domain": "europe",
+        "headline": "Bulgarians Vote for Eighth Time in Five Years",
+        "summary": "Bulgarians are heading to the polls for the eighth time in five years hoping to finally elect a parliament capable of resolving the prolonged political impasse. The frequent elections reflect deep political instability in the EU member state.",
+        "signal": "Bulgarian political crisis highlights broader democratic fragility across Eastern Europe.",
+        "sources": [
+          "AP News"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Bulgarians are heading to the polls for the eighth time in five years hoping to finally elect a parliament that would be capable of resolving the prolonged political impasse",
+            "score": 26,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjtarkts5e2c"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-19T11:25:40.239016+00:00",
     "timestamp_ist": "19 Apr 2026 \u00b7 16:55 IST",
     "story_count": 20,
@@ -15269,471 +15658,5 @@
       }
     ],
     "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-14T21:14:05.988950+00:00",
-    "timestamp_ist": "15 Apr 2026 \u00b7 02:44 IST",
-    "story_count": 21,
-    "avg_score": 68,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 92,
-        "topic": "US Iran Blockade Begins",
-        "domain": "geopolitics",
-        "headline": "US military begins blockade of Iranian ports in Strait of Hormuz",
-        "summary": "The US military has initiated a naval blockade of all Iranian ports at 10 a.m. EDT, with CENTCOM enforcing restrictions against vessels of all nations while allowing non-Iranian port traffic. Ship traffic has reportedly halted in the strategic Strait of Hormuz following Trump's blockade announcement.",
-        "signal": "Monitor oil prices and shipping costs as 20% of global oil passes through this chokepoint.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-blockade-hormuz-april-13-2026-ed7a6cd4bc61dc47f317a2c82afcc1c9",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "No ships 'make it past US blockade' in Hormuz strait in first day: Pentagon https://aje.news/awebyk",
-            "score": 37,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjhz6vrwku2f"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 90,
-        "topic": "Hungarian Election Orban Defeat",
-        "domain": "europe",
-        "headline": "P\u00e9ter Magyar defeats Viktor Orb\u00e1n in Hungarian election landslide",
-        "summary": "Opposition leader P\u00e9ter Magyar has decisively defeated Viktor Orb\u00e1n after 16 years in power, marking the end of the strongman's era in Hungary. Magyar, a 45-year-old ex-party insider, convinced a majority of Hungarians to oust Orb\u00e1n in what the BBC calls a landslide victory.",
-        "signal": "Expect major shift in EU-Hungary relations as Magyar pledges closer alignment with Brussels.",
-        "sources": [
-          "BBC News",
-          "Associated Press"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cd9vg782kx7o",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u30cf\u30f3\u30ac\u30ea\u30fc\u91ce\u515a\u300c\u30c6\u30a3\u30b5\u300d\u3001\u5f37\u6a29\u4f53\u5236\u5012\u3057\u305f\u52dd\u56e0",
-            "score": 38,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjhf3h53cl2s"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 88,
-        "topic": "Trump Pope Conflict",
-        "domain": "geopolitics",
-        "headline": "Trump attacks Pope Leo XIV over Iran war criticism",
-        "summary": "President Trump has launched verbal attacks against Pope Leo XIV after the pontiff criticized the US-Israel war in Iran, calling the pope \"weak on crime and terrible for foreign policy.\" Pope Leo XIV has responded by saying Vatican peace appeals are rooted in the Gospel, not direct attacks on Trump.",
-        "signal": "Watch for potential Catholic voter backlash given Trump's reliance on this demographic.",
-        "sources": [
-          "BBC News",
-          "Associated Press"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cp841y07w5xo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "Insulting the pope is a great way to alienate the Catholic voters who helped make Trump president again",
-            "score": 37,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mji6acelfb2a"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 85,
-        "topic": "Iran War Economic Impact",
-        "domain": "macro",
-        "headline": "Iran war threatens global recession as oil prices surge",
-        "summary": "The Iran conflict's economic shock wave is expected to intensify with oil price surges squeezing businesses and consumers globally. BlackRock strategists have returned to overweight US stocks as they see Middle East conflict damage to global growth as \"likely contained.\"",
-        "signal": "Position for energy sector volatility and potential Fed policy response to inflation pressures.",
-        "sources": [
-          "Wall Street Journal",
-          "Bloomberg"
-        ],
-        "source_url": "https://www.wsj.com/world/europe/iran-wars-economic-shock-wave-is-expected-to-get-even-bigger-3aadf870?mod=WSJ_home_mediumtopper_pos_4",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Citadel's Ken Griffin says Iran war threatens global recession reut.rs/48KXHKg",
-            "score": 50,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjibu7bkbo2j"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "It's been two months since the war in Iran began, with no clear end in sight. But after some initial turbulence, Wall Street seems to be blocking out the noise",
-            "score": 26,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjiblgq4yg2d"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 83,
-        "topic": "Israel Lebanon Peace Talks",
-        "domain": "geopolitics",
-        "headline": "Israel and Lebanon agree to direct negotiations in Washington",
-        "summary": "Israel and Lebanon have agreed to launch direct talks following a trilateral meeting hosted by the US in Washington. These are the first direct talks between the countries in decades, with Lebanon's ambassador describing the initial discussions as \"productive.\"",
-        "signal": "Monitor for breakthrough that could ease regional tensions and reduce oil price volatility.",
-        "sources": [
-          "Associated Press",
-          "Middle East Eye"
-        ],
-        "source_url": "https://apnews.com/article/hezbollah-lebanon-israel-wafiq-safa-a7af20b76ace9a34d8f641bca91e0b23",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 81,
-        "topic": "Vedanta Industrial Accident",
-        "domain": "corporate",
-        "headline": "Vedanta boiler explosion kills 11 workers in Chhattisgarh plant",
-        "summary": "A boiler explosion at Vedanta's power plant in Chhattisgarh has killed 11 people and injured 22 others. The industrial accident highlights safety concerns at one of India's major mining and metals companies.",
-        "signal": "Watch Vedanta stock and potential regulatory crackdown on industrial safety standards.",
-        "sources": [
-          "Bloomberg",
-          "Reuters"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/vedanta-boiler-blast-at-chhattisgarh-power-plant-kills-11-injures-22/articleshow/130267153.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Nine dead, 15 injured in blast at Vedanta plant in India's Chhattisgarh state reut.rs/4tchY3T",
-            "score": 36,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjiaqlrtb226"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 79,
-        "topic": "Modi Trump Call Iran",
-        "domain": "india",
-        "headline": "Trump tells Modi 'we all love you' in Iran war discussion",
-        "summary": "Prime Minister Modi and President Trump held a significant 40-minute phone call reviewing bilateral ties and addressing the critical Iran war situation. They emphasized the need for a secure and open Strait of Hormuz as the conflict affects global energy markets.",
-        "signal": "India positioning as key diplomatic player in Iran crisis resolution efforts.",
-        "sources": [
-          "Times of India",
-          "NDTV News"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/india/we-all-love-you-trump-tells-pm-modi-during-40-min-call-on-iran-war-hormuz/articleshow/130262839.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 75,
-        "topic": "Eric Swalwell Ethics Investigation",
-        "domain": "geopolitics",
-        "headline": "House Ethics panel opens sexual misconduct investigation of Swalwell",
-        "summary": "The House Ethics Committee has begun investigating Rep. Eric Swalwell for alleged sexual misconduct toward an employee under his supervision. The announcement comes one day after Swalwell suspended his activities amid the probe.",
-        "signal": "Monitor for potential California gubernatorial race implications and Democratic leadership response.",
-        "sources": [
-          "Associated Press",
-          "Wall Street Journal"
-        ],
-        "source_url": "https://apnews.com/article/congress-ethics-swalwell-california-governor-a1626c5f4dbcc16c85f4313a8d7e5464",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 73,
-        "topic": "Ford China Trade Position",
-        "domain": "corporate",
-        "headline": "Ford CEO says Chinese automakers should be kept out of US",
-        "summary": "Ford Motor Co.'s CEO Jim Farley argues that allowing Chinese automakers to sell cars in the US would be \"devastating\" to American manufacturing. The statement reflects growing protectionist sentiment in the auto industry amid US-China trade tensions.",
-        "signal": "Expect continued push for automotive trade barriers and potential policy support from Trump administration.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/ford-ceo-farley-says-chinese-carmakers-should-be-kept-out-of-us",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 71,
-        "topic": "Google Antitrust Arbitration",
-        "domain": "corporate",
-        "headline": "Google faces billions in advertiser arbitration claims over monopoly",
-        "summary": "Alphabet's Google confronts mass arbitration from advertisers seeking billions in damages tied to its search and advertising businesses, which courts have ruled were illegal monopolies. The claims represent a major financial threat following recent antitrust rulings.",
-        "signal": "Watch for settlement discussions and impact on Google's advertising revenue growth.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/google-faces-mass-arbitration-by-advertisers-seeking-billions",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 68,
-        "topic": "Pakistan UAE Loan Crisis",
-        "domain": "macro",
-        "headline": "Pakistan considers all options to repay $3 billion UAE loan",
-        "summary": "Pakistan is exploring financing from both countries and banks to repay a $3 billion UAE loan and maintain foreign-exchange reserves amid soaring oil prices from the Iran conflict. Finance Minister Muhammad Aurangzeb says they're looking at \"all options.\"",
-        "signal": "Monitor Pakistani rupee and potential IMF program modifications due to energy crisis.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/pakistan-is-looking-at-all-options-to-pay-back-uae-loan",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 65,
-        "topic": "Kraken Crypto Security Breach",
-        "domain": "corporate",
-        "headline": "Kraken crypto exchange faces extortion over customer data breach",
-        "summary": "Kraken, one of the world's oldest crypto exchanges, is being extorted by a criminal group claiming access to client account information. The security incident highlights ongoing cybersecurity vulnerabilities in the cryptocurrency sector.",
-        "signal": "Watch for crypto market confidence impact and potential regulatory response to exchange security.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/kraken-says-criminal-group-claims-access-to-some-customer-data",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 63,
-        "topic": "Bernie Sanders Israel Weapons",
-        "domain": "geopolitics",
-        "headline": "Bernie Sanders vows resolution to block US weapons to Israel",
-        "summary": "Senator Bernie Sanders plans to push a resolution blocking US weapons shipments to Israel, though it's unlikely to pass the Republican-controlled Senate. The move could test waning Democratic support for Israel amid the ongoing regional conflict.",
-        "signal": "Monitor Democratic party unity and potential policy shifts on Middle East arms sales.",
-        "sources": [
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 60,
-        "topic": "Trump Family Business Deals",
-        "domain": "corporate",
-        "headline": "Trump family deal spree raises presidential profit concerns",
-        "summary": "The Trump Organization has completed eight overseas deals in the past year after doing none during Trump's first presidency, raising questions about conflicts of interest. The family has also earned more than double previous amounts selling Trump \"meme\" coins.",
-        "signal": "Watch for ethics investigations and potential impact on Trump administration policies.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/trump-organization-crypto-conflict-eric-deals-863d8850f536df291391e949ba1bc00e",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 58,
-        "topic": "USDA Fertilizer Price Probe",
-        "domain": "commodities",
-        "headline": "USDA seeks farmer help in fertilizer price investigation",
-        "summary": "The Trump administration is requesting information from farmers to assist an ongoing Justice Department probe into high costs for fertilizer, machinery and other agricultural inputs. The investigation comes as input costs have soared amid supply chain disruptions.",
-        "signal": "Potential antitrust action could reshape agricultural input markets and farming costs.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/usda-wants-farmers-to-help-with-fertilizer-probe-as-prices-soar",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 55,
-        "topic": "FedEx Leadership Change",
-        "domain": "corporate",
-        "headline": "FedEx CFO Dietrich steps down after freight spinoff completion",
-        "summary": "FedEx Corp. Chief Financial Officer John Dietrich will step down after the courier completes its planned spinoff of the freight division into a standalone company. The leadership change comes as FedEx restructures its operations.",
-        "signal": "Monitor FedEx freight unit valuation and potential acquisition interest from logistics players.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/fedex-cfo-dietrich-to-step-down-after-spinoff-of-freight-unit",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 53,
-        "topic": "Trump Lawsuit Dismissal",
-        "domain": "corporate",
-        "headline": "Judge dismisses Trump's $10 billion defamation lawsuit against WSJ",
-        "summary": "A federal judge has dismissed President Trump's $10 billion defamation lawsuit against the Wall Street Journal and Rupert Murdoch over a story on Trump's ties to Jeffrey Epstein. The dismissal removes a major legal challenge against the media company.",
-        "signal": "Reduced legal overhang for News Corp and potential template for other Trump media lawsuits.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/trump-murdoch-wall-street-journal-lawsuit-40e7aba7731db9e8800488038cb92a66",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 51,
-        "topic": "Colombia Fiscal Policy",
-        "domain": "macro",
-        "headline": "Colombian candidate Valencia pledges $14 billion deficit cut",
-        "summary": "Presidential candidate Paloma Valencia promises to cut Colombia's budget deficit by 50 trillion pesos ($14 billion) and reinstate fiscal rules abandoned by the current administration. She aims to defuse what she calls a \"ticking time bomb\" in public finances.",
-        "signal": "Watch Colombian peso and bond markets for election-driven volatility on fiscal policy expectations.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/colombia-s-valencia-vows-14-billion-deficit-cut-oil-push",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 19,
-        "score": 48,
-        "topic": "Offset Shooting Incident",
-        "domain": "corporate",
-        "headline": "FBI confirms Offset shot during attempted robbery at Florida casino",
-        "summary": "Rapper Offset was shot in the leg during an attempted robbery by a large group outside a Florida casino last week, according to the FBI. The incident highlights security concerns around high-profile entertainment figures.",
-        "signal": "Monitor entertainment industry security spending and potential insurance implications.",
-        "sources": [
-          "AP News"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "The rapper Offset was ambushed by a large group of people who tried to rob him outside a Florida casino last week when he was shot in the leg, the FBI said.",
-            "score": 48,
-            "url": "https://bsky.app/profile/apnews.com/post/3mji4b7qvhj2n"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 20,
-        "score": 45,
-        "topic": "NFL Reporter Resignation",
-        "domain": "corporate",
-        "headline": "NFL reporter Russini resigns after photos with Patriots coach",
-        "summary": "The Athletic's NFL reporter Dianna Russini resigned less than a week after photos were published of her with Patriots coach Mike Vrabel. The resignation highlights media ethics concerns in sports journalism.",
-        "signal": "Watch for broader media industry ethics policy reviews and journalist-source relationship guidelines.",
-        "sources": [
-          "AP News"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "BREAKING: NFL reporter Dianna Russini resigns from The Athletic less than a week after photos were published of her and Patriots coach Mike Vrabel.",
-            "score": 45,
-            "url": "https://bsky.app/profile/apnews.com/post/3mji5d5lcbp22"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 21,
-        "score": 43,
-        "topic": "Russia Energy Windfall Iran",
-        "domain": "commodities",
-        "headline": "Russia benefits from Southeast Asia oil shortage amid Hormuz blockade",
-        "summary": "Russia's oil revenues are surging as the Strait of Hormuz blockade creates Middle East crude shortages, with countries like Vietnam increasing \"Putin visits\" for energy supplies. Russian oil-related tax revenue is projected to double in April due to higher prices.",
-        "signal": "Monitor Russian war financing capacity and potential for extended Ukraine conflict duration.",
-        "sources": [
-          "Nikkei Asia"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u30ed\u30b7\u30a2\u3001\u6771\u5357\u30a2\u30b8\u30a2\u306e\u77f3\u6cb9\u4e0d\u8db3\u3067\u6f64\u3046\u3000\u30d9\u30c8\u30ca\u30e0\u306a\u3069\u300c\u30d7\u30fc\u30c1\u30f3\u8a63\u3067\u300d",
-            "score": 43,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjhdg7e6hj2g"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 29
   }
 ]
