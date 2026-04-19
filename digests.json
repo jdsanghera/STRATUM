@@ -1,5 +1,337 @@
 [
   {
+    "timestamp": "2026-04-19T19:57:34.552466+00:00",
+    "timestamp_ist": "20 Apr 2026 \u00b7 01:27 IST",
+    "story_count": 15,
+    "avg_score": 61,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 89,
+        "topic": "US-Iran Strait Hormuz Escalation",
+        "domain": "geopolitics",
+        "headline": "US Marines Seize Iranian Ship, Tehran Closes Hormuz",
+        "summary": "Iran reversed its reopening of the crucial Strait of Hormuz waterway and fired on ships attempting to pass, escalating tensions as US forces prepare to board Iranian vessels. The standoff threatens global energy supplies as Iran warns the corridor remains closed to maritime traffic.",
+        "signal": "Global energy shock intensifies as Hormuz chokepoint remains contested despite ongoing peace talks.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "Al Jazeera",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: US President Donald Trump has said in a social media post that US marines have custody of an Iranian-flagged vessel that tried to get through the US blockade in the Strait of Hormuz.",
+            "score": 59,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjupat5cgk2e"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "topic": "US-Iran Peace Talks Pakistan",
+        "domain": "geopolitics",
+        "headline": "US Delegation Returns Pakistan as Iran Talks Stall",
+        "summary": "Trump administration sends team back to Pakistan for crucial negotiations with Iran despite escalating threats to cripple Iranian infrastructure. Tehran remains hesitant on new talks, citing Washington's refusal to abandon 'maximalist' demands and insisting on sanctions lifting.",
+        "signal": "Peace talks momentum fragile as Iran rejects second round while US maintains hardline stance.",
+        "sources": [
+          "Times of India",
+          "Associated Press",
+          "Politico"
+        ],
+        "source_url": "https://apnews.com/article/iran-deputy-foreign-minister-interview-40d8e43e3c7b5a23cda6783b064b9dbf",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 78,
+        "topic": "European Market Risk Adjustment",
+        "domain": "markets",
+        "headline": "Traders Dial Up Risk as Iran Peace Hopes Rise",
+        "summary": "Credit investors are loading up on riskier debt betting Iran-US truce can be extended, abandoning safe havens favored since war began. ECB officials grow optimistic about avoiding April rate hike as peace talks raise prospects of Gulf energy shipments resuming.",
+        "signal": "Risk-on sentiment building despite Hormuz volatility as markets price in potential peace dividend.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/traders-ready-to-put-war-behind-them-dial-up-risk-credit-weekly",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 76,
+        "topic": "India Modi Parliament Setback",
+        "domain": "india",
+        "headline": "Modi Attacks Opposition After Women's Quota Bill Fails",
+        "summary": "Indian Prime Minister launches vehement attack on opposition parties after his proposed amendments to expand Parliament and accelerate women's reservation were struck down. The government's attempt to link women's quota to landmark seat expansion was defeated on Lok Sabha floor.",
+        "signal": "Political tensions rise as Modi faces rare legislative defeat on signature reform agenda.",
+        "sources": [
+          "Bloomberg",
+          "Times of India"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/modi-attacks-rivals-after-failed-bid-to-fast-track-women-s-quota",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 73,
+        "topic": "Bulgaria Pro-Russia Election",
+        "domain": "europe",
+        "headline": "Pro-Russian Radev Set Win Bulgarian Election Victory",
+        "summary": "Former president Rumen Radev, who opposes sanctions against Russia and military aid for Ukraine, leads exit polls in Bulgaria's eighth election since 2021. The eurosceptic victory signals potential shift toward pro-Moscow alignment in the EU member state.",
+        "signal": "EU cohesion faces test as another member state tilts toward Russia amid war.",
+        "sources": [
+          "Politico",
+          "Japan Times",
+          "@theguardian.com",
+          "@bloomberg.com"
+        ],
+        "source_url": "https://www.politico.eu/article/bulgaria-election-russia-rumen-radev-win-exit-poll/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Party of Bulgaria's pro-Russian former president ahead in exit polls",
+            "score": 37,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjumwienc72o"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Former President Rumen Radev, who opposes sanctions against Russia and military aid for Ukraine, is on track to win Bulgaria's eighth general election since 2021",
+            "score": 37,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjupux4dzw22"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 68,
+        "topic": "Kyiv Gunman Mass Shooting",
+        "domain": "geopolitics",
+        "headline": "Moscow Man Kills Six in Kyiv Before Police Shoot Him",
+        "summary": "Ukraine police shot dead a 58-year-old Moscow man who killed six people and took hostages in Kyiv during a shooting spree. The attacker's motive remains unclear as authorities investigate the deadly incident amid ongoing war tensions.",
+        "signal": "Internal security concerns mount in Ukraine as Moscow-linked violence hits capital.",
+        "sources": [
+          "Al Jazeera",
+          "BBC News"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/18/ukraine-police-shoot-dead-gunman-who-killed-six-in-kyiv-took-hostages",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 60,
+        "topic": "UK Starmer Mandelson Scandal",
+        "domain": "europe",
+        "headline": "Starmer Faces Commons Showdown Over Mandelson Vetting",
+        "summary": "UK Prime Minister Keir Starmer's leadership teeters over decision to appoint scandal-tarnished Peter Mandelson as ambassador despite his Jeffrey Epstein links. Senior Cabinet ministers rally around Starmer as he prepares to face restive lawmakers in Parliament showdown.",
+        "signal": "UK political stability at risk as diplomatic appointment scandal threatens government.",
+        "sources": [
+          "South China Morning Post",
+          "BBC News",
+          "@theguardian.com"
+        ],
+        "source_url": "https://www.scmp.com/news/world/europe/article/3350654/allies-back-starmer-mandelsons-epstein-links-leave-uk-leader-fighting-his-job",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Starmer faces Commons showdown over Mandelson vetting scandal",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjup7teojs2i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 58,
+        "topic": "Peru F-16 Deal Delays",
+        "domain": "geopolitics",
+        "headline": "Peru Delays $2B F-16 Deal Drawing US Backlash",
+        "summary": "US issued veiled criticism after Peru canceled contract-signing ceremony for $2 billion worth of Lockheed Martin F-16 fighter jets. The Andean nation's delay in the major defense procurement draws Washington's ire amid regional security concerns.",
+        "signal": "US defense export strategy faces setbacks as Latin American allies hesitate on major deals.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/peru-delays-2-billion-f-16-deal-drawing-us-backlash",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 55,
+        "topic": "French Nathalie Baye Death",
+        "domain": "europe",
+        "headline": "French Film Star Nathalie Baye Dies Aged 77",
+        "summary": "French cinema stalwart Nathalie Baye has died at age 77, according to media reports. President Macron said France had 'loved, dreamed and grown up' with the celebrated actress who was a mainstay of French film.",
+        "signal": "Cultural milestone as France mourns loss of iconic actress spanning decades of cinema.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cn9q48y9wr7o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 50,
+        "topic": "Louisiana Mass Shooting Children",
+        "domain": "geopolitics",
+        "headline": "Gunman Kills Eight Children in Louisiana Shooting Spree",
+        "summary": "Eight children aged one to 14 were killed in domestic-related shootings at different Louisiana homes, with two additional victims also shot. The gunman later died after the shooting spree in Shreveport according to police.",
+        "signal": "Domestic violence escalates to mass casualty event highlighting US gun violence crisis.",
+        "sources": [
+          "The National (UAE)",
+          "South China Morning Post",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://www.scmp.com/news/world/united-states-canada/article/3350653/8-children-killed-after-shootings-louisiana-police-say",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Eight children killed in mass shooting in Louisiana, US media reports",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjugil74qx23"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 48,
+        "topic": "Egypt Talaat Moustafa New City",
+        "domain": "middleeast",
+        "headline": "Egypt Developer Plans $27B New City Project",
+        "summary": "Egyptian property developer Talaat Moustafa Group unveiled plans for a 1.4 trillion Egyptian pound ($27 billion) new city on the outskirts of Cairo. The massive development represents one of the largest urban projects in the region.",
+        "signal": "Major Middle East infrastructure investment signals confidence despite regional tensions.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/egypt-s-talaat-moustafa-unveils-plan-for-27-billion-new-city",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 46,
+        "topic": "Trump Psychedelics FDA Review",
+        "domain": "geopolitics",
+        "headline": "Trump Orders Expedited Review of Psychedelic Drugs",
+        "summary": "President Trump directed his administration to speed up reviews of certain psychedelic drugs including ibogaine for PTSD treatment. The drugs remain banned under the government's most restrictive category but could see accelerated approval process.",
+        "signal": "Medical innovation policy shift could open new therapeutic markets for mental health treatment.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/ibogaine-psychedelic-trump-fda-ptsd-veterans-kennedy-a9940fa57fa1457fc064eb5165003524",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 44,
+        "topic": "UNIFIL French Soldier Killed",
+        "domain": "middleeast",
+        "headline": "French UNIFIL Soldier Killed in Lebanon Attack",
+        "summary": "A French soldier serving with UN peacekeeping forces was killed in a Lebanon attack just days after Israel and Lebanon announced a 10-day ceasefire. The deadly incident threatens the fragile truce between the warring parties.",
+        "signal": "Lebanon ceasefire stability questioned as international peacekeepers come under attack.",
+        "sources": [
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/18/french-soldier-serving-with-unifil-killed-in-lebanon-attack",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 42,
+        "topic": "Virudhunagar Firecracker Explosion",
+        "domain": "india",
+        "headline": "Massive Firecracker Factory Blast Kills 23 Workers",
+        "summary": "At least 23 people were killed in a massive explosion at a firecracker manufacturing unit in Virudhunagar. The blast originated in the front veranda area where workers were handling raw materials in final manufacturing stages.",
+        "signal": "Industrial safety concerns mount as factory accidents highlight regulatory enforcement gaps.",
+        "sources": [
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.ndtvprofit.com/india/at-least-23-people-killed-in-massive-explosion-at-virudhunagar-firecracker-unit-11380328",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 40,
+        "topic": "Rubis Puma Energy Combination",
+        "domain": "commodities",
+        "headline": "Rubis Explores Combination with Trafigura's Puma Unit",
+        "summary": "French fuel distributor Rubis SCA is exploring a potential combination with Trafigura Group's fuel retail business Puma Energy to expand geographical reach. The deal would reshape the global fuel distribution landscape if completed.",
+        "signal": "Energy sector consolidation accelerates as companies seek scale amid market volatility.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/rubis-said-to-weigh-combination-with-trafigura-s-puma-fuel-unit",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-19T17:24:56.941432+00:00",
     "timestamp_ist": "19 Apr 2026 \u00b7 22:54 IST",
     "story_count": 18,
@@ -14957,440 +15289,6 @@
         ],
         "trend": "falling",
         "breaking_on_social": true
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-15T16:16:25.098296+00:00",
-    "timestamp_ist": "15 Apr 2026 \u00b7 21:46 IST",
-    "story_count": 20,
-    "avg_score": 51,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 85,
-        "topic": "US-Iran Nuclear Talks",
-        "domain": "geopolitics",
-        "headline": "Pakistan mediates US-Iran talks amid Hormuz blockade escalation",
-        "summary": "Pakistan's army chief arrives in Tehran with new US offer as second round of talks proposed following failed Islamabad negotiations. Trump escalates with Iranian port blockade while claiming Iran wants a deal.",
-        "signal": "Watch for breakthrough or further escalation as Pakistan pushes for diplomatic solution amid growing economic pressure.",
-        "sources": [
-          "Bloomberg",
-          "Associated Press",
-          "Al Jazeera",
-          "Nikkei",
-          "Times of India",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/india-s-modi-says-he-discussed-hormuz-strait-in-call-with-trump",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Iran says it will halt all trade in the Gulf if the US continues blocking its vessels.",
-            "score": 41,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjkbbmqva62a"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Tehran rejects US conditions on nuclear arms; sanctions relief and strait control fuel diplomatic deadlock in Islamabad.",
-            "score": 31,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjk4apqlg32o"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 78,
-        "topic": "Iran War Economic Impact",
-        "domain": "macro",
-        "headline": "IMF cuts global growth as Iran war drives inflation surge",
-        "summary": "IMF downgrades global growth forecast to 3.1% from 3.3% as Iran conflict threatens economic momentum. US wholesale prices surge 4% year-over-year driven by energy costs, with UK facing biggest growth hit among major economies.",
-        "signal": "Expect continued inflationary pressure and growth deceleration if conflict persists or oil supply disruption worsens.",
-        "sources": [
-          "Associated Press",
-          "BBC News",
-          "The National"
-        ],
-        "source_url": "https://apnews.com/article/economy-imf-outlook-iran-war-trump-inflation-growth-e3d8a239509abb50757f8c8d42fb32d8",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 75,
-        "topic": "Israel-Lebanon Ceasefire Talks",
-        "domain": "geopolitics",
-        "headline": "Israel-Lebanon hold first direct talks since 1993",
-        "summary": "First direct Israel-Lebanon negotiations since 1993 begin in US with Hezbollah expressing cautious optimism for ceasefire. Senior Israeli official confirms security cabinet will discuss possible Lebanon ceasefire agreement.",
-        "signal": "Monitor for breakthrough that could reduce regional tensions and provide template for broader Middle East de-escalation.",
-        "sources": [
-          "Al Jazeera",
-          "Middle East Eye",
-          "@reuters.com"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/14/israel-lebanon-direct-talks-in-the-us-all-to-know",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Israeli security cabinet to discuss possible Lebanon ceasefire, senior official says",
-            "score": 50,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjkbtqmetj2s"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 4,
-        "score": 72,
-        "topic": "Hungarian Political Transition",
-        "domain": "europe",
-        "headline": "Hungary's new leader pledges euro adoption, media reform",
-        "summary": "Viktor Orb\u00e1n's successor P\u00e9ter Magyar promises to join eurozone and suspend state media 'propaganda machine' following landslide election defeat. ECB's Lagarde welcomes Hungary's renewed euro commitment as Commission prepares fund negotiations.",
-        "signal": "Expect EU relations reset and potential unlock of \u20ac30 billion frozen funds, reshaping Central European dynamics.",
-        "sources": [
-          "Bloomberg",
-          "BBC News",
-          "The Guardian",
-          "Politico"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/lagarde-welcomes-new-hungarian-leader-s-plan-to-join-euro",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "theguardian.com",
-            "platform": "bluesky",
-            "text": "Hungary's prime minister-elect vows to suspend 'propaganda machine' state media",
-            "score": 37,
-            "url": "https://bsky.app/profile/theguardian.com/post/3mjk6aetjwx2h"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 65,
-        "topic": "Mossad Iran Operations",
-        "domain": "geopolitics",
-        "headline": "Mossad pledges continued covert efforts against Iran government",
-        "summary": "Israeli spy chief acknowledges ongoing covert operations to topple Iran's government will continue despite US peace negotiations. Statement represents rare public admission of Israel's destabilization campaign amid diplomatic efforts.",
-        "signal": "Israeli intelligence operations may undermine diplomatic progress and trigger Iranian retaliation against US talks.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/mossad-says-israel-will-keep-trying-to-topple-iran-s-government",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 60,
-        "topic": "Trump-Pope Conflict",
-        "domain": "geopolitics",
-        "headline": "Trump escalates verbal attacks on Pope Leo XIV",
-        "summary": "President Trump intensifies public dispute with first American Pope Leo XIV over Iran war stance. Catholic voters express dismay over unprecedented presidential attack on papal authority regarding peace message.",
-        "signal": "Religious diplomatic tensions could complicate international mediation efforts and domestic Catholic support.",
-        "sources": [
-          "Associated Press",
-          "Middle East Eye"
-        ],
-        "source_url": "https://apnews.com/article/donald-trump-pope-leo-what-they-said-c9a721a132f1941eaebc139e1213937d",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 58,
-        "topic": "China-India Trade Relations",
-        "domain": "india",
-        "headline": "China surpasses US as India's largest trading partner",
-        "summary": "China overtook the US as India's top trading partner in FY26 with bilateral trade reaching $151.1 billion, though trade deficit widened to $112.16 billion. India's exports to China surged 36.66% while imports rose 16%.",
-        "signal": "Growing economic interdependence despite border tensions signals pragmatic trade policy over geopolitical concerns.",
-        "sources": [
-          "NDTV Profit",
-          "Economic Times"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/china-surpasses-us-as-indias-largest-trading-partner-in-fy26-trade-gap-swells-to-usd-112-16-bn/articleshow/130288033.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 55,
-        "topic": "Disney CEO Layoffs",
-        "domain": "corporate",
-        "headline": "Disney cuts 1,000 jobs under new CEO D'Amaro",
-        "summary": "Walt Disney eliminates 1,000 positions in first major layoffs under CEO Josh D'Amaro's organizational restructuring. Cuts represent new leadership's effort to streamline operations at entertainment giant.",
-        "signal": "Expect further cost-cutting measures as Disney adapts to streaming competition and changing media landscape.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/disney-is-cutting-1-000-jobs-in-first-layoffs-under-new-ceo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 52,
-        "topic": "Italian Defense Suspension",
-        "domain": "europe",
-        "headline": "Italy suspends defense cooperation agreement with Israel",
-        "summary": "Prime Minister Meloni's government freezes automatic renewal of defense cooperation deal with Israel amid regional conflict. Move signals growing European pressure on Israeli military operations.",
-        "signal": "Watch for broader European defense cooperation restrictions that could impact Israeli military capabilities.",
-        "sources": [
-          "Al Jazeera"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/14/italian-suspends-defence-agreement-with-israel",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 50,
-        "topic": "Macron Corruption Investigation",
-        "domain": "europe",
-        "headline": "French police denied access to Macron's palace probe",
-        "summary": "Police barred from searching President Macron's official residence in corruption investigation involving state ceremonies posthumously honoring citizens. Case highlights executive immunity limits in France.",
-        "signal": "Legal proceedings could weaken Macron's authority ahead of key European policy decisions.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/police-barred-from-searching-macron-s-palace-in-corruption-probe",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 48,
-        "topic": "Zantac Litigation Victory",
-        "domain": "corporate",
-        "headline": "Delaware judge dismisses Zantac cancer lawsuits",
-        "summary": "Delaware court threw out lawsuits linking heartburn drug Zantac to cancer over flawed scientific evidence. Decision frees drugmakers from facing trials in the state over cancer link claims.",
-        "signal": "Pharmaceutical liability risks reduced, potentially boosting sector confidence and reducing legal reserves.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/zantac-lawsuits-tossed-by-delaware-judge-over-flawed-cancer-link",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 45,
-        "topic": "Indian Markets Rally",
-        "domain": "markets",
-        "headline": "Indian stocks surge 1.6% on Iran diplomacy hopes",
-        "summary": "Nifty climbed 388 points to 24,231 as investors reacted positively to potential US-Iran negotiations resumption. Markets moved from earnings-driven to oil-driven trading amid geopolitical developments.",
-        "signal": "Continued oil price volatility will drive market direction more than corporate fundamentals near-term.",
-        "sources": [
-          "Hindu Business",
-          "LiveMint"
-        ],
-        "source_url": "https://www.thehindu.com/business/markets/stock-markets-surge-over-1-amid-hopes-of-resumption-of-us-iran-peace-talks/article70864941.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 42,
-        "topic": "Trump Federal Reserve Threat",
-        "domain": "markets",
-        "headline": "Trump threatens to fire Powell if no resignation",
-        "summary": "President Trump said he would fire Fed Chair Jerome Powell if he doesn't step down, while maintaining Justice Department investigation. Comments escalate Trump's pressure campaign against central bank independence.",
-        "signal": "Fed independence concerns could trigger market volatility and complicate monetary policy effectiveness.",
-        "sources": [
-          "Reuters",
-          "@bloomberg.com"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Trump threatens to fire Powell if he doesn't quit Fed board; ongoing probe clouds Warsh confirmation",
-            "score": 42,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjkapyqsml22"
-          },
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "President Trump said he would fire Jerome Powell if the Fed chair does not step down 'in time,' adding that he would not drop the Justice Department investigation into the central bank leader.",
-            "score": 42,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjk4b3ojxp2s"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 14,
-        "score": 40,
-        "topic": "Snap Layoffs",
-        "domain": "corporate",
-        "headline": "Snapchat parent cuts 1,000 jobs citing AI efficiency",
-        "summary": "Snap eliminates 16% of workforce and 300 vacant positions to slash costs by $500 million, with CEO citing AI advancements enabling team efficiency. Shares climb 5% in premarket trading on restructuring news.",
-        "signal": "AI-driven workforce optimization trend accelerating across tech sector as companies seek profitability.",
-        "sources": [
-          "Times of India",
-          "LiveMint"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/snap-to-lay-off-1000-employees-ceo-evan-spiegels-memo-puts-it-on-ai-says-rapid-advancements-in-ai-enable-our-teams-to-/articleshow/130283505.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 38,
-        "topic": "Air India Financial Crisis",
-        "domain": "corporate",
-        "headline": "Air India seeks shareholder funds after $2.4B loss",
-        "summary": "State carrier racked up wider-than-expected annual loss exceeding $2.4 billion, prompting urgent funding request from shareholders Tata and Singapore Airlines. Losses highlight integration challenges in aviation turnaround.",
-        "signal": "Watch for potential capital injection timeline and impact on Tata Group's aviation strategy.",
-        "sources": [
-          "LiveMint"
-        ],
-        "source_url": "https://www.livemint.com/companies/news/air-india-asks-tata-singapore-air-for-funds-after-2-4-billion-loss-11776237834047.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 35,
-        "topic": "Women's Reservation Bill Opposition",
-        "domain": "india",
-        "headline": "INDIA bloc opposes delimitation in women's reservation bill",
-        "summary": "Congress chief Kharge reiterates opposition stance supporting women's reservation but rejecting delimitation provisions. INDIA bloc fears southern states will lose parliamentary seats in redistribution process.",
-        "signal": "Parliamentary arithmetic could shift significantly if delimitation proceeds, altering regional power balance.",
-        "sources": [
-          "The Hindu",
-          "NDTV News"
-        ],
-        "source_url": "https://www.thehindu.com/news/national/india-bloc-opposes-delimitation-bill/article70865105.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 32,
-        "topic": "Boeing Delivery Recovery",
-        "domain": "corporate",
-        "headline": "Boeing beats Airbus in Q1 deliveries continuing comeback",
-        "summary": "Boeing delivered 143 jets in first quarter, extending dominance over European rival Airbus in what analysts call a 'comeback story.' American manufacturer continues recovery from previous production issues.",
-        "signal": "Sustained delivery performance could restore investor confidence and market share gains.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/boeing-beats-airbus-in-deliveries-to-further-comeback-story",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 30,
-        "topic": "CBSE Results",
-        "domain": "india",
-        "headline": "CBSE Class 10 results show 93.7% pass rate",
-        "summary": "Central Board announces Class 10 results with national pass percentage of 93.7%, with southern states and girls outperforming. Delhi records 97.3% pass rate surpassing national average.",
-        "signal": "Educational performance metrics remain stable despite ongoing economic and geopolitical challenges.",
-        "sources": [
-          "NDTV News",
-          "Indian Express"
-        ],
-        "source_url": "https://www.ndtv.com/education/cbse-class-10-result-2026-out-students-pass-download-link-official-websites-here-11360890",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 19,
-        "score": 28,
-        "topic": "Allbirds AI Pivot",
-        "domain": "corporate",
-        "headline": "Shoemaker Allbirds pivots to AI, stock surges 400%",
-        "summary": "Footwear company announces shift to AI compute infrastructure with $50 million financing, rebranding as 'NewBird AI.' Stock jumps nearly 400% on transformation announcement from shoe business to technology focus.",
-        "signal": "AI transformation narrative driving extreme valuations regardless of business fundamentals or execution risk.",
-        "sources": [
-          "LiveMint"
-        ],
-        "source_url": "https://www.livemint.com/companies/news/shoemaker-allbirds-stock-jumps-nearly-400-after-rebranding-to-ai-company-11776264612010.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 20,
-        "score": 25,
-        "topic": "UAE Defense Fund",
-        "domain": "middleeast",
-        "headline": "Abu Dhabi's BlueFive plans $3B defense fund",
-        "summary": "BlueFive Capital planning to raise $3 billion for aerospace and defense investments, capitalizing on expected Middle East military spending increase. Fund targets growing regional security demands amid ongoing conflicts.",
-        "signal": "Middle East defense spending surge creating significant investment opportunities in weapons and security technology.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/abu-dhabi-based-bluefive-said-to-plan-3-billion-defense-fund",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
       }
     ],
     "social_count": 30
