@@ -1,5 +1,334 @@
 [
   {
+    "timestamp": "2026-04-19T15:02:09.778325+00:00",
+    "timestamp_ist": "19 Apr 2026 \u00b7 20:32 IST",
+    "story_count": 14,
+    "avg_score": 52,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "Iran Strait Hormuz Closure",
+        "domain": "geopolitics",
+        "headline": "Iran Reverses Hormuz Opening, Fires on Ships Amid US Blockade",
+        "summary": "Iran's Revolutionary Guard has closed the Strait of Hormuz again and fired on commercial vessels attempting passage, reversing its brief reopening. The escalation comes as Iran rejects continuing peace talks with the US while American naval blockade of Iranian ports remains in place.",
+        "signal": "Critical chokepoint closure threatens global oil supplies and signals breakdown in US-Iran diplomatic efforts.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "Al Jazeera",
+          "@reuters.com",
+          "@apnews.com"
+        ],
+        "source_url": "https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Iran currently has no decision to send a negotiating delegation to Pakistan, Tasnim reports",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mju5bp2lgv2z"
+          },
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Tui Cruises says two ships passed the Strait of Hormuz",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mju4iqimqj25"
+          },
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Live updates: President Trump says US negotiators will be in Pakistan on Monday for talks with Iran.",
+            "score": 47,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjtxyfjafn2t"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "What to know about US-Iran standoff over the Strait of Hormuz",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mju64eqgc52q"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "topic": "US-Iran Peace Negotiations",
+        "domain": "geopolitics",
+        "headline": "Trump Threatens Iran as Pakistan Talks Set for Monday",
+        "summary": "President Trump announced US negotiators will head to Pakistan Monday for fresh talks with Iran, while threatening to destroy Iranian infrastructure if no deal is reached. Iran has indicated it may not send a delegation while the US naval blockade continues.",
+        "signal": "Diplomatic window narrowing as military escalation threats intensify alongside stalled negotiations.",
+        "sources": [
+          "Associated Press",
+          "The Hindu",
+          "Indian Express",
+          "@bloomberg.com",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-18-2026",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "President Donald Trump said Iran has committed a 'serious violation' of the ceasefire but a peace deal is still possible",
+            "score": 51,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mju4hny6ge24"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Vice President JD Vance will not lead the US delegation for new talks with Iran in Pakistan because of 'security' concerns, says President Trump.",
+            "score": 59,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mju43jql7c2x"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 75,
+        "topic": "Hungary Political Transition",
+        "domain": "geopolitics",
+        "headline": "Hungary's Tisza Party Widens Parliamentary Majority Post-Election",
+        "summary": "Hungary's opposition Tisza party led by Peter Magyar has strengthened its parliamentary majority in final vote tallies, consolidating power after its landslide victory over Viktor Orb\u00e1n. Magyar is moving quickly to prepare for the transfer of power and has begun talks with the European Commission on unfreezing EU funds.",
+        "signal": "Major shift in Central European politics as Hungary pivots away from Putin-aligned leadership.",
+        "sources": [
+          "Bloomberg",
+          "BBC",
+          "Politico"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 65,
+        "topic": "ECB Policy Iran Impact",
+        "domain": "macro",
+        "headline": "ECB Moves Away from April Hike on Peace Progress",
+        "summary": "European Central Bank officials are becoming more optimistic as US-Iran peace talks raise prospects for resumed Gulf energy shipments. The policy shift reflects hopes that diplomatic progress could ease inflationary pressures from energy supply disruptions.",
+        "signal": "Central bank policy increasingly tied to geopolitical developments in critical energy corridors.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/ecb-moves-away-from-april-hike-as-peace-talks-progress-overview",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 55,
+        "topic": "London Jewish Arson Attacks",
+        "domain": "geopolitics",
+        "headline": "UK Police Probe Iranian Proxy Links to Jewish Sites Arson",
+        "summary": "British police are investigating whether a series of arson attacks on Jewish sites in London are connected to Iranian proxies, amid broader regional tensions. Counter-terrorism police are handling multiple incidents including attempts to ignite materials at various locations.",
+        "signal": "Regional conflict spillover into European capitals threatens domestic security and community relations.",
+        "sources": [
+          "BBC",
+          "@apnews.com"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cqxl1qr11q2o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: British police say they are investigating whether a series of arson attacks on Jewish sites in London are the work of Iranian proxies.",
+            "score": 45,
+            "url": "https://bsky.app/profile/apnews.com/post/3mju3rhrelq26"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 6,
+        "score": 52,
+        "topic": "Aviation Fuel Crisis",
+        "domain": "commodities",
+        "headline": "Jet Fuel Surge Forces Global Flight Cancellations",
+        "summary": "Airlines worldwide are deepening flight cancellations and grounding planes to cope with stratospheric jet fuel price increases caused by the Iran conflict. Shortages in Europe and Asia could compound travel disruptions if the fragile Hormuz agreement collapses.",
+        "signal": "Energy price shocks creating cascading effects across global transportation and tourism sectors.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/the-jet-fuel-surge-is-making-global-flight-connections-disappear",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 50,
+        "topic": "Ukraine Crimea Drone Strike",
+        "domain": "geopolitics",
+        "headline": "Ukraine Hits Three Russian Warships in Crimea",
+        "summary": "Ukraine's Security Service conducted a successful drone strike on the Crimean peninsula, damaging three Russian naval ships and other military assets. The Alpha special operations unit carried out the precision attack on Russian naval infrastructure.",
+        "signal": "Escalating maritime warfare capabilities threaten Russian Black Sea fleet operations.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/ukraine-says-it-hit-three-russian-warships-in-crimea-with-drones",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 45,
+        "topic": "Oil Price Volatility",
+        "domain": "commodities",
+        "headline": "Brent Crude Plunges Below $91 Amid Hormuz Reopening",
+        "summary": "Oil prices fell more than 9 percent after Iran briefly reopened the Strait of Hormuz, only to close it again a day later. The volatility reflects market uncertainty over the critical shipping route's status amid ongoing US-Iran tensions.",
+        "signal": "Energy markets remain hostage to geopolitical developments in the world's most important oil transit point.",
+        "sources": [
+          "Al Jazeera",
+          "LiveMint"
+        ],
+        "source_url": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 42,
+        "topic": "Trump Psychedelic Drug Policy",
+        "domain": "corporate",
+        "headline": "Trump Signs Order Easing Psychedelic Drug Restrictions",
+        "summary": "President Trump signed an executive order to expedite research and access to psychedelics used outside the US for treating post-traumatic stress disorder. The move represents a significant shift in federal drug policy toward therapeutic applications.",
+        "signal": "Regulatory changes could unlock new pharmaceutical markets and treatment paradigms.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/trump-signs-order-easing-restrictions-on-psychedelic-drugs",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 40,
+        "topic": "Tamil Nadu Fireworks Explosion",
+        "domain": "india",
+        "headline": "23 Workers Killed in Tamil Nadu Fireworks Factory Blast",
+        "summary": "At least 23 workers died in a massive explosion at a fireworks manufacturing unit near Virudhunagar district in Tamil Nadu. Chief Minister Stalin has dispatched ministers to coordinate relief operations at the site.",
+        "signal": "Industrial safety concerns in India's manufacturing sector remain acute despite regulatory oversight.",
+        "sources": [
+          "The Hindu",
+          "NDTV"
+        ],
+        "source_url": "https://www.thehindu.com/news/national/tamil-nadu/virudhunagar-fireworks-factory-explosion-tamil-nadu-death-toll-updates/article70880724.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 38,
+        "topic": "US Srinagar Airport Detention",
+        "domain": "india",
+        "headline": "US Nationals Detained at Srinagar Airport Over Satellite Phones",
+        "summary": "Two US nationals, including Jeffrey Scott Prather and a Kolkata resident, were detained at Srinagar airport after satellite phones were discovered in their luggage. The detention highlights security sensitivities around communications equipment in the Kashmir region.",
+        "signal": "Heightened security protocols in sensitive regions could affect business and diplomatic travel.",
+        "sources": [
+          "Times of India",
+          "NDTV"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/two-us-nationals-detained-at-srinagar-airport-after-satellite-phone-found-in-luggage/articleshow/130369617.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 35,
+        "topic": "Nigeria Stock Exchange Expansion",
+        "domain": "markets",
+        "headline": "Nigeria Expands Trading Hours After Frontier Index Return",
+        "summary": "Nigerian Exchange Group is extending equities trading hours following FTSE Russell's decision to allow the country's equities back into its frontier-markets benchmark. The move aims to boost market liquidity and international participation.",
+        "signal": "African capital markets gaining institutional recognition could attract increased foreign investment flows.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/nigeria-expands-stocks-trading-hours-after-frontier-index-return",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 32,
+        "topic": "French Film Star Death",
+        "domain": "europe",
+        "headline": "French Cinema Icon Nathalie Baye Dies at 77",
+        "summary": "Acclaimed French actress Nathalie Baye has died at age 77, prompting tributes from President Macron who said France had 'loved, dreamed and grown up' with the cinema stalwart. Her death marks the end of an era for French film.",
+        "signal": "Cultural losses highlight generational transitions in European artistic and cultural leadership.",
+        "sources": [
+          "BBC"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cn9q48y9wr7o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 30,
+        "topic": "India Constitution Amendment Defeat",
+        "domain": "india",
+        "headline": "Opposition Defeats Women's Reservation Bill in Lok Sabha",
+        "summary": "A government bill linking women's reservation to parliamentary seat expansion was defeated in the Lok Sabha, with opposition parties calling it a victory against 'delimitation by the backdoor.' The defeat represents a significant legislative setback for the ruling party.",
+        "signal": "Parliamentary arithmetic challenges threaten key government reform initiatives.",
+        "sources": [
+          "Times of India",
+          "Indian Express"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/delimitation-decoded-what-the-centre-tied-to-do-why-opposition-shot-it-down-what-happens-next/articleshow/130369096.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 29
+  },
+  {
     "timestamp": "2026-04-19T11:54:21.198663+00:00",
     "timestamp_ist": "19 Apr 2026 \u00b7 17:24 IST",
     "story_count": 15,
@@ -15219,431 +15548,6 @@
         "source_url": "",
         "standalone_social": true,
         "context": "First successful commercial transit signals potential easing of shipping blockade.",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "An Iraq-bound supertanker that aborted a weekend attempt to cross the Strait of Hormuz into the Persian Gulf is now sailing through the waterway, that would make it the first to head west through cond",
-            "score": 26,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjja347eot2t"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-15T06:26:00.996988+00:00",
-    "timestamp_ist": "15 Apr 2026 \u00b7 11:56 IST",
-    "story_count": 20,
-    "avg_score": 62,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 91,
-        "topic": "US-Iran Peace Talks",
-        "domain": "geopolitics",
-        "headline": "US-Iran War Nears End, Peace Talks Resume",
-        "summary": "Multiple wire sources confirm hopes for renewed US-Iran peace talks after Pakistan proposes second round negotiations. Trump claims Iran wants a deal while maintaining that war is 'very close to over,' though he won't extend current ceasefire.",
-        "signal": "Monitor oil prices and regional stability as genuine peace breakthrough would dramatically shift Middle East dynamics.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera",
-          "NDTV Profit",
-          "The Hindu",
-          "The National",
-          "Bloomberg"
-        ],
-        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-14-2026",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 89,
-        "topic": "US Naval Blockade Iran",
-        "domain": "geopolitics",
-        "headline": "US Enforces Total Naval Blockade Iranian Ports",
-        "summary": "US Central Command confirms full implementation of naval blockade with over 10,000 personnel halting all maritime trade to Iranian ports. No ships passed through in first 24 hours as operation aims to force Tehran to reopen Strait of Hormuz.",
-        "signal": "Escalating maritime tensions could trigger broader regional conflict if blockade enforcement meets resistance from Iran or allies.",
-        "sources": [
-          "Associated Press",
-          "Times of India",
-          "Al Jazeera",
-          "Middle East Eye"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-blockade-hormuz-april-13-2026-ed7a6cd4bc61dc47f317a2c82afcc1c9",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "US Central Command say more than 10,000 armed forces members, as well as warships and planes, are involved in blockade.",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjj634iwsd2h"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 85,
-        "topic": "Oil Prices US-Iran Talks",
-        "domain": "commodities",
-        "headline": "Oil Falls Asian Markets Surge Iran Peace Hopes",
-        "summary": "Crude prices dropped for second day while Asian stock markets surged on renewed hopes for US-Iran peace talks. Oil fell from Monday's $100+ spike as Trump indicated Iranian officials are keen on a deal.",
-        "signal": "Sustained peace talks progress could trigger major oil price correction, benefiting global inflation outlook and equity markets.",
-        "sources": [
-          "BBC News",
-          "Al Jazeera",
-          "LiveMint",
-          "The Hindu Business"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cjr9qrnp821o",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 82,
-        "topic": "China Vice FM Dismissal",
-        "domain": "geopolitics",
-        "headline": "China Dismisses Vice Foreign Minister Sun Weidong",
-        "summary": "Vice Foreign Minister Sun Weidong suddenly dismissed amid broader wave of removals in China's ongoing anticorruption campaign. The dismissal comes during critical period of US-Iran conflict and China's diplomatic positioning.",
-        "signal": "Leadership changes in China's foreign ministry could signal policy shifts or internal power struggles affecting international relations.",
-        "sources": [
-          "Al Jazeera"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/14/china-dismisses-vice-minister-of-foreign-affairs-sun-weidong",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 80,
-        "topic": "AAP MP ED Raids",
-        "domain": "india",
-        "headline": "ED Raids AAP MP Ashok Mittal Properties",
-        "summary": "Enforcement Directorate conducts raids at AAP Rajya Sabha MP Ashok Mittal's residence and Lovely Professional University under FEMA violations probe. Kejriwal claims action is preparation for Punjab polls targeting recently appointed deputy leader.",
-        "signal": "Watch for broader crackdown on AAP ahead of Punjab elections and potential impact on party's political standing.",
-        "sources": [
-          "Times of India",
-          "The Hindu",
-          "Indian Express",
-          "NDTV News"
-        ],
-        "source_url": "https://www.thehindu.com/news/national/ed-raids-at-business-entities-linked-to-aap-mp-ashok-mittal-in-punjab/article70863944.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 80,
-        "topic": "Bihar BJP Chief Minister",
-        "domain": "india",
-        "headline": "Samrat Choudhary Becomes BJP's First Bihar CM",
-        "summary": "Samrat Choudhary sworn in as Bihar's new Chief Minister, marking BJP's first leader to hold the state's top post. This historic transition follows Nitish Kumar's departure after over two decades of leadership.",
-        "signal": "BJP's first CM in Bihar signals major political realignment in crucial eastern state ahead of national elections.",
-        "sources": [
-          "Times of India",
-          "NDTV News"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/india/first-bjp-cm-in-bihar-samrat-choudhary-takes-oath/articleshow/130273548.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 78,
-        "topic": "Evergrande Founder Fraud Guilty",
-        "domain": "markets",
-        "headline": "Evergrande Founder Pleads Guilty to Fraud Charges",
-        "summary": "Founder of China's once-largest real estate firm Evergrande pleads guilty to fraud charges. The company previously had a stock market valuation of more than $50 billion before its collapse.",
-        "signal": "Resolution of Evergrande case may provide clarity for Chinese property sector recovery and broader debt restructuring precedents.",
-        "sources": [
-          "BBC News"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cn788ymy5gno",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 75,
-        "topic": "Orb\u00e1n Election Defeat Hungary",
-        "domain": "europe",
-        "headline": "Young Hungarians Vote End Orb\u00e1n's 16-Year Rule",
-        "summary": "Many young Hungarians voted to end Prime Minister Viktor Orb\u00e1n's 16-year grip on power in Sunday's bombshell election outcome. The result marks a dramatic shift in Hungarian politics with youth leading the change.",
-        "signal": "Orb\u00e1n's departure removes major EU disruptor but leaves questions about Hungary's future European integration path.",
-        "sources": [
-          "Associated Press",
-          "Politico Europe"
-        ],
-        "source_url": "https://apnews.com/photo-gallery/hungary-election-youth-orban-magyar-f551706b019eb1e534280590a406088d",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 72,
-        "topic": "US Congress Resignations",
-        "domain": "geopolitics",
-        "headline": "Two US House Members Resign Amid Scandals",
-        "summary": "Republican Rep. Tony Gonzales of Texas and Democratic Rep. Eric Swalwell of California both announce resignations from Congress amid bipartisan calls. Gonzales cited affair with staff member who died by suicide; Swalwell faces sexual assault allegations.",
-        "signal": "Congressional turmoil may affect narrow party margins and upcoming legislative priorities in Trump's second term.",
-        "sources": [
-          "Associated Press",
-          "Wall Street Journal"
-        ],
-        "source_url": "https://apnews.com/article/congress-gonzales-retirement-affair-3791f1a1eefe9fabfeb1647bc7bb0b0f",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 70,
-        "topic": "Trump Pope Conflict",
-        "domain": "geopolitics",
-        "headline": "Trump Attacks Pope Leo Over Iran War",
-        "summary": "President Trump engaged in verbal assault on Pope Leo XIV, the first American pope, over Vatican's peace appeals regarding Iran war. Pope responds that Vatican message is rooted in Gospel, not direct attack on Trump but call for peace.",
-        "signal": "Religious-political tensions could affect Trump's Catholic voter base and complicate diplomatic relations with Vatican.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera"
-        ],
-        "source_url": "https://apnews.com/article/pope-leo-xiv-02f6b4554ea4b83af02af15987ae1f2d",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 65,
-        "topic": "Hezbollah Lebanon-Israel Talks",
-        "domain": "middleeast",
-        "headline": "Hezbollah Opposes Lebanon-Israel Washington Talks",
-        "summary": "Hezbollah leader Naim Qassem urges Lebanon's government to cancel direct talks with Israel scheduled in Washington. He calls negotiations a 'free concession' to Israel and criticizes Lebanon's diplomatic approach.",
-        "signal": "Hezbollah resistance to talks could derail broader Middle East peace efforts and maintain regional tensions.",
-        "sources": [
-          "Al Jazeera",
-          "Associated Press"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 55,
-        "topic": "Suntory Daiichi Sankyo Deal",
-        "domain": "corporate",
-        "headline": "Suntory Buys Daiichi Sankyo OTC Unit",
-        "summary": "Suntory Holdings acquiring Daiichi Sankyo's over-the-counter drug unit for reported 2000 billion yen to expand health business. Deal includes major brands like Loxonin pain relief and Gaster stomach medicine.",
-        "signal": "Major pharma consolidation in Japan signals sector restructuring and Suntory's diversification beyond beverages.",
-        "sources": [
-          "Nikkei Asia"
-        ],
-        "source_url": "https://asia.nikkei.com/business/business-deals/suntory-holdings-to-buy-daiichi-sankyo-s-otc-unit-to-expand-health-business",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u3010\u65e5\u7d4c\u7279\u5831\u3011\u30b5\u30f3\u30c8\u30ea\u30fcHD\u3001\u7b2c\u4e00\u4e09\u5171\u306e\u5e02\u8ca9\u85ac\u5b50\u4f1a\u793e\u3092\u8cb7\u53ce\u30002000\u5104\u5186\u898f\u6a21",
-            "score": 43,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjixrgfeyp2j"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 50,
-        "topic": "Novo Nordisk OpenAI Partnership",
-        "domain": "corporate",
-        "headline": "Novo Nordisk Partners OpenAI for Drug Development",
-        "summary": "Novo Nordisk will integrate OpenAI's artificial intelligence across the company to accelerate development of new obesity drugs. The partnership aims to speed pharmaceutical research and development processes.",
-        "signal": "AI-pharma partnerships could revolutionize drug discovery timelines and reshape competitive dynamics in obesity treatment market.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/novo-taps-openai-to-speed-development-of-new-obesity-drugs",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 45,
-        "topic": "Iran Chinese Spy Satellite",
-        "domain": "geopolitics",
-        "headline": "Iran Used Chinese Satellite Target US Bases",
-        "summary": "Iran secretly acquired Chinese spy satellite capability to target US military bases across Middle East during conflict. The intelligence cooperation highlights deepening Iran-China strategic partnership amid US pressure.",
-        "signal": "China-Iran intelligence sharing could complicate US military positioning and require enhanced base security protocols.",
-        "sources": [
-          "Economic Times",
-          "Middle East Eye"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/news/defence/iran-used-chinese-spy-satellite-to-target-us-bases/articleshow/130273600.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 40,
-        "topic": "Xi China Spain Relations",
-        "domain": "geopolitics",
-        "headline": "Xi Promotes China-Spain Ties Counter Global Disarray",
-        "summary": "Chinese President Xi Jinping touted shared principles with Spain during PM Pedro S\u00e1nchez's visit to counter global disorder. Both sides have criticized US-Israeli attacks on Iran and called for peace.",
-        "signal": "China building European coalition against US Middle East policy could fragment Western unity on Iran sanctions.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/china-s-xi-urges-closer-spain-ties-to-counter-global-disarray",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 35,
-        "topic": "Indonesia US Defense Agreement",
-        "domain": "geopolitics",
-        "headline": "Indonesia US Sign Major Defense Cooperation Deal",
-        "summary": "Indonesia and United States sign 'major' defense cooperation agreement following reports that US is seeking overflight access for military planes. The partnership strengthens bilateral security ties in strategic Southeast Asian region.",
-        "signal": "Enhanced US-Indonesia defense cooperation could shift regional balance and provide strategic access in contested South China Sea.",
-        "sources": [
-          "Al Jazeera"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 30,
-        "topic": "Benin Presidential Election",
-        "domain": "geopolitics",
-        "headline": "Ex-Deloitte Executive Wins Benin Presidential Vote",
-        "summary": "Finance Minister Romuald Wadagni, former Deloitte executive, secured landslide victory in West African Benin's presidential election on April 12. The result marks significant political transition in the region.",
-        "signal": "Business-oriented leadership in Benin could attract foreign investment and influence broader West African economic policies.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/ex-deloitte-executive-wins-benin-presidential-vote-by-landslide",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 48,
-        "topic": "Trump Italy Meloni Criticism",
-        "domain": "geopolitics",
-        "headline": "Trump Criticizes Italy PM Meloni Over Iran",
-        "summary": "President Trump told Italian newspaper that PM Giorgia Meloni, one of his closest allies, lacked courage for failing to join US in attacking Iran. The criticism strains relations with key European ally.",
-        "signal": "Tensions with Italy could weaken NATO unity and European support for US Middle East strategy.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "High-profile diplomatic rift with close ally signals potential broader strain in Trump's European relationships over Iran policy.",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "US President Donald Trump told an Italian newspaper that PM Giorgia Meloni, one of his closest allies, lacked courage for failing to join the US in attacking Iran.",
-            "score": 44,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjj66ibpck22"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 19,
-        "score": 43,
-        "topic": "Tokyo DisneySea 25th Anniversary",
-        "domain": "japan",
-        "headline": "Tokyo DisneySea Celebrates 25 Years Foreign Growth",
-        "summary": "Tokyo DisneySea marks 25th anniversary with 'Sparkling Jubilee' celebration as international visitors increasingly fuel park growth. Foreign tourism becomes key driver for Japanese theme park sector recovery.",
-        "signal": "Japan's tourism recovery strength could indicate broader economic resilience and yen competitiveness trends.",
-        "sources": [
-          "Nikkei Asia"
-        ],
-        "source_url": "https://asia.nikkei.com/business/travel-leisure/tokyo-disneysea-celebrates-25-years-as-foreigners-increasingly-fuel-growth",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u6771\u4eac\u30c7\u30a3\u30ba\u30cb\u30fc\u30b7\u30fc\u304c\u958b\u696d25\u5468\u5e74\u3000\u300c\u9b45\u529b\u3092\u62e1\u5927\u3001\u30b2\u30b9\u30c8\u306b\u611f\u8b1d\u300d",
-            "score": 43,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjiz2gjf7r2n"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 20,
-        "score": 26,
-        "topic": "Iraq Tanker Hormuz Transit",
-        "domain": "commodities",
-        "headline": "Iraq-Bound Tanker Crosses Strait of Hormuz",
-        "summary": "Iraq-bound supertanker successfully sailed through Strait of Hormuz westbound, potentially the first to head west through contested waterway during current tensions. Transit tests effectiveness of US blockade enforcement.",
-        "signal": "Successful tanker transits could indicate gaps in US blockade or negotiated exceptions affecting oil market calculations.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "First reported tanker transit through contested waterway could signal blockade limitations or evolving enforcement strategy.",
         "social_signals": [
           {
             "handle": "bloomberg.com",
