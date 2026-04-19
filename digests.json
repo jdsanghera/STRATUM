@@ -1,5 +1,472 @@
 [
   {
+    "timestamp": "2026-04-19T20:06:10.567355+00:00",
+    "timestamp_ist": "20 Apr 2026 \u00b7 01:36 IST",
+    "story_count": 20,
+    "avg_score": 59,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 94,
+        "topic": "US Iran Hormuz Escalation",
+        "domain": "geopolitics",
+        "headline": "US Seizes Iranian Ship as Hormuz Standoff Escalates",
+        "summary": "Trump announces US forces have seized Iranian cargo vessel Touska after Iran closed the Strait of Hormuz again and fired on passing ships. Multiple wire services confirm the dramatic escalation with widespread shipping disruptions and U-turns as vessels flee the area.",
+        "signal": "Watch for oil price spikes and potential military confrontation as peace talks appear to collapse.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Al Jazeera English",
+          "The National (UAE)",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "US president says his country's \u200bforces \u2060stopped cargo \u2060ship Touska by 'blowing a hole' in \u200cits engine room.",
+            "score": 47,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjuqkhhdne24"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: US President Donald Trump has said in a social media post that US marines have custody of an Iranian-flagged vessel that tried to get through the US blockade in the Strait of Hormuz.",
+            "score": 59,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjupat5cgk2e"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 81,
+        "topic": "US Iran Peace Talks",
+        "domain": "geopolitics",
+        "headline": "Iran Rejects Second Round US Peace Talks",
+        "summary": "Iranian officials refuse new face-to-face negotiations citing Washington's 'maximalist' demands, while Trump claims talks will continue Monday in Pakistan. Energy Secretary Wright remains optimistic about reaching agreement despite Tehran's defiance.",
+        "signal": "Failure of Pakistan-mediated talks could trigger renewed military action as Trump's ceasefire ultimatum approaches.",
+        "sources": [
+          "Associated Press",
+          "Times of India",
+          "Middle East Eye",
+          "Politico Europe"
+        ],
+        "source_url": "https://apnews.com/article/iran-deputy-foreign-minister-interview-40d8e43e3c7b5a23cda6783b064b9dbf",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 78,
+        "topic": "ECB Monetary Policy Shift",
+        "domain": "macro",
+        "headline": "ECB Backs Away From April Rate Hike",
+        "summary": "European Central Bank officials show optimism as US-Iran peace talks raise prospects of energy shipment resumption from the Gulf. Credit investors are loading up on riskier debt, betting the Iran-US truce can be extended.",
+        "signal": "ECB dovish pivot could weaken Euro and boost European equities if energy crisis fears subside.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/ecb-moves-away-from-april-hike-as-peace-talks-progress-overview",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 73,
+        "topic": "Bulgaria Russia Election Victory",
+        "domain": "europe",
+        "headline": "Pro-Russian Radev Wins Bulgarian Election",
+        "summary": "Former President Rumen Radev, who opposes sanctions against Russia and military aid for Ukraine, is set to win Bulgaria's election according to exit polls. His victory signals potential shift toward Moscow alignment in EU member state.",
+        "signal": "Watch for EU unity challenges and potential Russian influence expansion in Eastern Europe.",
+        "sources": [
+          "Politico Europe",
+          "Japan Times",
+          "@theguardian.com",
+          "@bloomberg.com"
+        ],
+        "source_url": "https://www.politico.eu/article/bulgaria-election-russia-rumen-radev-win-exit-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Party of Bulgaria's pro-Russian former president ahead in exit polls",
+            "score": 37,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjumwienc72o"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Former President Rumen Radev, who opposes sanctions against Russia and military aid for Ukraine, is on track to win Bulgaria's eighth general election since 2021",
+            "score": 37,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjupux4dzw22"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 70,
+        "topic": "Modi Women Quota Defeat",
+        "domain": "india",
+        "headline": "Modi Women's Quota Amendment Fails in Parliament",
+        "summary": "Prime Minister Modi's proposal to fast-track women's reservation and expand Parliament seats was struck down by opposition parties. The defeat represents a significant legislative setback linking delimitation to gender quotas.",
+        "signal": "Political opposition unity against Modi could signal challenges for BJP's reform agenda ahead of elections.",
+        "sources": [
+          "Bloomberg",
+          "Times of India"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/modi-attacks-rivals-after-failed-bid-to-fast-track-women-s-quota",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 69,
+        "topic": "UK Mandelson Security Scandal",
+        "domain": "europe",
+        "headline": "Starmer Faces Commons Showdown Over Mandelson Appointment",
+        "summary": "UK Prime Minister Starmer's leadership is under pressure over appointing Peter Mandelson as ambassador despite his Jeffrey Epstein connections. Senior official ousted over security vetting will face MPs as scandal deepens.",
+        "signal": "Potential leadership crisis could destabilize UK government and impact Brexit-related policies.",
+        "sources": [
+          "BBC News",
+          "S. China Morning Post",
+          "@theguardian.com"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c0kryzd8l7no",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Starmer faces Commons showdown over Mandelson vetting scandal",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjup7teojs2i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 65,
+        "topic": "Ukraine Kyiv Mass Shooting",
+        "domain": "geopolitics",
+        "headline": "Moscow Man Kills Six in Kyiv Shooting",
+        "summary": "A 58-year-old Moscow man killed six people and took hostages in Kyiv before being shot dead by police. Ukraine's police patrol chief resigned over officers' 'shameful' response to the attack.",
+        "signal": "Incident could escalate tensions with Russia and raise questions about Ukraine's internal security.",
+        "sources": [
+          "Al Jazeera English",
+          "BBC News",
+          "S. China Morning Post"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/18/ukraine-police-shoot-dead-gunman-who-killed-six-in-kyiv-took-hostages",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 64,
+        "topic": "Louisiana Mass Shooting Children",
+        "domain": "geopolitics",
+        "headline": "Eight Children Killed in Louisiana Mass Shooting",
+        "summary": "A gunman killed eight children aged 1-14 in domestic-related shootings at different homes in Shreveport, Louisiana before dying himself. Total of 10 people were shot in the early Sunday incident.",
+        "signal": "Tragic domestic violence escalation highlights ongoing US gun violence crisis.",
+        "sources": [
+          "The National (UAE)",
+          "S. China Morning Post",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://www.thenationalnews.com/news/us/2026/04/19/louisiana-mass-shooting/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Eight children killed in mass shooting in Louisiana, US media reports",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjugil74qx23"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 62,
+        "topic": "French Film Star Death",
+        "domain": "europe",
+        "headline": "French Cinema Icon Nathalie Baye Dies at 77",
+        "summary": "Acclaimed French actress Nathalie Baye has died at age 77, with President Macron saying France had 'loved, dreamed and grown up' with the cinema stalwart. She was a major figure in French film for decades.",
+        "signal": "Cultural loss may prompt tributes but limited broader market impact.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cn9q48y9wr7o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 58,
+        "topic": "UNIFIL French Soldier Killed",
+        "domain": "middleeast",
+        "headline": "French UNIFIL Peacekeeper Killed in Lebanon Attack",
+        "summary": "A French soldier serving with UN peacekeeping forces in Lebanon was killed in an attack, just days after Israel and Lebanon announced a 10-day ceasefire. The incident threatens the fragile truce.",
+        "signal": "Peacekeeping casualties could undermine ceasefire stability and escalate regional tensions.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/18/french-soldier-serving-with-unifil-killed-in-lebanon-attack",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 55,
+        "topic": "Peru F-16 Deal Delay",
+        "domain": "geopolitics",
+        "headline": "Peru Delays $2 Billion F-16 Fighter Deal",
+        "summary": "Peru canceled contract-signing ceremony for $2 billion worth of Lockheed Martin F-16 fighter jets, drawing veiled US criticism. The delay affects major US defense export and regional military balance.",
+        "signal": "Defense deal delays may signal broader Latin American resistance to US military cooperation.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/peru-delays-2-billion-f-16-deal-drawing-us-backlash",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 52,
+        "topic": "Egypt New City Project",
+        "domain": "middleeast",
+        "headline": "Egypt Unveils $27 Billion New City Project",
+        "summary": "Talaat Moustafa Group unveiled plans for a $27 billion new city on Cairo's outskirts, representing massive infrastructure investment amid Egypt's economic challenges. The 1.4 trillion Egyptian pound project signals ambitious urban development.",
+        "signal": "Major infrastructure spending could strain Egypt's finances but boost construction sector.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/egypt-s-talaat-moustafa-unveils-plan-for-27-billion-new-city",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 50,
+        "topic": "Rubis Trafigura Fuel Merger",
+        "domain": "commodities",
+        "headline": "Rubis Explores Merger With Trafigura's Puma Energy",
+        "summary": "French fuel distributor Rubis is exploring potential combination with Trafigura's retail fuel business Puma Energy to expand geographical reach. The deal would reshape global fuel distribution landscape.",
+        "signal": "Energy sector consolidation could create pricing power and supply chain efficiencies.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/rubis-said-to-weigh-combination-with-trafigura-s-puma-fuel-unit",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 48,
+        "topic": "Trump Psychedelics Order",
+        "domain": "corporate",
+        "headline": "Trump Orders Accelerated Psychedelics Drug Reviews",
+        "summary": "President Trump directed administration to speed up reviews of psychedelic drugs including ibogaine for PTSD treatment. The drugs remain banned under most restrictive category but could see regulatory pathway.",
+        "signal": "Psychedelic therapy sector could see investment surge and regulatory breakthroughs.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/ibogaine-psychedelic-trump-fda-ptsd-veterans-kennedy-a9940fa57fa1457fc064eb5165003524",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 46,
+        "topic": "Arsenal City Title Race",
+        "domain": "corporate",
+        "headline": "Manchester City Beat Arsenal in Premier League Showdown",
+        "summary": "Erling Haaland's goals helped Manchester City defeat Arsenal, giving them crucial advantage in the Premier League title race. Arsenal boss Arteta remains defiant saying the title race 'starts now'.",
+        "signal": "Sports outcome affects betting markets and fan engagement but limited broader impact.",
+        "sources": [
+          "@theguardian.com",
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Premier League title race developments drive significant betting and media engagement.",
+        "social_signals": [
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Erling Haaland sinks Arsenal to give Manchester City edge in title race",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjujnoruzm2o"
+          },
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Title race starts now, says defiant Arsenal boss Arteta",
+            "score": 50,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjupypcxcw2q"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 16,
+        "score": 44,
+        "topic": "Trump IRS Tax Lawsuit",
+        "domain": "geopolitics",
+        "headline": "Trump Administration Negotiates $10 Billion IRS Settlement",
+        "summary": "Trump's lawyers are in talks with IRS to resolve $10 billion lawsuit over leaked tax information. The case raises legal and ethical questions about presidential conflicts of interest.",
+        "signal": "Settlement terms could set precedent for executive privilege and financial transparency.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/trump-treasury-irs-lawsuit-tax-whistleblower-c710244db618b066f3070a65e75820a5",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 43,
+        "topic": "Japan Knee Regeneration Trial",
+        "domain": "japan",
+        "headline": "Japan Launches World's First Knee Regeneration Trial",
+        "summary": "Japanese researchers begin world's first clinical trial for regenerative knee treatment, targeting thousands of potential patients annually with knee joint bone necrosis. The breakthrough could revolutionize orthopedic medicine.",
+        "signal": "Medical technology advancement could boost Japanese biotech sector and global licensing opportunities.",
+        "sources": [
+          "@nikkei.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Medical breakthrough from major Japanese institution signals potential biotech sector catalyst.",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u819d\u95a2\u7bc0\u306e\u518d\u751f\u533b\u7642\u30017\u6708\u306b\u4e16\u754c\u521d\u306e\u6cbb\u9a13\u3000\u85e4\u7530\u533b\u79d1\u5927\u5b66\u3084\u30b5\u30a4\u30d5\u30e5\u30fc\u30ba",
+            "score": 43,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjtz65avhm2y"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 18,
+        "score": 42,
+        "topic": "Virudhunagar Firecracker Blast",
+        "domain": "india",
+        "headline": "23 Killed in Tamil Nadu Firecracker Factory Explosion",
+        "summary": "Massive explosion at Virudhunagar firecracker manufacturing unit killed at least 23 people. The blast originated in front veranda where workers were handling raw materials in final manufacturing stages.",
+        "signal": "Industrial safety concerns may prompt regulatory crackdown on firecracker industry.",
+        "sources": [
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.ndtvprofit.com/india/at-least-23-people-killed-in-massive-explosion-at-virudhunagar-firecracker-unit-11380328#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 19,
+        "score": 39,
+        "topic": "IPL Punjab Kings Victory",
+        "domain": "india",
+        "headline": "Punjab Kings Thrash Lucknow in 54-Run Win",
+        "summary": "Priyansh Arya and Cooper Connolly's 182-run partnership powered Punjab Kings to 254/7, leading to comprehensive 54-run victory over Lucknow Super Giants. PBKS maintains unbeaten streak and top position.",
+        "signal": "Strong IPL performance boosts team valuation and fan engagement metrics.",
+        "sources": [
+          "Times of India",
+          "The Hindu",
+          "Indian Express"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-priyansh-arya-and-cooper-connollys-brutal-ball-striking-tears-apart-lsg-as-pbks-seal-54-run-win/articleshow/130376051.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 20,
+        "score": 38,
+        "topic": "London Jewish Sites Arson",
+        "domain": "europe",
+        "headline": "UK Police Investigate Iran Links to Jewish Site Attacks",
+        "summary": "Metropolitan Police counterterror officers are investigating potential Iranian proxy connections to string of arson attacks on Jewish sites in London. Chief rabbi reports campaign of violence and intimidation against British Jews.",
+        "signal": "Iran proxy activities in UK could escalate diplomatic tensions and security concerns.",
+        "sources": [
+          "S. China Morning Post",
+          "@aljazeera.com"
+        ],
+        "source_url": "https://www.scmp.com/news/world/europe/article/3350657/uk-police-investigating-iran-link-arson-attacks-jewish-sites-london?utm_source=rss_feed",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Met Police investigate potential Iran links to London arson attacks",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjui67tth32k"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-19T19:57:34.552466+00:00",
     "timestamp_ist": "20 Apr 2026 \u00b7 01:27 IST",
     "story_count": 15,
@@ -14798,499 +15265,5 @@
       }
     ],
     "social_count": 28
-  },
-  {
-    "timestamp": "2026-04-15T20:33:48.758029+00:00",
-    "timestamp_ist": "16 Apr 2026 \u00b7 02:03 IST",
-    "story_count": 23,
-    "avg_score": 60,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 84,
-        "topic": "US-Iran Peace Talks",
-        "domain": "geopolitics",
-        "headline": "Pakistan mediates US-Iran talks as Trump claims breakthrough possible",
-        "summary": "Pakistan's army chief landed in Iran with a new US message as Pakistani officials propose a second round of US-Iran talks following inconclusive negotiations in Pakistan. Trump claims the war 'can be over very soon' while Vice President Vance says talks 'made some progress,' though key disputes over Iran's nuclear program and the Strait of Hormuz blockade persist.",
-        "signal": "Watch for any concrete announcements from Pakistan mediation efforts or Iranian response to new US proposals.",
-        "sources": [
-          "Times of India",
-          "Associated Press",
-          "Al Jazeera English",
-          "The Hindu",
-          "Politico Europe",
-          "Middle East Eye",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-14-2026",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Sources tell Al Jazeera that Pakistani mediators are hopeful about a breakthrough on Iran's nuclear programme.",
-            "score": 31,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjkoorzxwr2f"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 78,
-        "topic": "US Hormuz Blockade",
-        "domain": "geopolitics",
-        "headline": "Trump escalates Iran tensions with full naval blockade",
-        "summary": "Trump announced a blockade of all Iranian ports following failed 21-hour ceasefire talks in Pakistan, with the US reporting nine vessels turned back in 48 hours. Iranian ships continue crossing the Strait despite the blockade, as Iran accuses the US of 'piracy' and thousands rally in Tehran against the measure.",
-        "signal": "Monitor shipping data and oil prices as blockade effectiveness remains questionable despite US claims.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "The National (UAE)",
-          "Economic Times"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-talks-ceasefire-36cd009a0b238fcad4665a5a02cc895e",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 78,
-        "topic": "Israel-Lebanon Direct Talks",
-        "domain": "geopolitics",
-        "headline": "Israel and Lebanon hold first direct talks since 1993",
-        "summary": "Israel and Lebanon met for their first high-level talks in over 30 years in what Israel's US ambassador called a 'victory for sanity,' though officials downplayed hopes for ending the Hezbollah war. The US-brokered talks face threats from Hezbollah's rejection and over 2,100 people have been killed in Lebanon since Israeli attacks resumed in March.",
-        "signal": "Track whether Hezbollah's opposition derails these unprecedented direct negotiations.",
-        "sources": [
-          "Bloomberg",
-          "Al Jazeera English",
-          "Middle East Eye"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/israel-hails-lebanon-talks-despite-slim-chances-for-breakthrough",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 73,
-        "topic": "Iran War Economic Impact",
-        "domain": "macro",
-        "headline": "IMF warns Iran war threatens global growth, UK hardest hit",
-        "summary": "The IMF downgraded global growth to 3.1% from 3.3% due to the Iran war, with the UK facing the biggest hit among major economies. The fund warns the conflict threatens to throw the global economy 'off course' and could turbocharge a looming government debt crisis as aging populations meet price-sensitive bond markets.",
-        "signal": "Prepare for prolonged global economic weakness if Iran conflict escalates further.",
-        "sources": [
-          "Associated Press",
-          "BBC News",
-          "Politico Europe"
-        ],
-        "source_url": "https://apnews.com/article/economy-imf-outlook-iran-war-trump-inflation-growth-e3d8a239509abb50757f8c8d42fb32d8",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "falling",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 70,
-        "topic": "Swalwell Sexual Assault Allegations",
-        "domain": "geopolitics",
-        "headline": "Democratic Rep Swalwell resigns after rape allegations surface",
-        "summary": "California Rep Eric Swalwell and Texas Rep Tony Gonzales officially resigned from Congress following sexual misconduct allegations. A California woman accused Swalwell of drugging and raping her in 2018, prompting his withdrawal from the California governor's race.",
-        "signal": "Watch for potential special elections and impacts on Democratic House margins.",
-        "sources": [
-          "Associated Press",
-          "Bloomberg"
-        ],
-        "source_url": "https://apnews.com/article/eric-swalwell-congress-rape-accusation-california-bd42cd883afdcb20990c3fa4b0d82f9d",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 66,
-        "topic": "Venezuela Sanctions Relief",
-        "domain": "geopolitics",
-        "headline": "US eases Venezuela sanctions after Maduro capture",
-        "summary": "The Trump administration is easing sanctions on Venezuela to allow transactions with the country's central bank following the capture of former president Nicol\u00e1s Maduro. The move aims to revive Venezuela's oil sector as Trump pushes energy production increases.",
-        "signal": "Monitor Venezuelan oil output increases and potential market supply impacts.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/us-eases-venezuela-sanctions-to-allow-central-bank-transactions",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 66,
-        "topic": "Disney Mass Layoffs",
-        "domain": "corporate",
-        "headline": "Disney begins layoffs expected to cut 1,000 jobs",
-        "summary": "Walt Disney Co. has begun layoffs expected to lead to 1,000 job cuts across the company following earlier consolidation of Disney's marketing division. CEO Josh D'Amaro announced broader layoffs following moves in January to streamline operations.",
-        "signal": "Watch for further cost-cutting measures at major media companies facing streaming pressures.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/disney-layoffs-8434044668b03755c8a8c7a4b51f57bd",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 66,
-        "topic": "Commerzbank Takeover Battle",
-        "domain": "markets",
-        "headline": "Commerzbank CEO says UniCredit valuation talks at odds",
-        "summary": "Commerzbank CEO Bettina Orlopp said she has had talks with UniCredit about a deal after the Italian bank announced a takeover bid for the German lender. The two companies remain at odds over valuation in what could be a major European banking consolidation.",
-        "signal": "Monitor for regulatory approval challenges and potential nationalist resistance to the Italian takeover.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/commerzbank-ceo-says-bank-unicredit-are-at-odds-over-valuation",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 65,
-        "topic": "DHS Funding Deal",
-        "domain": "geopolitics",
-        "headline": "Senate leader pushes GOP on narrow DHS funding",
-        "summary": "Senate Majority Leader John Thune will push Republicans to accept narrowly focused legislation to end the record-long funding lapse at the Department of Homeland Security. The move shelves GOP demands for other priorities to focus on core DHS operations.",
-        "signal": "Watch for Republican unity on the compromise and potential government function impacts.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/thune-to-press-fractious-gop-to-back-narrow-dhs-funding-plan",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 64,
-        "topic": "Lebanon IMF Emergency Aid",
-        "domain": "macro",
-        "headline": "IMF discusses $1 billion emergency aid for Lebanon",
-        "summary": "The International Monetary Fund and Lebanon are discussing fast-track assistance up to $1 billion to help the country absorb the impact of the Middle East war. The rapid financing would provide immediate relief as Lebanon faces economic pressure from the ongoing conflict.",
-        "signal": "Monitor for IMF approval and Lebanese economic stability amid continued Israeli strikes.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/imf-lebanon-hold-talks-on-up-to-1-billion-in-rapid-financing",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 62,
-        "topic": "AI Bot Internet Traffic",
-        "domain": "corporate",
-        "headline": "AI bots now comprise half of internet traffic",
-        "summary": "Over half of the planet's internet traffic now consists of AI bots, according to Lumen Technologies CEO Kate Johnson. This shift is forcing executives across sectors to rethink how companies handle network infrastructure and capacity planning.",
-        "signal": "Expect network infrastructure investment acceleration and potential service disruption risks.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/lumen-ceo-says-ai-bots-are-taking-over-the-internet",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 62,
-        "topic": "Argentina Energy Inflation",
-        "domain": "macro",
-        "headline": "Argentina inflation surges on Iran war energy shock",
-        "summary": "Argentina's inflation picked up more than expected in March as prices at the pump rose sharply due to the Iran war and education costs surged on annual tuition adjustments. The energy shock from Middle East conflict is driving broader price pressures across the economy.",
-        "signal": "Watch for regional spillover effects as energy-dependent economies face inflation pressures.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/argentina-inflation-picked-up-more-than-expected-on-energy-shock",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 60,
-        "topic": "Spain Immigration Amnesty",
-        "domain": "europe",
-        "headline": "Spain approves amnesty for 500,000 undocumented immigrants",
-        "summary": "The Spanish government approved an amnesty programme that could see 500,000 undocumented people apply for legal status. The plan makes Spain an outlier as anti-immigration sentiments fester elsewhere in Europe.",
-        "signal": "Monitor for EU political backlash and potential migration flow changes toward Spain.",
-        "sources": [
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/14/spanish-government-approves-amnesty-programme-for-undocumented-immigrants-2",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 58,
-        "topic": "Rohingya Boat Tragedy",
-        "domain": "geopolitics",
-        "headline": "250 Rohingya feared missing in Andaman Sea capsizing",
-        "summary": "About 250 people, including children, are feared missing after a Rohingya boat capsized in the Andaman Sea, according to the United Nations. The tragedy highlights the continuing plight of displaced Rohingya refugees seeking safety.",
-        "signal": "Watch for increased regional pressure on Myanmar and refugee policy responses.",
-        "sources": [
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/14/hundreds-missing-after-rohingya-boat-capsizes-in-andaman-sea-un",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 58,
-        "topic": "Deportation Court Ruling",
-        "domain": "geopolitics",
-        "headline": "Appeals court blocks Trump deportation flight contempt case",
-        "summary": "A federal appeals court ordered a judge to end his 'intrusive' contempt investigation of the Trump administration for failing to comply with orders over Venezuelan migrant deportation flights. The ruling removes legal obstacles to continued deportation operations.",
-        "signal": "Expect accelerated deportation operations with reduced judicial oversight constraints.",
-        "sources": [
-          "Al Jazeera English",
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/trump-judge-boasberg-contempt-f5ab5110336be20773e8aa8d5b484879",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 55,
-        "topic": "Caterpillar EV Acquisition",
-        "domain": "corporate",
-        "headline": "Caterpillar acquires struggling electric tractor startup Monarch",
-        "summary": "Caterpillar acquired self-driving electric tractor startup Monarch, representing one of a growing number of green companies struggling to commercialize their technology. The move expands Caterpillar's push into autonomous electric equipment.",
-        "signal": "Watch for accelerated consolidation as established industrials acquire struggling green-tech startups.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/caterpillar-acquires-california-based-electric-tractor-startup-monarch",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 54,
-        "topic": "Tax Day Funding Pressure",
-        "domain": "markets",
-        "headline": "Tax payments threaten to pressure calm US funding",
-        "summary": "Wall Street strategists expect robust Treasury cash inflows this week as Americans pay taxes, potentially pressuring relatively calm US funding markets. The seasonal drain could test market liquidity conditions.",
-        "signal": "Monitor repo rates and money market conditions for signs of funding stress.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/a-tax-day-cash-drain-is-coming-for-calm-us-funding-markets",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 50,
-        "topic": "Middle East Energy Damage",
-        "domain": "commodities",
-        "headline": "Middle East war damage may cost $58 billion",
-        "summary": "Middle East war damage to energy assets may cost up to $58 billion according to research firm Rystad. The assessment highlights the massive infrastructure costs from the ongoing Iran conflict.",
-        "signal": "Monitor for insurance market impacts and energy security investment acceleration.",
-        "sources": [
-          "@reuters.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Significant infrastructure damage estimate could drive energy security investments and insurance costs.",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Middle East war damage to energy assets may cost up to $58 billion, research firm Rystad says",
-            "score": 50,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjkpjvnj3n2v"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 19,
-        "score": 49,
-        "topic": "Trump Tariff Refund Issue",
-        "domain": "markets",
-        "headline": "Trump flags delays in $166 billion tariff refunds",
-        "summary": "The Trump administration is flagging an issue that could delay refunds of about $166 billion in tariffs overturned by the US Supreme Court earlier this year. The potential delays could impact business cash flows significantly.",
-        "signal": "Watch for business working capital pressures and legal challenges to refund delays.",
-        "sources": [
-          "@bloomberg.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Massive tariff refund delays could create significant business cash flow issues.",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "The Trump administration is flagging an issue that it says could delay refunds of about $166 billion in tariffs that were overturned by the US Supreme Court earlier this year.",
-            "score": 49,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjkqeqf5k32t"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 20,
-        "score": 45,
-        "topic": "Ticketmaster Antitrust Verdict",
-        "domain": "corporate",
-        "headline": "Jury finds Ticketmaster has anticompetitive monopoly",
-        "summary": "A jury found that Ticketmaster and Live Nation had an anticompetitive monopoly over big concert venues. The verdict could lead to significant changes in the live entertainment ticketing industry.",
-        "signal": "Expect potential breakup orders and major shifts in concert ticketing market structure.",
-        "sources": [
-          "@apnews.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Major antitrust verdict could reshape the entire live entertainment industry.",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "BREAKING: A jury finds that Ticketmaster and Live Nation had an anticompetitive monopoly over big concert venues.",
-            "score": 45,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjkm2yncjs2p"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 21,
-        "score": 42,
-        "topic": "Hungary Political Transition",
-        "domain": "europe",
-        "headline": "Magyar urges Hungarian president to quit, targets media",
-        "summary": "Hungary's prime minister-elect Peter Magyar is urging the president to resign and vows to overhaul state-controlled media after defeating Viktor Orb\u00e1n. Magyar promises to shut down Orb\u00e1n-affiliated broadcasters until they guarantee objective reporting.",
-        "signal": "Watch for EU relations improvement and potential reversal of Hungarian autocratic policies.",
-        "sources": [
-          "@aljazeera.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Major democratic transition in Hungary could significantly alter EU dynamics.",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Hungary's Magyar urges president to quit, vows to overhaul state media",
-            "score": 42,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjkqefywhc2f"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 22,
-        "score": 37,
-        "topic": "Trump Pope Clash",
-        "domain": "geopolitics",
-        "headline": "Trump lashes out at Pope over Iran criticism",
-        "summary": "US President Donald Trump has lashed out at the Pope over calls for peace and criticism of the US war on Iran. The confrontation highlights growing tensions between Trump and traditional diplomatic voices calling for de-escalation.",
-        "signal": "Monitor for further diplomatic isolation as Trump rejects international peace appeals.",
-        "sources": [
-          "@aljazeera.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Unusual diplomatic clash with Vatican could signal further international isolation.",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "US President Donald Trump has lashed out at pope over calls for peace and criticism of US war on Iran.",
-            "score": 37,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjkmz42bfr2a"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 23,
-        "score": 37,
-        "topic": "Sudan War Escalation",
-        "domain": "geopolitics",
-        "headline": "UN calls end to Sudan nightmare as conflict enters year four",
-        "summary": "UN chief calls for end to 'nightmare' war as Sudan's conflict enters its fourth year, while Khartoum rejects an international conference as 'colonial tutelage approach.' Hundreds have been killed by drone strikes in recent months.",
-        "signal": "Watch for further humanitarian crisis deepening and regional destabilization.",
-        "sources": [
-          "@aljazeera.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Four-year conflict escalation threatens regional stability and humanitarian catastrophe.",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "UN chief calls for end to 'nightmare' war as Khartoum rejects international conference as 'colonial tutelage approach'.",
-            "score": 37,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjkjnv2dne2f"
-          }
-        ],
-        "trend": "falling",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 30
   }
 ]
