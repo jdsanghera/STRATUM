@@ -1,5 +1,364 @@
 [
   {
+    "timestamp": "2026-04-19T06:22:43.269502+00:00",
+    "timestamp_ist": "19 Apr 2026 \u00b7 11:52 IST",
+    "story_count": 17,
+    "avg_score": 48,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran Hormuz Blockade",
+        "domain": "geopolitics",
+        "headline": "Iran Closes Strait of Hormuz Until US Lifts Port Blockade",
+        "summary": "Iran's Revolutionary Guard shut down the Strait of Hormuz after initially reopening it conditionally, demanding the US lift its blockade of Iranian ports before allowing commercial traffic. Multiple incidents involving Iranian gunboats firing on vessels, including Indian-flagged ships, have escalated tensions despite ongoing peace talks.",
+        "signal": "Energy markets face continued supply disruption as critical shipping chokepoint remains contested.",
+        "sources": [
+          "Al Jazeera English",
+          "Associated Press",
+          "Bloomberg",
+          "NDTV Profit",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "IRGC says the Strait of Hormuz will remain closed until the US stops blockading Iranian ports.",
+            "score": 45,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjsp6ccqpg2j"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 75,
+        "topic": "US-Iran Peace Negotiations",
+        "domain": "geopolitics",
+        "headline": "Trump Signals Iran War End as Peace Talks Progress",
+        "summary": "President Trump telegraphs readiness to conclude the US-Iran conflict while warning attacks will resume if no deal is reached when the ceasefire expires. Iran reports progress in negotiations but says they remain far from a final agreement.",
+        "signal": "Markets should prepare for either conflict escalation or energy price relief depending on negotiation outcomes.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Al Jazeera English",
+          "Economic Times"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-17/trump-telegraphs-end-to-iran-war-as-focus-turns-to-economy",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 68,
+        "topic": "Russian Oil Sanctions Relief",
+        "domain": "commodities",
+        "headline": "US Extends Russian Oil Sanctions Waiver Amid Iran Crisis",
+        "summary": "The Treasury Department extended a 30-day pause on Russian oil sanctions to ease supply shortages from the Iran war, reversing Secretary Bessent's earlier position. The move allows countries to buy more Russian oil already loaded on tankers.",
+        "signal": "Oil price pressures may ease temporarily but underlying supply vulnerabilities remain acute.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg"
+        ],
+        "source_url": "https://apnews.com/article/russian-oil-sanctions-iran-war-95ae06ece63f4f8c1f72ac3c2dc4251f",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 65,
+        "topic": "Mandelson UK Security Crisis",
+        "domain": "geopolitics",
+        "headline": "Starmer Under Pressure as Mandelson Failed Security Vetting",
+        "summary": "PM Starmer faces resignation calls after revelations that Foreign Secretary Lord Mandelson failed security checks, with the top Foreign Office official resigning over the fiasco. Starmer promises to deliver 'relevant facts' on Monday.",
+        "signal": "UK government stability at risk, potential impact on international diplomatic initiatives.",
+        "sources": [
+          "BBC News",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c17v2452vglo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 60,
+        "topic": "China Clean Tech Exports",
+        "domain": "markets",
+        "headline": "China Clean Tech Exports Jump on Iran War Disruption",
+        "summary": "Chinese clean technology exports climbed in March as global demand for alternative energy sources surged due to traditional supply disruptions from the Iran war. The conflict has accelerated the global energy transition.",
+        "signal": "Chinese clean tech companies positioned to benefit from sustained energy supply concerns.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/china-clean-tech-exports-jump-amid-global-energy-disruption",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 55,
+        "topic": "Hungarian Government Change",
+        "domain": "europe",
+        "headline": "Orb\u00e1n Era Ends as Magyar's Tisza Party Wins Landslide",
+        "summary": "P\u00e9ter Magyar and his Tisza party secured a dramatic landslide victory in Hungary, ending Viktor Orb\u00e1n's long tenure. The new PM is moving quickly to prepare for the transfer of power.",
+        "signal": "Major shift in EU dynamics as Hungary pivots away from Russia-aligned policies.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c4g40npz37lo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 50,
+        "topic": "India-Russia Military Pact",
+        "domain": "geopolitics",
+        "headline": "India-Russia Activate Military Logistics Pact for 3000 Troops",
+        "summary": "India and Russia operationalized a logistics agreement allowing each country to station up to 3,000 troops, five warships and ten aircraft in the other's territory for five years. The pact enhances military cooperation and supports joint exercises.",
+        "signal": "Deepening India-Russia defense ties could complicate Western strategic calculations in Asia.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/defence/pact-allowing-india-russia-to-station-3000-troops-5-warships-10-aircraft-in-each-others-territory-operational-report/articleshow/130361423.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 48,
+        "topic": "India Hormuz Incident",
+        "domain": "geopolitics",
+        "headline": "Iranian Gunboats Fire on Indian Vessels in Hormuz",
+        "summary": "Two India-flagged vessels were targeted by Iranian gunboats in the Strait of Hormuz, forcing a convoy of 14 ships to abort transit. India lodged a diplomatic protest with Iran over the incident.",
+        "signal": "India-Iran relations face strain as energy security concerns mount for New Delhi.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/india/you-gave-me-clearance-to-go-indian-vessels-frantic-distress-call-during-hormuz-firing-revealed/articleshow/130365499.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 45,
+        "topic": "Fermi AI CEO Departure",
+        "domain": "corporate",
+        "headline": "Fermi Shares Plunge 31% After CEO Neugebauer Exits",
+        "summary": "Fermi shares fell sharply in after-hours trading following the immediate departure of co-founder and CEO Toby Neugebauer. The company is developing a massive AI campus in Texas.",
+        "signal": "Leadership instability in AI infrastructure companies signals execution risks in the sector.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/fermi-shares-plunge-after-announcing-departure-of-ceo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 43,
+        "topic": "OpenAI Executive Exodus",
+        "domain": "corporate",
+        "headline": "OpenAI Loses Three Executives as Science Division Shuts",
+        "summary": "OpenAI saw the departure of Kevin Weil, Srinivas Narayanan, and Bill Peebles in a single day as the company dissolved its science division and folded Prism into Codex. The exits come amid OpenAI's pivot toward enterprise focus.",
+        "signal": "Structural changes at OpenAI may signal shift in AI development priorities and competitive positioning.",
+        "sources": [
+          "Indian Express",
+          "LiveMint Companies"
+        ],
+        "source_url": "https://www.livemint.com/companies/news/srinivas-narayanan-kevin-weil-bill-peebles-openai-lost-3-executives-in-one-day-as-science-division-shuts-down-11776557240056.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "falling",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 41,
+        "topic": "North Korea Missile Test",
+        "domain": "geopolitics",
+        "headline": "North Korea Launches Multiple Ballistic Missiles Off East Coast",
+        "summary": "North Korea conducted its seventh ballistic missile test this year, launching multiple missiles from the eastern Sinpo area. The tests come amid heightened regional tensions.",
+        "signal": "Escalating North Korean provocations could complicate regional security dynamics amid Iran crisis.",
+        "sources": [
+          "NDTV Profit",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.ndtvprofit.com/world/north-korea-launches-multiple-ballistic-missiles-off-east-coast-11378015#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Multiple ballistic missiles fired from eastern Sinpo area in seventh such test this year.",
+            "score": 41,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjsqtxdf6v2e"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 38,
+        "topic": "Ukraine Long-Range Strikes",
+        "domain": "geopolitics",
+        "headline": "Ukraine Drone Strikes Penetrate Russian Airspace Deny Oil Revenue",
+        "summary": "Ukraine has penetrated Russian airspace with unprecedented numbers of drones, successfully denying Russia windfall oil profits and prompting new Russian threats against Europe.",
+        "signal": "Escalating Ukraine-Russia conflict could strain European energy security further.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/features/2026/4/17/ukraines-long-range-strikes-prompt-new-russian-threat-against-europe",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 35,
+        "topic": "Houthi Threat Expansion",
+        "domain": "geopolitics",
+        "headline": "Houthis Threaten to Close Bab Al-Mandeb Strait",
+        "summary": "Yemen's Iran-aligned Houthis warned they could close the Bab al-Mandeb strait if Trump continues obstructing peace efforts. The chokepoint channels sea traffic toward the Suez Canal.",
+        "signal": "Dual chokepoint threats at Hormuz and Bab al-Mandeb could severely disrupt global trade flows.",
+        "sources": [
+          "NDTV Profit",
+          "Middle East Eye"
+        ],
+        "source_url": "https://www.ndtvprofit.com/world/iran-aligned-yemen-houthis-threaten-to-shut-bab-al-mandeb-strait-11378290#publisher=newsstand",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 32,
+        "topic": "Kyiv Mass Shooting",
+        "domain": "geopolitics",
+        "headline": "Gunman Kills Five in Kyiv Hostage Situation",
+        "summary": "At least five people were killed by a gunman in Kyiv who took hostages before being resolved by authorities. Four hostages were successfully rescued according to President Zelenskyy.",
+        "signal": "Domestic security incidents in Ukraine could strain resources amid ongoing war effort.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/at-least-5-killed-by-gunman-in-kyiv-shooting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 30,
+        "topic": "Hezbollah-France Incident",
+        "domain": "geopolitics",
+        "headline": "French Peacekeeper Killed by Hezbollah in Lebanon",
+        "summary": "A French peacekeeper was killed by Hezbollah forces in Lebanon on the second day of a fragile 10-day ceasefire between Israel and Hezbollah brokered by Washington.",
+        "signal": "Ceasefire violations threaten broader regional stability amid ongoing Iran conflict.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/french-peacekeeper-killed-hezbollah-lebanon-emmanuel-macron/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 28,
+        "topic": "Bulgaria Elections",
+        "domain": "europe",
+        "headline": "Bulgaria Holds Eighth Parliamentary Election in Five Years",
+        "summary": "Bulgarians head to polls hoping to elect a parliament capable of resolving the prolonged political impasse that has gripped the country through multiple failed governments.",
+        "signal": "Continued political instability in EU member states weakens bloc cohesion amid multiple crises.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "Bulgarians are heading to the polls for the eighth time in five years hoping to finally elect a parliament that would be capable of resolving the prolonged political impasse that has gripped the count",
+            "score": 26,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjtarkts5e2c"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Bulgarians head to polls to elect parliament for eighth time in 5 years https://aje.news/qyvkjg",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjtbmgn3na2j"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 17,
+        "score": 25,
+        "topic": "Greece Minister Resignation",
+        "domain": "europe",
+        "headline": "Greek Deputy Agriculture Minister Resigns Over Degree Fraud",
+        "summary": "Makarios Lazaridis, appointed just this month, resigned after being found to have been employed as an expert scientist without the necessary qualifications.",
+        "signal": "Governance scandals in EU periphery countries highlight institutional weaknesses.",
+        "sources": [
+          "Politico Europe"
+        ],
+        "source_url": "https://www.politico.eu/article/greece-makarios-lazaridis-deputy-agriculture-minister-resigns-degree-fraud/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-18T20:06:17.176561+00:00",
     "timestamp_ist": "19 Apr 2026 \u00b7 01:36 IST",
     "story_count": 25,
@@ -15450,461 +15809,6 @@
         "context": "",
         "social_signals": [],
         "trend": "falling",
-        "breaking_on_social": false
-      }
-    ],
-    "social_count": 30
-  },
-  {
-    "timestamp": "2026-04-14T10:50:28.013466+00:00",
-    "timestamp_ist": "14 Apr 2026 \u00b7 16:20 IST",
-    "story_count": 20,
-    "avg_score": 61,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 86,
-        "topic": "US Iran Port Blockade",
-        "domain": "geopolitics",
-        "headline": "Trump launches blockade of Iranian ports, Hormuz shipping",
-        "summary": "US military began blockading Iranian ports Monday with Trump declaring action against Iranian shipping. Multiple US allies including UK refuse support while sanctioned tankers test the blockade's enforcement.",
-        "signal": "Oil price volatility and global supply chain disruption likely as blockade effectiveness questioned.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "BBC News",
-          "Bloomberg",
-          "Wall Street Journal",
-          "@apnews.com",
-          "@aljazeera.com"
-        ],
-        "source_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-blockade-hormuz-april-13-2026-ed7a6cd4bc61dc47f317a2c82afcc1c9",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "A blockade of Iranian ports that President Donald Trump said began Monday could further disrupt oil prices.",
-            "score": 39,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjh6f4cucz2w"
-          },
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "The standoff between the United States and Iran deepened Tuesday as the U.S. declared it had blockaded Iran's ports, Tehran threatened to strike targets across the region, and Pakistan has proposed ho",
-            "score": 34,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjh5m55zef2l"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Sanctioned tankers transit Strait of Hormuz amid US blockade https://aje.news/qjmaa0",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjh6elpdqt2u"
-          },
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Russia's Lavrov visits China as US pressures Iran with Hormuz blockade https://aje.news/u8i6fy",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjh2zclpah2c"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 82,
-        "topic": "Orb\u00e1n Hungary Election Defeat",
-        "domain": "europe",
-        "headline": "Viktor Orb\u00e1n loses after 16 years, Magyar wins",
-        "summary": "Hungarian Prime Minister Viktor Orb\u00e1n suffered electoral defeat after 16 years in power to challenger P\u00e9ter Magyar. The outcome has significant implications for EU-Russia sanctions and US-European political dynamics.",
-        "signal": "EU unity on Russia sanctions likely strengthened; Trump loses key European ally.",
-        "sources": [
-          "Associated Press",
-          "BBC News"
-        ],
-        "source_url": "https://apnews.com/article/hungary-election-orban-magyar-0d0cafc08176a001218837254bc0c2a4",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 78,
-        "topic": "Trump Pope Leo Dispute",
-        "domain": "geopolitics",
-        "headline": "Trump attacks Pope Leo over Iran war criticism",
-        "summary": "President Trump blasted Pope Leo XIV after the pontiff criticized the US-Israeli war on Iran, calling him 'terrible for foreign policy'. The Pope vowed to continue his critiques despite Trump's attacks.",
-        "signal": "Religious-political rift may complicate Trump's international standing and domestic Catholic support.",
-        "sources": [
-          "Bloomberg",
-          "BBC News",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cp841y07w5xo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 76,
-        "topic": "UK Refuses US Blockade",
-        "domain": "geopolitics",
-        "headline": "Starmer rejects supporting Trump's Iran port blockade",
-        "summary": "UK Prime Minister Keir Starmer announced Britain will not support the US blockade of Iranian ports in the Strait of Hormuz. Multiple European allies including France and Spain also criticized Trump's move.",
-        "signal": "Growing transatlantic split over Iran strategy could weaken Western coordination.",
-        "sources": [
-          "Al Jazeera English",
-          "BBC News"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 74,
-        "topic": "Nitish Kumar Bihar Exit",
-        "domain": "india",
-        "headline": "Nitish Kumar resigns as Bihar CM after 21 years",
-        "summary": "Nitish Kumar resigned as Bihar Chief Minister after 21 years in power, with BJP's Samrat Choudhary set to become the first BJP leader to helm the state. This marks the end of an era in Bihar politics.",
-        "signal": "BJP consolidates control in key Indian state, strengthening Modi's political position.",
-        "sources": [
-          "The Hindu",
-          "Indian Express",
-          "NDTV News"
-        ],
-        "source_url": "https://www.thehindu.com/news/national/bihar/nitish-kumar-exits-as-bihar-chief-minister-marks-end-of-an-era/article70860696.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 72,
-        "topic": "Iran War Energy Crisis",
-        "domain": "commodities",
-        "headline": "Iran conflict drives global oil demand forecast cuts",
-        "summary": "The Iran war has forced the IEA to revise down global oil demand forecasts as supply disruptions worsen the energy crisis. Asian markets begin recovering from war-related losses but oil price volatility persists.",
-        "signal": "Prolonged energy price inflation threatens global economic recovery and monetary policy normalization.",
-        "sources": [
-          "Economic Times",
-          "Nikkei Asia",
-          "LiveMint Markets"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/news/international/business/iran-war-upends-ieas-oil-market-outlook-as-global-supply-and-demand-to-contract-in-2026/articleshow/130256073.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Global agriculture is highly exposed to the blockage of waterways, risking higher commodity prices and food inflation.",
-            "score": 31,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjgzdoeurx22"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 68,
-        "topic": "Pakistan Financial Crisis",
-        "domain": "macro",
-        "headline": "Pakistan seeks China Saudi support after UAE loan",
-        "summary": "Pakistan is in talks with Saudi Arabia and China for financial support after being forced to repay about $3 billion to the UAE. The country faces mounting financial pressure amid regional tensions.",
-        "signal": "Pakistan's debt crisis could destabilize South Asian economies and complicate regional geopolitics.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/pakistan-in-talks-with-saudi-arabia-china-after-uae-s-loan-move",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 65,
-        "topic": "Nigeria Military Airstrike Error",
-        "domain": "geopolitics",
-        "headline": "Nigerian air force kills 100 civilians in market",
-        "summary": "A Nigerian Air Force strike targeting jihadi rebels mistakenly hit a local market, killing over 100 civilians including children. Officials confirmed the misfire but provided no casualty count.",
-        "signal": "Military operational failures could undermine Nigeria's counter-terrorism efforts and regional stability.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/nigeria-airstrike-northeast-market-9da7e31dd8db3cec17e676e53f8b59cf",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 62,
-        "topic": "Turkey School Shooting",
-        "domain": "geopolitics",
-        "headline": "Turkey school shooting wounds 16, gunman dies",
-        "summary": "A 19-year-old former student wounded 16 people in a school shooting in Turkey before taking his own life as police attempted to apprehend him. The incident highlights growing security concerns in Turkish educational institutions.",
-        "signal": "Rising violence in Turkish schools may prompt security overhauls and social stability concerns.",
-        "sources": [
-          "The Hindu"
-        ],
-        "source_url": "https://www.thehindu.com/news/international/turkiye-school-shooting-april-14-2026/article70860799.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 60,
-        "topic": "Indian Worker Protests Spreading",
-        "domain": "india",
-        "headline": "Worker protests spread beyond Noida across India",
-        "summary": "Labor unrest is expanding beyond Noida to multiple Indian cities as workers demand wage increases. Police have made over 300 arrests in Noida and flagged organized WhatsApp networks coordinating protests.",
-        "signal": "Widespread labor unrest could disrupt India's manufacturing recovery and FDI attractiveness.",
-        "sources": [
-          "Times of India",
-          "Economic Times",
-          "Indian Express"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/news/india/not-just-noida-why-workers-are-protesting-across-several-cities-in-india/articleshow/130254502.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 58,
-        "topic": "Skyechip Malaysia IPO",
-        "domain": "markets",
-        "headline": "Malaysian chip designer Skyechip signs IPO underwriting deal",
-        "summary": "Chip-design firm Skyechip Bhd has signed underwriting agreements with local banks for an IPO, with proceeds targeted for AI product R&D. The move reflects continued investor appetite for semiconductor exposure.",
-        "signal": "Southeast Asian chip IPOs may signal regional tech sector confidence despite global uncertainties.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/chip-designer-skyechip-inks-underwriting-deal-for-malaysia-ipo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 56,
-        "topic": "Dangote Pan-African Refinery IPO",
-        "domain": "markets",
-        "headline": "Dangote plans multi-African stock exchange refinery listing",
-        "summary": "Aliko Dangote plans to list his oil-refining company across multiple African stock exchanges according to Nairobi bourse officials. The continent's biggest refinery seeks pan-African capital access.",
-        "signal": "African capital markets integration accelerating as regional champions seek broader investor base.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/dangote-plans-pan-african-ipo-for-continent-s-biggest-refinery",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 54,
-        "topic": "Carney Canada Election",
-        "domain": "geopolitics",
-        "headline": "Carney nears majority as Canadians vote in by-elections",
-        "summary": "Canadian PM Mark Carney is positioned to secure a majority government as voters head to polls in three by-elections. Liberals are favored to win at least two seats needed for parliamentary control.",
-        "signal": "Carney majority would stabilize Canadian policy direction and strengthen North American trade relationships.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/carney-on-verge-of-majority-as-some-canadians-head-to-polls",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 52,
-        "topic": "Philippines Energy Tax Relief",
-        "domain": "macro",
-        "headline": "Philippines removes kerosene LPG taxes amid food inflation",
-        "summary": "President Marcos Jr removed excise taxes on kerosene and LPG to combat rising food prices. The move comes as energy costs surge due to regional conflicts affecting supply chains.",
-        "signal": "Southeast Asian fiscal policy pivoting to inflation control as energy crisis deepens.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/philippines-removes-kerosene-lpg-taxes-to-temper-food-prices",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 51,
-        "topic": "Netflix Subscriber Decline Japan",
-        "domain": "corporate",
-        "headline": "Netflix Japan loses 31% users after WBC ends",
-        "summary": "Netflix usage in Japan dropped 31% after World Baseball Classic concluded, with daily users falling from 4.6 million to 3.16 million. Sports-driven subscriber churn accelerating as event ends.",
-        "signal": "Sports streaming subscriber volatility highlights content strategy risks for streaming platforms.",
-        "sources": [
-          "@nikkei.com"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Significant subscriber churn data from major streaming platform in key Asian market worth monitoring for sector trends.",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "Netflix\u5229\u7528\u8005\u3001WBC\u5f8c\u306b31%\u6e1b\u3000\u9589\u5e55\u3067\u96c6\u5ba2\u52b9\u679c\u306b\u9670\u308a www.nikkei.com/article/DGXZQO... WBC\u671f\u9593\u4e2d\u306f\u5e73\u5747460\u4e07\u4eba\u3060\u3063\u305f1\u65e5\u3042\u305f\u308a\u306e\u5229\u7528\u8005\u6570\u306f\u3001\u7d42\u4e86\u5f8c\u306e3\u670819\u65e5\u301c4\u67089\u65e5\u3067316\u4e07\u4eba\u306b\u3002 4\u67089\u65e5\u306e\u5229\u7528\u8005\u6570\u306f284\u4e07\u4eba\u3067\u3001\u7d041\u30ab\u6708\u3076\u308a\u306e\u5c11\u306a\u3055\u3067\u3057\u305f\u3002 WBC\u3092\u76ee\u5f53\u3066\u306b\u5165\u4f1a\u3057\u305f\u5951\u7d04\u8005\u304c\u3001\u89e3\u7d04\u306b\u52d5\u304d\u59cb\u3081\u3066\u3044\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002",
-            "score": 51,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjgzegfx662n"
-          }
-        ],
-        "trend": "falling",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 16,
-        "score": 48,
-        "topic": "Sudan Humanitarian Crisis",
-        "domain": "geopolitics",
-        "headline": "Millions in Sudan surviving on one meal daily",
-        "summary": "NGOs report millions in war-ravaged Sudan are surviving on just one meal per day, with people resorting to eating leaves and animal feed. North Darfur and South Kordofan states most affected.",
-        "signal": "Sudan's deepening humanitarian crisis may trigger refugee flows and require international intervention.",
-        "sources": [
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.aljazeera.com/news/2026/4/13/millions-in-war-ravaged-sudan-surviving-on-one-meal-a-day-say-ngos",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 46,
-        "topic": "Lebanon Israel Talks Opposition",
-        "domain": "middleeast",
-        "headline": "Hezbollah rejects Lebanon-Israel US talks participation",
-        "summary": "Hezbollah announced opposition to direct Lebanon-Israel negotiations set for the US and will not abide by any agreements reached. The militant group's stance complicates regional peace efforts.",
-        "signal": "Lebanese peace prospects diminished; regional conflict resolution efforts face major obstacles.",
-        "sources": [
-          "@apnews.com"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "The Lebanese militant group Hezbollah said it opposes direct Lebanon-Israel talks set to be held in the United States and will not abide by any agreements reached.",
-            "score": 44,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjh5jrfypy2k"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 18,
-        "score": 44,
-        "topic": "Nevada Earthquake",
-        "domain": "geopolitics",
-        "headline": "Magnitude 5.7 earthquake strikes rural Nevada",
-        "summary": "A magnitude 5.7 earthquake hit rural Nevada east of Carson City. The quake's impact on infrastructure and casualties remains under assessment.",
-        "signal": "Monitor for aftershocks and potential impact on regional infrastructure and mining operations.",
-        "sources": [
-          "@apnews.com"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "A magnitude 5.7 earthquake has struck a rural part of Nevada east of the state's capital of Carson City.",
-            "score": 46,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjgzebr3vd2j"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 19,
-        "score": 42,
-        "topic": "California Governor Race Shakeup",
-        "domain": "geopolitics",
-        "headline": "Swalwell exit scrambles California governor race field",
-        "summary": "Democratic Rep Eric Swalwell's sudden withdrawal from California's gubernatorial race has left rivals scrambling for his supporters. The crowded contest now lacks a clear frontrunner less than months before the primary.",
-        "signal": "California political uncertainty could impact Democratic party unity and 2028 presidential positioning.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/california-govenror-eric-swalwell-donald-trump-gavin-newsom-4967d90612894e5a58e438edfa5c37a2",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 20,
-        "score": 40,
-        "topic": "Kyoto Missing Boy Found Dead",
-        "domain": "japan",
-        "headline": "Missing 11-year-old boy found dead in Kyoto mountains",
-        "summary": "The body of 11-year-old Yuki Adachi was found in mountains near Nantan, about 2 kilometers from his school. Police are investigating the circumstances of his death.",
-        "signal": "Child safety concerns may prompt enhanced security measures around Japanese schools.",
-        "sources": [
-          "Japan Times",
-          "@nikkei.com"
-        ],
-        "source_url": "https://www.japantimes.co.jp/news/2026/04/14/japan/crime-legal/kyoto-boy-update/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u4eac\u90fd\u30fb\u5357\u4e39\u5e02\u306e\u5c71\u6797\u3067\u767a\u898b\u306e\u907a\u4f53\u3001\u884c\u65b9\u4e0d\u660e\u306e11\u6b73\u7537\u5150\u3068\u78ba\u8a8d www.nikkei.com/article/DGXZQO... #\u30cb\u30e5\u30fc\u30b9",
-            "score": 40,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjh3n3743u2l"
-          }
-        ],
-        "trend": "stable",
         "breaking_on_social": false
       }
     ],
