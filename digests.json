@@ -1,5 +1,393 @@
 [
   {
+    "timestamp": "2026-04-20T07:31:59.914745+00:00",
+    "timestamp_ist": "20 Apr 2026 \u00b7 13:01 IST",
+    "story_count": 16,
+    "avg_score": 67,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 88,
+        "topic": "US-Iran Hormuz Strait Standoff",
+        "domain": "geopolitics",
+        "headline": "US seizes Iranian ship as Hormuz Strait remains closed",
+        "summary": "US forces attacked and seized Iranian cargo ship Touska near Strait of Hormuz, escalating tensions as Iran keeps vital waterway closed to maritime traffic. Iran threatens retaliation while multiple wire services confirm LNG tankers are reversing course from the blocked strait.",
+        "signal": "Oil markets approaching $100 as 20% of global oil transit remains blocked indefinitely.",
+        "sources": [
+          "Associated Press",
+          "Bloomberg",
+          "Al Jazeera",
+          "The Guardian",
+          "Middle East Eye"
+        ],
+        "source_url": "https://apnews.com/live/iran-war-israel-trump-04-19-2026",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Tensions in the Iran war ratcheted up over the weekend as the US Navy fired upon and boarded an Iranian-flagged cargo ship in the Gulf of Oman",
+            "score": 53,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjvf3fh5442s"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "US military seized Iranian-flagged container ship, Trump says",
+            "score": 41,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjvu5rxjrj2v"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Several cruise ships trapped in the Persian Gulf as a result of the Iran war raced to exit through the Strait of Hormuz",
+            "score": 43,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjvjp2qlfe25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "topic": "US-Iran Diplomatic Talks Stalled",
+        "domain": "geopolitics",
+        "headline": "Iran signals reluctance for US talks citing maximalist demands",
+        "summary": "Iranian officials say they're not ready for face-to-face talks with the US, citing Washington's refusal to abandon maximalist demands. Pakistan stands ready to host multi-day negotiations, but Tehran expresses doubts about US seriousness amid ongoing military escalations.",
+        "signal": "Diplomatic window narrowing as military actions overshadow negotiation efforts.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera",
+          "Middle East Eye"
+        ],
+        "source_url": "https://apnews.com/article/iran-deputy-foreign-minister-interview-40d8e43e3c7b5a23cda6783b064b9dbf",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Iran's President Masoud Pezeshkian says every rational and diplomatic path should be used to reduce tensions with the US",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjvwtzkfl22x"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Pakistan ready for multi-day US-Iran talks, but Tehran unsure about joining",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjvvgo7nso24"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "topic": "North Korea Ballistic Missile Tests",
+        "domain": "geopolitics",
+        "headline": "North Korea fires cluster warhead ballistic missiles eastward",
+        "summary": "North Korea launched multiple ballistic missiles with cluster warheads towards the sea off its east coast from the Sinpo area, marking the seventh such test this year. South Korean military confirmed the unidentified missile launch as tensions remain elevated.",
+        "signal": "Escalating regional tensions as Pyongyang advances dangerous cluster munition capabilities.",
+        "sources": [
+          "Al Jazeera",
+          "Bloomberg",
+          "Times of India"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 78,
+        "topic": "Bulgaria Election Pro-Russia Victory",
+        "domain": "europe",
+        "headline": "Russia-aligned Radev wins landslide in Bulgarian election",
+        "summary": "Former President Rumen Radev secured a crushing victory in Bulgaria's eighth general election since 2021, defeating traditional parties he accused of enabling a mafia state. The Russia sympathizer's win signals potential shift in EU dynamics amid ongoing geopolitical tensions.",
+        "signal": "EU cohesion faces new test as pro-Moscow leader gains power in strategic Balkan nation.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/bulgaria-votes-with-russia-sympathizer-in-lead-what-to-watch",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 75,
+        "topic": "War Economic Impact Global",
+        "domain": "macro",
+        "headline": "Iran war revives stagflation fears for global economy",
+        "summary": "Seven weeks of Middle East conflict beginning to show cumulative global impact as business surveys reveal rising concerns. Energy price shocks from Hormuz closure threaten to combine with slowing growth, raising specter of 1970s-style stagflation across multiple economies.",
+        "signal": "Central banks may face impossible choice between fighting inflation and supporting growth.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Nikkei Asia"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/war-revives-stagflation-dangers-for-global-economy",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Investors are set to pour more money into defense, energy and technology stocks as the Middle East war forces governments to prioritize security",
+            "score": 31,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjvtr5c7ro2g"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 72,
+        "topic": "China US Ethane Dependence",
+        "domain": "commodities",
+        "headline": "Iran war deepens China's dependence on US ethane",
+        "summary": "China set to import record 800,000 tons of US ethane in April, 60% above monthly average, as Middle East conflict disrupts alternative supplies. The natural gas liquid is crucial for producing ethylene used in plastics manufacturing.",
+        "signal": "Trade dependency shifts creating new geopolitical vulnerabilities amid US-China tensions.",
+        "sources": [
+          "Japan Times",
+          "Times of India",
+          "Bloomberg"
+        ],
+        "source_url": "https://www.japantimes.co.jp/business/2026/04/20/iran-war-china-niche-gas/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "China is set to import a record volume of US ethane this month as petrochemical producers seek alternative feedstocks",
+            "score": 34,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjvs3m4w7z2i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 70,
+        "topic": "Lebanon France Peacekeeper Attack",
+        "domain": "middleeast",
+        "headline": "French peacekeeper killed in southern Lebanon attack",
+        "summary": "Staff Sgt. Florian Montorio from 17th Parachute Engineer Regiment killed and three wounded in attack on UN peacekeepers in southern Lebanon. French President Macron confirmed the casualties as regional tensions escalate despite ceasefire efforts.",
+        "signal": "UN mission viability questioned as international forces face increasing targeting.",
+        "sources": [
+          "Associated Press",
+          "The National"
+        ],
+        "source_url": "https://apnews.com/article/lebanon-israel-france-peacekeepers-5856353ddea6c1654c38c8aadf803ed7",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 68,
+        "topic": "Oil Markets Hormuz Impact",
+        "domain": "commodities",
+        "headline": "Oil prices climb toward $100 on Hormuz standoff",
+        "summary": "Oil prices surged over 5% as US-Iran stand-off keeps Strait of Hormuz closed to tanker traffic. Brent crude trading down from highs but European markets falling on supply disruption fears affecting 20% of global oil transit.",
+        "signal": "Energy markets pricing in extended closure of world's most critical oil chokepoint.",
+        "sources": [
+          "The National",
+          "Euronews",
+          "Hindu Business"
+        ],
+        "source_url": "https://www.thenationalnews.com/business/energy/2026/04/20/oil-prices-near-100-as-iranian-cargo-ship-seizure-escalates-hormuz-stand-off/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 65,
+        "topic": "Iran Executes Israeli Spies",
+        "domain": "middleeast",
+        "headline": "Iran executes two men accused of Israeli spy network",
+        "summary": "Iran executed Mohammad Masoum Shahi and Hamed Validi, accused of belonging to Mossad-linked spy network and receiving training abroad including in Iraq's Kurdistan region. The executions signal escalating intelligence war amid broader regional conflict.",
+        "signal": "Intelligence operations intensifying as Iran-Israel shadow war becomes increasingly lethal.",
+        "sources": [
+          "The Hindu"
+        ],
+        "source_url": "https://www.thehindu.com/news/international/iran-executes-two-men-accused-of-involvement-in-spy-network-linked-to-israel-judiciary-news-outlet-reports/article70883452.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 62,
+        "topic": "India Stock Market Rally",
+        "domain": "india",
+        "headline": "Nifty 50 breaks above 24400 resistance targeting 25000",
+        "summary": "Indian stock markets showed resilience with Nifty 50 breaking crucial 24,300-24,400 resistance zone despite global uncertainties. Banking stocks led gains with SBI and ICICI Bank among top performers as analysts eye 25,000 levels.",
+        "signal": "Indian markets decoupling from global risk-off sentiment, signaling domestic strength.",
+        "sources": [
+          "LiveMint",
+          "Hindu Business",
+          "NDTV Profit"
+        ],
+        "source_url": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-breaks-above-24-400-resistance-next-stop-25000-11776668944432.html",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 60,
+        "topic": "UK Mandelson Scandal",
+        "domain": "europe",
+        "headline": "Starmer faces calls to resign over Mandelson vetting",
+        "summary": "Prime Minister Keir Starmer under pressure over handling of Lord Peter Mandelson vetting scandal, with critics accusing him of a cover-up. Foreign secretary expressed concern that ministers weren't informed sooner about security clearance issues.",
+        "signal": "UK political stability at risk as leadership crisis deepens amid international tensions.",
+        "sources": [
+          "BBC News",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c80m2z42pr1o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 12,
+        "score": 58,
+        "topic": "Thailand Debt Ceiling Plan",
+        "domain": "macro",
+        "headline": "Thailand plans to borrow $15.6 billion and lift debt ceiling",
+        "summary": "Thailand's deputy PM announces plans for major borrowing program and debt ceiling increase to support economic recovery. The $15.6 billion initiative represents significant fiscal expansion as regional economies face war-related pressures.",
+        "signal": "Southeast Asian fiscal stimulus signals broader regional economic stress from global conflicts.",
+        "sources": [
+          "Reuters"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Thailand plans law to borrow $15.6 billion and lift debt ceiling, deputy PM says",
+            "score": 58,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjvvpl7hu325"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 55,
+        "topic": "Ukraine Kyiv Shooting Incident",
+        "domain": "geopolitics",
+        "headline": "Ukraine police kill gunman who murdered six in Kyiv",
+        "summary": "Ukrainian police shot dead a 58-year-old Moscow man who killed six people and took hostages in Kyiv. No motive has been established for the attack, which adds to security concerns in the war-torn capital.",
+        "signal": "Internal security threats emerging in Ukraine as war continues to strain resources.",
+        "sources": [
+          "Al Jazeera"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/18/ukraine-police-shoot-dead-gunman-who-killed-six-in-kyiv-took-hostages",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 52,
+        "topic": "India Jammu Bus Accident",
+        "domain": "india",
+        "headline": "15 killed as bus rolls down hill in J&K's Udhampur",
+        "summary": "At least 15 people died and 20 injured when a bus rolled down a hill in Jammu and Kashmir's Udhampur district while traveling from a remote village. Rescue operations are underway as authorities investigate the accident.",
+        "signal": "Infrastructure safety concerns persist in conflict-sensitive border regions.",
+        "sources": [
+          "Indian Express",
+          "NDTV News",
+          "NDTV Profit"
+        ],
+        "source_url": "https://indianexpress.com/article/india/bus-rolls-down-hill-in-jks-udhampur-many-killed-leaders-express-grief-10646146/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 15,
+        "score": 51,
+        "topic": "Beetle Mating Research Discovery",
+        "domain": "commodities",
+        "headline": "Japanese researchers find beetles mate only once for life",
+        "summary": "Yamaguchi University study reveals female Japanese beetles reject additional mates after first mating, with only 0-7% engaging in repeat mating. Research suggests evolutionary cost-benefit analysis drives this monogamous behavior unlike other beetle species.",
+        "signal": "Scientific discoveries offering insights into species survival strategies amid environmental pressures.",
+        "sources": [
+          "Nikkei"
+        ],
+        "source_url": "",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u30ab\u30d6\u30c8\u30e0\u30b7\u306e\u604b\u306f\u751f\u6daf\u306b\u4e00\u5ea6 \u4ea4\u5c3e\u5f8c\u306e\u96cc\u304c\u96c4\u3092\u62d2\u7d76\u3001\u5c71\u53e3\u5927\u5b66\u306a\u3069\u7814\u7a76",
+            "score": 51,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjvqie5dp52z"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 16,
+        "score": 48,
+        "topic": "Australia War Crimes Charges",
+        "domain": "geopolitics",
+        "headline": "Australia's most decorated soldier vows to fight war crimes",
+        "summary": "Ben Roberts-Smith, Australia's most decorated soldier, issued first statement since being charged with five counts of murder war crimes last week. He vows to fight the charges in what represents a major test case for military accountability.",
+        "signal": "Military justice systems under scrutiny as accountability mechanisms face high-profile challenges.",
+        "sources": [
+          "BBC News"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/cy91r7ww3weo",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-19T20:06:10.567355+00:00",
     "timestamp_ist": "20 Apr 2026 \u00b7 01:36 IST",
     "story_count": 20,
@@ -14839,431 +15227,5 @@
       }
     ],
     "social_count": 29
-  },
-  {
-    "timestamp": "2026-04-16T04:50:26.803177+00:00",
-    "timestamp_ist": "16 Apr 2026 \u00b7 10:20 IST",
-    "story_count": 19,
-    "avg_score": 54,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 85,
-        "topic": "US-Iran Nuclear Talks",
-        "domain": "geopolitics",
-        "headline": "Pakistan Proposes Second Round US-Iran Talks This Week",
-        "summary": "Pakistan has proposed hosting a second round of US-Iran negotiations as diplomatic channels work to arrange more talks between Washington and Tehran. Trump and Vance hint at progress while Pakistan's army chief arrives in Tehran to push for renewed dialogue.",
-        "signal": "Watch for formal announcement of Pakistan-hosted talks and Iranian response to nuclear deal breakthrough claims.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "BBC News",
-          "The National (UAE)"
-        ],
-        "source_url": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-hormuz-14-april-2026-24655d40b2d968c39949e5ec2e01535b",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Pakistani sources say there has been a 'major breakthrough' over a deal on Iran's nuclear programme",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjljj3kyaa2f"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 80,
-        "topic": "US Hormuz Strait Blockade",
-        "domain": "geopolitics",
-        "headline": "US Naval Blockade Blocks Iranian Ships From Hormuz",
-        "summary": "US forces have prevented Iranian ships from crossing the Strait of Hormuz for three consecutive days, turning back at least 10 vessels including cargo ships. One Iraq-bound supertanker successfully crossed after previous failed attempts, marking the first crude carrier to head west through the waterway since the blockade began.",
-        "signal": "Monitor oil prices and shipping rates as blockade continues; watch for Iranian retaliation or escalation.",
-        "sources": [
-          "Bloomberg",
-          "Times of India",
-          "Middle East Eye"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/iraq-bound-tanker-attempts-hormuz-crossing-into-persian-gulf",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u4e2d\u56fd\u3001\u30a4\u30e9\u30f3\u306b\u30db\u30eb\u30e0\u30ba\u6d77\u5ce1\u306e\u6b63\u5e38\u5316\u8981\u6c42\u3000\uff62\u901a\u822a\u56de\u5fa9\u306f\u56fd\u969b\u793e\u4f1a\u306e\u58f0\uff63",
-            "score": 35,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjljb2iquf25"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 75,
-        "topic": "Israel Lebanon Direct Talks",
-        "domain": "geopolitics",
-        "headline": "Israel Lebanon Hold First Direct Diplomatic Talks",
-        "summary": "Lebanon and Israel conducted direct diplomatic talks for the first time in decades, with a two-hour meeting in Washington following over a month of conflict with Hezbollah. Trump announced that Israel and Lebanon's leaders will speak on Thursday as pressure mounts for a ceasefire agreement.",
-        "signal": "Track ceasefire negotiations and potential breakthrough in decades-long diplomatic impasse.",
-        "sources": [
-          "Associated Press",
-          "Middle East Eye"
-        ],
-        "source_url": "https://apnews.com/article/lebanon-israel-us-war-hezbollah-negotiations-28b207b800de1804d8c2ab5242237542",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Trump says Israel and Lebanon's leaders will speak on Thursday",
-            "score": 46,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjll6r7kgm2c"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 70,
-        "topic": "US Oil Sanctions Waiver",
-        "domain": "commodities",
-        "headline": "US Ends Russian Iranian Oil Waivers Impacting India",
-        "summary": "The US will not extend waivers allowing sale of Russian and Iranian oil already at sea, significantly impacting countries like India that secured supplies during temporary relief. This signals a return to tighter enforcement of sanctions, forcing nations to restrategize energy procurement.",
-        "signal": "Expect volatility in Indian energy markets and potential shift to alternative suppliers; monitor rupee impact.",
-        "sources": [
-          "Times of India",
-          "Economic Times"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/business/india-business/us-wont-renew-sanctions-waiver-on-russian-iranian-oil-what-it-means-for-india/articleshow/130297227.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 68,
-        "topic": "Pentagon Weapons Production Boost",
-        "domain": "geopolitics",
-        "headline": "Pentagon Approaches Automakers To Boost Weapons Output",
-        "summary": "Senior US defense officials held discussions with top executives of American manufacturers about producing weapons and other military supplies. The Pentagon is engaging automakers to expand weapons production capacity amid ongoing conflicts.",
-        "signal": "Watch for defense contractor stock movements and industrial capacity shifts toward military production.",
-        "sources": [
-          "Middle East Eye",
-          "Wall Street Journal"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Pentagon approaches automakers, manufacturers to boost weapons production, WSJ reports",
-            "score": 56,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjllqu3x532j"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 6,
-        "score": 65,
-        "topic": "India Delimitation Bill Controversy",
-        "domain": "india",
-        "headline": "Opposition Leaders Oppose Delimitation Bill In Parliament",
-        "summary": "The government introduced delimitation and women's reservation bills in Parliament's special session, sparking fierce opposition from regional leaders. Tamil Nadu CM Stalin burned a copy of the delimitation bill while Kerala CM called it an anti-democratic move threatening federalism.",
-        "signal": "Monitor state-center tensions and potential constitutional challenges to delimitation process.",
-        "sources": [
-          "The Hindu",
-          "NDTV News"
-        ],
-        "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-burns-copy-of-delimitation-bill-terms-it-black-law/article70867576.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 62,
-        "topic": "Pakistan Saudi Financial Support",
-        "domain": "macro",
-        "headline": "Pakistan Secures $3 Billion Saudi Funding Support",
-        "summary": "Pakistan secured $3 billion in financial support from Saudi Arabia to bolster foreign exchange reserves and offset loan repayments to the UAE. The funding comes as Pakistan pushes for further US-Iran negotiations amid regional diplomatic efforts.",
-        "signal": "Watch Pakistani rupee stability and debt sustainability metrics; monitor Gulf financial diplomacy trends.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/pakistan-secures-3-billion-in-saudi-funding-to-bolster-reserves",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 58,
-        "topic": "China GDP Growth Resilience",
-        "domain": "macro",
-        "headline": "China GDP Accelerates To 5% Despite Iran War",
-        "summary": "China's economy accelerated in the first quarter, expanding 5% year-over-year as it largely shrugged off impacts from the Iran war so far. The resilient growth comes amid global uncertainties and geopolitical tensions.",
-        "signal": "Monitor Chinese export data and commodity demand patterns; watch for spillover effects on Asian markets.",
-        "sources": [
-          "Nikkei Asia",
-          "AP News"
-        ],
-        "source_url": "https://asia.nikkei.com/economy/china-s-gdp-growth-accelerates-to-5-despite-iran-war",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "China's economy accelerated in the first quarter of this year, expanding 5% from a year earlier as it largely shrugged off impacts from the Iran war so far",
-            "score": 39,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjlevaoybz26"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 55,
-        "topic": "Nvidia AI Quantum Computing",
-        "domain": "markets",
-        "headline": "Nvidia AI Models Spark Quantum Computing Rally",
-        "summary": "Asian software and IT stocks surged after Nvidia unveiled new open-source AI models aimed at accelerating quantum computing progress. The announcement triggered a rally in quantum computing-related equities across the region.",
-        "signal": "Track quantum computing stock momentum and Nvidia's strategic positioning in next-gen computing.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/nvidia-new-ai-models-spark-rally-in-quantum-computing-stocks",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 52,
-        "topic": "Swalwell Sexual Misconduct Allegations",
-        "domain": "geopolitics",
-        "headline": "Fifth Woman Accuses Former Rep Swalwell",
-        "summary": "A fifth woman has accused former US lawmaker Eric Swalwell of sexual misconduct toward staff members. The Democratic representative resigned his Congressional seat over multiple sexual misconduct allegations in what many see as a broader reckoning on Capitol Hill.",
-        "signal": "Watch for broader Congressional accountability measures and potential political ramifications for Democrats.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://apnews.com/article/eric-swalwell-tony-gonzalez-metoo-congress-41e76611027dfe4e513b9c9dedf05f68",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 50,
-        "topic": "Singapore Bonds Outperform Treasuries",
-        "domain": "markets",
-        "headline": "Singapore Bonds Surge Past US Treasuries",
-        "summary": "Singapore government bonds are extending their outperformance over US Treasuries to levels not seen since 2007, driven by falling local interbank borrowing costs and surge in haven demand. The outperformance reflects Singapore's safe-haven status amid regional tensions.",
-        "signal": "Monitor Asian safe-haven flows and potential rotation out of traditional havens toward Singapore assets.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/singapore-bonds-surge-past-treasuries-on-liquidity-haven-demand",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 48,
-        "topic": "Japan Yen Intervention Warning",
-        "domain": "markets",
-        "headline": "Japan Hints At Yen Intervention After US Talks",
-        "summary": "Japan's authorities ramped up warning language as the yen hovers around \u00a5160 to the dollar, with Finance Minister Katayama hinting at intervention after talks with US Treasury Secretary Bessent. The key psychological threshold of \u00a5160 remains in focus for potential action.",
-        "signal": "Watch for coordinated intervention if USD/JPY breaks above \u00a5160; monitor BOJ policy signals.",
-        "sources": [
-          "Japan Times"
-        ],
-        "source_url": "https://www.japantimes.co.jp/business/2026/04/16/economy/katayama-talks-fx-with-bessent/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "More Japanese firms say no to rate hikes as Iran war clouds outlook: Reuters poll",
-            "score": 36,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjll7cq6zw27"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 45,
-        "topic": "Anthropic Mythos AI Model",
-        "domain": "markets",
-        "headline": "Anthropic Gets Trump Administration Praise For Mythos",
-        "summary": "AI firm Anthropic received significant boost from Trump administration, with Treasury Secretary Bessent hailing its new Mythos model as crucial for America's AI lead over China. The praise follows a Pentagon dispute and represents a policy shift toward supporting domestic AI development.",
-        "signal": "Track US-China AI competition dynamics and federal AI policy shifts favoring domestic firms.",
-        "sources": [
-          "Bloomberg",
-          "Times of India",
-          "NDTV Profit"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/a-month-and-a-half-after-big-fight-with-pentagon-anthropic-gets-huge-compliment-from-trump-administration-and-the-reason-is-china/articleshow/130296080.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 42,
-        "topic": "Suntory Daiichi Sankyo Acquisition",
-        "domain": "corporate",
-        "headline": "Suntory Buying Daiichi Sankyo Unit For $1.3B",
-        "summary": "Suntory Holdings is set to acquire Daiichi Sankyo Healthcare, the over-the-counter pharmaceuticals subsidiary of Daiichi Sankyo, for $1.3 billion according to Nikkei reports. The deal represents Suntory's expansion beyond beverages into healthcare products.",
-        "signal": "Watch for Japanese M&A activity acceleration and pharmaceutical sector consolidation trends.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/suntory-buying-daiichi-sankyo-unit-for-1-3-billion-nikkei-says",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 40,
-        "topic": "Rohingya Boat Tragedy",
-        "domain": "geopolitics",
-        "headline": "250 Rohingya Missing In Andaman Sea Tragedy",
-        "summary": "About 250 people, including children, are feared missing after a Rohingya refugee boat capsized in the Andaman Sea due to heavy winds, rough seas and overcrowding. Survivors recounted four days at sea with rapidly deteriorating conditions before the tragedy.",
-        "signal": "Monitor regional refugee crisis and potential policy responses from Southeast Asian governments.",
-        "sources": [
-          "BBC News",
-          "Al Jazeera English",
-          "Japan Times"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cz6778j78vlo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 38,
-        "topic": "Bain Capital Abu Dhabi Expansion",
-        "domain": "markets",
-        "headline": "Bain Capital Opens Abu Dhabi Office",
-        "summary": "Bain Capital is opening an office in Abu Dhabi, marking one of the first new regional outposts announced by a major financial firm since the Iran war began. The move signals the Gulf's continued allure for global investment firms despite regional tensions.",
-        "signal": "Track capital flows to Gulf markets and expansion plans of other major financial institutions.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/bain-capital-opens-abu-dhabi-office-indicating-gulf-s-allure",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 35,
-        "topic": "Mark Mobius Death",
-        "domain": "markets",
-        "headline": "Emerging Markets Pioneer Mark Mobius Dies",
-        "summary": "Mark Mobius, the legendary pioneer of emerging markets investing, has died at age 89. Mobius was instrumental in developing global emerging market investment strategies and remained influential in the space throughout his career.",
-        "signal": "Expect tributes and potential volatility in emerging market funds as industry mourns iconic figure.",
-        "sources": [
-          "Economic Times"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/mark-mobius-pioneer-of-emerging-markets-investing-dies-at-89/articleshow/130290715.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 32,
-        "topic": "Taiwan Stock Market Milestone",
-        "domain": "markets",
-        "headline": "Taiwan Overtakes UK In Stock Market Value",
-        "summary": "Taiwan has overtaken the UK in stock market value, making it the world's seventh largest stock market as tech firms regained favor among investors. The milestone reflects the continued strength of Taiwan's technology sector amid global AI demand.",
-        "signal": "Monitor Taiwan tech sector momentum and potential geopolitical implications of rising market cap.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Taiwan's rise to seventh largest global stock market signals major shift in tech sector valuations.",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "Taiwan overtook the UK in stock market value \u2014 making it the world's seventh largest \u2014 as tech firms regained favor",
-            "score": 43,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjlda2k6qp2d"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 19,
-        "score": 30,
-        "topic": "India AI Engineering Impact",
-        "domain": "india",
-        "headline": "AI Pressures India's Computer Science Graduates",
-        "summary": "AI technology is ratcheting up pressure on the futures of the 1.5 million computer science graduates India produces annually, though it won't entirely replace engineers according to industry analysis.",
-        "signal": "Watch for Indian tech sector employment trends and potential skills retraining initiatives.",
-        "sources": [],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Significant implications for India's massive tech workforce as AI disruption accelerates.",
-        "social_signals": [
-          {
-            "handle": "bloomberg.com",
-            "platform": "bluesky",
-            "text": "AI won't entirely replace engineers, but it's ratcheting up the pressure on the futures of the 1.5 million computer science grads India churns out each year",
-            "score": 47,
-            "url": "https://bsky.app/profile/bloomberg.com/post/3mjlg6a4zx725"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 28
   }
 ]
