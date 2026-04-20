@@ -1,5 +1,424 @@
 [
   {
+    "timestamp": "2026-04-20T09:27:04.672069+00:00",
+    "timestamp_ist": "20 Apr 2026 \u00b7 14:57 IST",
+    "story_count": 16,
+    "avg_score": 55,
+    "stories": [
+      {
+        "rank": 1,
+        "score": 85,
+        "topic": "US-Iran Hormuz Standoff",
+        "domain": "geopolitics",
+        "headline": "US Seizes Iranian Cargo Ship as Hormuz Remains Closed",
+        "summary": "The US Navy seized an Iranian-flagged cargo ship in the Gulf of Oman, escalating tensions as Iran maintains closure of the Strait of Hormuz. Multiple wire services confirm the standoff has stalled diplomatic talks and forced LNG tankers to reverse course.",
+        "signal": "Oil prices approaching $100 on supply disruption fears; watch for further Iranian retaliation and impact on global shipping routes.",
+        "sources": [
+          "Bloomberg",
+          "Associated Press",
+          "Al Jazeera English",
+          "The National",
+          "@bloomberg.com",
+          "@aljazeera.com",
+          "@reuters.com"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/lng-tankers-make-u-turns-from-hormuz-as-iran-keeps-strait-shut",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Tensions in the Iran war ratcheted up over the weekend as the US Navy fired upon and boarded an Iranian-flagged cargo ship in the Gulf of Oman.",
+            "score": 53,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjvf3fh5442s"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Iran's Foreign Ministry spokesperson, Esmail Baghaei, says there are no plans for a new round of talks with the US",
+            "score": 53,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjvynlyomc2x"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "BREAKING: Iran's President Masoud Pezeshkian says every rational and diplomatic path should be used to reduce tensions with the US",
+            "score": 46,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjvwtzkfl22x"
+          },
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "Several cruise ships trapped in the Persian Gulf as a result of the Iran war raced to exit through the Strait of Hormuz",
+            "score": 43,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjvjp2qlfe25"
+          },
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Iran's president stresses importance of diplomacy while noting distrust of U.S.",
+            "score": 42,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjw4g6wpof2v"
+          },
+          {
+            "handle": "aljazeera.com",
+            "platform": "bluesky",
+            "text": "Pakistan ready for multi-day US-Iran talks, but Tehran unsure about joining",
+            "score": 36,
+            "url": "https://bsky.app/profile/aljazeera.com/post/3mjvvgo7nso24"
+          },
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "European shares slip as hopes for US-Iran peace fade",
+            "score": 36,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjw4yapjge24"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 2,
+        "score": 78,
+        "topic": "Japan Earthquake Tsunami Warning",
+        "domain": "geopolitics",
+        "headline": "Powerful 7.4 Earthquake Hits Japan, Tsunami Warnings Issued",
+        "summary": "A magnitude 7.4-7.5 earthquake struck off northern Japan triggering tsunami warnings for multiple prefectures. Bullet train services were suspended and authorities urged evacuations to higher ground.",
+        "signal": "Monitor for infrastructure damage and potential supply chain disruptions in Japanese manufacturing and shipping.",
+        "sources": [
+          "Times of India",
+          "Indian Express",
+          "Nikkei Asia",
+          "Japan Times",
+          "@apnews.com",
+          "@theguardian.com",
+          "@nikkei.com"
+        ],
+        "source_url": "https://asia.nikkei.com/economy/natural-disasters/strong-earthquake-hits-northern-japan-triggering-tsunami-warnings",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [
+          {
+            "handle": "apnews.com",
+            "platform": "bluesky",
+            "text": "BREAKING: A powerful 7.4-magnitude earthquake strikes off the northern Japanese coast, with a tsunami alert issued.",
+            "score": 50,
+            "url": "https://bsky.app/profile/apnews.com/post/3mjw2kf42332n"
+          },
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u9752\u68ee\u3067\u9707\u5ea65\u5f37\u3000\u9ad8\u5e02\u9996\u76f8\u300c\u9ad8\u53f0\u306b\u907f\u96e3\u3092\u300d\u4eba\u7684\u30fb\u7269\u7684\u88ab\u5bb3\u306f\u78ba\u8a8d\u4e2d",
+            "score": 40,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjw2krxd562y"
+          },
+          {
+            "handle": "nikkei.com",
+            "platform": "bluesky",
+            "text": "\u9752\u68ee\u3067\u5730\u9707\u3001\u5ca9\u624b\u770c\u3067\u6d25\u6ce2\u89b3\u6e2c\u3000 \u6771\u5317\u65b0\u5e79\u7dda\u306f\u6771\u4eac\u2015\u65b0\u9752\u68ee\u3067\u904b\u8ee2\u898b\u5408\u308f\u305b",
+            "score": 35,
+            "url": "https://bsky.app/profile/nikkei.com/post/3mjw2svgs6h2r"
+          },
+          {
+            "handle": "theguardian.com",
+            "platform": "bluesky",
+            "text": "Japan tsunami alert issued following powerful earthquake off northern coast \u2013 follow latest",
+            "score": 31,
+            "url": "https://bsky.app/profile/theguardian.com/post/3mjw2wtl2do25"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 3,
+        "score": 70,
+        "topic": "Crypto DeFi Hack",
+        "domain": "markets",
+        "headline": "290 Million Dollar DeFi Bridge Hack Triggers Contagion",
+        "summary": "Hackers exploited a cross-chain bridge on Saturday, draining nearly $300 million from decentralized finance infrastructure. The attack set off a ripple effect across multiple crypto platforms causing widespread disruption.",
+        "signal": "Watch for further DeFi protocol vulnerabilities and potential regulatory responses to cross-chain bridge security.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/crypto-hack-worth-290-million-triggers-defi-contagion-shock",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 4,
+        "score": 69,
+        "topic": "India South Korea Trade",
+        "domain": "india",
+        "headline": "India South Korea Agree to Upgrade Trade Pact",
+        "summary": "Prime Minister Modi and South Korean President Lee Jae Myung agreed to start negotiations upgrading their economic pact, aiming to boost bilateral trade to $50 billion by 2030. Multiple cooperation agreements were signed across chips to ships sectors.",
+        "signal": "Monitor for increased bilateral investment flows and technology transfer agreements between the two nations.",
+        "sources": [
+          "Times of India",
+          "The Hindu",
+          "NDTV Profit",
+          "Economic Times"
+        ],
+        "source_url": "https://www.thehindu.com/news/national/south-korea-president-lee-jae-myung-india-visit-bilateral-meeting-pm-modi-april-20-2026/article70883612.ece",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 5,
+        "score": 65,
+        "topic": "Bulgarian Elections Russia",
+        "domain": "europe",
+        "headline": "Bulgaria Votes with Russia Sympathizer Leading Polls",
+        "summary": "Bulgaria holds its eighth general election since 2021, with former President Rumen Radev leading polls despite Russia sympathies. The vote aims to end years of political gridlock in the EU member state.",
+        "signal": "Watch for potential shift in Bulgaria's EU alignment and NATO commitments if pro-Russia candidate wins.",
+        "sources": [
+          "Bloomberg",
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/bulgaria-votes-with-russia-sympathizer-in-lead-what-to-watch",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 6,
+        "score": 60,
+        "topic": "UK Mandelson Vetting Scandal",
+        "domain": "europe",
+        "headline": "Starmer Faces Calls to Resign Over Mandelson Affair",
+        "summary": "Prime Minister Keir Starmer confronts MPs over when he learned Peter Mandelson failed security vetting, blaming top diplomat Sir Olly Robbins for delay. Opposition calls the handling a cover-up demanding Starmer's resignation.",
+        "signal": "Political crisis could destabilize UK government and impact policy continuity on key international issues.",
+        "sources": [
+          "BBC News",
+          "Politico Europe"
+        ],
+        "source_url": "https://www.bbc.co.uk/news/articles/c80m2z42pr1o",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 7,
+        "score": 55,
+        "topic": "North Korea Missile Test",
+        "domain": "geopolitics",
+        "headline": "North Korea Launches Multiple Ballistic Missiles Eastward",
+        "summary": "North Korea fired multiple ballistic missiles from the Sinpo area in its seventh such test this year. The launches come amid heightened regional tensions and ongoing US-Iran conflict.",
+        "signal": "Monitor for escalation in Korean Peninsula tensions and potential impact on regional security discussions.",
+        "sources": [
+          "Al Jazeera English",
+          "Bloomberg"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 8,
+        "score": 52,
+        "topic": "French Peacekeeper Killed Lebanon",
+        "domain": "middleeast",
+        "headline": "French UN Peacekeeper Killed in Southern Lebanon Attack",
+        "summary": "Staff Sergeant Florian Montorio was killed and three others wounded in an attack on UN peacekeepers in southern Lebanon. President Macron confirmed the casualties amid ongoing regional tensions.",
+        "signal": "Rising risks for international peacekeeping forces could prompt mission reassessments and troop withdrawals.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_url": "https://apnews.com/article/lebanon-israel-france-peacekeepers-5856353ddea6c1654c38c8aadf803ed7",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 9,
+        "score": 50,
+        "topic": "Ukraine Kyiv Gunman Attack",
+        "domain": "geopolitics",
+        "headline": "Ukraine Police Kill Gunman Who Murdered Six",
+        "summary": "Ukrainian police shot dead a 58-year-old Moscow man who killed six people and took hostages in Kyiv. No motive has been established for the attack during ongoing conflict.",
+        "signal": "Domestic security concerns compound Ukraine's wartime challenges and resource allocation pressures.",
+        "sources": [
+          "Al Jazeera English"
+        ],
+        "source_url": "https://www.aljazeera.com/news/2026/4/18/ukraine-police-shoot-dead-gunman-who-killed-six-in-kyiv-took-hostages",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 10,
+        "score": 48,
+        "topic": "Jammu Kashmir Bus Accident",
+        "domain": "india",
+        "headline": "Bus Plunge Kills 21 in Jammu Kashmir",
+        "summary": "At least 21 people died when a bus plunged into a gorge in Udhampur district. Rescue operations are underway with authorities expecting heavy casualties and providing medical aid.",
+        "signal": "Infrastructure safety concerns highlight ongoing development challenges in mountainous border regions.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/city/jammu/7-dead-several-injured-as-bus-falls-into-gorge-in-jks-udhampur/articleshow/130382972.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 11,
+        "score": 46,
+        "topic": "Russia German Bomb Arrest",
+        "domain": "europe",
+        "headline": "Russia Detains German Woman with Rucksack Bomb",
+        "summary": "Russian authorities report detaining a German woman carrying a bomb in her rucksack. Limited details available on the incident amid ongoing tensions between Russia and Western nations.",
+        "signal": "Potential escalation in Russia-Germany tensions could impact diplomatic relations and European security cooperation.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Reuters' social signal suggests significant security incident that could affect diplomatic relations if confirmed.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Russia says it detains a German woman with a bomb in her rucksack",
+            "score": 46,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjw4p7fqfm24"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 12,
+        "score": 45,
+        "topic": "IEA Iraq Turkey Pipeline",
+        "domain": "commodities",
+        "headline": "IEA Proposes Iraq Turkey Pipeline Bypass for Hormuz",
+        "summary": "IEA Executive Director Fatih Birol proposed building a new oil pipeline from Iraq's Basra fields to Turkey's Ceyhan terminal to reduce dependence on the Strait of Hormuz. The proposal comes amid ongoing shipping disruptions.",
+        "signal": "Alternative energy corridors could reshape regional oil flows and reduce Middle East chokepoint risks.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/iea-head-pitches-iraq-turkey-pipeline-to-bypass-hormuz-hurriyet",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 13,
+        "score": 42,
+        "topic": "Vercel Data Breach AI",
+        "domain": "corporate",
+        "headline": "Vercel Confirms Security Breach via Third Party AI",
+        "summary": "Cloud development platform Vercel confirmed unauthorized access to internal systems through a compromised third-party AI tool. The breach led to takeover of an employee's Google Workspace account accessing environment variables.",
+        "signal": "AI tool security risks highlight new attack vectors for enterprise systems and third-party integrations.",
+        "sources": [
+          "Times of India",
+          "Indian Express"
+        ],
+        "source_url": "https://indianexpress.com/article/technology/tech-news-technology/vercel-confirms-data-breach-ai-tool-all-you-need-to-know-10646331/",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "stable",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 14,
+        "score": 40,
+        "topic": "Russia Gold Stake Seizure",
+        "domain": "markets",
+        "headline": "Russia Values Seized Gold Producer Stake at 1.9 Billion",
+        "summary": "Russia has valued a seized stake in gold producer UGC at $1.9 billion ahead of a May auction. The action represents continued asset seizures amid international sanctions.",
+        "signal": "Watch for further Russian asset nationalizations and impact on foreign investment confidence.",
+        "sources": [
+          "@reuters.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Significant asset seizure indicating escalation in economic warfare tactics between Russia and Western nations.",
+        "social_signals": [
+          {
+            "handle": "reuters.com",
+            "platform": "bluesky",
+            "text": "Russia values seized stake in gold producer UGC at $1.9 billion ahead of auction in May",
+            "score": 40,
+            "url": "https://bsky.app/profile/reuters.com/post/3mjw5jz3nrv2v"
+          }
+        ],
+        "trend": "stable",
+        "breaking_on_social": true
+      },
+      {
+        "rank": 15,
+        "score": 38,
+        "topic": "Ukraine Russia Refinery Strikes",
+        "domain": "geopolitics",
+        "headline": "Ukraine Strikes Russian Tuapse Refinery and Crimean Ships",
+        "summary": "Ukrainian forces targeted Russia's Tuapse refinery for the second time in a week and struck two Russian landing ships in Sevastopol Bay. The attacks represent intensified strikes on military and energy infrastructure.",
+        "signal": "Escalating Ukrainian strikes on Russian energy infrastructure could impact global oil markets and supply chains.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_url": "https://timesofindia.indiatimes.com/world/europe/watch-russias-tuapse-refinery-on-fire-after-ukraine-strikes-two-ships-struck-in-crimea/articleshow/130385184.cms",
+        "standalone_social": false,
+        "context": "",
+        "social_signals": [],
+        "trend": "rising",
+        "breaking_on_social": false
+      },
+      {
+        "rank": 16,
+        "score": 35,
+        "topic": "China US Ethane Imports",
+        "domain": "commodities",
+        "headline": "China Set for Record US Ethane Imports",
+        "summary": "China is importing a record volume of US ethane this month as petrochemical producers seek alternative feedstocks after Middle East war disrupted crucial supplies. The shift highlights supply chain adaptations.",
+        "signal": "Track commodity flow redirections and potential long-term shifts in US-China energy trade patterns.",
+        "sources": [
+          "@bloomberg.com"
+        ],
+        "source_url": "",
+        "standalone_social": true,
+        "context": "Significant trade flow change indicating supply chain adaptation to Middle East conflict disruptions.",
+        "social_signals": [
+          {
+            "handle": "bloomberg.com",
+            "platform": "bluesky",
+            "text": "China is set to import a record volume of US ethane this month as petrochemical producers seek alternative feedstocks",
+            "score": 34,
+            "url": "https://bsky.app/profile/bloomberg.com/post/3mjvs3m4w7z2i"
+          }
+        ],
+        "trend": "rising",
+        "breaking_on_social": true
+      }
+    ],
+    "social_count": 30
+  },
+  {
     "timestamp": "2026-04-20T07:31:59.914745+00:00",
     "timestamp_ist": "20 Apr 2026 \u00b7 13:01 IST",
     "story_count": 16,
@@ -14797,435 +15216,5 @@
       }
     ],
     "social_count": 0
-  },
-  {
-    "timestamp": "2026-04-16T06:27:19.678733+00:00",
-    "timestamp_ist": "16 Apr 2026 \u00b7 11:57 IST",
-    "story_count": 20,
-    "avg_score": 70,
-    "stories": [
-      {
-        "rank": 1,
-        "score": 88,
-        "topic": "US-Iran War Diplomacy",
-        "domain": "geopolitics",
-        "headline": "US Iran Blockade Holds as Trump Hints at Swift War End",
-        "summary": "US military confirms its blockade of Iranian ports is fully operational, while President Trump suggests the war may be ending soon and hints at renewed US-Iran talks potentially in Pakistan. Multiple sources report hopes rising for negotiations as the crisis enters its second day.",
-        "signal": "Watch for concrete ceasefire announcements or formal peace talks schedule as diplomatic momentum appears to be building.",
-        "sources": [
-          "Associated Press",
-          "Al Jazeera English",
-          "Middle East Eye"
-        ],
-        "source_url": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-hormuz-15-april-2026-f1b02d16f81d6fdcf68c0ed16d7a719d",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 2,
-        "score": 82,
-        "topic": "US Iran Oil Sanctions",
-        "domain": "commodities",
-        "headline": "US Ends Russian Iranian Oil Sanctions Waivers",
-        "summary": "US Treasury Secretary Scott Bessent announces Washington will not renew sanctions waivers for Iranian and Russian oil, affecting major buyers including India. The decision comes as oil prices soar due to the Middle East war.",
-        "signal": "Expect further oil price volatility and supply chain disruptions as major importers scramble for alternative sources.",
-        "sources": [
-          "Indian Express",
-          "Economic Times"
-        ],
-        "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-ends-sanctions-waiver-for-russian-iranian-oil-india-among-affected-buyers/articleshow/130295943.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 3,
-        "score": 80,
-        "topic": "Japan Southeast Asia Oil",
-        "domain": "commodities",
-        "headline": "Japan Offers $10 Billion Oil Support to Southeast Asia",
-        "summary": "Japan plans to provide up to $10 billion in financial support to Southeast Asian nations to help them cope with soaring crude prices due to the Middle East war. The initiative aims to secure energy stability in the region amid supply disruptions.",
-        "signal": "Monitor Japan's diplomatic influence in ASEAN and potential formation of energy security partnerships outside traditional suppliers.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/japan-may-extend-10-billion-to-southeast-asia-to-help-buy-oil",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 4,
-        "score": 79,
-        "topic": "Israel Lebanon Peace Talks",
-        "domain": "geopolitics",
-        "headline": "Trump Announces First Israel Lebanon Talks in Decades",
-        "summary": "President Trump announces that Israel and Lebanon leaders will hold talks on Thursday, marking the first direct negotiations in decades. The talks come as hopes rise for broader Middle East peace amid the ongoing war.",
-        "signal": "Watch for breakthrough announcements that could reshape Lebanon-Israel relations and regional stability.",
-        "sources": [
-          "The National (UAE)",
-          "Middle East Eye",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.thenationalnews.com/news/mena/2026/04/16/trump-says-israel-and-lebanon-leaders-to-hold-talks-thursday/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Trump says Israel and Lebanon's leaders will speak on Thursday",
-            "score": 46,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjll6r7kgm2c"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 5,
-        "score": 78,
-        "topic": "India Parliament Women Reservation",
-        "domain": "india",
-        "headline": "Parliament Debates Women's Reservation Bills Implementation",
-        "summary": "Parliament's special session begins with government introducing three amendment bills to operationalize the 33% women's reservation law passed in 2023. The legislation aims to provide quotas for women in Lok Sabha and state assemblies.",
-        "signal": "Track parliamentary voting patterns and state-level resistance as this could reshape India's political representation significantly.",
-        "sources": [
-          "The Hindu",
-          "NDTV News",
-          "Times of India"
-        ],
-        "source_url": "https://www.thehindu.com/news/national/parliament-budget-special-session-live-april-16-women-reservation/article70867519.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 6,
-        "score": 78,
-        "topic": "Indian Markets Iran Impact",
-        "domain": "markets",
-        "headline": "Indian Markets Rise Despite Iran War Trade Impact",
-        "summary": "Indian stock markets climb in early trade amid hopes of US-Iran truce, with Sensex jumping 619 points. Trade deficit narrows to 9-month low as exports to US offset Iran war impact on trade flows.",
-        "signal": "Monitor correlation between geopolitical developments and Indian market performance as oil import costs remain a key risk.",
-        "sources": [
-          "The Hindu",
-          "NDTV News"
-        ],
-        "source_url": "https://www.thehindu.com/business/markets/stock-markets-climb-in-early-trade-amid-hopes-of-usiran-truce/article70867727.ece",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 7,
-        "score": 77,
-        "topic": "Congressional Sex Scandal",
-        "domain": "geopolitics",
-        "headline": "Swalwell Exits Congress Race Amid Rape Allegations",
-        "summary": "Rep. Eric Swalwell leaves Congress and California governor race following sexual assault allegations he denies, marking the second congressman to resign this week. The allegations date to 2018 and include claims of drugging and assault.",
-        "signal": "Watch for further congressional resignations as #MeToo accountability movement gains momentum on Capitol Hill.",
-        "sources": [
-          "Associated Press"
-        ],
-        "source_url": "https://apnews.com/article/eric-swalwell-congress-california-governor-election-f485eacb0aa43d04e534430cfaa704e1",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 8,
-        "score": 76,
-        "topic": "China Economy Iran War",
-        "domain": "macro",
-        "headline": "China GDP Accelerates to 5% Despite Iran War",
-        "summary": "China's economy expanded 5% year-on-year in Q1, accelerating from the previous quarter as it largely shrugs off Iran war impacts. The growth suggests resilience in the world's second-largest economy amid global uncertainties.",
-        "signal": "Monitor whether China can maintain this pace as energy costs and supply chain disruptions from Middle East conflict intensify.",
-        "sources": [
-          "Nikkei Asia",
-          "Associated Press"
-        ],
-        "source_url": "https://asia.nikkei.com/economy/china-s-gdp-growth-accelerates-to-5-despite-iran-war",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "apnews.com",
-            "platform": "bluesky",
-            "text": "China's economy accelerated in the first quarter of this year, expanding 5% from a year earlier",
-            "score": 39,
-            "url": "https://bsky.app/profile/apnews.com/post/3mjlevaoybz26"
-          }
-        ],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 9,
-        "score": 75,
-        "topic": "ASML AI Growth",
-        "domain": "corporate",
-        "headline": "ASML Raises Sales Forecast on AI Chip Demand",
-        "summary": "Dutch chipmaking equipment giant ASML raises its 2026 sales forecast as surge in AI investment fuels demand for advanced semiconductor manufacturing machines. The upgrade signals continued strength in the AI infrastructure buildout.",
-        "signal": "Track ASML guidance as leading indicator for global AI investment momentum and semiconductor capital expenditure cycles.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/asml-raises-2026-sales-forecast-as-ai-investment-fuels-growth",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 10,
-        "score": 74,
-        "topic": "Fed Policy Oil Shock",
-        "domain": "macro",
-        "headline": "Yellen Sees Fed Cut Possible Despite Oil Shock",
-        "summary": "Former Treasury Secretary Janet Yellen says prospects remain for US interest rate cuts later this year, though the oil shock from Iran war clouds the outlook. Her comments suggest Fed policy flexibility despite inflation risks from energy prices.",
-        "signal": "Watch for Fed communication on how Middle East energy price spikes factor into rate decision calculus.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/yellen-still-sees-chance-of-a-fed-cut-this-year-amid-oil-shock",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 11,
-        "score": 73,
-        "topic": "TCS Nashik Harassment",
-        "domain": "india",
-        "headline": "TCS Suspends Nashik Operations Amid Harassment Probe",
-        "summary": "TCS suspends operations at its Nashik BPO center following escalated investigation into alleged sexual harassment and forced religious conversion. Police probe organized pattern among accused staff targeting financially vulnerable employees.",
-        "signal": "Monitor corporate governance responses in Indian IT sector as harassment cases gain regulatory attention.",
-        "sources": [
-          "Times of India",
-          "NDTV Profit"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/city/nashik/tcs-nashik-office-employees-told-to-work-from-home-amid-religious-conversion-harassment-claims/articleshow/130298285.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 12,
-        "score": 72,
-        "topic": "Trump Fed Powell",
-        "domain": "macro",
-        "headline": "Trump Threatens to Fire Fed Chair Powell",
-        "summary": "President Trump threatens to fire Federal Reserve Chair Jerome Powell if he doesn't step down, escalating tensions over monetary policy independence. Powell has indicated he would serve as chair pro tempore if his successor isn't confirmed before his term ends in May.",
-        "signal": "Watch for market volatility around Fed independence concerns and potential nomination battles.",
-        "sources": [
-          "Japan Times"
-        ],
-        "source_url": "https://www.japantimes.co.jp/business/2026/04/16/trump-threat-powell/",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 13,
-        "score": 71,
-        "topic": "Standard Life Aegon Deal",
-        "domain": "corporate",
-        "headline": "Standard Life Buys Aegon UK for \u00a32 Billion",
-        "summary": "Standard Life agrees to acquire Aegon UK for \u00a32 billion as the savings firm expands its share of Britain's pensions market. The deal represents significant consolidation in the UK financial services sector.",
-        "signal": "Monitor further M&A activity in UK financial services as companies seek scale advantages in pensions market.",
-        "sources": [
-          "Bloomberg"
-        ],
-        "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/standard-life-to-buy-aegon-uk-for-2-billion-in-pensions-push",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 14,
-        "score": 70,
-        "topic": "TSMC AI Earnings",
-        "domain": "corporate",
-        "headline": "TSMC Q1 Profit Surges 58% on AI Boom",
-        "summary": "Taiwan Semiconductor Manufacturing Company reports record Q1 profit surge of 58% driven by AI chip demand, despite Middle East tensions. The results underscore continued strength in semiconductor demand for artificial intelligence applications.",
-        "signal": "Track TSMC guidance as bellwether for global AI infrastructure spending and semiconductor cycle strength.",
-        "sources": [
-          "Nikkei Asia"
-        ],
-        "source_url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-q1-profit-surges-58-to-record-on-ai-boom-despite-middle-east-tensions",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 15,
-        "score": 69,
-        "topic": "Mark Mobius Death",
-        "domain": "markets",
-        "headline": "Emerging Markets Pioneer Mark Mobius Dies at 89",
-        "summary": "Legendary investor Mark Mobius, known as the \"Indiana Jones of emerging markets,\" passes away at 89 after decades championing developing economy investments. He remained bullish on India until his death, calling it the most exciting market.",
-        "signal": "Watch for shifts in emerging market investment flows as institutional memory and advocacy for developing economies diminishes.",
-        "sources": [
-          "LiveMint Markets",
-          "NDTV Profit"
-        ],
-        "source_url": "https://www.livemint.com/market/stock-market-news/mark-mobius-passes-away-at-89-why-the-emerging-market-pioneer-remained-bullish-on-india-till-the-end-11776315392866.html",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 16,
-        "score": 68,
-        "topic": "Russia Ukraine Strikes",
-        "domain": "geopolitics",
-        "headline": "Russia Launches 31 Missiles 636 Drones Killing 14",
-        "summary": "Russia conducts massive aerial assault on Ukraine using 31 missiles and 636 drones, killing 14 people and causing widespread damage to residential buildings. The attacks hit multiple districts including Podilskyi and Obolonsky in Kyiv.",
-        "signal": "Monitor escalation patterns as Russia intensifies attacks possibly in response to Middle East developments.",
-        "sources": [
-          "Times of India",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://timesofindia.indiatimes.com/world/europe/shattered-windows-buildings-cars-on-fire-russia-rains-31-missiles-636-drones-on-ukraine-killing-14/articleshow/130298467.cms",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Kyiv's mayor says the attacks hit Podilskyi and Obolonsky districts, causing fires and damage to residential buildings",
-            "score": 41,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjlb4spdou2b"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 17,
-        "score": 67,
-        "topic": "Rohingya Boat Tragedy",
-        "domain": "geopolitics",
-        "headline": "250 Rohingya Missing in Andaman Sea Disaster",
-        "summary": "About 250 Rohingya refugees, including children, are feared missing after their boat capsized in the Andaman Sea due to heavy winds and overcrowding. The UN confirms the tragedy as one of the worst recent maritime disasters involving refugees.",
-        "signal": "Watch for increased regional coordination on refugee maritime safety as monsoon season approaches.",
-        "sources": [
-          "BBC News",
-          "Al Jazeera English"
-        ],
-        "source_url": "https://www.bbc.co.uk/news/articles/cz6778j78vlo",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [],
-        "trend": "stable",
-        "breaking_on_social": false
-      },
-      {
-        "rank": 18,
-        "score": 50,
-        "topic": "Goldman Sachs Iran War",
-        "domain": "markets",
-        "headline": "Goldman Trading Revenue Hit by Iran War Volatility",
-        "summary": "Goldman Sachs' rates trading business affected by volatility from Iran war, according to sources. The impact highlights how geopolitical tensions are pressuring Wall Street trading revenues amid market turbulence.",
-        "signal": "Monitor major investment bank earnings for broader impact of Middle East conflict on trading revenues.",
-        "sources": [
-          "Reuters"
-        ],
-        "source_url": "",
-        "standalone_social": false,
-        "context": "",
-        "social_signals": [
-          {
-            "handle": "reuters.com",
-            "platform": "bluesky",
-            "text": "Goldman Sachs rates business hit by Iran war volatility, sources say",
-            "score": 50,
-            "url": "https://bsky.app/profile/reuters.com/post/3mjlqrlbvsx2y"
-          }
-        ],
-        "trend": "falling",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 19,
-        "score": 36,
-        "topic": "Pakistan Iran Breakthrough",
-        "domain": "geopolitics",
-        "headline": "Pakistan Sources Report Iran Nuclear Deal Breakthrough",
-        "summary": "Pakistani sources claim a 'major breakthrough' over a deal on Iran's nuclear programme as diplomatic efforts intensify. The development comes as Pakistan positions itself as a potential mediator in US-Iran talks.",
-        "signal": "Watch for official confirmation from nuclear deal parties as Pakistan emerges as key diplomatic player.",
-        "sources": [
-          "Al Jazeera"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Worth monitoring as Pakistan increasingly positions itself as mediator between US and Iran.",
-        "social_signals": [
-          {
-            "handle": "aljazeera.com",
-            "platform": "bluesky",
-            "text": "Pakistani sources say there has been a 'major breakthrough' over a deal on Iran's nuclear programme",
-            "score": 36,
-            "url": "https://bsky.app/profile/aljazeera.com/post/3mjljj3kyaa2f"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      },
-      {
-        "rank": 20,
-        "score": 35,
-        "topic": "China Iran Hormuz Demands",
-        "domain": "geopolitics",
-        "headline": "China Demands Iran Normalize Hormuz Strait Passage",
-        "summary": "China publicly urges Iran to ensure normal passage through Hormuz Strait, calling restoration of navigation an 'international voice'. Beijing's rare public criticism of a friendly nation signals concern over trade route disruption.",
-        "signal": "Monitor China's diplomatic pressure on Iran as economic interests trump political solidarity.",
-        "sources": [
-          "Nikkei"
-        ],
-        "source_url": "",
-        "standalone_social": true,
-        "context": "Rare for China to publicly criticize a friendly nation, indicating serious concern over trade disruption.",
-        "social_signals": [
-          {
-            "handle": "nikkei.com",
-            "platform": "bluesky",
-            "text": "\u4e2d\u56fd\u3001\u30a4\u30e9\u30f3\u306b\u30db\u30eb\u30e0\u30ba\u6d77\u5ce1\u306e\u6b63\u5e38\u5316\u8981\u6c42\u3000\uff62\u901a\u822a\u56de\u5fa9\u306f\u56fd\u969b\u793e\u4f1a\u306e\u58f0\uff63",
-            "score": 35,
-            "url": "https://bsky.app/profile/nikkei.com/post/3mjljb2iquf25"
-          }
-        ],
-        "trend": "rising",
-        "breaking_on_social": true
-      }
-    ],
-    "social_count": 29
   }
 ]
