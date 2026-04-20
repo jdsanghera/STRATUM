@@ -63,11 +63,11 @@
     {"handle": "NatashaBertrand", "weight": 83, "type": "Journalist",  "region": "global"},
     {"handle": "Osinttechnical",  "weight": 78, "type": "OSINT",       "region": "global"},
     {"handle": "JavierBlas",      "weight": 88, "type": "Journalist",  "region": "global"},
-    {"handle": "JimBianco",       "weight": 83, "type": "Analyst", "region": "global"},
-    {"handle": "France24_en", "weight": 82, "type": "Wire",      "region": "global"},
-    {"handle": "Faytuks",     "weight": 74, "type": "Aggregator","region": "global"},
-    {"handle": "Bloomberg",   "weight": 90, "type": "Wire",      "region": "global"},
-    {"handle": "Polymarket",      "weight": 68, "type": "Sentiment",   "region": "global"}
+    {"handle": "Polymarket",      "weight": 68, "type": "Sentiment",   "region": "global"},
+    {"handle": "JimBianco",       "weight": 83, "type": "Analyst",     "region": "global"},
+    {"handle": "France24_en",     "weight": 82, "type": "Wire",        "region": "global"},
+    {"handle": "Faytuks",         "weight": 74, "type": "Aggregator",  "region": "global"},
+    {"handle": "Bloomberg",       "weight": 90, "type": "Wire",        "region": "global"}
   ],
 
   "bluesky_handles": [
@@ -80,5 +80,38 @@
     {"handle": "aljazeera.com",   "weight": 80, "region": "global"},
     {"handle": "nikkei.com",      "weight": 85, "region": "japan"},
     {"handle": "dw.com",          "weight": 82, "region": "europe"}
+  ],
+
+  "telegram_channels": [
+    {"handle": "firstsquawk",           "name": "Firstsquawk",          "weight": 85, "category": "Global Macro",    "region": "global"},
+    {"handle": "wbloomberg",            "name": "Walter Bloomberg",      "weight": 82, "category": "Global Macro",    "region": "global"},
+    {"handle": "newsquawkfeed",         "name": "Newsquawk",            "weight": 83, "category": "Global Macro",    "region": "global"},
+    {"handle": "refinitivmarkets",      "name": "Refinitiv Markets",    "weight": 80, "category": "Global Macro",    "region": "global"},
+    {"handle": "geopoliticalmonitor",   "name": "Geopolitical Monitor", "weight": 78, "category": "Global Macro",    "region": "global"},
+    {"handle": "polymarketnews",        "name": "Polymarket News",      "weight": 72, "category": "Global Macro",    "region": "global"},
+    {"handle": "kobeissiletter",        "name": "Kobeissi Letter",      "weight": 78, "category": "Global Macro",    "region": "global"},
+    {"handle": "marketear",             "name": "Market Ear",           "weight": 76, "category": "Global Macro",    "region": "global"},
+    {"handle": "macrocompass",          "name": "The Macro Compass",    "weight": 76, "category": "Global Macro",    "region": "global"},
+    {"handle": "bqprime",               "name": "BQ Prime",             "weight": 80, "category": "India Markets",   "region": "india"},
+    {"handle": "moneycontrolnews",      "name": "Moneycontrol News",    "weight": 78, "category": "India Markets",   "region": "india"},
+    {"handle": "etmarkets",             "name": "ET Markets",           "weight": 80, "category": "India Markets",   "region": "india"},
+    {"handle": "cnbctv18live",          "name": "CNBC TV18",            "weight": 80, "category": "India Markets",   "region": "india"},
+    {"handle": "NSEIndiaOfficial",      "name": "NSE India Official",   "weight": 82, "category": "India Markets",   "region": "india"},
+    {"handle": "bseindia",              "name": "BSE India",            "weight": 82, "category": "India Markets",   "region": "india"},
+    {"handle": "SEBIUpdates",           "name": "SEBI Updates",         "weight": 84, "category": "India Markets",   "region": "india"},
+    {"handle": "niftytrader",           "name": "Nifty Trader",         "weight": 72, "category": "India Markets",   "region": "india"},
+    {"handle": "stockedge_official",    "name": "StockEdge",            "weight": 73, "category": "India Markets",   "region": "india"},
+    {"handle": "trendlyne",             "name": "Trendlyne",            "weight": 73, "category": "India Markets",   "region": "india"},
+    {"handle": "thehinduofficial",      "name": "The Hindu",            "weight": 81, "category": "India News",      "region": "india"},
+    {"handle": "indianexpressofficial", "name": "Indian Express",       "weight": 80, "category": "India News",      "region": "india"},
+    {"handle": "thewirenews",           "name": "Wire News",            "weight": 78, "category": "India News",      "region": "india"},
+    {"handle": "ptinewsagency",         "name": "PTI News",             "weight": 82, "category": "India News",      "region": "india"},
+    {"handle": "aninewsofficial",       "name": "ANI News",             "weight": 80, "category": "India News",      "region": "india"},
+    {"handle": "ndtvofficial",          "name": "NDTV",                 "weight": 78, "category": "India News",      "region": "india"},
+    {"handle": "scrolldotin",           "name": "Scroll.in",            "weight": 77, "category": "India News",      "region": "india"},
+    {"handle": "isroofficial",          "name": "ISRO Official",        "weight": 80, "category": "Science & Tech",  "region": "india"},
+    {"handle": "ainewsdaily",           "name": "AI News Daily",        "weight": 72, "category": "Science & Tech",  "region": "global"},
+    {"handle": "techcrunchindia",       "name": "TechCrunch India",     "weight": 75, "category": "Science & Tech",  "region": "india"},
+    {"handle": "thedecoderAI",          "name": "The Decoder AI",       "weight": 74, "category": "Science & Tech",  "region": "global"}
   ]
 }
