@@ -1,6 +1,416 @@
 {
   "digests": [
     {
+      "timestamp": "2026-04-20T21:06:16.284482+00:00",
+      "timestamp_ist": "21 Apr 2026 \u00b7 02:36 IST",
+      "story_count": 16,
+      "avg_score": 63,
+      "stories": [
+        {
+          "rank": 1,
+          "score": 88,
+          "topic": "US-Iran Naval Confrontation",
+          "domain": "geopolitics",
+          "headline": "US Seizes Iranian Ship in Hormuz Escalation",
+          "summary": "President Trump announced US forces seized an Iranian-flagged cargo ship by 'blowing a hole' in its engine room after it ignored warnings to stop, marking a significant escalation. Iran maintains the Strait of Hormuz will remain closed until the US ends its blockade of Iranian ports, as ceasefire talks remain uncertain with Wednesday's deadline looming.",
+          "signal": "Monitor for Iranian retaliation and global oil supply disruptions as dueling blockades intensify.",
+          "sources": [
+            "Bloomberg",
+            "Al Jazeera English",
+            "Associated Press",
+            "Times of India",
+            "Wall Street Journal"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/trump-says-us-seized-iranian-ship-blew-hole-in-its-engine-room",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 2,
+          "score": 85,
+          "topic": "US-Iran Peace Talks",
+          "domain": "geopolitics",
+          "headline": "Iran-US Pakistan Talks Uncertain as Ceasefire Nears End",
+          "summary": "Trump announced US negotiators will be in Pakistan on Monday for second-round talks with Iran, but Iran denied setting any date and cited 'deep historical mistrust' toward the US. The temporary ceasefire expires Wednesday with Trump calling extension 'highly unlikely' amid escalating tensions over the Strait of Hormuz.",
+          "signal": "Ceasefire breakdown Wednesday could trigger oil price spikes and broader Middle East escalation.",
+          "sources": [
+            "Associated Press",
+            "Times of India",
+            "Al Jazeera English",
+            "NDTV Profit",
+            "Middle East Eye"
+          ],
+          "source_url": "https://apnews.com/live/iran-war-israel-trump-04-19-2026",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "French President Emmanuel Macron said that 'everyone must calm down' and maintain the US-Israel-Iran-Lebanon ceasefire so that all issues can be resolved diplomatically.",
+              "score": 50,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mjxbkwmdbk2t"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 3,
+          "score": 82,
+          "topic": "Louisiana Mass Shooting",
+          "domain": "geopolitics",
+          "headline": "Eight Children Killed in Louisiana Mass Shooting",
+          "summary": "A gunman killed eight children aged 1-14 in domestic-related shootings at two homes in Shreveport, Louisiana early Sunday. This marks the nation's deadliest mass shooting in over two years, with police describing it as a domestic disturbance.",
+          "signal": "Monitor for renewed gun control debates and potential copycat incidents following high-casualty domestic violence.",
+          "sources": [
+            "Associated Press",
+            "Al Jazeera English",
+            "BBC News"
+          ],
+          "source_url": "https://apnews.com/article/shreveport-mass-shooting-louisiana-15098626d4c868b2bbc8a957a6a6ead8",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 4,
+          "score": 80,
+          "topic": "Bulgaria Russia-Friendly Election Win",
+          "domain": "geopolitics",
+          "headline": "Russia-Sympathizer Radev Wins Bulgaria Election Decisively",
+          "summary": "Former President Rumen Radev's Progressive Bulgaria party secured a commanding victory with 38-39% support, potentially ending years of political deadlock. Radev opposes sanctions against Russia and military aid for Ukraine, signaling a potential shift in Bulgaria's EU alignment.",
+          "signal": "Watch for EU cohesion challenges as another member state elects Russia-friendly leadership.",
+          "sources": [
+            "Bloomberg",
+            "Al Jazeera English",
+            "Associated Press"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/bulgarian-russia-sympathizer-radev-secures-decisive-election-win",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 5,
+          "score": 75,
+          "topic": "Oil Market Iran Impact",
+          "domain": "commodities",
+          "headline": "Oil Prices Surge 6% on Iran Ceasefire Collapse Fears",
+          "summary": "Crude oil rebounded 6% as Iran kept the Strait of Hormuz closed and Trump signaled ceasefire extension was 'highly unlikely'. US airline stocks fell up to 6% on higher fuel costs, while emerging market currencies weakened on Middle East uncertainty.",
+          "signal": "Prepare for sustained energy price volatility if Iran conflict resumes after Wednesday deadline.",
+          "sources": [
+            "LiveMint Markets",
+            "Bloomberg"
+          ],
+          "source_url": "https://www.livemint.com/market/oil-prices-rise-6-on-fears-of-us-iran-ceasefire-collapse-11776712451531.html",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 6,
+          "score": 72,
+          "topic": "German Energy Crisis Response",
+          "domain": "europe",
+          "headline": "German Chancellor Convenes Security Council on Energy Crisis",
+          "summary": "Chancellor Friedrich Merz announced plans to convene Germany's national security council to address the global energy crisis impact on Europe's largest economy. The move signals escalating concern about energy security amid Middle East tensions.",
+          "signal": "Monitor for German industrial output disruptions and potential EU-wide energy emergency measures.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/merz-sets-crisis-talks-to-tackle-energy-price-impact-on-germany",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 7,
+          "score": 70,
+          "topic": "Canada-US Economic Decoupling",
+          "domain": "geopolitics",
+          "headline": "Canadian PM Calls US Economic Ties a 'Weakness'",
+          "summary": "Prime Minister Mark Carney declared Canada's historically strong economic ties to the US were once a strength but are now a weakness requiring correction. Carney emphasized the need to strengthen relationships with other countries amid the shifting US relationship.",
+          "signal": "Expect Canadian diversification away from US markets and potential trade friction.",
+          "sources": [
+            "Al Jazeera English",
+            "Associated Press"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/19/canadian-pm-says-close-economic-ties-with-us-have-become-a",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 8,
+          "score": 69,
+          "topic": "Kevin Warsh Fed Nomination",
+          "domain": "markets",
+          "headline": "Bond Markets Eye Warsh Fed Confirmation Hearings",
+          "summary": "Treasury bond traders anticipate Kevin Warsh's confirmation hearings as Trump's Fed chair nominee will be the next major market catalyst. Warsh has pledged new divestments in updated financial filings as markets grow optimistic about Iran conflict resolution.",
+          "signal": "Fed policy uncertainty could drive bond volatility during confirmation process.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/kevin-warsh-fed-hearings-will-be-treasury-bonds-next-catalyst",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "Fed chief nominee Warsh pledges new divestment in updated financial filing",
+              "score": 42,
+              "url": "https://bsky.app/profile/reuters.com/post/3mjxdkgyga322"
+            }
+          ],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 9,
+          "score": 65,
+          "topic": "QXO TopBuild Acquisition",
+          "domain": "corporate",
+          "headline": "QXO Acquires TopBuild in $17 Billion Building Deal",
+          "summary": "QXO Inc. announced acquisition of insulation company TopBuild Corp. for approximately $17 billion. The deal makes QXO the second-largest publicly traded building products distributor in North America.",
+          "signal": "Building materials consolidation suggests confidence in construction sector recovery.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/qxo-to-buy-topbuild-for-17-billion-in-building-products-deal",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 10,
+          "score": 62,
+          "topic": "London Synagogue Arson Attacks",
+          "domain": "geopolitics",
+          "headline": "Iran Links Investigated in London Synagogue Arsons",
+          "summary": "Metropolitan Police are investigating potential Iranian connections to arson attacks on London Jewish sites, including the latest incident at Kenton United Synagogue. Multiple attacks have occurred at synagogues across the UK capital in recent weeks.",
+          "signal": "Watch for escalating antisemitic incidents and potential Iranian proxy operations in Europe.",
+          "sources": [
+            "Al Jazeera English",
+            "BBC News"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/19/met-police-investigate-potential-iran-links-to-london-arson-attacks",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "Police investigate whether London arson attacks were planned for weeks",
+              "score": 31,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mjx7vwlrcm2v"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 11,
+          "score": 60,
+          "topic": "WeWork Office Crisis",
+          "domain": "corporate",
+          "headline": "WeWork Bankruptcy Worsens US Office Vacancy Crisis",
+          "summary": "WeWork announced it will vacate 70 office leases in New York City following its bankruptcy. With 20% of US offices already vacant, WeWork's departure threatens to exacerbate the commercial real estate crisis significantly.",
+          "signal": "Commercial real estate values face further pressure as major tenant exits multiply.",
+          "sources": [],
+          "source_url": "",
+          "standalone_social": true,
+          "context": "Major office space provider's collapse could accelerate commercial real estate downturn.",
+          "social_signals": [
+            {
+              "handle": "kobeissiletter",
+              "platform": "telegram",
+              "text": "20% of US offices are vacant and WeWork's, $WE, bankruptcy is going to make this crisis worse. WeWork just announced that they will be vacating 70 office leases in New York City. But it gets",
+              "score": 60,
+              "url": "https://t.me/kobeissiletter"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 12,
+          "score": 49,
+          "topic": "Apple CEO Succession",
+          "domain": "corporate",
+          "headline": "Apple Names John Ternus as Next CEO",
+          "summary": "Apple announced hardware chief John Ternus as its next CEO, with Tim Cook transitioning to executive chairman role. The succession plan positions Ternus to lead Apple through anticipated industry changes driven by AI and other emerging technologies.",
+          "signal": "Apple's leadership transition may signal strategic shift toward hardware innovation priorities.",
+          "sources": [],
+          "source_url": "",
+          "standalone_social": true,
+          "context": "Major tech leadership change could reshape Apple's strategic direction and market approach.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "JUST IN: Apple named insider John Ternus as its next CEO, tasking the long-time hardware chief to steer the company after Tim Cook as the iPhone maker gears up for an industry change spurred by art",
+              "score": 49,
+              "url": "https://bsky.app/profile/reuters.com/post/3mjxdunrtbc2a"
+            },
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "A little under a month ago, Businessweek published a profile of the (now) new Apple CEO from my @bloomberg.com colleague Mark Gurman.",
+              "score": 49,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mjxdfsmoss2t"
+            },
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "Apple named hardware chief John Ternus as its next leader, with CEO Tim Cook shifting to the role of executive chairman",
+              "score": 41,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mjxd7qmqgk24"
+            },
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "Tim Cook to step down as CEO of Apple: 'the greatest privilege of my life'",
+              "score": 41,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mjxdwmw2er24"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 13,
+          "score": 43,
+          "topic": "UK Palestine Surveillance Probe",
+          "domain": "geopolitics",
+          "headline": "UK Universities Paid to Monitor Palestine Activists",
+          "summary": "Joint investigation found 12 UK universities paid Horus Security to monitor pro-Palestine activity online using AI tools. The surveillance operation flagged student activism and raised concerns about academic freedom.",
+          "signal": "Growing scrutiny of campus surveillance could impact UK university operations and student relations.",
+          "sources": [],
+          "source_url": "",
+          "standalone_social": true,
+          "context": "Systematic surveillance of student activism reveals broader concerns about academic freedom.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "THREAD \ud83e\uddf5 A joint investigation by Al Jazeera English and Liberty Investigates found that 12 UK universities paid Horus Security to monitor pro-Palestine activity online. Using AI tools, it flagged or",
+              "score": 43,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mjxcoqfgi223"
+            }
+          ],
+          "trend": "stable",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 14,
+          "score": 42,
+          "topic": "Tether Gold Holdings",
+          "domain": "commodities",
+          "headline": "Tether Secretly Holds $8 Billion in Gold",
+          "summary": "Cryptocurrency company Tether is reportedly holding nearly 80 tons of gold worth $8 billion in a Swiss vault. This makes Tether one of the largest private gold holders globally outside of banks and governments.",
+          "signal": "Crypto-gold convergence suggests institutional hedging against traditional currency risks.",
+          "sources": [],
+          "source_url": "",
+          "standalone_social": true,
+          "context": "Major crypto player's massive gold position indicates flight to hard assets amid uncertainty.",
+          "social_signals": [
+            {
+              "handle": "thewirenews",
+              "platform": "telegram",
+              "text": "NEW: Tether is secretly holding $8B worth of gold -nearly 80 tons -in a Swiss vault , making it one of the largest private gold holders globally, outside of banks and governments.",
+              "score": 42,
+              "url": "https://t.me/thewirenews"
+            }
+          ],
+          "trend": "stable",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 15,
+          "score": 39,
+          "topic": "Rapper D4vd Murder Charge",
+          "domain": "corporate",
+          "headline": "Rapper D4vd Charged with Teen Girl Murder",
+          "summary": "California prosecutors charged musician D4vd with murdering 14-year-old Celeste Rivas Hernandez, whose remains were found in the singer's car last September. The case has shocked the music industry and fans.",
+          "signal": "High-profile celebrity crime case could impact music industry reputation and artist screening.",
+          "sources": [],
+          "source_url": "",
+          "standalone_social": true,
+          "context": "Celebrity murder charge highlights darker side of music industry amid growing scrutiny.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "Musician D4vd charged with murder of 14\u2011year\u2011old girl in Los Angeles",
+              "score": 36,
+              "url": "https://bsky.app/profile/reuters.com/post/3mjxdbnb6se2p"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Prosecutors in California are charging rapper D4vd with the murder of 14-year-old Celeste Rivas Hernandez, whose remains were found in the singer's car last September.",
+              "score": 39,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mjxdr4wyfc2b"
+            }
+          ],
+          "trend": "stable",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 16,
+          "score": 31,
+          "topic": "Starmer Mandelson Vetting Scandal",
+          "domain": "geopolitics",
+          "headline": "Starmer Under Fire Over Mandelson Appointment Scandal",
+          "summary": "British PM Starmer faces ongoing pressure over his decision to appoint Peter Mandelson as US ambassador despite security officials' recommendations against it due to Jeffrey Epstein connections. Starmer insists he was unaware of the security concerns when making the appointment.",
+          "signal": "UK-US diplomatic relations could face strain if vetting scandal damages ambassador credibility.",
+          "sources": [],
+          "source_url": "",
+          "standalone_social": true,
+          "context": "Diplomatic appointment controversy threatens to undermine UK-US relations at critical time.",
+          "social_signals": [
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "Starmer accuses Robbins of obstructing truth about Mandelson vetting",
+              "score": 31,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mjxbwe762b25"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "PM insists he did not know security officials had recommended Mandelson be sidelined due to Epstein links.",
+              "score": 31,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mjxcoxsoqm2a"
+            }
+          ],
+          "trend": "stable",
+          "breaking_on_social": true
+        }
+      ],
+      "social_count": 80,
+      "tg_count": 50,
+      "tw_count": 0,
+      "bk_count": 30
+    },
+    {
       "timestamp": "2026-04-20T20:13:29.774870+00:00",
       "timestamp_ist": "21 Apr 2026 \u00b7 01:43 IST",
       "story_count": 20,
