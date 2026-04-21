@@ -1,6 +1,717 @@
 {
   "digests": [
     {
+      "timestamp": "2026-04-21T08:09:26.730135+00:00",
+      "timestamp_ist": "21 Apr 2026 \u00b7 13:39 IST",
+      "story_count": 31,
+      "avg_score": 70,
+      "stories": [
+        {
+          "rank": 1,
+          "score": 95,
+          "topic": "US-Iran War Hormuz Crisis",
+          "domain": "geopolitics",
+          "headline": "US Seizes Iranian Ship; Hormuz Traffic Halted, Ceasefire Talks in Doubt",
+          "summary": "The US attacked and seized an Iranian-flagged cargo ship near the Strait of Hormuz, with Iran calling it an act of piracy and vowing retaliation; commercial traffic through the strait remains at a virtual standstill. Pakistan-hosted US-Iran ceasefire talks are in jeopardy as Iran has not confirmed participation, and Trump signaled he is unlikely to extend the expiring ceasefire.",
+          "signal": "Strait of Hormuz closure risk is acute \u2014 energy, shipping, and insurance markets face immediate disruption; watch for Iran retaliation escalation breaking ceasefire window.",
+          "sources": [
+            "AP",
+            "Bloomberg",
+            "Al Jazeera",
+            "BBC",
+            "Middle East Eye",
+            "The Hindu",
+            "NDTV Profit",
+            "The National UAE",
+            "Nikkei Asia",
+            "Politico"
+          ],
+          "source_url": "https://apnews.com/live/iran-war-israel-trump-04-20-2026",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "Trump signals he is unlikely to extend the ceasefire with Iran that's set to expire in two days, while Iran has yet to confirm it will participate in talks to end the war.",
+              "score": 34,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mjyfwict2r2e"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Iran war: What is happening on day 53 of the US-Israel conflict? https://aje.news/l63ykg",
+              "score": 26,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mjyjaudnwb2l"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "A Greek maritime risk firm, MARISKS, says unknown actors claiming to be Iranian authorities have demanded cryptocurrency fees from some shipping companies for safe passage through the Strait of Hormuz",
+              "score": 53,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mjyflges6k2f"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "The head of Iran's judiciary Gholan-Hussein Mohseni Ejei says the possibility of the US resuming its attacks is not negligible and that the country must be fully prepared.",
+              "score": 44,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mjyeicvkq22f"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 2,
+          "score": 90,
+          "topic": "Oil Prices Surge Hormuz Closure",
+          "domain": "commodities",
+          "headline": "Oil Surges 7% as Hormuz Standoff Chokes Global Energy Supply",
+          "summary": "Brent crude rose more than 7% and oil prices climbed over 5% as the Strait of Hormuz closure persisted following the US seizure of an Iranian vessel, with conflicting signals on ceasefire talks deepening uncertainty. Asian equity markets also advanced on hopes of eventual peace talks, but supply disruption risks remain elevated.",
+          "signal": "Oil above key resistance levels \u2014 sustained Hormuz closure could drive further energy price spikes; hedge exposure to shipping and refining margins immediately.",
+          "sources": [
+            "AP",
+            "Al Jazeera",
+            "Bloomberg",
+            "LiveMint"
+          ],
+          "source_url": "https://apnews.com/article/stocks-markets-oil-iran-trump-6786cc283bc5b7cb78a3a9b7b5c2b1ac",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 3,
+          "score": 88,
+          "topic": "Iran War Casualties Diplomatic Stalemate",
+          "domain": "geopolitics",
+          "headline": "Iran Death Toll Tops 3,375; No Delegation Dispatched for Islamabad Talks",
+          "summary": "Iran's forensic chief confirmed at least 3,375 people killed in the ongoing US-Israeli conflict, while Iran's state media reported no Iranian delegation had yet departed for Islamabad talks with the US. A senior Iranian politician told the BBC that Tehran will never cede control of the Strait of Hormuz, and Iran's IRGC warned of decisive retaliation.",
+          "signal": "Diplomatic off-ramp narrowing sharply \u2014 any further military incident risks full ceasefire collapse and sustained Hormuz closure with systemic commodity market implications.",
+          "sources": [
+            "AP",
+            "BBC",
+            "The Hindu",
+            "Middle East Eye",
+            "Al Jazeera"
+          ],
+          "source_url": "https://apnews.com/article/us-iran-war-israel-hormuz-20-april-2026-a3ddc59230ae7de719a9ff9e7595e375",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "The head of Iran's judiciary Gholan-Hussein Mohseni Ejei says the possibility of the US resuming its attacks is not negligible and that the country must be fully prepared.",
+              "score": 44,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mjyeicvkq22f"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 4,
+          "score": 85,
+          "topic": "Tim Cook Apple CEO Succession",
+          "domain": "corporate",
+          "headline": "Tim Cook Steps Down as Apple CEO; Hardware Chief Ternus to Succeed",
+          "summary": "Apple CEO Tim Cook announced he is stepping down after nearly 15 years, with hardware engineering chief John Ternus set to take over as CEO on September 1, 2026; Cook will transition to executive chairman. Ternus, a 25-year Apple veteran, inherits the role as Apple faces intensifying AI competition and pressure to accelerate its AI product roadmap.",
+          "signal": "Watch Apple shares for post-succession volatility \u2014 Ternus's hardware-first background raises questions about AI strategy execution at a critical inflection point for the sector.",
+          "sources": [
+            "Times of India",
+            "Indian Express",
+            "DW Business",
+            "Euronews Business",
+            "ET Top Stories",
+            "theguardian.com"
+          ],
+          "source_url": "https://www.dw.com/en/tim-cook-to-step-down-as-apple-ceo-john-ternus-to-take-over/a-76873245",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "Tim Cook to step down as CEO of Apple: 'the greatest privilege of my life'",
+              "score": 41,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mjxdwmw2er24"
+            }
+          ],
+          "trend": "stable",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 5,
+          "score": 83,
+          "topic": "India Energy Shift Russian Insurance",
+          "domain": "india",
+          "headline": "India Expands Russian Insurer List as Iran War Disrupts Gulf Oil",
+          "summary": "India widened approvals for Russian insurers to cover vessels at its ports as the Strait of Hormuz closure disrupts Persian Gulf energy shipments, reflecting a strategic pivot in India's energy supply chain. The move signals India's accelerating reliance on Russian oil routes as Middle East supply lines remain blocked.",
+          "signal": "India's energy supply resilience play is deepening \u2014 monitor Indian refinery margins and Russian crude discount dynamics for investment implications.",
+          "sources": [
+            "Bloomberg",
+            "LiveMint"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/india-widens-russian-insurance-list-as-iran-war-hurts-oil-flows",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 6,
+          "score": 82,
+          "topic": "Japan Lethal Arms Export Policy",
+          "domain": "japan",
+          "headline": "Japan Scraps Postwar Ban on Lethal Weapons Exports in Historic Shift",
+          "summary": "Japan approved the scrapping of its longstanding ban on lethal weapons exports, marking a major departure from its postwar pacifist constitution amid intensifying geopolitical rivalries and deepening defense-industrial partnerships. The move positions Japan to participate more actively in global arms supply chains and cooperative defense programs.",
+          "signal": "Japanese defense industry stocks and global defense-industrial partnerships warrant fresh positioning \u2014 this is a structural, not cyclical, policy shift.",
+          "sources": [
+            "Japan Times",
+            "apnews.com"
+          ],
+          "source_url": "https://www.japantimes.co.jp/news/2026/04/21/japan/politics/japan-lethal-weapons-export-rules-eased/",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "apnews.com",
+              "platform": "bluesky",
+              "text": "Japan approved scrapping a ban on lethal weapons exports, a major change of its postwar pacifist policy, as the country seeks to build up its arms industry and deepen cooperation with defense partners",
+              "score": 34,
+              "url": "https://bsky.app/profile/apnews.com/post/3mjy26gat6e2c"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 7,
+          "score": 80,
+          "topic": "Amazon Anthropic AI Investment",
+          "domain": "corporate",
+          "headline": "Amazon Invests $25 Billion in Anthropic; AI Firm Pledges $100B to AWS",
+          "summary": "Amazon will invest up to $25 billion in AI startup Anthropic, which in turn has committed to spend over $100 billion on Amazon Web Services cloud infrastructure. The deal represents one of the largest AI infrastructure commitments in history and cements AWS as the backbone of frontier AI development.",
+          "signal": "This anchor deal structurally advantages AWS in the AI cloud race \u2014 reassess hyperscaler competitive positioning and cloud capex implications across the sector.",
+          "sources": [
+            "LiveMint Companies"
+          ],
+          "source_url": "https://www.livemint.com/companies/news/amazon-to-invest-up-to-25-billion-in-anthropic-ai-firm-commits-to-spend-100-billion-on-aws-in-return-11776734805025.html",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 8,
+          "score": 78,
+          "topic": "SpaceX IPO Wall Street Roadshow",
+          "domain": "markets",
+          "headline": "SpaceX Targets $75 Billion IPO With Late June Debut, Sources Say",
+          "summary": "SpaceX is wooing Wall Street analysts this week as it targets raising $75 billion in what would be the world's largest-ever initial public offering, with executives targeting a late June trading debut. The company's push to go public comes amid broader market volatility linked to the Iran war and global trade disruptions.",
+          "signal": "A $75 billion SpaceX IPO would be a landmark liquidity event \u2014 watch for capital rotation out of existing tech positions and sovereign wealth fund participation signals.",
+          "sources": [
+            "Japan Times"
+          ],
+          "source_url": "https://www.japantimes.co.jp/business/2026/04/21/tech/spacex-wall-street-analyst-meeting/",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 9,
+          "score": 76,
+          "topic": "Louisiana Mass Shooting Eight Children",
+          "domain": "geopolitics",
+          "headline": "Gunman Kills Eight Children in Shreveport Louisiana Domestic Attack",
+          "summary": "A gunman in Shreveport, Louisiana killed eight children \u2014 including seven of his own \u2014 and shot two women in two homes in an early morning domestic violence attack, the deadliest US shooting involving children in more than two years. Authorities confirmed children aged one to fourteen were among the victims.",
+          "signal": "Expect renewed US gun control debate; monitor legislative calendar for any policy response that could affect firearms-sector equities.",
+          "sources": [
+            "AP",
+            "BBC",
+            "Al Jazeera"
+          ],
+          "source_url": "https://apnews.com/article/shreveport-louisiana-shooting-children-981e69dcfee2361fe81e27199c8b9b05",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 10,
+          "score": 75,
+          "topic": "Hedge Funds Bullish Cotton Surge",
+          "domain": "commodities",
+          "headline": "Hedge Funds Turn Net-Bullish on Cotton First Time in Two Years",
+          "summary": "Money managers have flipped to net-bullish positions on cotton as surging oil prices tied to the Iran war drive up the cost of synthetic fibers, boosting the appeal of natural alternatives. This marks the first net-bullish stance on cotton in two years, signaling a structural rotation in soft commodity positioning.",
+          "signal": "Iran-war-driven energy inflation is creating a secondary commodity rotation into natural fibers \u2014 cotton futures and related agricultural ETFs deserve attention.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/hedge-funds-turn-bullish-on-cotton-for-first-time-in-two-years",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 11,
+          "score": 74,
+          "topic": "Israel Lebanon Hezbollah Military Pressure",
+          "domain": "middleeast",
+          "headline": "Israel Targets Hezbollah Disarmament in Lebanon Via Military-Diplomatic Push",
+          "summary": "Israeli Defense Minister Israel Katz confirmed Israel's aim in Lebanon is to disarm Hezbollah and remove threats to northern communities through a combination of military and diplomatic measures. Satellite imagery also revealed Israel expanding permanent military installations in Gaza as US-backed reconstruction plans remain stalled.",
+          "signal": "Israel's dual-front posture in Lebanon and Gaza signals a prolonged regional military presence \u2014 monitor Lebanese sovereign bonds and regional ceasefire timeline risks.",
+          "sources": [
+            "Al Jazeera",
+            "aljazeera.com"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/19/satellite-images-reveal-israel-expanding-gaza-military-sites",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Defence Minister Israel Katz says Israel's aim in Lebanon is to 'disarm Hezbollah and remove the threat to northern communities through a combination of military and diplomatic measures.'",
+              "score": 50,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mjygi2cwyc2f"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 12,
+          "score": 73,
+          "topic": "Russia Detains German Terror Suspect",
+          "domain": "geopolitics",
+          "headline": "Russia Arrests German Citizen Over Alleged Planned Terror Attack",
+          "summary": "Russia's FSB announced the arrest of a German citizen in the Stavropol region in connection with an alleged planned terrorist attack on a law enforcement facility, according to Interfax. The incident adds to a pattern of Russia-Europe security incidents amid ongoing broader geopolitical tensions.",
+          "signal": "Russia-Europe security frictions escalating \u2014 watch for German diplomatic response and potential spillover into EU-Russia relations discussions.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/russia-detained-german-citizen-for-alleged-terror-attack-ifx",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 13,
+          "score": 72,
+          "topic": "Trump Tariff Refund System Launch",
+          "domain": "macro",
+          "headline": "US Launches Tariff Refund Portal for Supreme Court-Nullified Levies",
+          "summary": "US Customs and Border Protection launched a system Monday allowing importers and brokers to claim refunds online for tariffs struck down by the Supreme Court, with an estimated $166 billion in potential refunds at stake. India's share of these refunds remains uncertain, with analysts noting Delhi must actively petition for its slice.",
+          "signal": "Monitor US importer cash flow dynamics and sector-specific refund exposures \u2014 this is a material near-term earnings catalyst for trade-heavy industries.",
+          "sources": [
+            "AP",
+            "ET Top Stories"
+          ],
+          "source_url": "https://apnews.com/article/tariff-refund-trump-customs-08861f153801156d213c30c4e2f6a683",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 14,
+          "score": 71,
+          "topic": "EQT Asia PE Fund Record Close",
+          "domain": "markets",
+          "headline": "EQT Closes $15.6 Billion Asia Fund, Largest Amid Regional Fundraising Slump",
+          "summary": "EQT's BPEA IX fund closed at $15.6 billion, oversubscribed, making it Asia-Pacific's largest private equity fund at a time when the region is experiencing a 12-year fundraising low. The close signals institutional capital is consolidating with scaled platforms even as broader fundraising conditions remain challenging.",
+          "signal": "Capital concentration in mega-funds is accelerating in Asia PE \u2014 mid-market managers face structural headwinds while large platforms attract disproportionate sovereign and pension allocations.",
+          "sources": [
+            "LiveMint Companies"
+          ],
+          "source_url": "https://www.livemint.com/companies/eqt-bpea-ix-private-equity-asia-asia-pacific-fund-fundraising-slump-sovereign-wealth-funds-pension-funds-11776738056829.html",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 15,
+          "score": 70,
+          "topic": "Canada Economic Decoupling from US",
+          "domain": "macro",
+          "headline": "Carney Says Canada Must Correct Over-Reliance on US Economic Ties",
+          "summary": "Canadian Prime Minister Mark Carney declared that Canada's historically strong economic ties to the United States have become a weakness that must be corrected, outlining a reorientation of Canada's trade and economic strategy. The statement marks a significant rhetorical and policy shift under the new Carney government.",
+          "signal": "Canada's strategic pivot away from US economic dependence signals long-term trade diversification \u2014 watch Canadian dollar positioning and sector impacts on cross-border supply chains.",
+          "sources": [
+            "AP"
+          ],
+          "source_url": "https://apnews.com/article/canada-carney-economic-ties-us-cbf3bc6cbfde27cfae7d85602126785a",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 16,
+          "score": 69,
+          "topic": "Iran War US Global Influence Fracture",
+          "domain": "geopolitics",
+          "headline": "Iran War Accelerates US Decoupling From Global Alliances, Analysts Warn",
+          "summary": "Politico analysis argues that Trump's erratic handling of the Iran war is accelerating America's estrangement from its traditional allies, reducing US soft power and credibility at a critical moment. The EU is simultaneously moving to reduce tech and strategic dependency on the US amid the geopolitical turbulence.",
+          "signal": "Structural US alliance erosion is a multi-year risk premium factor \u2014 reassess exposure to USD-denominated assets and consider diversification into European and Asian security beneficiaries.",
+          "sources": [
+            "Politico Europe"
+          ],
+          "source_url": "https://www.politico.com/news/2026/04/20/iran-war-us-world-influence-00882028",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 17,
+          "score": 68,
+          "topic": "India Semiconductor Mission 2.0",
+          "domain": "india",
+          "headline": "India Readies Semiconductor Mission 2.0 With Rs 1.2 Lakh Crore Outlay",
+          "summary": "The Indian government is preparing a second phase of its semiconductor mission with a proposed outlay of Rs 1.2 lakh crore ($14.4 billion), substantially higher than the Rs 76,000 crore allocated in the first phase. The move signals India's acceleration of chip self-sufficiency ambitions amid global supply chain realignment.",
+          "signal": "India semiconductor capex expansion is a structural theme \u2014 watch for project awards to domestic and foreign fab partners and associated infrastructure plays.",
+          "sources": [
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.ndtvprofit.com/business/govt-readies-india-semiconductor-mission-2-0-with-rs-1-2-lakh-crore-outlay-11386576",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 18,
+          "score": 67,
+          "topic": "Nikkei BOJ Rate Hike Delay",
+          "domain": "japan",
+          "headline": "BOJ Said to Skip April Rate Hike, Reassess in June on Mideast Risk",
+          "summary": "Nikkei reported that the Bank of Japan is expected to pass on a rate hike at its April meeting, opting instead to monitor Middle East geopolitical developments before making a decision in June. The delay reflects central bank caution amid oil price volatility and Iran-war-linked global uncertainty.",
+          "signal": "BOJ rate path delay is yen-negative in the near term \u2014 monitor USD/JPY and JGB positioning; June decision is now the next major catalyst.",
+          "sources": [
+            "nikkei.com"
+          ],
+          "source_url": "https://bsky.app/profile/nikkei.com/post/3mjyh6fs2yy2l",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "nikkei.com",
+              "platform": "bluesky",
+              "text": "\u3010\u65e5\u7d4c\u7279\u5831\u3011\u65e5\u9280\u30014\u6708\u5229\u4e0a\u3052\u898b\u9001\u308a\u3078\u3000\u4e2d\u6771\u60c5\u52e2\u898b\u6975\u30816\u6708\u306b\u662f\u975e\u5224\u65ad",
+              "score": 40,
+              "url": "https://bsky.app/profile/nikkei.com/post/3mjyh6fs2yy2l"
+            }
+          ],
+          "trend": "falling",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 19,
+          "score": 66,
+          "topic": "Ola Electric 70% Stock Surge",
+          "domain": "india",
+          "headline": "Ola Electric Shares Surge 70% in April on Sales Revival",
+          "summary": "Ola Electric's stock has surged 70% in April following a six-month decline, driven by an increase in vehicle registrations and improving sales momentum, while rival Ather Energy shares rose 19% in the same period. The divergence highlights a competitive resurgence in India's electric two-wheeler segment.",
+          "signal": "Ola Electric's sharp recovery warrants scrutiny of sustainability \u2014 track monthly registration data and cash burn trajectory before adding exposure.",
+          "sources": [
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/ola-electric-shares-surge-70-in-april-on-sales-revival-can-they-outperform-rival-ather-going-ahead-11776752654663.html",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 20,
+          "score": 65,
+          "topic": "BHP Coal Mine Profitability Review",
+          "domain": "commodities",
+          "headline": "BHP Reviews Australian Coal Mine Rankings Amid Royalty Concerns",
+          "summary": "BHP and Mitsubishi Development have launched a financial health review of their Queensland coal mines, ranking assets by profitability amid concerns over Australia's state royalty regime. The review signals potential closures or restructuring of marginal assets in one of the world's largest metallurgical coal regions.",
+          "signal": "BHP coal asset rationalization could tighten met-coal supply and support prices \u2014 monitor Queensland royalty negotiations and steel mill procurement strategies.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/bhp-begins-review-to-rank-unprofitable-australian-coal-mines",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 21,
+          "score": 63,
+          "topic": "Revolut IPO Timeline Extended",
+          "domain": "markets",
+          "headline": "Revolut CEO Pushes IPO to 2028 at Earliest, Two Years Out",
+          "summary": "Revolut CEO Nik Storonsky said the London-based digital bank will not go public until at least 2028, extending the timeline on one of Europe's most anticipated fintech listings. The delay comes despite Revolut's strong growth and a recent valuation surge, suggesting management prefers a longer runway to scale before public market scrutiny.",
+          "signal": "Revolut's delayed IPO reduces near-term European fintech listing supply \u2014 reassess secondary market valuations and competitor IPO dynamics in the UK digital banking space.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/revolut-ceo-storonsky-says-digital-bank-s-ipo-is-two-years-out",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 22,
+          "score": 62,
+          "topic": "William Hill Evoke Takeover Talks",
+          "domain": "corporate",
+          "headline": "Bally's Intralot in Talks to Acquire Struggling William Hill Owner Evoke",
+          "summary": "Bally's Intralot SA is in discussions to acquire Evoke Plc, the owner of William Hill, in a potential rescue deal for the distressed British gambling firm. The proposed transaction would mark a significant consolidation move in the European gaming sector.",
+          "signal": "Evoke's distressed sale process is a bellwether for UK gambling sector stress \u2014 watch for bid premium signals and regulatory approval risks in the UK gaming market.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/william-hill-owner-evoke-in-takeover-talks-with-bally-s-intralot",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 23,
+          "score": 62,
+          "topic": "Lynas Rare Earths Iran War Costs",
+          "domain": "commodities",
+          "headline": "Lynas Flags Higher Acid and Fuel Costs From Iran War Disruption",
+          "summary": "Australia's Lynas Rare Earths warned of materially higher sulfuric acid and fuel costs as a direct consequence of the Iran war disrupting global energy and chemical supply chains. The alert highlights the war's secondary commodity impact on critical minerals processing.",
+          "signal": "Iran war is creating cost inflation across rare earth processing \u2014 monitor Lynas margins and downstream battery/EV supply chain cost structures for second-order impacts.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/business/markets/commodities/australia-s-lynas-flags-higher-sulfuric-acid-fuel-costs-due-to-iran-war",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 24,
+          "score": 61,
+          "topic": "New Zealand Wellington Flood Emergency",
+          "domain": "macro",
+          "headline": "New Zealand Declares Wellington State of Emergency After Major Floods",
+          "summary": "New Zealand declared a state of emergency in Wellington following severe flooding that submerged vehicles, uprooted trees, and triggered landslides destroying homes. The disaster is the most significant to hit the capital in recent years and will strain infrastructure recovery resources.",
+          "signal": "Wellington flood disaster will pressure NZ fiscal position and insurance claims \u2014 watch NZD and New Zealand reinsurance exposures.",
+          "sources": [
+            "BBC"
+          ],
+          "source_url": "https://www.bbc.co.uk/news/articles/cly75d9zvj3o",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 25,
+          "score": 60,
+          "topic": "Bulgaria Election Radev Party Wins",
+          "domain": "europe",
+          "headline": "Exit Poll: Former President Radev's Party Leads Bulgarian Election",
+          "summary": "Exit polls show Rumen Radev's Progressive Bulgaria party winning approximately 38.1% of the vote in Bulgaria's parliamentary election, a significant result that could reshape the country's political landscape. The result may complicate EU consensus-building, particularly on defense and Ukraine-related issues.",
+          "signal": "A Radev-led Bulgarian government could shift Sofia's stance on EU defense spending and Ukraine policy \u2014 monitor EU unanimity risks on key votes.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/19/exit-poll-shows-former-president-radevs-party-set-to-win-bulgaria-election",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 26,
+          "score": 60,
+          "topic": "Japan GSDF Tank Misfire Deaths",
+          "domain": "japan",
+          "headline": "Three Japanese Soldiers Killed in Tank Ammunition Misfire During Training",
+          "summary": "Three Ground Self-Defense Force soldiers were killed and one injured when tank ammunition misfired during a training exercise in Oita Prefecture's Hijudai maneuver area. Prime Minister Sanae Takaichi called the incident 'truly regrettable' and an investigation is underway.",
+          "signal": "The incident raises questions about GSDF equipment readiness at a time when Japan is expanding its defense posture \u2014 monitor political fallout and defense budget scrutiny.",
+          "sources": [
+            "Times of India",
+            "Japan Times"
+          ],
+          "source_url": "https://www.japantimes.co.jp/news/2026/04/21/japan/japan-sdf-accident/",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 27,
+          "score": 58,
+          "topic": "Sensex Iran De-escalation Rally",
+          "domain": "india",
+          "headline": "Sensex Gains 1,300 Points in Three Sessions on Iran Peace Hopes",
+          "summary": "India's Sensex gained 1,300 points across three sessions as optimism over potential US-Iran peace talks lifted sentiment, with analysts projecting a possible surge to 85,000 if a deal materializes. The rupee, however, fell 16 paise to 93.32 against the dollar as Iran war uncertainties kept forex markets cautious.",
+          "signal": "Indian equities are pricing in peace premium that may not be warranted given stalled talks \u2014 asymmetric downside risk if ceasefire collapses; hedge INR exposure.",
+          "sources": [
+            "LiveMint Markets",
+            "Hindu Business"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/sensex-gains-1-300-points-in-3-sessions-can-de-escalation-in-the-us-iran-news-drive-it-to-85k-11776755048288.html",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 28,
+          "score": 58,
+          "topic": "China Hybrid Vehicle Japan Challenge",
+          "domain": "markets",
+          "headline": "China Bets on Hybrid Vehicles to Challenge Japan's Global Auto Lead",
+          "summary": "Chinese automakers are pivoting aggressively to hybrid vehicle technology as a strategic wedge against Japan's dominance in global auto markets, according to Nikkei Asia analysis. The push coincides with Chinese brands showcasing premium hybrid models at the Beijing auto show, targeting European markets.",
+          "signal": "Chinese hybrid escalation threatens Japanese automaker market share in ASEAN and Europe \u2014 watch Toyota and Honda forward guidance for competitive response signals.",
+          "sources": [
+            "Nikkei Asia",
+            "reuters.com"
+          ],
+          "source_url": "https://asia.nikkei.com/business/automobiles/china-bets-on-hybrid-vehicles-in-challenge-to-japan-s-global-lead",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "At Beijing car show, Chinese automakers take aim at Europe's premium brands",
+              "score": 36,
+              "url": "https://bsky.app/profile/reuters.com/post/3mjyigf5im32z"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 29,
+          "score": 57,
+          "topic": "Groww Platform Record Q4 Results",
+          "domain": "india",
+          "headline": "Groww Parent Shares Hit Record High After 122% Q4 Profit Jump",
+          "summary": "Billionbrains Garage Ventures, parent of Groww, saw its share price surge 10% to a record high after reporting a 122% year-on-year profit increase to Rs 686 crore and 87% revenue growth in Q4FY26. New product segments including margin trading contributed meaningfully to the outperformance.",
+          "signal": "Groww's breakout profitability validates India's retail broking boom \u2014 evaluate competitive positioning against Zerodha and HDFC Securities for sector allocation.",
+          "sources": [
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/groww-share-price-soars-10-to-hit-record-high-after-q4-profit-jumps-122-is-it-right-time-to-buy-post-q4-results-2026-11776751458132.html",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 30,
+          "score": 55,
+          "topic": "EU Foreign Ministers Hungary Absence",
+          "domain": "europe",
+          "headline": "EU Foreign Ministers Meet Without Hungary, Enabling Rare Policy Progress",
+          "summary": "EU foreign ministers convened in Luxembourg to discuss multiple geopolitical crises, with the notable absence of Hungary's Orb\u00e1n government potentially enabling concrete policy movement that has been blocked at previous gatherings. The meeting marks a shift in EU decision-making dynamics as Hungary's obstructionist role diminishes.",
+          "signal": "EU foreign policy cohesion is improving without Orb\u00e1n \u2014 watch for accelerated Ukraine, Iran, and defense decisions that could shift European security investment flows.",
+          "sources": [
+            "Politico Europe"
+          ],
+          "source_url": "https://www.politico.eu/podcast/brussels-playbook-podcast/no-orban-no-excuses/",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 31,
+          "score": 55,
+          "topic": "FCAS European Defense Project Crisis",
+          "domain": "europe",
+          "headline": "Merz-Macron FCAS Fighter Jet Project Faces Collapse After Airbus-Dassault Rift",
+          "summary": "Europe's ambitious Future Combat Air System fighter jet program is facing potential collapse after months of dispute between Airbus and French partner Dassault, with a decisive decision expected this week. The failure of FCAS would represent a major setback for European defense-industrial integration at a critical moment of rearmament.",
+          "signal": "FCAS collapse risk is a material negative for European defense co-investment narratives \u2014 monitor alternative bilateral defense deals and potential reallocation of German and French defense budgets.",
+          "sources": [
+            "Politico Europe"
+          ],
+          "source_url": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-macron-und-das-scheitern-eines-rustungsprojekts/",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        }
+      ],
+      "social_count": 80,
+      "tg_count": 50,
+      "tw_count": 0,
+      "bk_count": 30,
+      "local_items": [
+        {
+          "source": "Times of India",
+          "title": "TMC MP Yusuf Pathan\u2019s kin beat Mumbai man, his family as car splashes water",
+          "summary": "Yusuf Pathan's father-in-law and two others were arrested for allegedly assaulting a man and his family in Byculla. The incident began when a car splashed water on a relative, leading to an argument and subsequent physical assault with bamboo sticks and a baseball bat. The defence claims both partie",
+          "url": "https://timesofindia.indiatimes.com/city/mumbai/yusuf-pathans-kin-beat-man-his-family-as-car-splashes-water-in-mumbai/articleshow/130405221.cms",
+          "platform": "rss",
+          "weight": 80
+        },
+        {
+          "source": "Times of India",
+          "title": "\u2018Horrible day for Gujarat Titans\u2019: Hayden blasts \u2018unacceptable\u2019 collapse in MI hammering",
+          "summary": "Gujarat Titans' batting coach Matthew Hayden slammed his team's 99-run defeat to Mumbai Indians, calling the batting 'unacceptable' and a 'horrible day'. He highlighted a powerplay collapse that exposed the middle order prematurely and criticised the bowling for conceding too many runs late. Hayden",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-horrible-day-for-gujarat-titans-matthew-hayden-blasts-unacceptable-collapse-in-mumbai-indians-hammering/articleshow/130410447.cms",
+          "platform": "rss",
+          "weight": 80
+        },
+        {
+          "source": "Indian Express",
+          "title": "\u2018No additional custody warranted\u2019: Mumbai court grants bail to insurance agent held in MDS student suicide case",
+          "summary": "",
+          "url": "https://indianexpress.com/article/legal-news/no-additional-custody-warranted-mumbai-court-grants-bail-to-insurance-agent-held-in-mds-student-suicide-case-10647829/",
+          "platform": "rss",
+          "weight": 80
+        },
+        {
+          "source": "LiveMint Companies",
+          "title": "Suzlon eyes Europe comeback with next-gen wind turbines",
+          "summary": "The Pune-based company on Tuesday launched two new turbine designs for the European market with capacities of 5 MW and 6.3 MW, based on its new Blue Sky product platform. These add to its portfolio of 2.1 MW and 3 MW machines.",
+          "url": "https://www.livemint.com/companies/suzlon-eyes-europe-comeback-next-gen-wind-turbines-blue-sky-product-platform-11776752822916.html",
+          "platform": "rss",
+          "weight": 80
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-21T07:50:21.181122+00:00",
       "timestamp_ist": "21 Apr 2026 \u00b7 13:20 IST",
       "story_count": 21,
