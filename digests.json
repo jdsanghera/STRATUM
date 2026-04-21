@@ -1,6 +1,458 @@
 {
   "digests": [
     {
+      "timestamp": "2026-04-21T04:28:42.119410+00:00",
+      "timestamp_ist": "21 Apr 2026 \u00b7 09:58 IST",
+      "story_count": 20,
+      "avg_score": 72,
+      "stories": [
+        {
+          "rank": 1,
+          "score": 90,
+          "topic": "US-Iran Ship Seizure",
+          "domain": "geopolitics",
+          "headline": "US Seizes Iranian Ship as Hormuz Standoff Escalates",
+          "summary": "The United States has seized an Iranian-flagged cargo ship attempting to navigate past the Strait of Hormuz blockade, with Trump announcing forces stopped the vessel by 'blowing a hole' in its engine room. Iran has condemned the action as 'piracy' and vowed to respond, while both nations maintain competing blockades that have disrupted global shipping.",
+          "signal": "Watch for Iranian retaliation and further shipping disruptions through this critical oil transit route.",
+          "sources": [
+            "Associated Press",
+            "Bloomberg",
+            "Al Jazeera",
+            "BBC News"
+          ],
+          "source_url": "https://apnews.com/article/us-iran-war-israel-hormuz-19-april-2026-0a637f98d588930f195f61cffe07d4f3",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "BREAKING: US President Donald Trump has taken to his Truth Social platform to criticise the CNN broadcaster and other outlets for their coverage of the US's bombing of Iran's nuclear sites last year.",
+              "score": 59,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mjy3ihuj3222"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 2,
+          "score": 88,
+          "topic": "Oil Prices Surge",
+          "domain": "commodities",
+          "headline": "Oil Prices Jump 7% on Iran Conflict",
+          "summary": "Brent crude has surged more than 7 percent amid escalating US-Iran tensions and standoffs in the Strait of Hormuz. Mixed signals on peace talks and competing blockades by both nations have disrupted shipping through the world's most critical oil transit route.",
+          "signal": "Energy sector volatility likely to persist until Iran situation resolves; watch for broader inflationary impacts.",
+          "sources": [
+            "Associated Press",
+            "Bloomberg",
+            "Al Jazeera",
+            "LiveMint"
+          ],
+          "source_url": "https://apnews.com/article/oil-prices-crude-iran-war-4de9058b58ed944a4113dfb2cf6369c8",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 3,
+          "score": 85,
+          "topic": "Tim Cook Apple Succession",
+          "domain": "corporate",
+          "headline": "Tim Cook Steps Down as Apple CEO",
+          "summary": "Apple has announced that John Ternus, head of hardware engineering, will replace Tim Cook as CEO on September 1, 2026. Cook, who has led Apple since 2011, will transition to the newly created role of executive chairman.",
+          "signal": "Major leadership transition at world's most valuable company could impact product strategy and innovation focus.",
+          "sources": [
+            "The Hindu",
+            "Times of India",
+            "LiveMint",
+            "DW Business"
+          ],
+          "source_url": "https://www.thehindu.com/business/Industry/apple-ceo-john-ternus-tim-cook-steps-down/article70886197.ece",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "Tim Cook to step down as CEO of Apple: 'the greatest privilege of my life'",
+              "score": 41,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mjxdwmw2er24"
+            }
+          ],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 4,
+          "score": 83,
+          "topic": "Starmer Mandelson Vetting Scandal",
+          "domain": "geopolitics",
+          "headline": "Starmer Faces Parliament Over Mandelson Appointment",
+          "summary": "British Prime Minister Keir Starmer faces a parliamentary showdown over his appointment of Peter Mandelson as US ambassador. Starmer will appear before lawmakers Monday regarding the vetting of Mandelson, a Jeffrey Epstein associate, after civil servants allegedly withheld information from the PM.",
+          "signal": "UK political stability at risk as Starmer's leadership faces credibility test over high-profile diplomatic appointment.",
+          "sources": [
+            "Associated Press",
+            "BBC News",
+            "Politico Europe"
+          ],
+          "source_url": "https://apnews.com/article/starmer-mandelson-epstein-parliament-statement-1f434ae174c37ae8a1a0c11204573f83",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "Starmer accuses Robbins of obstructing truth about Mandelson vetting",
+              "score": 31,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mjxbwe762b25"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 5,
+          "score": 82,
+          "topic": "US-Philippines Military Exercises",
+          "domain": "geopolitics",
+          "headline": "US Opens Record Military Drills With Philippines",
+          "summary": "The United States has begun its largest defense exercises with the Philippines as Washington maintains Indo-Pacific military presence to counter China amid the Middle East war. The expanded drills underscore America's commitment to regional allies despite resource strain from the Iran conflict.",
+          "signal": "US strategic pivot challenges as military resources stretch between Middle East and Asia-Pacific theaters.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/us-opens-record-drills-with-philippines-as-iran-war-rattles-allies",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 6,
+          "score": 81,
+          "topic": "Korean Stocks AI Rally",
+          "domain": "markets",
+          "headline": "Korean Stocks Hit Record on AI Resurgence",
+          "summary": "South Korean stocks have erased losses from the Iran war and hit record highs as chipmakers rally on renewed artificial intelligence optimism. The recovery demonstrates how tech sector momentum can overcome geopolitical concerns when investor focus shifts back to growth themes.",
+          "signal": "AI trade resilience suggests tech valuations may be supported despite geopolitical volatility.",
+          "sources": [
+            "Bloomberg",
+            "LiveMint",
+            "Nikkei Asia"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/korean-stocks-erase-war-loss-as-chipmakers-rise-on-ai-resurgence",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 7,
+          "score": 79,
+          "topic": "Louisiana Mass Shooting",
+          "domain": "geopolitics",
+          "headline": "Eight Children Killed in Louisiana Mass Shooting",
+          "summary": "A gunman killed eight children, including seven of his own, in domestic violence shootings at two homes in Shreveport, Louisiana. The children ranged in age from 1 to 14 years old in what authorities describe as the deadliest mass shooting in more than two years.",
+          "signal": "Domestic violence incident highlights ongoing gun violence crisis but unlikely to drive policy changes.",
+          "sources": [
+            "Associated Press",
+            "BBC News",
+            "Al Jazeera"
+          ],
+          "source_url": "https://apnews.com/article/shreveport-mass-shooting-louisiana-15098626d4c868b2bbc8a957a6a6ead8",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 8,
+          "score": 78,
+          "topic": "Japan Defense Export Changes",
+          "domain": "geopolitics",
+          "headline": "Japan Scraps Weapons Export Ban",
+          "summary": "Japan has approved scrapping most restrictions on lethal weapons exports, marking a historic shift from its postwar pacifist policy. Prime Minister Takaichi's cabinet approved changes to defense export rules that will create a larger market for arms companies.",
+          "signal": "Japan's defense industry expansion signals broader Indo-Pacific militarization amid China tensions.",
+          "sources": [
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.ndtvprofit.com/world/japan-scraps-most-curbs-on-exporting-weapons-in-historic-shift-11385924#publisher=newsstand",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "apnews.com",
+              "platform": "bluesky",
+              "text": "Japan approved scrapping a ban on lethal weapons exports, a major change of its postwar pacifist policy, as the country seeks to build up its arms industry and deepen cooperation with defense partners",
+              "score": 34,
+              "url": "https://bsky.app/profile/apnews.com/post/3mjy26gat6e2c"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 9,
+          "score": 76,
+          "topic": "China Solar Capacity Controls",
+          "domain": "commodities",
+          "headline": "China Urges Solar Industry Capacity Curbs",
+          "summary": "Chinese authorities have called for 'every effort' to strengthen capacity controls in the solar industry as the sector continues struggling with excess production. The government intervention highlights China's attempts to manage industrial overcapacity amid global trade tensions.",
+          "signal": "Solar supply chain consolidation ahead; watch for pricing impacts and trade policy responses.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/china-s-government-urges-every-effort-to-curb-solar-capacity",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 10,
+          "score": 74,
+          "topic": "Emerging Market Currency Weakness",
+          "domain": "macro",
+          "headline": "Emerging Currencies Fall on Iran Tensions",
+          "summary": "Emerging-market currencies weakened as the dollar and oil prices rose following re-escalation of US-Iran tensions. The standoff in the Strait of Hormuz has triggered risk-off sentiment and flight to safe haven assets.",
+          "signal": "EM currency pressure likely to persist until geopolitical risks subside; monitor central bank interventions.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/emerging-market-currencies-fall-as-us-iran-tensions-resurface",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 11,
+          "score": 72,
+          "topic": "Canadian US Economic Ties",
+          "domain": "macro",
+          "headline": "Canada Seeks to Reduce US Economic Dependence",
+          "summary": "Canadian Prime Minister Mark Carney says Canada's strong economic ties to the US were once a strength but are now a weakness that must be corrected. Canada is working to strengthen economic relationships with other countries amid shifting US relations.",
+          "signal": "North American trade realignment could create new opportunities and risks for cross-border investments.",
+          "sources": [
+            "Associated Press",
+            "Al Jazeera"
+          ],
+          "source_url": "https://apnews.com/article/canada-carney-economic-ties-us-cbf3bc6cbfde27cfae7d85602126785a",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "A Cuban Foreign Ministry official said exchange with Washington was 'respectful and professional' and devoid of threats",
+              "score": 41,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mjxyigi6yx2a"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 12,
+          "score": 71,
+          "topic": "India-US Trade Deal",
+          "domain": "india",
+          "headline": "India-US Trade Agreement Nearly Complete",
+          "summary": "India and the United States are nearing a bilateral trade agreement with negotiators reporting significant progress and only a few issues remaining. Discussions are described as positive and productive, focusing on market access and tariff alignment.",
+          "signal": "Potential trade deal could boost bilateral commerce and provide India buffer against China trade tensions.",
+          "sources": [
+            "Times of India"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/business/india-business/positive-and-productive-india-us-trade-deal-almost-done-in-washington/articleshow/130407077.cms",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 13,
+          "score": 69,
+          "topic": "Japanese Life Insurer JGB Buying",
+          "domain": "markets",
+          "headline": "Major Japanese Insurer Slowing JGB Purchases",
+          "summary": "Fukoku Mutual Life Insurance plans to slow purchases of Japanese government debt this fiscal year as it sees limited upside in super-long bond yields. The move reflects shifting portfolio allocation strategies among major institutional investors.",
+          "signal": "JGB demand dynamics changing as institutional investors reassess duration risk and yield prospects.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/major-japanese-life-insurer-to-slow-buying-of-domestic-debt",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 14,
+          "score": 68,
+          "topic": "Singapore Banking Cybersecurity",
+          "domain": "corporate",
+          "headline": "Singapore Urges Banks Fix Security Gaps",
+          "summary": "Singapore's financial regulator is urging banks to plug cybersecurity holes as concerns over Anthropic's latest AI model Mythos spread to Asia. The warning highlights growing risks from advanced AI systems to financial infrastructure.",
+          "signal": "Cybersecurity spending likely to increase across Asian financial sector as AI threats evolve.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/singapore-urges-banks-to-fix-security-gaps-amid-mythos-ai-fears",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 15,
+          "score": 65,
+          "topic": "Japan Primary Surplus Plan",
+          "domain": "macro",
+          "headline": "Japan Opposition Pushes Five-Year Surplus Road Map",
+          "summary": "A Japanese opposition party leader says the government should present a five-year road map toward achieving primary surplus by around 2030 as interest rates rise. The call reflects growing fiscal concerns as Japan faces higher borrowing costs.",
+          "signal": "Japan fiscal consolidation pressure mounting as rising rates increase debt servicing burden.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/japan-s-opposition-urges-5-year-path-to-achieve-primary-surplus",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 16,
+          "score": 64,
+          "topic": "Copper Price Drop",
+          "domain": "commodities",
+          "headline": "Copper Falls From Two-Month High",
+          "summary": "Copper dropped from its highest close since early February as ceasefire talks between Washington and Tehran were thrown into uncertainty after the US seized an Iranian ship. The metal's decline reflects broader risk-off sentiment from escalating tensions.",
+          "signal": "Industrial metals vulnerable to geopolitical shocks; watch for demand impact if tensions persist.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/copper-drops-from-two-month-high-as-us-iran-tensions-escalate",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 17,
+          "score": 62,
+          "topic": "Bulgaria Election Results",
+          "domain": "europe",
+          "headline": "Former Bulgarian President's Party Wins Election",
+          "summary": "Exit polls show former President Rumen Radev's Progressive Bulgaria party winning 38.1 percent of the vote in Bulgaria's election. The result could bring political stability to a country that has struggled with coalition governments.",
+          "signal": "Bulgarian political stability could improve EU decision-making and attract investment flows.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/19/exit-poll-shows-former-president-radevs-party-set-to-win-bulgaria-election",
+          "standalone_social": false,
+          "context": "",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 18,
+          "score": 60,
+          "topic": "WeWork Office Crisis",
+          "domain": "markets",
+          "headline": "WeWork Bankruptcy Worsening Office Crisis",
+          "summary": "WeWork announced it will vacate 70 office leases in New York City as 20% of US offices remain vacant. The bankruptcy is expected to exacerbate the commercial real estate crisis affecting major urban markets.",
+          "signal": "Commercial real estate distress deepening; watch for broader financial system impacts through bank exposures.",
+          "sources": [
+            "@kobeissiletter"
+          ],
+          "source_url": "",
+          "standalone_social": true,
+          "context": "Major real estate disruption from WeWork's collapse could signal broader commercial property crisis.",
+          "social_signals": [
+            {
+              "handle": "kobeissiletter",
+              "platform": "telegram",
+              "text": "20% of US offices are vacant and WeWork's, $WE, bankruptcy is going to make this crisis worse. WeWork just announced that they will be vacating 70 office leases in New York City. But it gets",
+              "score": 60,
+              "url": "https://t.me/kobeissiletter"
+            }
+          ],
+          "trend": "falling",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 19,
+          "score": 50,
+          "topic": "Real Estate Lawsuit Wave",
+          "domain": "markets",
+          "headline": "New Real Estate Lawsuit Filed",
+          "summary": "Lawyers who won $1.8 billion against the National Association of Realtors filed a new suit for anyone who sold a home over the last five years. The original lawsuit was filed in 2020, suggesting potential for massive industry disruption.",
+          "signal": "Real estate industry facing potential billion-dollar liability wave that could reshape commission structures.",
+          "sources": [
+            "@kobeissiletter"
+          ],
+          "source_url": "",
+          "standalone_social": true,
+          "context": "Massive legal action against real estate industry could transform home-selling economics.",
+          "social_signals": [
+            {
+              "handle": "kobeissiletter",
+              "platform": "telegram",
+              "text": "JUST IN: Lawyers who won $1.8 billion lawsuit against the National Association of Realtors file new suit for anyone who has sold a home over the last 5 years. The original lawsuit was filed in 20",
+              "score": 50,
+              "url": "https://t.me/kobeissiletter"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 20,
+          "score": 50,
+          "topic": "Bezos Amazon Share Sale",
+          "domain": "corporate",
+          "headline": "Bezos Sells $666M Amazon Shares",
+          "summary": "Jeff Bezos sold $665.9 million in Amazon shares this week, offloading 2.97 million shares. The sale continues the Amazon founder's pattern of reducing his stake in the company he built.",
+          "signal": "Monitor for broader insider selling trends that could signal market timing concerns among tech leaders.",
+          "sources": [
+            "@thewirenews"
+          ],
+          "source_url": "",
+          "standalone_social": true,
+          "context": "Large insider selling by tech founder could indicate market timing or diversification strategy.",
+          "social_signals": [
+            {
+              "handle": "thewirenews",
+              "platform": "telegram",
+              "text": "JUST IN: Jeff Bezos Sells $665.9M in Amazon Shares The Amazon founder offloaded 2.97 million shares this week, totaling $665.9 million in proceeds.",
+              "score": 50,
+              "url": "https://t.me/thewirenews"
+            }
+          ],
+          "trend": "stable",
+          "breaking_on_social": true
+        }
+      ],
+      "social_count": 80,
+      "tg_count": 50,
+      "tw_count": 0,
+      "bk_count": 30
+    },
+    {
       "timestamp": "2026-04-20T21:06:16.284482+00:00",
       "timestamp_ist": "21 Apr 2026 \u00b7 02:36 IST",
       "story_count": 16,
