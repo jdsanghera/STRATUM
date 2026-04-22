@@ -1,6 +1,661 @@
 {
   "digests": [
     {
+      "timestamp": "2026-04-22T06:30:07.680174+00:00",
+      "timestamp_ist": "22 Apr 2026 \u00b7 12:00 IST",
+      "story_count": 25,
+      "avg_score": 74,
+      "stories": [
+        {
+          "rank": 1,
+          "score": 91,
+          "topic": "Iran-US Ceasefire Diplomacy",
+          "domain": "geopolitics",
+          "headline": "Trump extends Iran ceasefire as talks stall over blockade demands",
+          "summary": "Trump has extended the US-Iran ceasefire at Pakistan's request while maintaining the Hormuz blockade, even as Iran's chief negotiator accused Washington of seeking surrender and Tehran's UN ambassador said negotiations can resume only if the blockade is lifted. Planned talks in Islamabad failed to materialise, with Pakistan blaming US conditions rather than internal Iranian divisions.",
+          "signal": "Ceasefire extension buys time but the blockade-versus-talks impasse makes a durable deal elusive in the near term.",
+          "sources": [
+            "AP News",
+            "Al Jazeera",
+            "Politico",
+            "The National (UAE)",
+            "Middle East Eye",
+            "Nikkei Asia"
+          ],
+          "source_url": "https://apnews.com/live/iran-war-israel-trump-04-21-2026",
+          "published_at": "21 Apr \u00b7 00:24 IST",
+          "standalone_social": false,
+          "context": "Ceasefire was set to expire; Trump extended it pending a diplomatic proposal from Iran.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Iran's ambassador to the UN told media Tehran is ready to negotiate when the US lifts the blockade.",
+              "score": 49,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mk2uf2h3t22t"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Trump said the US would extend the ceasefire with Iran until it presents a proposal and talks conclude.",
+              "score": 33,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mk2rdkjui42l"
+            }
+          ],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 2,
+          "score": 88,
+          "topic": "Iran War Military Escalation",
+          "domain": "geopolitics",
+          "headline": "IRGC fires on vessel near Oman; Iran threatens Gulf oil output",
+          "summary": "An IRGC boat fired on a container ship near the Omani coast causing heavy bridge damage, according to UK Maritime Trade Operations, while the IRGC separately warned Gulf states they would 'bid farewell to oil production' if they aided attacks on Iran. The IRGC also declared it was preparing 'surprises beyond enemy expectations,' signalling continued willingness to escalate even during the ceasefire.",
+          "signal": "Active IRGC interdiction activity during a nominal ceasefire raises the risk of an accidental or deliberate escalation that could re-open full hostilities.",
+          "sources": [
+            "Middle East Eye",
+            "AP News",
+            "Al Jazeera"
+          ],
+          "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-boat-fires-vessel-near-oman-report-says",
+          "published_at": "22 Apr \u00b7 11:01 IST",
+          "standalone_social": false,
+          "context": "Iran has threatened Gulf energy infrastructure throughout the conflict; this is the first confirmed firing incident during the ceasefire window.",
+          "social_signals": [
+            {
+              "handle": "apnews.com",
+              "platform": "bluesky",
+              "text": "Iran's paramilitary Revolutionary Guard opened fire on a container ship in the Strait of Hormuz, damaging the ship and further raising the stakes as planned ceasefire talks in Pakistan failed to materialise.",
+              "score": 34,
+              "url": "https://bsky.app/profile/apnews.com/post/3mk2sfkn2nr2t"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "IRGC says it is ready to confront any new aggression and will inflict crushing blows on the enemy's remaining assets.",
+              "score": 44,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mk2rrjnmhk2t"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 3,
+          "score": 85,
+          "topic": "Iran War Casualty Toll",
+          "domain": "geopolitics",
+          "headline": "Over 3,375 killed in Iran war; Iran executes Mossad spy",
+          "summary": "Iran's Legal Medicine Organisation confirmed at least 3,375 deaths since the conflict began, the first official figure from Tehran's judiciary. Separately, Iran executed a senior civil defence official convicted of spying for Mossad, underscoring the regime's security crackdown alongside active fighting.",
+          "signal": "Rising official death tolls and domestic security purges suggest Iran is hardening its internal posture even as it signals conditional willingness to negotiate.",
+          "sources": [
+            "AP News",
+            "Middle East Eye"
+          ],
+          "source_url": "https://apnews.com/article/us-iran-war-israel-hormuz-20-april-2026-a3ddc59230ae7de719a9ff9e7595e375",
+          "published_at": "20 Apr \u00b7 07:02 IST",
+          "standalone_social": false,
+          "context": "First official Iranian casualty figure; previous counts relied on external monitoring groups.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 4,
+          "score": 84,
+          "topic": "India Markets Iran Shock",
+          "domain": "india",
+          "headline": "Sensex crashes 800 pts; HCLTech slumps 8% on weak guidance",
+          "summary": "The BSE Sensex fell over 800 points to an intraday low of 78,442 while the Nifty 50 dropped to 24,353, with Nifty IT shedding 3% \u2014 the sharpest sectoral decline \u2014 after HCLTech cut its FY27 revenue guidance citing global uncertainty linked to the Iran war and tariff disruptions. Persistent Systems also fell 5% post Q4 results, compounding the IT sector's pain.",
+          "signal": "Guidance cuts from bellwether IT names signal that Iran-war-linked global demand uncertainty is beginning to hit Indian earnings forecasts, not just sentiment.",
+          "sources": [
+            "LiveMint",
+            "NDTV Profit",
+            "Hindu Business"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/sensex-plunges-over-800-points-nifty-50-nears-24-350-key-factors-behind-stock-market-crash-explained-11776833973422.html",
+          "published_at": "22 Apr \u00b7 10:39 IST",
+          "standalone_social": false,
+          "context": "Indian markets have been under pressure from oil price surge and IT sector demand worries.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "IT stocks drag India benchmarks lower after HCLTech's weak forecast.",
+              "score": 40,
+              "url": "https://bsky.app/profile/reuters.com/post/3mk2ug546vh2n"
+            }
+          ],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 5,
+          "score": 82,
+          "topic": "Kevin Warsh Fed Hearing",
+          "domain": "macro",
+          "headline": "Trump Fed nominee Warsh vows independence at Senate hearing",
+          "summary": "Kevin Warsh appeared before the Senate Banking Committee in what analysts described as potentially the most contentious Fed confirmation hearing in decades, denying he would be Trump's 'sock puppet' and pledging central bank independence. The hearing comes as the Fed's role and credibility face unprecedented political pressure from the Trump White House.",
+          "signal": "Warsh's independence pledges will be tested quickly if Trump publicly demands rate cuts \u2014 markets will watch for any contradiction between his testimony and subsequent policy signalling.",
+          "sources": [
+            "AP News",
+            "Bloomberg",
+            "Al Jazeera"
+          ],
+          "source_url": "https://apnews.com/article/federal-reserve-kevin-warsh-jerome-powell-dd88a3f06eddcada4db555fe11e547eb",
+          "published_at": "21 Apr \u00b7 04:01 IST",
+          "standalone_social": false,
+          "context": "Warsh has sought the Fed chair role for a decade; Powell's term ends in 2026.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Trump's US Fed nominee Warsh vows independence, says he's no 'sock puppet'.",
+              "score": 52,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mk2ixcx5j42h"
+            },
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "Kevin Warsh denied that he would be the president's 'sock puppet.'",
+              "score": 29,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mk2mdkg63y2v"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 6,
+          "score": 80,
+          "topic": "India State Assembly Elections",
+          "domain": "india",
+          "headline": "Tamil Nadu, Bengal, Kerala go to polls; millions of voters mobilised",
+          "summary": "EVMs reached polling centres across Tamil Nadu where 5.73 crore voters will decide among 4,023 candidates in a high-stakes assembly election, while Bengal's poll body banned outsiders from hotels ahead of voting and denied permission for both Rahul Gandhi's rally and Mamata Banerjee's Bhawanipore event. The Guardian separately reported millions of voters were stripped from the Bengal electoral roll ahead of the election.",
+          "signal": "Multi-state simultaneous polling creates elevated political risk for India's coalition arithmetic heading into the second half of 2026.",
+          "sources": [
+            "The Hindu",
+            "ET Top Stories",
+            "NDTV News",
+            "Indian Express"
+          ],
+          "source_url": "https://www.thehindu.com/news/national/assembly-elections-2026-april-22-highlights-tamil-nadu-kerala-puducherry-chennai-kerala-assam-poll-updates-poll-results-date/article70891255.ece",
+          "published_at": "22 Apr \u00b7 11:15 IST",
+          "standalone_social": false,
+          "context": "These are the most significant state elections of 2026, with results likely to influence national politics.",
+          "social_signals": [
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "Millions in India stripped of vote before critical state election, as government seeks to 'purify' electoral roll.",
+              "score": 37,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mk2ss223uo2o"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 7,
+          "score": 79,
+          "topic": "Iran War Oil Shock",
+          "domain": "commodities",
+          "headline": "Hormuz disruption: $500M daily at stake; EU launches emergency energy plan",
+          "summary": "The Strait of Hormuz closure is putting $500 million per day of oil flows at risk, with the EU activating an emergency energy plan to mitigate the fallout and commodity trader Mercuria seeking $200 million in Asian financing as the cost of buying cargoes has surged. The Economic Times compared the shock to past oil crises, noting it is already affecting LPG supply chains and downstream consumer prices globally.",
+          "signal": "If the IRGC's vessel-firing incidents escalate or the ceasefire collapses, a full Hormuz closure would trigger an oil price spike dwarfing any recent episode.",
+          "sources": [
+            "ET Top Stories",
+            "Bloomberg",
+            "Politico Europe",
+            "Middle East Eye"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/news/international/global-trends/strait-of-hormuz-open-or-closed-trump-has-a-warning-for-iran-if-deal-with-us-fails/articleshow/130429756.cms",
+          "published_at": "22 Apr \u00b7 07:03 IST",
+          "standalone_social": false,
+          "context": "Iran war has already pushed oil prices sharply higher; the Hormuz question is the single biggest commodity risk variable.",
+          "social_signals": [
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "The Trump administration is weighing an extension of a maritime shipping waiver that has made it easier to move oil and gasoline between US ports as the Iran war strains energy supplies globally.",
+              "score": 34,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mk2ojsp62n2h"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 8,
+          "score": 78,
+          "topic": "Pahalgam Attack Anniversary",
+          "domain": "india",
+          "headline": "Pahalgam attack one year on: PM Modi vows India will never bow to terror",
+          "summary": "On the first anniversary of the Pahalgam terror attack that killed 26, PM Modi reaffirmed India's anti-terror stance while NDTV and Indian Express highlighted J&K's economic recovery, including investment and startup growth, alongside lingering trauma among survivor families. The attack had triggered Operation Sindoor, a cross-border military action, and extensive diplomatic realignment.",
+          "signal": "The anniversary serves as a political touchstone ahead of state elections and Pakistan peace-process discussions, signalling Delhi will not soften its cross-border counter-terror posture.",
+          "sources": [
+            "Times of India",
+            "NDTV News",
+            "Indian Express"
+          ],
+          "source_url": "https://www.ndtv.com/india-news/pm-modi-on-pahalgam-attack-anniversary-india-will-never-bow-to-terror-11391013",
+          "published_at": "22 Apr \u00b7 08:50 IST",
+          "standalone_social": false,
+          "context": "Operation Sindoor was India's military response; anniversary coverage signals continued political salience.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 9,
+          "score": 77,
+          "topic": "Apple CEO Succession",
+          "domain": "corporate",
+          "headline": "Apple names John Ternus CEO; Tim Cook becomes executive chairman",
+          "summary": "Apple has appointed hardware engineering chief John Ternus as its new chief executive, with Tim Cook stepping up to executive chairman in the company's first leadership transition in over a decade. Ternus faces immediate challenges in AI strategy and mixed reality, areas where Apple has lagged rivals, even as iPhone sales remain robust.",
+          "signal": "Ternus's hardware background suggests Apple will double down on device integration for AI rather than pivoting to cloud-native models \u2014 a strategic differentiation from Microsoft and Google.",
+          "sources": [
+            "BBC News",
+            "Times of India"
+          ],
+          "source_url": "https://www.bbc.co.uk/news/articles/c1kr19lry18o",
+          "published_at": "20 Apr \u00b7 21:22 IST",
+          "standalone_social": false,
+          "context": "Cook had led Apple since Steve Jobs's death in 2011.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 10,
+          "score": 76,
+          "topic": "Japan Weapons Export Policy",
+          "domain": "japan",
+          "headline": "Japan lifts lethal weapons export ban in historic pacifist policy shift",
+          "summary": "Japan has rescinded its decades-old ban on exporting lethal weapons, paving the way for overseas sales of fighter jets and other defence equipment in a landmark departure from its post-war pacifist constitution. The move follows years of incremental reinterpretation of Article 9 and comes amid heightened regional security concerns driven by China's military build-up and the Iran war's effect on global defence spending.",
+          "signal": "Japan entering the global arms market as a credible supplier will reshape Indo-Pacific defence industrial partnerships and create new geopolitical leverage for Tokyo.",
+          "sources": [
+            "Al Jazeera",
+            "Nikkei Asia"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/21/japan-lifts-ban-on-lethal-weapons-exports-in-major-shift-of-pacifist-policy",
+          "published_at": "21 Apr \u00b7 04:46 IST",
+          "standalone_social": false,
+          "context": "Japan's defence budget has already doubled toward 2% of GDP; arms exports are the next structural step.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 11,
+          "score": 75,
+          "topic": "Rupee Slides Iran Pressure",
+          "domain": "india",
+          "headline": "Rupee plunges 31 paise to 93.75 on Iran war oil fears",
+          "summary": "The Indian rupee fell sharply to 93.75 against the dollar in early trade, its steepest single-session move in weeks, as surging oil prices driven by the Iran conflict widened India's import bill outlook and rattled sentiment. Bloomberg separately reported Indian debt fund managers are cutting interest-rate hedges, betting markets have overpriced a rate hike response to oil-driven inflation.",
+          "signal": "A sustained rupee above 94 would force RBI intervention and complicate the rate-cutting cycle just as domestic growth needs policy support.",
+          "sources": [
+            "Hindu Business",
+            "Bloomberg"
+          ],
+          "source_url": "https://www.thehindu.com/business/markets/rupee-plunges-31-paise-to-9375-against-us-dollar-in-early-trade/article70891442.ece",
+          "published_at": "22 Apr \u00b7 10:40 IST",
+          "standalone_social": false,
+          "context": "RBI Governor Malhotra said short-term FDI outflows and currency fluctuations are closely monitored.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 12,
+          "score": 74,
+          "topic": "RBI Governor FDI Comment",
+          "domain": "india",
+          "headline": "RBI's Malhotra says FDI outflows and currency moves closely monitored",
+          "summary": "RBI Governor Sanjay Malhotra, speaking at a New York roundtable hosted by India's Consulate General, said the central bank is closely tracking short-term FDI outflow volatility and currency fluctuations, signalling readiness to act if disorderly conditions emerge. His comments come as the rupee hits multi-week lows and equity markets fall sharply on Iran-war related oil fears.",
+          "signal": "The RBI's public reassurance from New York is a soft jawboning exercise \u2014 if it fails to stabilise sentiment, direct intervention in forex markets is the logical next step.",
+          "sources": [
+            "Hindu Business"
+          ],
+          "source_url": "https://www.thehindu.com/business/short-term-fluctuations-including-fdi-outflows-closely-monitored-rbi-governor-sanjay-malhotra/article70891559.ece",
+          "published_at": "22 Apr \u00b7 11:32 IST",
+          "standalone_social": false,
+          "context": "Malhotra has previously signalled a dovish tilt; this statement is more cautious in tone.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 13,
+          "score": 73,
+          "topic": "UK Iran War Energy Impact",
+          "domain": "europe",
+          "headline": "UK inflation hits 3.3% on Iran fuel shock; petrol thefts spike",
+          "summary": "UK inflation rose to 3.3%, driven by soaring fuel prices linked to the Iran war and Hormuz disruptions, with the Guardian reporting this as a primary cost-of-living driver. The BBC separately documented a spike in petrol drive-offs at forecourts and the government announcing electricity price reforms as part of a clean-power push to reduce exposure to oil-market shocks.",
+          "signal": "The Iran war's consumer price transmission into UK inflation data will accelerate political pressure for both faster renewable deployment and a negotiated Hormuz settlement.",
+          "sources": [
+            "BBC News",
+            "The National (UAE)"
+          ],
+          "source_url": "https://www.bbc.co.uk/news/articles/cx2drmm1mglo",
+          "published_at": "21 Apr \u00b7 01:07 IST",
+          "standalone_social": false,
+          "context": "UK energy policy has been in flux since the 2022 gas crisis; the Iran shock is a second structural test.",
+          "social_signals": [
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "UK inflation rises to 3.3% amid soaring fuel prices driven by Iran war.",
+              "score": 36,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mk2tt5imyi25"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 14,
+          "score": 72,
+          "topic": "EU Budget Deadlock",
+          "domain": "europe",
+          "headline": "EU leaders clash in Cyprus over \u20ac1.8 trillion budget plan",
+          "summary": "European Council President Antonio Costa is pressing for a deal on the EU's next long-term budget before the end of 2026, with a Cyprus summit this week exposing deep north-south fault lines over the \u20ac1.8 trillion proposal. Divisions between farm subsidy defenders and reformers, plus competing national priorities, have already delayed the timetable.",
+          "signal": "A failure to agree a budget framework by mid-2026 would create institutional paralysis that weakens the EU's ability to respond to the Iran shock and US tariff pressures simultaneously.",
+          "sources": [
+            "Politico Europe"
+          ],
+          "source_url": "https://www.politico.eu/article/antonio-costa-steps-up-pressure-break-eu-budget-deadlock/",
+          "published_at": "22 Apr \u00b7 02:10 IST",
+          "standalone_social": false,
+          "context": "The current multi-annual financial framework expires in 2027; negotiations are already behind schedule.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 15,
+          "score": 71,
+          "topic": "Taiwan Lai Africa Trip Cancelled",
+          "domain": "geopolitics",
+          "headline": "Taiwan President Lai cancels Africa trip citing Chinese coercion",
+          "summary": "Taiwan's President Lai Ching-te abruptly cancelled a planned Africa trip at the eleventh hour, blaming Chinese diplomatic pressure that prevented overflight rights and access, according to Nikkei Asia. Reuters' BlueSky post separately noted China publicly praised nations that denied Lai's aircraft transit rights.",
+          "signal": "Beijing's successful denial of African overflight rights to Taiwan's president marks a significant diplomatic victory that will embolden further isolation of Taipei in the Global South.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-lai-scraps-africa-trip-at-11th-hour-blames-chinese-coercion",
+          "published_at": "22 Apr \u00b7 09:00 IST",
+          "standalone_social": false,
+          "context": "Taiwan has been building Africa relationships to counter Chinese isolation; this is a setback.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "China praises nations that denied overflight rights for Taiwan president.",
+              "score": 42,
+              "url": "https://bsky.app/profile/reuters.com/post/3mk2tledgwf2p"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 16,
+          "score": 70,
+          "topic": "Iran Iraq Militia Autonomy",
+          "domain": "geopolitics",
+          "headline": "Iran grants Iraq militia commanders autonomous strike authority",
+          "summary": "Iran has given field commanders in Iraq greater autonomy to act without prior Tehran approval, according to three militia members and two officials who spoke to the AP on condition of anonymity. The shift suggests Iran is dispersing decision-making to make its proxy network harder to neutralise during the ongoing US conflict.",
+          "signal": "Decentralised militia command authority increases the risk of unilateral escalatory incidents in Iraq that neither Tehran nor Washington may be able to contain.",
+          "sources": [
+            "AP News"
+          ],
+          "source_url": "https://apnews.com/article/iraq-militias-iran-war-c2fce96e2769bc8b3be43a729da5517b",
+          "published_at": "21 Apr \u00b7 06:11 IST",
+          "standalone_social": false,
+          "context": "Iran has used Iraqi militias as strategic depth throughout the conflict.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 17,
+          "score": 69,
+          "topic": "Nestle India Q4 Record",
+          "domain": "india",
+          "headline": "Nestl\u00e9 India surges 3% to record high on 23% revenue growth",
+          "summary": "Nestl\u00e9 India shares jumped 3% to an all-time high after the company posted 23% year-on-year revenue growth in Q4 FY26 while maintaining EBITDA margins at 26.3%, beating analyst estimates. Elara Capital raised its target price, though some brokerages flagged stretched valuations at current levels.",
+          "signal": "Nestl\u00e9's strong Q4 print provides a positive data point for India's consumer staples sector amid the broader market selloff, suggesting urban consumption remains resilient despite oil-linked cost pressures.",
+          "sources": [
+            "LiveMint"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/nestle-india-share-price-jumps-3-to-hit-record-high-post-strong-q4-results-fy26-what-brokerages-have-to-say-11776837323714.html",
+          "published_at": "22 Apr \u00b7 11:41 IST",
+          "standalone_social": false,
+          "context": "Indian consumer staples have been a relative safe haven during the current market weakness.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 18,
+          "score": 68,
+          "topic": "Thales Defence Sales Boom",
+          "domain": "europe",
+          "headline": "Thales orders jump 75% as Iran tensions turbocharge defence demand",
+          "summary": "French defence group Thales reported stronger-than-expected quarterly sales with defence division orders surging 75%, directly attributed to sustained robust government spending driven by the Iran conflict and broader NATO rearmament. The result underscores the growing commercial windfall for European defence primes from geopolitical instability.",
+          "signal": "Thales's blowout numbers will accelerate re-rating of European defence stocks and reinforce political will across EU capitals to hit the 3% GDP defence spending threshold.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/thales-sales-beat-as-iran-tensions-drive-strong-defense-demand",
+          "published_at": "21 Apr \u00b7 05:01 IST",
+          "standalone_social": false,
+          "context": "European defence spending has risen sharply since 2022; Iran war has added further urgency.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 19,
+          "score": 68,
+          "topic": "China Trump Gift Iran Warning",
+          "domain": "geopolitics",
+          "headline": "Trump hints China sent lethal aid to Iran, tests US red line",
+          "summary": "President Trump made cryptic public statements suggesting China may have provided a 'gift' of weapons or lethal supplies to Iran, warning Beijing it was testing a US red line on aiding Tehran during the ongoing conflict. No specific confirmation of the nature of the alleged transfer was provided, but the comments immediately raised the spectre of secondary sanctions on Chinese entities.",
+          "signal": "If the US formally confirms Chinese lethal aid to Iran, the geopolitical fallout would extend far beyond the current Middle East conflict, triggering a new US-China confrontation.",
+          "sources": [
+            "Japan Times",
+            "Bloomberg"
+          ],
+          "source_url": "https://www.japantimes.co.jp/news/2026/04/22/world/politics/trump-us-chinese-gift-iran/",
+          "published_at": "22 Apr \u00b7 11:33 IST",
+          "standalone_social": false,
+          "context": "The US had previously warned China against providing lethal support to Iran.",
+          "social_signals": [
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "Trump made cryptic comments about China possibly providing weapons or other potentially lethal war supplies to Iran, a move that would test a US red line.",
+              "score": 32,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mk2t23jz7b2u"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 20,
+          "score": 67,
+          "topic": "Japan Trade Deficit Narrows",
+          "domain": "japan",
+          "headline": "Japan FY2025 trade deficit narrows 68% on chip export surge",
+          "summary": "Japan's trade deficit narrowed by 68% in FY2025 as chip-related exports rose sharply driven by global AI infrastructure investment, while Middle East risks created near-term headwinds for energy-intensive industries. Nikkei Asia also reported Asian stocks were mixed, with Tokyo shares hitting an intraday high despite lingering Iran-linked uncertainty.",
+          "signal": "Japan's export recovery driven by chip demand provides a structural positive offset to the energy import cost surge from the Iran war.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/economy/trade/japan-s-trade-deficit-narrows-68-in-fy2025-as-chip-related-exports-rise",
+          "published_at": "22 Apr \u00b7 08:00 IST",
+          "standalone_social": false,
+          "context": "Japan is the world's largest LNG importer; lower oil but higher chip exports are rebalancing its trade position.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "Japan exports rise for seventh month as AI demand blunts Mideast risks for now.",
+              "score": 36,
+              "url": "https://bsky.app/profile/reuters.com/post/3mk2t2n7jdd2g"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 21,
+          "score": 66,
+          "topic": "EU US Steel Tariff Talks",
+          "domain": "europe",
+          "headline": "EU trade chief heads to Washington to break steel tariff deadlock",
+          "summary": "EU Trade Commissioner Maro\u0161 \u0160ef\u010dovi\u010d is travelling to Washington in the first high-level trade visit since the July 2025 EU-US trade framework, seeking to unlock removal of the 50% US tariffs on European steel and aluminium that remain in place despite the broader deal. The talks come at a sensitive moment as Europe's energy and inflation crises from the Iran war increase pressure on industrial competitiveness.",
+          "signal": "A steel tariff deal would provide meaningful relief to European heavy industry, but US leverage is high given Europe's simultaneous dependence on US LNG as an Iran-war energy substitute.",
+          "sources": [
+            "Euronews Business"
+          ],
+          "source_url": "http://www.euronews.com/my-europe/2026/04/22/eu-trade-chief-heads-to-washington-hoping-to-unlock-steel-talks",
+          "published_at": "22 Apr \u00b7 11:30 IST",
+          "standalone_social": false,
+          "context": "The 2025 EU-US deal left steel/aluminium tariffs unresolved; they remain a major irritant.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 22,
+          "score": 65,
+          "topic": "India Gold Silver Prices Surge",
+          "domain": "india",
+          "headline": "Gold gains 1% in India as Iran war drives safe-haven demand",
+          "summary": "Gold prices rose nearly 1% in Indian markets on April 22, with 24K rates climbing across Delhi, Mumbai and other major cities as investors sought safe-haven assets amid Iran war uncertainty and a weakening rupee. Silver prices also surged, reflecting both investment demand and industrial supply concerns.",
+          "signal": "Gold breaking to new INR-denominated highs simultaneously with equity weakness and rupee depreciation points to a classic crisis-hedging rotation by Indian institutional and retail investors.",
+          "sources": [
+            "LiveMint"
+          ],
+          "source_url": "https://www.livemint.com/market/commodities/gold-and-silver-price-today-22-april-check-live-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11776831069385.html",
+          "published_at": "22 Apr \u00b7 10:29 IST",
+          "standalone_social": false,
+          "context": "Gold has been in a structural uptrend globally since 2024; Iran war has accelerated the move.",
+          "social_signals": [
+            {
+              "handle": "bqprime",
+              "platform": "telegram",
+              "text": "GOLD RUNNING 210+ PIPS \u2014 collecting partial profits and setting rest at breakeven.",
+              "score": 42,
+              "url": "https://t.me/bqprime"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 23,
+          "score": 64,
+          "topic": "India Iran Ceramic Industry Hit",
+          "domain": "india",
+          "headline": "Iran war fuel crisis shuts Gujarat ceramic hub; workers laid off",
+          "summary": "The Iran war-linked fuel and energy crisis has devastated Morbi, Gujarat's ceramics capital, with most production units closed and workers laid off or returned to their home states in a reverse migration. Al Jazeera's on-ground reporting found the industry hit by both gas supply disruption and export route closures through the Gulf.",
+          "signal": "Morbi's shutdown is an early indicator of how the Iran oil shock is transmitting into Indian manufacturing employment, with downstream effects on consumption in semi-urban economies.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/21/iran-war-forces-job-losses-reverse-migration-in-indias-ceramic-hub",
+          "published_at": "21 Apr \u00b7 06:05 IST",
+          "standalone_social": false,
+          "context": "Morbi produces roughly 70% of India's ceramic tiles and is heavily dependent on gas for kilns.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 24,
+          "score": 63,
+          "topic": "Malaysia Rare Earths China Alternative",
+          "domain": "geopolitics",
+          "headline": "Malaysia positions as rare earth alternative to China's 90% dominance",
+          "summary": "Malaysia is advancing plans to become an alternative rare earth supplier as China controls approximately 90% of the global market, raising fears Beijing could weaponise supply chains during geopolitical confrontations. Japan Times reported Malaysian officials are in active discussions with buyers seeking supply chain diversification away from Chinese sources.",
+          "signal": "Malaysia's rare earth push, if successfully scaled, would reduce a critical chokepoint in global semiconductor and defence supply chains and diminish China's coercive leverage.",
+          "sources": [
+            "Japan Times"
+          ],
+          "source_url": "https://www.japantimes.co.jp/business/2026/04/22/markets/malaysia-rare-earths-china/",
+          "published_at": "22 Apr \u00b7 11:24 IST",
+          "standalone_social": false,
+          "context": "China briefly halted rare earth exports to Japan in 2010; the tactic remains a latent threat.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 25,
+          "score": 61,
+          "topic": "US Tariff Refund Portal",
+          "domain": "macro",
+          "headline": "US opens $166 billion tariff refund portal; India eyes $12 billion gains",
+          "summary": "The US launched a claims portal for $166 billion in tariff refunds after the Supreme Court ruled Trump's reciprocal tariffs illegal in February 2026, with India potentially eligible for up to $12 billion in refunds on goods imported into the US during the tariff period. The opening of the portal is a significant reversal of Trump's trade war agenda.",
+          "signal": "Indian exporters with US exposure should move quickly to file refund claims; the $12 billion potential recovery could partly offset Iran-war-linked earnings headwinds.",
+          "sources": [
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.ndtvprofit.com/economy/india-may-see-up-to-12-billion-in-us-tariff-refund-linked-gains-as-claims-window-opens-11387140",
+          "published_at": "22 Apr \u00b7 11:16 IST",
+          "standalone_social": false,
+          "context": "Supreme Court struck down reciprocal tariffs in February 2026 as exceeding executive authority.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        }
+      ],
+      "social_count": 80,
+      "tg_count": 50,
+      "tw_count": 0,
+      "bk_count": 30,
+      "local_items": [
+        {
+          "source": "Indian Express",
+          "title": "A year after Pahalgam attack | \u2018Kashmir, considered heaven on earth, turned into hell for us\u2019: Pune family rebuilds life amid loss",
+          "summary": "",
+          "url": "https://indianexpress.com/article/cities/pune/pahalgam-attack-kashmir-family-rebuilds-life-10649510/",
+          "platform": "rss",
+          "weight": 80
+        },
+        {
+          "source": "Indian Express",
+          "title": "Singing Shammi Kapoor songs while studying: How Pune\u2019s Siddharth Athaley topped JEE Mains",
+          "summary": "",
+          "url": "https://indianexpress.com/article/cities/pune/jee-mains-topper-siddharth-athaley-shammi-kapoor-songs-studying-10649513/",
+          "platform": "rss",
+          "weight": 80
+        },
+        {
+          "source": "Indian Express",
+          "title": "Days before May 1 deadline, teams race to deliver Mumbai-Pune Expressway\u2019s Missing Link",
+          "summary": "",
+          "url": "https://indianexpress.com/article/cities/mumbai/days-before-may-1-deadline-teams-race-to-deliver-mumbai-pune-expressways-missing-link-10649508/",
+          "platform": "rss",
+          "weight": 80
+        },
+        {
+          "source": "LiveMint Markets",
+          "title": "Gold and silver price today, 22 April: Check live rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
+          "summary": "&amp;nbsp;Gold gained nearly 1% on April 22, while silver prices also surged due to demand and currency shifts. Current gold and silver prices vary across major Indian cities. Here's the full list of live rates.",
+          "url": "https://www.livemint.com/market/commodities/gold-and-silver-price-today-22-april-check-live-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11776831069385.html",
+          "platform": "rss",
+          "weight": 82
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-22T05:47:30.254779+00:00",
       "timestamp_ist": "22 Apr 2026 \u00b7 11:17 IST",
       "story_count": 27,
