@@ -1,6 +1,638 @@
 {
   "digests": [
     {
+      "timestamp": "2026-04-22T05:47:30.254779+00:00",
+      "timestamp_ist": "22 Apr 2026 \u00b7 11:17 IST",
+      "story_count": 27,
+      "avg_score": 72,
+      "stories": [
+        {
+          "rank": 1,
+          "score": 92,
+          "topic": "Iran-US Ceasefire Hormuz Standoff",
+          "domain": "geopolitics",
+          "headline": "Trump extends Iran ceasefire; Tehran vows resistance, blockade remains",
+          "summary": "US President Trump extended the ceasefire with Iran at Pakistan's request while maintaining the naval blockade at the Strait of Hormuz, as Iran's chief negotiator accused Washington of demanding surrender and Tehran's IRGC warned Gulf states to 'bid farewell to oil production' if they aided attacks. Over 3,375 Iranians have died in the conflict, and three vessels including an Iranian ship attempted Hormuz transits as the fragile peace process remained deeply uncertain.",
+          "signal": "Ceasefire extension without substantive diplomatic progress signals prolonged Hormuz disruption \u2014 a structural energy supply shock, not a transient one.",
+          "sources": [
+            "Associated Press",
+            "Bloomberg",
+            "Al Jazeera English",
+            "Middle East Eye",
+            "The Hindu",
+            "NDTV Profit",
+            "Politico Europe"
+          ],
+          "source_url": "https://apnews.com/live/iran-war-israel-trump-04-21-2026",
+          "published_at": "20 Apr \u00b7 07:32 IST",
+          "standalone_social": false,
+          "context": "Approximately 40-day conflict; US naval blockade ongoing; Pakistan mediating Islamabad talks; IRGC fired on vessel near Oman per UKMTO report.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Iran's IRGC says it is ready to confront any new aggression and will 'inflict crushing blows on the enemy's remaining assets' in case of renewed battle.",
+              "score": 44,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mk2rrjnmhk2t"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Trump said the US would extend the ceasefire with Iran until it presents a proposal and talks conclude.",
+              "score": 33,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mk2rdkjui42l"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 2,
+          "score": 88,
+          "topic": "India Markets Sensex Crash",
+          "domain": "india",
+          "headline": "Sensex crashes 800 points, Nifty near 24,350 on IT drag",
+          "summary": "Indian equity benchmarks suffered a sharp intraday selloff with the BSE Sensex plunging over 800 points to 78,442 and the Nifty 50 dropping nearly 200 points to 24,353, led by weakness in IT stocks following disappointing quarterly results from Persistent Systems. The rupee simultaneously fell 31 paise to 93.75 against the US dollar in early trade, compounding investor anxiety.",
+          "signal": "IT sector earnings disappointment combined with rupee weakness and Iran war-related global risk-off suggest near-term headwinds for Indian equities.",
+          "sources": [
+            "LiveMint Markets",
+            "Hindu Business",
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/sensex-plunges-over-800-points-nifty-50-nears-24-350-key-factors-behind-stock-market-crash-explained-11776833973422.html",
+          "published_at": "22 Apr \u00b7 10:39 IST",
+          "standalone_social": false,
+          "context": "Persistent Systems Q4 miss; broader global risk-off from Iran ceasefire uncertainty; IT sector most impacted.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 3,
+          "score": 85,
+          "topic": "Kevin Warsh Fed Chair Hearing",
+          "domain": "macro",
+          "headline": "Warsh vows Fed independence at Senate confirmation, denies 'sock puppet' label",
+          "summary": "Trump's Federal Reserve chair nominee Kevin Warsh appeared before the Senate Banking Committee in what analysts described as potentially the most contentious Fed confirmation hearing in decades, pledging independence from the White House and directly rebutting claims he would be a political instrument of the president. Multiple major outlets highlighted the stakes given Trump's repeated pressure on outgoing Chair Jerome Powell.",
+          "signal": "Warsh's independence rhetoric will be tested by markets; if confirmed, his rate policy stance under Trump pressure is the critical variable for dollar and bond markets.",
+          "sources": [
+            "Bloomberg",
+            "Al Jazeera English"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/kevin-warsh-heads-for-the-hill-a-confirmation-hearing-guide",
+          "published_at": "21 Apr \u00b7 09:31 IST",
+          "standalone_social": false,
+          "context": "Trump has publicly clashed with Powell; Warsh is seen as more politically aligned but denies it.",
+          "social_signals": [
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "Kevin Warsh, Donald Trump's pick to replace Jerome Powell as chair of the Federal Reserve, denied that he would be the president's 'sock puppet.'",
+              "score": 29,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mk2mdkg63y2v"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Trump's US Fed nominee Warsh vows independence, says he's no 'sock puppet'",
+              "score": 52,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mk2ixcx5j42h"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 4,
+          "score": 84,
+          "topic": "Apple CEO Succession Tim Cook",
+          "domain": "corporate",
+          "headline": "Apple names John Ternus as new CEO; Tim Cook becomes executive chairman",
+          "summary": "Apple has named John Ternus, head of hardware engineering, as its new chief executive to replace Tim Cook, who will step up to the role of executive chairman. Ternus, a 25-year Apple veteran who described his first day at the company as 'exhilarating and intimidating,' faces immediate challenges around AI strategy and mixed-reality product direction.",
+          "signal": "Ternus's hardware-centric background signals Apple's bet that device innovation, not services pivots, remains its competitive moat \u2014 markets will test this thesis.",
+          "sources": [
+            "BBC News",
+            "Times of India",
+            "Indian Express"
+          ],
+          "source_url": "https://www.bbc.co.uk/news/articles/c1kr19lry18o",
+          "published_at": "20 Apr \u00b7 21:22 IST",
+          "standalone_social": false,
+          "context": "Cook led Apple for 15 years; Ternus previously oversaw Mac and iPhone hardware development.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 5,
+          "score": 82,
+          "topic": "India Pahalgam Attack Anniversary",
+          "domain": "india",
+          "headline": "PM Modi vows India will never bow to terror on Pahalgam anniversary",
+          "summary": "On the one-year anniversary of the Pahalgam terror attack, Prime Minister Modi reaffirmed India's zero-tolerance stance on terrorism while security was tightened across Jammu & Kashmir. Reports highlighted J&K's economic recovery with rising investment, startup activity and tourism, though the anniversary prompted a security analyst to ask whether a similar attack could recur.",
+          "signal": "India's political messaging on Pahalgam anniversary doubles as strategic deterrence signaling toward Pakistan-based actors; watch for any cross-border escalation cues.",
+          "sources": [
+            "NDTV News",
+            "Economic Times",
+            "Times of India"
+          ],
+          "source_url": "https://www.ndtv.com/india-news/pm-modi-on-pahalgam-attack-anniversary-india-will-never-bow-to-terror-11391013",
+          "published_at": "22 Apr \u00b7 08:50 IST",
+          "standalone_social": false,
+          "context": "Pahalgam attack occurred April 22, 2025; J&K now sees renewed tourism but security remains elevated.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 6,
+          "score": 80,
+          "topic": "Japan Lethal Weapons Export Policy",
+          "domain": "japan",
+          "headline": "Japan lifts ban on lethal weapons exports, ending decades of pacifism",
+          "summary": "Japan has reversed its longstanding ban on exporting lethal weapons, including fighter jets, marking the most significant departure from its postwar pacifist policy in decades. The shift, reported by Al Jazeera, is expected to allow Japan to participate in international defense manufacturing consortia and has been driven partly by the regional security environment following the Iran war and rising China-Taiwan tensions.",
+          "signal": "Japan's arms export pivot unlocks major defense industrial partnerships and will accelerate Nikkei defense sector re-rating while straining pacifist political consensus domestically.",
+          "sources": [
+            "Al Jazeera English",
+            "Nikkei Asia"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/21/japan-lifts-ban-on-lethal-weapons-exports-in-major-shift-of-pacifist-policy",
+          "published_at": "21 Apr \u00b7 10:16 IST",
+          "standalone_social": false,
+          "context": "Japan's defense spending has already doubled to 2% of GDP; this export shift is the next structural step.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 7,
+          "score": 78,
+          "topic": "EU Budget Deadlock Cyprus Summit",
+          "domain": "europe",
+          "headline": "EU leaders clash over \u20ac1.8 trillion budget at Cyprus summit",
+          "summary": "European Council President Antonio Costa is pushing to break the EU's long-term budget deadlock at a summit in Cyprus, where the north-south divide, farm subsidies and Brussels' role remain deeply contested. Politico reports Costa sees a narrow window to close a deal by end-2026, but structural disagreements between member states make a swift resolution unlikely.",
+          "signal": "A stalled EU budget amid Iran-driven energy costs and defence spending pressures could trigger credit divergence between northern and southern eurozone sovereigns.",
+          "sources": [
+            "Politico Europe"
+          ],
+          "source_url": "https://www.politico.eu/article/antonio-costa-steps-up-pressure-break-eu-budget-deadlock/",
+          "published_at": "22 Apr \u00b7 02:10 IST",
+          "standalone_social": false,
+          "context": "Current multi-year financial framework expires; energy crisis and rearmament have created new fiscal demands.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 8,
+          "score": 78,
+          "topic": "India Rupee Weakens Dollar",
+          "domain": "india",
+          "headline": "Indian rupee plunges 31 paise to 93.75 vs dollar in early trade",
+          "summary": "The rupee fell sharply in early interbank trading to 93.75 against the US dollar, a decline of 31 paise, as global risk-off sentiment driven by the Iran ceasefire uncertainty and domestic equity weakness combined to pressure the currency. The move compounds cost pressures for Indian importers of crude oil and other commodities routed through Hormuz-adjacent shipping lanes.",
+          "signal": "Rupee at 93.75 raises import inflation risks for India at a time when RBI policy space is already constrained \u2014 watch for RBI intervention signals.",
+          "sources": [
+            "Hindu Business"
+          ],
+          "source_url": "https://www.thehindu.com/business/markets/rupee-plunges-31-paise-to-9375-against-us-dollar-in-early-trade/article70891442.ece",
+          "published_at": "22 Apr \u00b7 10:40 IST",
+          "standalone_social": false,
+          "context": "Rupee has been under pressure as Iran war disrupts energy supply chains; RBI has been managing volatility.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 9,
+          "score": 76,
+          "topic": "UniCredit Commerzbank Hostile Bid",
+          "domain": "europe",
+          "headline": "UniCredit takes Commerzbank bid directly to shareholders after talks break down",
+          "summary": "UniCredit's pursuit of Commerzbank has entered a decisive and contentious phase after high-level deal talks broke down, with the Italian bank now pitching its case directly to Commerzbank shareholders in what Bloomberg describes as Europe's biggest banking takeover. The move escalates tensions with the German government, which holds a stake in Commerzbank and has expressed resistance to the foreign acquisition.",
+          "signal": "Hostile shareholder campaign by UniCredit sets up a pivotal test for European banking M&A rules and German industrial sovereignty doctrine.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/unicredit-s-pursuit-of-commerzbank-reaches-decisive-phase",
+          "published_at": "21 Apr \u00b7 09:30 IST",
+          "standalone_social": false,
+          "context": "UniCredit has been building a stake in Commerzbank for over a year; German government has resisted.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 10,
+          "score": 75,
+          "topic": "India Gold Silver Prices Surge",
+          "domain": "india",
+          "headline": "Gold rises 1% in India on April 22 amid war-driven safe-haven demand",
+          "summary": "Gold prices gained nearly 1% across major Indian cities on April 22 as demand surged driven by the Iran war uncertainty and currency shifts, with silver also rising sharply. NDTV Profit and LiveMint both tracked live rates showing elevated prices in Delhi, Mumbai, Chennai, Kolkata and Bangalore against a backdrop of global commodity volatility.",
+          "signal": "Gold's sustained bid in Indian markets reflects both war-risk hedging and rupee weakness \u2014 dual catalysts that could push domestic prices to record highs.",
+          "sources": [
+            "LiveMint Markets",
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.livemint.com/market/commodities/gold-and-silver-price-today-22-april-check-live-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11776831069385.html",
+          "published_at": "22 Apr \u00b7 10:29 IST",
+          "standalone_social": false,
+          "context": "Global gold prices have surged since Iran war outbreak; Indian demand seasonally strong in April.",
+          "social_signals": [
+            {
+              "handle": "bqprime",
+              "platform": "telegram",
+              "text": "Round 6, Gold Is Going Crazy! GOLD RUNNING 210+ PIPS",
+              "score": 42,
+              "url": "https://t.me/bqprime"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 11,
+          "score": 74,
+          "topic": "UK Energy Iran War Impact",
+          "domain": "europe",
+          "headline": "UK proposes electricity price reforms as Iran war spikes fuel costs",
+          "summary": "The British government announced plans to propose electricity pricing changes as part of a clean power push, directly citing the Iran war as having exposed Britain's vulnerability to energy price shocks. Separately, UK petrol theft has spiked markedly with one retailer reporting five drive-offs per week at each forecourt, and the Green Party is gaining local election support on an anti-war energy platform.",
+          "signal": "Iran war energy transmission into UK retail costs is becoming a domestic political crisis \u2014 watch for emergency energy measures before local elections.",
+          "sources": [
+            "BBC News",
+            "The National UAE"
+          ],
+          "source_url": "https://www.bbc.co.uk/news/articles/c79jg43vd8no",
+          "published_at": "21 Apr \u00b7 06:52 IST",
+          "standalone_social": false,
+          "context": "UK heavily exposed to global LNG and oil prices; government previously resisted emergency pricing intervention.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 12,
+          "score": 73,
+          "topic": "Persistent Systems Q4 Results Miss",
+          "domain": "india",
+          "headline": "Persistent Systems shares crash 5% after soft Q4 FY26 results",
+          "summary": "Shares of Persistent Systems fell as much as 5% on the NSE on April 22, a day after the IT company reported disappointing fourth-quarter results for FY26, significantly underperforming the benchmark Nifty 50. The results added to broader IT sector weakness dragging Indian indices lower, with multiple brokerages reassessing buy/sell/hold recommendations.",
+          "signal": "Persistent Systems miss signals margin compression in mid-tier Indian IT \u2014 a leading indicator for broader sector earnings risk in FY27 guidance season.",
+          "sources": [
+            "LiveMint Markets",
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/persistent-systems-shares-crash-5-after-q4-results-should-you-buy-sell-or-hold-11776832103984.html",
+          "published_at": "22 Apr \u00b7 10:01 IST",
+          "standalone_social": false,
+          "context": "IT sector is India's largest dollar-earning sector; US demand uncertainty tied to Iran war economic slowdown.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 13,
+          "score": 72,
+          "topic": "Trump Cabinet Departures Chavez-DeRemer",
+          "domain": "macro",
+          "headline": "Labor Secretary Chavez-DeRemer exits Trump Cabinet, third in recent weeks",
+          "summary": "Labor Secretary Lori Chavez-DeRemer has left President Trump's Cabinet following allegations of an affair with a subordinate and drinking on the job, becoming the third Cabinet member to depart recently after Kristi Noem and Pam Bondi. The turnover is raising questions about administration stability at a critical moment during the Iran war and ongoing tariff litigation.",
+          "signal": "Accelerating Cabinet churn signals internal dysfunction that could delay coherent Iran war policy and economic policy coordination at a systemically sensitive moment.",
+          "sources": [
+            "Associated Press",
+            "Al Jazeera English"
+          ],
+          "source_url": "https://apnews.com/article/lori-chavez-deremer-resigns-trump-cabinet-926a5d655890fe5ec348cbf959233481",
+          "published_at": "20 Apr \u00b7 21:22 IST",
+          "standalone_social": false,
+          "context": "Trump administration has seen unusually high Cabinet turnover in its second term.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 14,
+          "score": 71,
+          "topic": "Hormuz Shipping Iran IRGC Attacks",
+          "domain": "middleeast",
+          "headline": "IRGC fires on vessel near Oman; Gulf states warned on oil production",
+          "summary": "Iran's IRGC fired on a container ship near Oman, causing heavy damage to its bridge according to UK Maritime Trade Operations, as Iranian forces also attempted Hormuz transits with two cargo ships and a fuel tanker. The IRGC simultaneously warned Gulf states that their oil production would be disrupted if they allowed their territories to be used for attacks on Iran, a direct threat to Saudi and UAE energy infrastructure.",
+          "signal": "Active IRGC maritime aggression combined with Gulf state oil production threats represents an escalation ladder that could spike Brent crude beyond current war-premium levels.",
+          "sources": [
+            "Middle East Eye",
+            "Bloomberg"
+          ],
+          "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-boat-fires-vessel-near-oman-report-says",
+          "published_at": "22 Apr \u00b7 11:01 IST",
+          "standalone_social": false,
+          "context": "US naval blockade of Iran ongoing; multiple ship incidents reported weekly; insurance rates at record levels.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 15,
+          "score": 70,
+          "topic": "India Three Economic Buffers Iran",
+          "domain": "india",
+          "headline": "Fitch unit says India lining up three buffers amid Iran economic storm",
+          "summary": "A Fitch ratings unit analysis identifies India as preparing three distinct economic buffers to shield its economy from the Iran war's cascading effects on energy costs, trade flows and currency volatility. The report, cited by the Economic Times, suggests India's policy response is proactive but notes that a prolonged Hormuz disruption would test the resilience of these measures.",
+          "signal": "India's pre-positioned buffers against Iran shock signal RBI and Finance Ministry coordination is active \u2014 reduces tail risk but does not eliminate oil import vulnerability.",
+          "sources": [
+            "ET Top Stories"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/news/economy/policy/india-seen-to-line-up-three-buffers-for-its-economy-amid-the-iran-storm-fitch-unit/articleshow/130431164.cms",
+          "published_at": "22 Apr \u00b7 09:23 IST",
+          "standalone_social": false,
+          "context": "India imports ~85% of its crude oil needs; Hormuz disruption directly affects supply chain and prices.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 16,
+          "score": 70,
+          "topic": "Taiwan Lai Africa Trip China Coercion",
+          "domain": "geopolitics",
+          "headline": "Taiwan President Lai cancels Africa trip at last minute, blames China coercion",
+          "summary": "Taiwan's President Lai Ching-te scrapped a planned Africa trip at the eleventh hour, publicly attributing the cancellation to Chinese diplomatic coercion that pressured African nations to deny Taiwan access or transit rights. Nikkei Asia reports the incident as a significant escalation in Beijing's campaign to isolate Taipei internationally while US attention is focused on the Iran war.",
+          "signal": "China exploiting US Iran distraction to tighten Taiwan's diplomatic encirclement \u2014 a structural geopolitical shift with long-term Indo-Pacific security implications.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-lai-scraps-africa-trip-at-11th-hour-blames-chinese-coercion",
+          "published_at": "22 Apr \u00b7 09:00 IST",
+          "standalone_social": false,
+          "context": "Taiwan has maintained relations with roughly 12 African nations; China has been systematically poaching these ties.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 17,
+          "score": 68,
+          "topic": "Kerala Fireworks Blast Deaths",
+          "domain": "india",
+          "headline": "Kerala fireworks blast kills over 9; Thrissur Pooram format under review",
+          "summary": "At least nine victims have been identified following a deadly fireworks unit explosion in Thrissur, Kerala, with authorities recovering charred body parts and dispatching samples for DNA profiling to identify additional casualties. Authorities are now considering holding a fireworks-free Thrissur Pooram festival while two victims remain on ventilators at hospital.",
+          "signal": "Kerala fireworks disaster will likely trigger nationwide regulatory review of licensed pyrotechnics storage and festival event safety standards.",
+          "sources": [
+            "The Hindu"
+          ],
+          "source_url": "https://www.thehindu.com/news/national/kerala/kerala-fireworks-accident-9-victims-identified-mundathikode/article70891446.ece",
+          "published_at": "22 Apr \u00b7 11:06 IST",
+          "standalone_social": false,
+          "context": "Thrissur Pooram is one of India's most famous temple festivals, known for elaborate fireworks displays.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 18,
+          "score": 67,
+          "topic": "Mandelson Vetting Row UK",
+          "domain": "europe",
+          "headline": "Starmer says officials withheld Mandelson vetting failure; civil servant to testify",
+          "summary": "UK Prime Minister Keir Starmer told Parliament that officials deliberately withheld the result of Lord Mandelson's failed security vetting before his appointment as British ambassador to the US, prompting Sir Olly Robbins to prepare to publicly defend his decision. The Guardian reported that officials also considered withholding the vetting files from Parliament entirely, deepening the political crisis.",
+          "signal": "The Mandelson vetting row threatens Starmer's credibility on institutional integrity at a time when the UK's US diplomatic relationship is critically important during the Iran war.",
+          "sources": [
+            "BBC News"
+          ],
+          "source_url": "https://www.bbc.co.uk/news/articles/cx2wllel54no",
+          "published_at": "20 Apr \u00b7 18:37 IST",
+          "standalone_social": false,
+          "context": "Mandelson was appointed UK ambassador to Washington despite reportedly failing security vetting procedures.",
+          "social_signals": [
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "Robbins says officials considered withholding Mandelson vetting files from parliament",
+              "score": 41,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mk2qdpjkwo25"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 19,
+          "score": 66,
+          "topic": "Mercuria Asia Commodity Financing",
+          "domain": "commodities",
+          "headline": "Mercuria seeks $200M Asia financing as Iran war raises cargo costs",
+          "summary": "Commodity trading giant Mercuria Energy is seeking at least $200 million in new Asian financing as the Iran war has dramatically increased the cost of procuring and transporting energy cargoes globally. Bloomberg reports the move reflects a broader shift by commodity traders toward alternative Asian liquidity sources as Western banks tighten credit lines amid elevated geopolitical risk.",
+          "signal": "Commodity traders pivoting to Asian financing marks a structural shift in trade finance geography \u2014 a bullish signal for Asian bank exposure to commodity flow.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/mercuria-seeks-new-liquidity-in-asia-with-200-million-financing",
+          "published_at": "21 Apr \u00b7 09:34 IST",
+          "standalone_social": false,
+          "context": "Iran war has pushed shipping insurance and cargo financing costs to multi-decade highs.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 20,
+          "score": 65,
+          "topic": "ASML Layoffs 1700 Jobs Europe",
+          "domain": "europe",
+          "headline": "ASML cuts 1,700 jobs in management restructuring amid chip demand shift",
+          "summary": "European semiconductor equipment giant ASML announced plans to cut approximately 1,700 positions as part of a management simplification and reorganisation, with roles in middle management and administrative functions facing the biggest risk. LiveMint reported the move comes as ASML navigates slowing orders from some chipmakers while managing export restriction pressures from both US and EU regulators.",
+          "signal": "ASML's headcount reduction despite its monopolistic EUV position signals demand cycle caution \u2014 a leading indicator for global semiconductor capital expenditure trends.",
+          "sources": [
+            "LiveMint Companies"
+          ],
+          "source_url": "https://www.livemint.com/companies/news/asml-layoff-europes-chip-giant-to-cut-1-700-jobs-these-roles-face-the-biggest-risk-11776818966669.html",
+          "published_at": "22 Apr \u00b7 07:33 IST",
+          "standalone_social": false,
+          "context": "ASML is the sole manufacturer of EUV lithography machines, essential for advanced chip production.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 21,
+          "score": 64,
+          "topic": "South Korea Battery Mercedes Deal",
+          "domain": "markets",
+          "headline": "South Korean battery stocks rally on Mercedes-Benz partnership deals",
+          "summary": "Shares of South Korea's leading battery manufacturers surged after they clinched supply and partnership agreements with Mercedes-Benz Group, providing a significant boost to a sector that has struggled with slowing global EV transition momentum. Bloomberg described the deals as a welcome catalyst for companies that have faced margin pressure and overcapacity concerns.",
+          "signal": "Mercedes-Korea battery partnerships signal premium EV segment is still accelerating even as mass-market EV growth slows \u2014 a bifurcation worth tracking for materials and battery investors.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/south-korean-battery-stocks-rally-on-mercedes-benz-partnership",
+          "published_at": "21 Apr \u00b7 08:48 IST",
+          "standalone_social": false,
+          "context": "South Korean battery firms LG Energy Solution, Samsung SDI and SK On have been seeking anchor OEM partnerships to stabilise revenue.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 22,
+          "score": 63,
+          "topic": "Japan Trade Deficit Chip Exports",
+          "domain": "japan",
+          "headline": "Japan FY2025 trade deficit narrows 68% as chip-related exports surge",
+          "summary": "Japan's trade deficit narrowed sharply by 68% in fiscal year 2025, driven by a significant increase in semiconductor-related equipment and component exports as global demand for chips remained robust. Nikkei Asia attributed the improvement partly to AI-driven semiconductor investment cycles and Japan's semiconductor manufacturing renaissance supported by TSMC and others setting up domestic fabs.",
+          "signal": "Japan's chip export surge structurally improves its current account position and supports yen stabilisation \u2014 Goldman Sachs note on US buyers returning to Japan stocks is consistent with this.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/economy/trade/japan-s-trade-deficit-narrows-68-in-fy2025-as-chip-related-exports-rise",
+          "published_at": "22 Apr \u00b7 09:00 IST",
+          "standalone_social": false,
+          "context": "Japan has been investing heavily in domestic chip manufacturing capacity with government subsidies.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 23,
+          "score": 62,
+          "topic": "China Finance Overtakes Manufacturing GDP",
+          "domain": "macro",
+          "headline": "China finance sector growth overtakes manufacturing for first time amid IPO boom",
+          "summary": "Chinese financial sector growth exceeded manufacturing growth for the first time in years during Q1 2026, turbocharged by a surge in IPO activity and capital market issuance even as the broader economy showed a surprise rebound. Bloomberg's analysis suggests this structural shift reflects both deliberate policy support for capital markets and the relative drag on manufacturing from US tariff exposure.",
+          "signal": "China's finance-over-manufacturing GDP pivot signals a deliberate rebalancing under tariff pressure \u2014 watch for policy support for domestic consumption and services to accelerate.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/chinese-manufacturing-growth-overtaken-by-finance-amid-ipo-boom",
+          "published_at": "21 Apr \u00b7 09:53 IST",
+          "standalone_social": false,
+          "context": "China's Q1 2026 GDP surprised to the upside despite ongoing US tariff pressures.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 24,
+          "score": 61,
+          "topic": "Bank of Maharashtra Strong Q4",
+          "domain": "india",
+          "headline": "Bank of Maharashtra shares surge 15% in two days on 35% profit jump",
+          "summary": "Bank of Maharashtra shares rallied 15% over two consecutive sessions after the state-run lender reported a 35% year-on-year increase in net profit to \u20b92,014 crore for Q4 FY26, with total income rising to \u20b98,693 crore driven by higher interest income and strong loan growth. The results made it one of the top-performing public sector banking stocks of the earnings season.",
+          "signal": "PSU bank earnings momentum at Bank of Maharashtra contrasts sharply with private IT sector weakness \u2014 sector rotation into public sector banks may accelerate in near term.",
+          "sources": [
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/bank-of-maharashtra-shares-extend-q4-results-rally-for-the-second-straight-session-rises-15-in-two-days-11776830961634.html",
+          "published_at": "22 Apr \u00b7 09:51 IST",
+          "standalone_social": false,
+          "context": "Bank of Maharashtra is a mid-size public sector lender based in Pune with significant retail and MSME exposure.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 25,
+          "score": 60,
+          "topic": "US Tariff Refund System Launches",
+          "domain": "macro",
+          "headline": "US launches tariff refund system after Supreme Court overturns levies",
+          "summary": "US Customs and Border Protection launched an online refund system allowing importers to claim back tariffs that were struck down by the Supreme Court, following a landmark ruling that overturned specific US tariff measures. Companies and their brokers can begin claiming refunds digitally, though the scale of eligible claims and processing timelines remain unclear.",
+          "signal": "Tariff refund system activation could release meaningful liquidity to US importers \u2014 a modest positive for affected supply chains but signals the legal vulnerability of executive tariff authority.",
+          "sources": [
+            "Associated Press"
+          ],
+          "source_url": "https://apnews.com/article/tariff-refund-trump-customs-08861f153801156d213c30c4e2f6a683",
+          "published_at": "19 Apr \u00b7 19:00 IST",
+          "standalone_social": false,
+          "context": "Supreme Court ruling overturned specific Trump-era tariffs; refund mechanism is the implementation step.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 26,
+          "score": 58,
+          "topic": "SpaceX Cursor AI Acquisition Option",
+          "domain": "corporate",
+          "headline": "SpaceX secures $60 billion option to acquire AI coding startup Cursor",
+          "summary": "SpaceX announced a partnership with AI coding startup Cursor and has secured an option to acquire the company for $60 billion or alternatively invest $10 billion in a joint venture, in a high-stakes pre-IPO strategic move as Elon Musk seeks to dominate the AI coding race. LiveMint reported the deal underscores SpaceX's aggressive push into AI-enabled software tooling ahead of its anticipated record IPO.",
+          "signal": "SpaceX-Cursor option at $60B values AI coding tools at a premium that will reset private market comparables for the entire developer-AI sector.",
+          "sources": [
+            "LiveMint Companies"
+          ],
+          "source_url": "https://www.livemint.com/companies/news/spacex-says-partnering-with-cursor-option-to-buy-ai-startup-for-60-billion-in-high-stakes-pre-ipo-move-11776813719593.html",
+          "published_at": "22 Apr \u00b7 05:23 IST",
+          "standalone_social": false,
+          "context": "Cursor is a leading AI-powered code editor; SpaceX IPO has been long anticipated at record valuation.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 27,
+          "score": 57,
+          "topic": "Kash Patel Atlantic Lawsuit",
+          "domain": "macro",
+          "headline": "FBI Director Patel sues The Atlantic for $250M over drinking allegations",
+          "summary": "FBI Director Kash Patel filed a $250 million defamation lawsuit against The Atlantic and reporter Sarah Fitzpatrick over an article alleging excessive drinking, which he called a 'malicious hit piece.' The lawsuit is seen as part of a broader pattern of Trump administration officials using legal action against critical media outlets.",
+          "signal": "FBI Director suing a major media outlet creates chilling precedent for national security journalism \u2014 watch for other administration officials to pursue similar litigation strategies.",
+          "sources": [
+            "Associated Press"
+          ],
+          "source_url": "https://apnews.com/article/kash-patel-atlantic-lawsuit-fbi-2e1e898c33d3afc12421010f519c7aac",
+          "published_at": "20 Apr \u00b7 15:58 IST",
+          "standalone_social": false,
+          "context": "Trump officials including the president himself have pursued defamation suits against critical media.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        }
+      ],
+      "social_count": 80,
+      "tg_count": 50,
+      "tw_count": 0,
+      "bk_count": 30,
+      "local_items": [
+        {
+          "source": "Times of India",
+          "title": "'Get out of here': Minister gets taste of 'akrosh' over traffic jam during BJP's Mumbai rally",
+          "summary": "During a BJP rally in Mumbai, a frustrated woman confronted Maharashtra minister Girish Mahajan and demonstrators, demanding they clear the road. She expressed anger over being stuck in traffic for over an hour while trying to pick up her child. The incident, captured in viral videos, saw the woman",
+          "url": "https://timesofindia.indiatimes.com/city/mumbai/min-gets-taste-of-womans-anger/articleshow/130426663.cms",
+          "platform": "rss",
+          "weight": 80
+        },
+        {
+          "source": "LiveMint Markets",
+          "title": "Gold and silver price today, 22 April: Check live rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
+          "summary": "&amp;nbsp;Gold gained nearly 1% on April 22, while silver prices also surged due to demand and currency shifts. Current gold and silver prices vary across major Indian cities. Here's the full list of live rates.",
+          "url": "https://www.livemint.com/market/commodities/gold-and-silver-price-today-22-april-check-live-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11776831069385.html",
+          "platform": "rss",
+          "weight": 82
+        },
+        {
+          "source": "LiveMint Markets",
+          "title": "Bank of Maharashtra shares extend Q4 results rally for the second straight session, rises 15% in two days",
+          "summary": "Bank of Maharashtra shares rose 15% over two days following a strong Q4 report, with net profit up 35% to  \u20b92,014 crore. Overall income increased to  \u20b98,693 crore, driven by higher interest income and a significant rise in loans.",
+          "url": "https://www.livemint.com/market/stock-market-news/bank-of-maharashtra-shares-extend-q4-results-rally-for-the-second-straight-session-rises-15-in-two-days-11776830961634.html",
+          "platform": "rss",
+          "weight": 82
+        },
+        {
+          "source": "NDTV Profit",
+          "title": "Gold, Silver Price Today, April 22: Check Prices In Mumbai, Delhi, Chennai, Kolkata, Bangalore",
+          "summary": "Gold and Silver Prices In India",
+          "url": "https://www.ndtvprofit.com/markets/gold-silver-price-today-april-22-check-prices-in-mumbai-delhi-chennai-kolkata-bangalore-11391265#publisher=newsstand",
+          "platform": "rss",
+          "weight": 78
+        },
+        {
+          "source": "ET Top Stories",
+          "title": "Check petrol price in Delhi, Mumbai, Chennai",
+          "summary": "",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-price-today-city-wise-india-fuel-rate-today-delhi-mumbai-chennai-kolkata-today-22-april-2026-petrol-rates-updates/articleshow/130431506.cms",
+          "platform": "rss",
+          "weight": 81
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-22T04:18:42.358281+00:00",
       "timestamp_ist": "22 Apr 2026 \u00b7 09:48 IST",
       "story_count": 26,
