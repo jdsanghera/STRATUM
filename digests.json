@@ -1,6 +1,593 @@
 {
   "digests": [
     {
+      "timestamp": "2026-04-22T15:04:11.249663+00:00",
+      "timestamp_ist": "22 Apr 2026 \u00b7 20:34 IST",
+      "story_count": 25,
+      "avg_score": 75,
+      "stories": [
+        {
+          "rank": 1,
+          "score": 92,
+          "topic": "Iran-US War Ceasefire Talks",
+          "domain": "geopolitics",
+          "headline": "Trump extends Iran ceasefire indefinitely as talks remain fragile",
+          "summary": "President Trump extended the Iran ceasefire with no set timeline, but Tehran rejected negotiations 'under shadow of threats' as Iran's chief negotiator accused the US of demanding surrender. Pakistan and Turkey are racing to broker a second round of talks before the truce fully unravels, while US forces simultaneously boarded a sanctioned Iranian oil tanker in a maritime interdiction.",
+          "signal": "An indefinite but timeline-free ceasefire extension keeps markets calm while the underlying military and diplomatic standoff deepens \u2014 any renewed escalation could spike oil above $100.",
+          "sources": [
+            "AP News",
+            "Al Jazeera",
+            "WSJ",
+            "NDTV Profit",
+            "Middle East Eye",
+            "LiveMint"
+          ],
+          "source_url": "https://apnews.com/live/iran-war-israel-trump-04-21-2026",
+          "published_at": "21 Apr \u00b7 05:54 IST",
+          "standalone_social": false,
+          "context": "US-Israeli strikes eliminated Iran's supreme leader; successor leadership is navigating whether to negotiate or resume hostilities.",
+          "social_signals": [
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "An indefinite Iran ceasefire leaves uncertainty as the status quo",
+              "score": 31,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mk3m6axyc425"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Since the early days of the war on Iran, the US has been targeting Iranian ships in international waters.",
+              "score": 31,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mk3ki6fwod23"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 2,
+          "score": 89,
+          "topic": "Iran Strait of Hormuz Shipping Crisis",
+          "domain": "geopolitics",
+          "headline": "Iran seizes two ships near Hormuz including Gujarat-bound vessel",
+          "summary": "Iran's IRGC seized two vessels in the Strait of Hormuz hours after Trump's ceasefire extension, with one ship bound for Mundra port in Gujarat, India. The Pentagon confirmed US forces had separately boarded a sanctioned tanker previously used to smuggle Iranian crude, as the WSJ reported US forces operating amid Iran's mixed diplomatic signals.",
+          "signal": "Iran's simultaneous seizure of India-bound cargo and the US maritime interdiction operation signal the Strait remains an active conflict zone despite the ceasefire, directly threatening Indian energy supply chains.",
+          "sources": [
+            "Times of India",
+            "Economic Times",
+            "AP News",
+            "WSJ",
+            "Politico Europe"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/india/gujarat-bound-ship-among-two-vessels-seized-by-iran-near-hormuz/articleshow/130440586.cms",
+          "published_at": "21 Apr \u00b7 17:51 IST",
+          "standalone_social": false,
+          "context": "India is heavily dependent on Gulf oil routes; Mundra/Gujarat is a primary energy import hub.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 3,
+          "score": 87,
+          "topic": "Germany Iran War Economic Shock",
+          "domain": "europe",
+          "headline": "Germany halves 2026 GDP forecast to 0.5% on Iran war energy shock",
+          "summary": "The German government formally cut its 2026 growth forecast from 1% to 0.5%, blaming severe energy price shocks stemming from the Iran conflict and Strait of Hormuz disruption. Simultaneously, Russia announced it will block Kazakh oil flows through the Druzhba pipeline to Berlin from May 1, compounding Germany's energy vulnerability from two directions.",
+          "signal": "Germany faces a dual energy squeeze \u2014 Iran war disrupting Gulf supplies and Russia cutting Kazakh pipeline flows \u2014 making a technical recession in Europe's largest economy increasingly probable by Q3.",
+          "sources": [
+            "Euronews Business",
+            "DW Business",
+            "Al Jazeera (Druzhba)"
+          ],
+          "source_url": "http://www.euronews.com/business/2026/04/22/germany-halves-gdp-forecast-from-1-to-05-due-to-iran-war-fallout",
+          "published_at": "22 Apr \u00b7 18:05 IST",
+          "standalone_social": false,
+          "context": "Germany already entered contraction in 2024-25; this is the second consecutive downward revision.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Russia says will halt oil flow to Germany via Druzhba pipeline",
+              "score": 46,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mk3r6scwwv2h"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 4,
+          "score": 85,
+          "topic": "India Sensex Rupee Market Rout",
+          "domain": "india",
+          "headline": "Sensex drops 831 points, rupee near 94 as IT and oil pressures bite",
+          "summary": "Indian equity markets snapped a three-day rally with the BSE Sensex tumbling over 756\u2013831 points to settle around 78,516, dragged by IT sector weakness and surging Brent crude near $99.75 per barrel. The rupee settled 39 paise lower, approaching the psychologically significant 94-per-dollar level, with analysts flagging the Nifty 50's ability to hold 24,000 as the key technical test.",
+          "signal": "The Rupee-oil double squeeze \u2014 weak IT earnings guidance combined with Brent near $100 \u2014 creates a stagflationary pressure on India's current account deficit and RBI policy calculus.",
+          "sources": [
+            "LiveMint Markets",
+            "Hindu Business",
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/stock-market-crash-will-the-nifty-50-sustain-above-24k-these-three-bank-stocks-hold-key-11776850686386.html",
+          "published_at": "22 Apr \u00b7 10:40 IST",
+          "standalone_social": false,
+          "context": "India's equity rally of the past three sessions was driven by ceasefire optimism; oil spike reversal triggered profit-taking.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 5,
+          "score": 83,
+          "topic": "RBI MPC Minutes Iran Inflation Warning",
+          "domain": "india",
+          "headline": "RBI MPC flags Iran war risk, raises FY27 inflation outlook to 4.6%",
+          "summary": "Minutes from the RBI's Monetary Policy Committee show the central bank explicitly flagging the Iran war's impact on the Indian economy, revising its CPI inflation forecast upward to 4.6% for FY27 and warning of El Ni\u00f1o-driven food price pressures. Governor Sanjay Malhotra separately told a New York roundtable that the RBI is closely monitoring short-term capital flow fluctuations including FDI outflows.",
+          "signal": "The RBI's dual warning on imported inflation (oil) and domestic food inflation narrows the window for further rate cuts and could force a pause as early as the June MPC meeting.",
+          "sources": [
+            "NDTV Profit",
+            "Hindu Business"
+          ],
+          "source_url": "https://www.ndtvprofit.com/economy/mpc-minutes-rbi-flags-iran-war-impact-on-indian-economy-sees-el-nino-pushing-inflation-11394235",
+          "published_at": "22 Apr \u00b7 12:54 IST",
+          "standalone_social": false,
+          "context": "RBI cut rates in February 2026; markets had priced in two more cuts this year.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 6,
+          "score": 82,
+          "topic": "Lufthansa Jet Fuel Crisis Flights Cut",
+          "domain": "europe",
+          "headline": "Lufthansa cancels 20,000 flights as Iran war triggers jet fuel crisis",
+          "summary": "Lufthansa has canceled 20,000 flights due to a worsening jet fuel shortage caused by the closure of the Strait of Hormuz, with industry experts warning of further cancellations and ticket price spikes across European carriers. The EU is simultaneously working on an emergency energy package focusing on kerosene and diesel reserves to cushion the aviation and logistics sectors.",
+          "signal": "European aviation disruption is escalating from a seasonal inconvenience to a structural supply crisis \u2014 a sustained Hormuz blockade risks triggering the largest European flight cancellation wave since COVID.",
+          "sources": [
+            "DW Business",
+            "Politico Europe (EU energy package)"
+          ],
+          "source_url": "https://www.dw.com/en/iran-war-jet-fuel-crisis-deepens-as-lufthansa-cuts-flights/a-76889141",
+          "published_at": "22 Apr \u00b7 14:08 IST",
+          "standalone_social": false,
+          "context": "Brent crude is approaching $100/barrel with Gulf shipping disruptions adding a jet fuel premium.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 7,
+          "score": 81,
+          "topic": "Japan Mexico Oil Diversification",
+          "domain": "japan",
+          "headline": "Japan imports 1 million barrels from Mexico in Middle East pivot",
+          "summary": "Japan has announced plans to import one million barrels of crude oil from Mexico as part of a deliberate strategic shift away from Middle East energy dependence amid the Iran war. The move reflects Tokyo's accelerating supply chain diversification, echoing Japan's parallel decision to block the MBK Partners acquisition of machine tool maker Makino on national security grounds.",
+          "signal": "Japan's simultaneous moves on energy diversification and foreign investment security screening signal a structural acceleration of its economic de-risking from geopolitical hotspots.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/business/energy/japan-to-import-1m-barrels-of-oil-from-mexico-in-step-away-from-middle-east",
+          "published_at": "22 Apr \u00b7 19:00 IST",
+          "standalone_social": false,
+          "context": "Japan sources over 90% of crude from the Middle East; Hormuz closure has forced urgent diversification.",
+          "social_signals": [
+            {
+              "handle": "nikkei.com",
+              "platform": "bluesky",
+              "text": "\u7267\u91ce\u30d5\u30e9\u30a4\u30b9\u88fd\u4f5c\u6240\u306e\u8cb7\u53ce\u3001\u30a2\u30b8\u30a2\u306eMBK\u30d1\u30fc\u30c8\u30ca\u30fc\u30ba\u306b\u4e2d\u6b62\u52e7\u544a \u653f\u5e9c\u304c\u5b89\u4fdd\u4e0a\u306e\u61f8\u5ff5",
+              "score": 43,
+              "url": "https://bsky.app/profile/nikkei.com/post/3mk3obafjkh2p"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 8,
+          "score": 80,
+          "topic": "Trump UAE Currency Swap Proposal",
+          "domain": "middleeast",
+          "headline": "Trump considers currency swap with UAE as Gulf ally seeks Iran war relief",
+          "summary": "President Trump confirmed the US is considering a currency swap with the United Arab Emirates, as the Gulf ally floats the prospect of seeking financial assistance to manage fallout from the Iran war. The UAE has also been holding reconstruction talks with Trump's Board of Peace regarding Gaza, with DP World among the parties involved.",
+          "signal": "A US-UAE currency swap would be an unprecedented bilateral financial instrument that could signal Washington is willing to use financial tools to keep Gulf allies stable during the war \u2014 with potential dollar liquidity implications.",
+          "sources": [
+            "Bloomberg",
+            "Al Jazeera"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/trump-says-currency-swap-with-uae-is-under-consideration",
+          "published_at": "21 Apr \u00b7 19:08 IST",
+          "standalone_social": false,
+          "context": "UAE is a key US military partner and financial hub in the Gulf; the Iran war has disrupted its trade and energy corridors.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 9,
+          "score": 79,
+          "topic": "India Iran War Oil Exposure",
+          "domain": "india",
+          "headline": "India aggressively buys Russian crude as Iran war sanctions waiver holds",
+          "summary": "India has been aggressively procuring Russian crude in March 2026 under a US sanctions waiver, picking up millions of barrels as alternatives to Gulf oil become costlier and riskier due to Hormuz disruptions. New Delhi has never officially committed to stopping Russian oil purchases, and Russia remains India's largest crude supplier even as Iran war fallout reshapes global energy flows.",
+          "signal": "India's dual exposure \u2014 Russian oil dependency and Iranian strait vulnerability \u2014 makes it uniquely positioned to weather the energy shock, but the sanctions waiver's continuity remains the key policy risk.",
+          "sources": [
+            "Times of India"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/business/india-business/iran-war-trump-sanctions-waiver-or-not-why-india-continues-to-buy-russian-oil/articleshow/130444719.cms",
+          "published_at": "22 Apr \u00b7 20:15 IST",
+          "standalone_social": false,
+          "context": "India is one of the world's largest oil importers and a primary beneficiary of discounted Russian crude since 2022.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 10,
+          "score": 78,
+          "topic": "HCLTech IT Sector Weak Guidance",
+          "domain": "india",
+          "headline": "HCLTech shares plunge on weak guidance; IT sector selloff accelerates",
+          "summary": "HCL Technologies stock fell sharply after the company missed earnings targets and issued a softer forward guidance, with AI-led pricing pressure emerging as a new headwind cited by analysts. The decline echoes post-results drops at TCS and Wipro, signaling a broader IT sector valuation reset as markets reassess Indian tech growth assumptions.",
+          "signal": "The coordinated post-earnings selloffs across TCS, Wipro, and now HCLTech suggest the Indian IT sector is entering a multi-quarter guidance compression cycle driven by AI displacement and global demand softness.",
+          "sources": [
+            "LiveMint Companies",
+            "Hindu Business"
+          ],
+          "source_url": "https://www.livemint.com/companies/company-results/hcltech-stock-plunges-on-weak-guidance-ai-led-growth-concerns-11776838458110.html",
+          "published_at": "22 Apr \u00b7 12:26 IST",
+          "standalone_social": false,
+          "context": "Infosys Q4 results due April 23 will be the next major data point for the sector.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 11,
+          "score": 77,
+          "topic": "West Bengal Elections Phase One",
+          "domain": "india",
+          "headline": "West Bengal Phase 1 voting begins; BJP-TMC contest intensifies",
+          "summary": "West Bengal's first phase of assembly elections is underway with key constituencies including Nandigram under the spotlight, as BJP's Suvendu Adhikari faces TMC in a high-stakes rematch. BJP's Himanta Biswa Sarma is campaigning on Hindu vote consolidation while Congress chief Mallikarjun Kharge received an Election Commission notice after calling PM Modi a 'terrorist' at a Chennai press conference.",
+          "signal": "The BJP's explicit Hindu consolidation strategy in Bengal combined with EC intervention against Congress leadership rhetoric signals the 2026 state elections are being fought on sharply polarised religious-identity lines.",
+          "sources": [
+            "Times of India",
+            "NDTV News",
+            "Economic Times"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/west-bengal/west-bengal-assembly-election-phase-1-key-candidates-constituencies-list-2026-election-full-seat-wise-details-phase-1-polling-suvendu-adhikari-dilip-ghosh-humayun-kabir/articleshow/130435542.cms",
+          "published_at": "22 Apr \u00b7 17:26 IST",
+          "standalone_social": false,
+          "context": "Bengal elections are a key bellwether for BJP's 2029 general election strategy in eastern India.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 12,
+          "score": 76,
+          "topic": "Infosys Tech Mahindra Q4 Results",
+          "domain": "india",
+          "headline": "Tech Mahindra rebounds; Infosys Q4 results due April 23 under scrutiny",
+          "summary": "Tech Mahindra posted nearly 2% revenue growth in FY26 to $6.39 billion \u2014 its first growth after two years of decline \u2014 though headcount fell by 1,993 as the company pivots to AI-led service delivery. Infosys is expected to report Q4 results on April 23 with profit estimated at \u20b97,508 crore (up 4% YoY) but investors are laser-focused on FY27 guidance given macro and AI headwinds.",
+          "signal": "Tech Mahindra's recovery is AI-efficiency driven not revenue-led, while Infosys guidance will set the narrative for whether Indian IT can escape the post-peak earnings compression cycle.",
+          "sources": [
+            "LiveMint Companies",
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.livemint.com/companies/company-results/tech-mahindra-revenue-growth-profit-turnaround-it-sector-india-results-hcl-infosys-tcs-11776859269018.html",
+          "published_at": "22 Apr \u00b7 17:00 IST",
+          "standalone_social": false,
+          "context": "L&T Tech also reported Q4 results with 10% profit rise and \u20b940 dividend.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 13,
+          "score": 75,
+          "topic": "CATL Six-Minute EV Battery Debut",
+          "domain": "markets",
+          "headline": "CATL unveils 6-minute EV recharge battery ahead of Beijing auto show",
+          "summary": "CATL, the world's largest EV battery manufacturer, unveiled a breakthrough fast-charging technology capable of recharging in six minutes at the Beijing auto show, in a direct competitive shot at BYD and other rivals. The announcement positions CATL at the frontier of the global EV range-anxiety battle as Chinese automakers intensify domestic and international competition.",
+          "signal": "A six-minute recharge standard, if commercially viable at scale, would functionally eliminate range anxiety and could accelerate EV adoption curves in markets where charging infrastructure is the primary adoption barrier.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/china-s-catl-debuts-ev-battery-with-speedy-six-minute-recharge",
+          "published_at": "21 Apr \u00b7 18:48 IST",
+          "standalone_social": false,
+          "context": "VinFast separately targeting 100,000 EV sales outside Vietnam in 2026, signaling Asian EV expansion momentum.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 14,
+          "score": 74,
+          "topic": "US Treasuries Warsh Fed Chair Hearing",
+          "domain": "macro",
+          "headline": "Treasuries weaken as Warsh testifies for Fed Chair role; rate-cut bets trimmed",
+          "summary": "US Treasuries fell ahead of Kevin Warsh's testimony for the Federal Reserve Chair nomination, as strong economic data prompted traders to scale back expectations for near-term rate cuts. Markets are watching Warsh's testimony closely for signals on his monetary policy philosophy, particularly given concerns about political pressure on the Fed from the Trump administration.",
+          "signal": "If Warsh signals a hawkish-leaning approach during testimony, bond markets could face a further selloff and dollar strengthening that puts additional pressure on emerging market currencies including the rupee.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/treasuries-weaken-before-warsh-testifies-for-fed-chair-role",
+          "published_at": "21 Apr \u00b7 19:27 IST",
+          "standalone_social": false,
+          "context": "Powell's term ends in 2026; Warsh is seen as more market-oriented but also potentially more compliant with administration pressure.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 15,
+          "score": 73,
+          "topic": "Gold Silver Safe-Haven Surge",
+          "domain": "commodities",
+          "headline": "Gold jumps $70/oz, silver surges $2 on Iran ceasefire extension demand",
+          "summary": "Comex gold futures gained $70 per ounce and silver jumped $2.14 as safe-haven demand surged following Trump's ceasefire extension with Iran, recovering from earlier session losses. Brent crude was simultaneously trading 1.29% higher at $99.75 per barrel in futures, creating a rare environment of simultaneous safe-haven and energy commodity strength.",
+          "signal": "The simultaneous rally in gold and oil signals markets are pricing both geopolitical risk premium and inflation expectations \u2014 a combination that historically precedes stagflation-driven portfolio reallocation.",
+          "sources": [
+            "LiveMint Markets",
+            "Hindu Business"
+          ],
+          "source_url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-gains-70-oz-silver-up-2-oz-as-iran-ceasefire-extension-boosts-safe-haven-demand-11776866961305.html",
+          "published_at": "22 Apr \u00b7 20:27 IST",
+          "standalone_social": false,
+          "context": "Gold has been in a sustained uptrend since late 2024 driven by central bank buying and geopolitical uncertainty.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 16,
+          "score": 72,
+          "topic": "Wall Street Rally Iran Ceasefire",
+          "domain": "markets",
+          "headline": "Wall Street surges after Trump extends Iran ceasefire indefinitely",
+          "summary": "US stock markets rallied sharply after Trump announced the indefinite ceasefire extension with Iran, with the Dow gaining 0.72%, S&P 500 up 0.65%, and Nasdaq rising 0.76% in early trading. Futures had already priced in a 1% gain overnight, with investors rotating toward AI and technology stocks despite rising oil prices pressuring energy-sensitive sectors.",
+          "signal": "The market's knee-jerk rally on the ceasefire extension reveals how much geopolitical risk premium had been embedded in equities \u2014 a reversal of the ceasefire would trigger a sharp leg down.",
+          "sources": [
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/wall-street-surges-after-trump-extends-iran-ceasefire-11776864300315.html",
+          "published_at": "22 Apr \u00b7 18:11 IST",
+          "standalone_social": false,
+          "context": "S&P 500 PE looks stretched; social signals flag oil prices as an ongoing threat to valuations.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "S&P 500 PE looks cheap, but high oil prices still pose a threat",
+              "score": 36,
+              "url": "https://bsky.app/profile/reuters.com/post/3mk3qnlc3dd2x"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 17,
+          "score": 71,
+          "topic": "Middle East War Summit Cyprus",
+          "domain": "middleeast",
+          "headline": "Middle East and European leaders convene war summit in Cyprus",
+          "summary": "Leaders from the Middle East and European counterparts are gathering in Cyprus for a dedicated war summit focused on the Iran conflict and regional stability, amid Lebanon ceasefire fragility and ongoing Gaza violence. Lebanese President Aoun confirmed negotiations to extend the ceasefire with Israel are ongoing, while Turkey and Pakistan are coordinating directly on Iran-US talks.",
+          "signal": "The Cyprus summit represents the first multilateral European-Arab diplomatic framework for the Iran war, potentially creating a channel that bypasses the stalled US-Iran bilateral track.",
+          "sources": [
+            "The National UAE",
+            "Middle East Eye",
+            "Al Jazeera"
+          ],
+          "source_url": "https://www.thenationalnews.com/news/europe/2026/04/22/middle-east-leaders-head-for-war-summit-in-cyprus-with-european-counterparts/",
+          "published_at": "22 Apr \u00b7 19:25 IST",
+          "standalone_social": false,
+          "context": "Cyprus has historically served as a diplomatic back-channel between EU and Middle Eastern states.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "President Joseph Aoun says negotiations are ongoing to extend the ceasefire with Israel and that he will spare no effort to end the situation in Lebanon.",
+              "score": 50,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mk3hcf64z226"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 18,
+          "score": 70,
+          "topic": "Tata Communications Q4 Profit Drop",
+          "domain": "india",
+          "headline": "Tata Communications Q4 profit collapses 65% YoY to \u20b9263 crore",
+          "summary": "Tata Communications reported a sharp 65% year-on-year decline in net profit to \u20b9263 crore for Q4 FY26, despite revenue growing 9.4% to \u20b96,554 crore driven by Data Services. The company announced a \u20b917.50 per share final dividend, and analysts are watching whether the profit decline reflects one-time charges or a structural margin compression in its enterprise connectivity business.",
+          "signal": "The stark divergence between Tata Communications' revenue growth and profit collapse suggests margin pressure from network investment or one-time costs \u2014 the dividend declaration may be a signal of management confidence in cashflows.",
+          "sources": [
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/tata-communications-q4-results-net-profit-drops-65-yoy-to-rs-263-crore-firm-announces-rs-17-5-final-dividend-11776858002827.html",
+          "published_at": "22 Apr \u00b7 17:20 IST",
+          "standalone_social": false,
+          "context": "Part of India's broader Q4 FY26 earnings season showing mixed results across the Tata Group.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 19,
+          "score": 69,
+          "topic": "UK Starmer Cabinet Crisis Deepens",
+          "domain": "europe",
+          "headline": "UK cabinet ministers distance from Starmer over Olly Robbins sacking",
+          "summary": "Senior UK cabinet ministers publicly distanced themselves from PM Keir Starmer at a cabinet meeting following the controversial sacking of top civil servant Sir Olly Robbins, who testified he felt 'uncomfortable' after Downing Street discussed finding an ambassador role for former communications chief Morgan McSweeney. Politico counted at least four instances this week of Starmer's team breaking with the PM, while the Peter Mandelson appointment row refuses to die.",
+          "signal": "Multiple cabinet members publicly breaking ranks within the same week is an unusually severe signal of internal Labour party instability \u2014 Starmer's authority is at risk of structural erosion heading into a critical budget period.",
+          "sources": [
+            "BBC News",
+            "Politico Europe",
+            "Middle East Eye"
+          ],
+          "source_url": "https://www.bbc.co.uk/news/articles/c895jpwl9gpo",
+          "published_at": "21 Apr \u00b7 18:07 IST",
+          "standalone_social": false,
+          "context": "Mandelson was controversially appointed UK Ambassador to Washington; Robbins was the top Brexit negotiator.",
+          "social_signals": [
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "Ministers speak out in cabinet meeting over Starmer's sacking of Olly Robbins",
+              "score": 31,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mk3pqovvch25"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 20,
+          "score": 68,
+          "topic": "Canada Carney US Strategy Business Panel",
+          "domain": "macro",
+          "headline": "Carney forms CEO advisory panel with BMO and Teck chiefs for US strategy",
+          "summary": "Canadian Prime Minister Mark Carney is assembling a panel of top business executives including BMO CEO Darryl White, Teck Resources and TC Energy chiefs to advise on managing Canada's economic relationship with the United States. The panel formation comes amid ongoing trade tensions and tariff disputes, as Canada seeks corporate sector input on its negotiating posture with Washington.",
+          "signal": "The formation of a formal CEO advisory panel signals Carney is preparing for a prolonged and complex trade standoff with the US rather than a quick diplomatic resolution.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/bmo-teck-tc-energy-ceos-to-advise-carney-on-us-strategy-on-new-panel",
+          "published_at": "21 Apr \u00b7 19:19 IST",
+          "standalone_social": false,
+          "context": "Canada faces 50% US tariffs on steel and aluminium; the EU is simultaneously sending its trade chief to Washington.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 21,
+          "score": 67,
+          "topic": "Taiwan Drone Exports Europe Surge",
+          "domain": "geopolitics",
+          "headline": "Taiwan drone exports to Europe surge 40-fold as Ukraine war fuels demand",
+          "summary": "Taiwan's drone exports to Europe have surged 40-fold as the Ukraine war drives unprecedented demand for unmanned systems across European defense forces. The development underscores Taiwan's emergence as a critical defense technology supplier to NATO-aligned nations, simultaneously elevating its strategic importance and potentially increasing its exposure to Chinese pressure.",
+          "signal": "Taiwan's 40x export surge positions it as a tier-one defense supplier to Europe \u2014 a geopolitical role that Beijing will view as a direct provocation, increasing cross-strait tension risk.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/business/aerospace-defense-industries/taiwan-drone-exports-to-europe-soar-40-fold-as-ukraine-war-fuels-demand",
+          "published_at": "22 Apr \u00b7 18:00 IST",
+          "standalone_social": false,
+          "context": "Taiwan is already under elevated Chinese military pressure; defense export relationships with Europe add a new dimension to its strategic position.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 22,
+          "score": 65,
+          "topic": "RBI PPI Framework Anthropic AI Risk",
+          "domain": "india",
+          "headline": "RBI proposes stronger PPI norms; enters AI war room over Anthropic Mythos",
+          "summary": "The RBI has proposed strengthened regulations for the Prepaid Payment Instruments framework to tighten oversight of digital wallets and fintech operators, while the Economic Times reported the central bank is simultaneously in talks with global regulators and banks to review risks from Anthropic's new Claude Mythos AI tool. The dual regulatory push signals the RBI is moving to future-proof India's financial system against both payment risks and AI systemic threats.",
+          "signal": "The RBI's parallel moves on PPI regulation and AI risk monitoring signal a central bank in active pre-emptive mode \u2014 watch for formal AI governance guidelines for Indian financial institutions within 90 days.",
+          "sources": [
+            "Economic Times",
+            "NDTV Profit"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-in-talks-with-global-regulators-banks-to-review-claude-mythos-risks-sources-say-anhropic-new-tool/articleshow/130438588.cms",
+          "published_at": "22 Apr \u00b7 15:47 IST",
+          "standalone_social": false,
+          "context": "Anthropic's Mythos is a new class of autonomous AI agent; the RBI concern relates to its potential use in financial services without adequate oversight.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 23,
+          "score": 64,
+          "topic": "EU Steel Talks US Tariff Deadlock",
+          "domain": "europe",
+          "headline": "EU trade chief heads to Washington to break 50% steel tariff deadlock",
+          "summary": "EU Trade Commissioner Maro\u0161 \u0160ef\u010dovi\u010d is travelling to Washington in the first high-level trade visit since the July 2025 EU-US deal, seeking to unlock negotiations on removing 50% US tariffs on European steel and aluminium. The visit coincides with Wall Street's pivot toward 24/7 tokenised markets, driven by Iran war volatility that is making traditional exchange hours inadequate for risk management.",
+          "signal": "\u0160ef\u010dovi\u010d's Washington visit is the EU's most significant trade diplomacy moment of 2026 \u2014 failure to secure tariff relief on steel would accelerate European industrial relocation and deepen the Germany recession risk.",
+          "sources": [
+            "Euronews Business"
+          ],
+          "source_url": "http://www.euronews.com/my-europe/2026/04/22/eu-trade-chief-heads-to-washington-hoping-to-unlock-steel-talks",
+          "published_at": "22 Apr \u00b7 11:30 IST",
+          "standalone_social": false,
+          "context": "The July 2025 EU-US deal was seen as a framework; specific tariff removal on steel has remained unresolved.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 24,
+          "score": 62,
+          "topic": "India Prediction Markets Government Crackdown",
+          "domain": "india",
+          "headline": "India mulls ban on Polymarket, Kalshi as West Bengal election bets spike",
+          "summary": "The Indian government is considering a crackdown on offshore prediction market platforms including Polymarket and Kalshi, as over $2 million in global bets on the West Bengal election were placed on platforms that India has already banned. NDTV Profit reported the move comes as election-related betting spikes across Indian political events draw regulatory attention.",
+          "signal": "A formal crackdown on prediction markets would eliminate one of the few real-time political risk pricing mechanisms available to global investors tracking Indian electoral outcomes.",
+          "sources": [
+            "NDTV Profit",
+            "NDTV News"
+          ],
+          "source_url": "https://www.ndtvprofit.com/india/govt-mulls-crackdown-on-polymarket-kalshi-other-prediction-market-apps-as-election-betting-spikes-11394339",
+          "published_at": "22 Apr \u00b7 20:15 IST",
+          "standalone_social": false,
+          "context": "India's online gaming regulation was just notified with May 1 rollout date; prediction markets occupy a legal grey zone.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 25,
+          "score": 60,
+          "topic": "Google TPU Nvidia AI Chip Challenge",
+          "domain": "markets",
+          "headline": "Google unveils TPU 8i and 8t chips in direct Nvidia AI challenge",
+          "summary": "Google has officially unveiled its latest TPU 8i and 8t chips designed to power advanced AI agents, positioning itself as a direct challenger to Nvidia's GPU dominance in the AI infrastructure market. Meta and Anthropic are already partnering with Google for these chips, while Micron separately lobbied US Congress to crack down on chip tool sales to Chinese competitors.",
+          "signal": "Google's TPU-Nvidia competitive challenge combined with Micron's lobbying for Chinese chip tool export controls signals the AI semiconductor war is entering a phase of simultaneous commercial and geopolitical escalation.",
+          "sources": [
+            "Times of India"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/google-makes-it-official-tells-nvidia-yes-we-are-coming-after-you-with-our-new-/articleshow/130442836.cms",
+          "published_at": "22 Apr \u00b7 18:45 IST",
+          "standalone_social": false,
+          "context": "Nvidia's H100 and B200 chips currently dominate AI training; Google's TPUs target inference and agentic AI workflows.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "Micron pushes US Congress to crack down on chip tool sales to Chinese rivals, sources say",
+              "score": 36,
+              "url": "https://bsky.app/profile/reuters.com/post/3mk3pse4t4u2m"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        }
+      ],
+      "social_count": 79,
+      "tg_count": 50,
+      "tw_count": 0,
+      "bk_count": 29,
+      "local_items": [
+        {
+          "source": "NDTV News",
+          "title": "Pune Man Fakes Police Selection To Get Marriage Offers, Faces Police Case",
+          "summary": "Rishikesh Raju Jadhav put up posters around Pune city, claiming to be a cop",
+          "url": "https://www.ndtv.com/india-news/pune-man-fakes-police-selection-to-get-marriage-offers-faces-police-case-11394104#publisher=newsstand",
+          "platform": "rss",
+          "weight": 79
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-22T10:53:06.333796+00:00",
       "timestamp_ist": "22 Apr 2026 \u00b7 16:23 IST",
       "story_count": 25,
