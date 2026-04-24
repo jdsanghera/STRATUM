@@ -1,6 +1,609 @@
 {
   "digests": [
     {
+      "timestamp": "2026-04-24T12:15:40.766984+00:00",
+      "timestamp_ist": "24 Apr 2026 \u00b7 17:45 IST",
+      "story_count": 27,
+      "avg_score": 73,
+      "stories": [
+        {
+          "rank": 1,
+          "score": 92,
+          "topic": "Iran War Strait Hormuz Crisis",
+          "domain": "geopolitics",
+          "headline": "Iran attacks 3 ships in Hormuz; US-Iran peace talks stalled on day 55",
+          "summary": "Iran attacked three ships near the Strait of Hormuz, deepening the energy crisis as tankers carrying a fifth of the world's oil remain blocked from the channel since the US-Israel war began February 28. US-Iran peace talks remain stalled with Iran blaming 'breach of commitments, blockade and threats' while the US naval blockade continues to escalate pressure.",
+          "signal": "With Hormuz blocked, a fifth of global oil supply is disrupted \u2014 every day of stalemate compounds inflationary pressure on energy-importing economies including India.",
+          "sources": [
+            "Associated Press",
+            "Al Jazeera English",
+            "Bloomberg",
+            "The Hindu"
+          ],
+          "source_url": "https://apnews.com/live/iran-war-israel-trump-04-23-2026",
+          "published_at": "23 Apr \u00b7 06:01 IST",
+          "standalone_social": false,
+          "context": "US-Israel launched war on Iran on February 28; Hormuz blockade triggered global energy crisis; ceasefire extended but fragile.",
+          "social_signals": [
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "Like the Ernest Hemingway quote, the energy crisis triggered by the US-Israel war with Iran will get worse gradually, then suddenly.",
+              "score": 31,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mkai3hx5dt2h"
+            },
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "The US increased pressure on Iran with its naval blockade as it seeks to get Tehran to agree to talks.",
+              "score": 31,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mkaeq7nalm2m"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 2,
+          "score": 88,
+          "topic": "Indian Markets Sensex Selloff",
+          "domain": "india",
+          "headline": "Sensex drops 1,000 pts for third day on oil surge, IT rout",
+          "summary": "Indian equity markets fell sharply for a third consecutive session, with the BSE Sensex declining 999 points (1.29%) to close at 76,664 and the Nifty losing 1.10% to 23,907, driven by massive selling in IT stocks and surging crude oil prices tied to the Hormuz blockade. Foreign institutional investor outflows compounded the selloff as global risk appetite collapsed.",
+          "signal": "A third consecutive 1%+ decline in Indian indices signals structural pressure \u2014 IT sector weakness plus crude-driven inflation fears could push Nifty toward 23,500 support if Hormuz remains blocked.",
+          "sources": [
+            "The Hindu Business",
+            "LiveMint Markets",
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.thehindu.com/business/markets/markets-slump-for-3rd-day-on-surging-oil-prices-massive-selling-in-it-stocks-sensex-drops-1k-points/article70901505.ece",
+          "published_at": "24 Apr \u00b7 12:01 IST",
+          "standalone_social": false,
+          "context": "Global oil spike from Hormuz blockade, FII selling, and IT underperformance creating triple headwind for Indian equities.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 3,
+          "score": 86,
+          "topic": "Rupee Decade-Low Plunge",
+          "domain": "india",
+          "headline": "Rupee hits decade-low at 94.23/USD despite RBI intervention",
+          "summary": "The Indian rupee fell 22 paise to close at 94.23 against the US dollar, touching levels not seen in over a decade, as the Iran war's impact on crude oil prices, portfolio outflows, and a stronger dollar index overwhelmed Reserve Bank of India intervention. Analysts see little near-term scope for recovery given the structural headwinds from the Hormuz blockade.",
+          "signal": "Rupee crossing 94/USD is a psychological and structural threshold \u2014 sustained weakness at this level will accelerate imported inflation and complicate RBI's rate stance.",
+          "sources": [
+            "The Hindu Business",
+            "Hindu Business"
+          ],
+          "source_url": "https://www.thehindu.com/business/markets/rupees-valuation-sinks-to-over-a-decade-low-bruised-by-iran-war-portfolio-outflows/article70900718.ece",
+          "published_at": "24 Apr \u00b7 09:31 IST",
+          "standalone_social": false,
+          "context": "RBI intervened but failed to arrest slide; simultaneous crude rally and dollar strength creating unprecedented dual pressure.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 4,
+          "score": 85,
+          "topic": "AAP Mass Defection BJP",
+          "domain": "india",
+          "headline": "Raghav Chadha leads 7 AAP Rajya Sabha MPs to BJP in shock exodus",
+          "summary": "Senior AAP leader Raghav Chadha, alongside six other Rajya Sabha MPs including Sandeep Pathak, Ashok Mittal, Swati Maliwal, and Harbhajan Singh, resigned from the Aam Aadmi Party and joined the BJP, constituting two-thirds of AAP's 10-member Rajya Sabha strength and triggering a potential merger under anti-defection law. Arvind Kejriwal branded the move 'Operation Lotus' and 'BJP betrayal of Punjab' while Chadha cited AAP's alleged 'crimes' and ideological drift as his reason for leaving.",
+          "signal": "AAP losing two-thirds of its Rajya Sabha presence to BJP is an existential political blow \u2014 the two-thirds threshold may enable a formal merger, eliminating AAP's upper house presence entirely.",
+          "sources": [
+            "Times of India",
+            "NDTV News",
+            "NDTV Profit",
+            "Economic Times"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/india/raghav-chadha-resigns-from-aam-aadmi-party/articleshow/130490526.cms",
+          "published_at": "24 Apr \u00b7 15:38 IST",
+          "standalone_social": false,
+          "context": "AAP has been weakened after Delhi election losses; BJP's 'Operation Lotus' strategy of engineering defections has precedent in other states.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 5,
+          "score": 84,
+          "topic": "US Navy Secretary Fired",
+          "domain": "geopolitics",
+          "headline": "Pete Hegseth fires Navy Secretary Phelan amid Iran war turbulence",
+          "summary": "Defense Secretary Pete Hegseth fired Navy Secretary John Phelan, marking the latest departure of a high-ranking military official from the Trump administration amid the ongoing US-Israeli war with Iran. The move, confirmed by the Pentagon and multiple outlets, signals continued turbulence in US military leadership at a critical moment of active conflict.",
+          "signal": "Firing the Navy Secretary during an active naval blockade of Iran signals dangerous command instability at the operational apex of the conflict.",
+          "sources": [
+            "The Wall Street Journal",
+            "Associated Press",
+            "BBC News",
+            "Al Jazeera English"
+          ],
+          "source_url": "https://apnews.com/article/pentagon-navy-secretary-phelan-cao-3a871b87f1a31c1c7168f69e8fe4f7b5",
+          "published_at": "22 Apr \u00b7 21:45 IST",
+          "standalone_social": false,
+          "context": "Phelan is among several senior military and defense officials departing the Trump administration in recent months.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 6,
+          "score": 82,
+          "topic": "Lebanon Israel Ceasefire Tensions",
+          "domain": "middleeast",
+          "headline": "Israel kills Lebanese journalist; Hezbollah calls ceasefire 'meaningless'",
+          "summary": "Israeli airstrikes killed Lebanese journalist Amal Khalil and at least four others in what Lebanese officials called a 'double-tap' targeted strike, while IDF attacks on Red Cross vehicles blocked rescuers from reaching the site. Lebanon's prime minister accused Israel of war crimes as Hezbollah's parliamentary bloc called the ceasefire extension 'meaningless' amid ongoing Israeli bombing.",
+          "signal": "Deliberate targeting of journalists and Red Cross vehicles while a ceasefire is nominally in place signals Israel is prosecuting kinetic objectives regardless of diplomatic frameworks.",
+          "sources": [
+            "BBC News",
+            "Al Jazeera English",
+            "Associated Press",
+            "Middle East Eye"
+          ],
+          "source_url": "https://www.bbc.co.uk/news/articles/c5yvn036evlo",
+          "published_at": "23 Apr \u00b7 10:02 IST",
+          "standalone_social": false,
+          "context": "Lebanon-Israel ceasefire talks ongoing in Washington; ceasefire repeatedly violated by Israeli strikes.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Video shows smoke rising above the southern town of Khiam in Lebanon after the Israeli army carried out explosions, despite the ceasefire extension announced by President Trump.",
+              "score": 50,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mkaf7hwcfk2v"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 7,
+          "score": 80,
+          "topic": "EU Ukraine 90 Billion Loan",
+          "domain": "europe",
+          "headline": "EU finalizes \u20ac90 billion loan payout to war-torn Ukraine",
+          "summary": "The European Union gave final approval to disburse its \u20ac90 billion ($106 billion) loan to Ukraine, providing critical financial relief as the country continues to bear heavy costs from the ongoing conflict. The deal represents one of the largest single financial packages committed to Ukraine by the bloc.",
+          "signal": "EU's \u20ac90bn disbursement locks in long-term European financial commitment to Ukraine, reducing Kyiv's dependence on US aid amid Trump administration ambiguity.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-23/eu-finalizes-deal-to-pay-out-90-billion-loan-to-ukraine",
+          "published_at": "23 Apr \u00b7 17:21 IST",
+          "standalone_social": false,
+          "context": "Ukraine financing has been contentious amid questions about US support; EU has stepped up as primary financial backer.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 8,
+          "score": 79,
+          "topic": "IndusInd Bank Q4 Recovery",
+          "domain": "india",
+          "headline": "IndusInd Bank swings to \u20b9594 crore profit, NII jumps 43% in Q4",
+          "summary": "IndusInd Bank reported a net profit of \u20b9594.2 crore for Q4 FY26, a dramatic recovery from the \u20b92,329 crore loss posted in the year-ago quarter, driven by lower provisions, improved asset quality, and sharply declining gross slippages. The bank also announced its first dividend since June 2024, though at the lowest level since 2009.",
+          "signal": "IndusInd's profit recovery is a green shoot for Indian private sector banking but the modest dividend and decade-low payout level signal management caution about sustainability of the turnaround.",
+          "sources": [
+            "LiveMint Markets",
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.livemint.com/market/indusind-bank-q4-results-profit-at-rs-594-crore-vs-loss-yoy-nii-jumps-43-asset-quality-improves-11777029446425.html",
+          "published_at": "24 Apr \u00b7 16:51 IST",
+          "standalone_social": false,
+          "context": "IndusInd faced accounting scandal and derivative losses in prior quarters; Q4 marks first profitable quarter in nearly two years.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 9,
+          "score": 78,
+          "topic": "Meta Microsoft AI Job Cuts",
+          "domain": "corporate",
+          "headline": "Meta axes 8,000 jobs, Microsoft offers buyouts to fund AI buildout",
+          "summary": "Meta announced it would cut approximately 10% of its workforce (around 8,000 jobs) while Microsoft launched an early retirement scheme, with both tech giants explicitly framing the reductions as necessary to fund massive AI infrastructure investments. The simultaneous announcements, alongside Nike layoffs, resulted in over 24,000 US tech job cuts in a single day.",
+          "signal": "Simultaneous mega-cap AI-driven workforce purges signal the sector has entered a sustained reallocation phase \u2014 human capital out, GPU capital in, with no reversal in sight.",
+          "sources": [
+            "DW Business",
+            "Euronews Business",
+            "LiveMint Companies"
+          ],
+          "source_url": "https://www.dw.com/en/meta-microsoft-purge-jobs-amid-ai-build-up/a-76918848",
+          "published_at": "24 Apr \u00b7 09:24 IST",
+          "standalone_social": false,
+          "context": "Both companies have committed tens of billions to AI capex in 2026; layoffs described as structural realignment rather than financial distress.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 10,
+          "score": 77,
+          "topic": "US Medical Marijuana Reclassification",
+          "domain": "macro",
+          "headline": "Trump DOJ reclassifies state-licensed medical marijuana as less-dangerous drug",
+          "summary": "President Trump's acting attorney general signed an order reclassifying state-licensed medical marijuana, ending its treatment as equivalent to heroin under federal law in a major policy shift long sought by cannabis advocates. The move stops short of full federal legalization but creates significant regulatory relief for state-licensed medical programs.",
+          "signal": "Federal reclassification opens the door for cannabis companies to access banking services and potentially list on major exchanges \u2014 a structural catalyst for the sector.",
+          "sources": [
+            "Associated Press"
+          ],
+          "source_url": "https://apnews.com/article/medical-marijuana-rescheduling-justice-department-trump-cannabis-1d6722d3aae122b1a91f8e4b6c690268",
+          "published_at": "23 Apr \u00b7 17:46 IST",
+          "standalone_social": false,
+          "context": "Cannabis rescheduling has been debated for years; Trump administration's move is seen as pragmatic given bipartisan state-level legalization.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 11,
+          "score": 76,
+          "topic": "Duterte ICC Trial Confirmed",
+          "domain": "geopolitics",
+          "headline": "ICC confirms crimes against humanity trial for ex-Philippine president Duterte",
+          "summary": "The International Criminal Court confirmed charges of crimes against humanity against former Philippine President Rodrigo Duterte over his 'war on drugs' campaign, clearing the path for a full trial at The Hague. The confirmation marks a landmark accountability moment for Southeast Asian political leadership.",
+          "signal": "Duterte's ICC trial confirmation sets a precedent for holding heads of government accountable for mass extrajudicial killings \u2014 with potential chilling effects on similar state-sanctioned violence globally.",
+          "sources": [
+            "Al Jazeera English"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/23/icc-confirms-crimes-against-humanity-trial-of-ex-philippine-leader-duterte",
+          "published_at": "23 Apr \u00b7 17:19 IST",
+          "standalone_social": false,
+          "context": "Duterte was arrested in 2025; ICC proceedings have been closely watched as a test of international justice mechanisms.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 12,
+          "score": 75,
+          "topic": "India US Trade Talks Progress",
+          "domain": "india",
+          "headline": "India-US trade talks conclude with both sides agreeing to stay engaged",
+          "summary": "A fresh round of India-US trade negotiations has concluded with both sides agreeing to remain engaged on a bilateral trade pact, though no breakthrough deal has been announced. The talks come amid broader US tariff pressures and ongoing India-US friction over digital services and market access.",
+          "signal": "Agreeing to 'stay engaged' without a deal signals talks are in an extended holding pattern \u2014 India is buying time while the global tariff environment remains in flux.",
+          "sources": [
+            "Economic Times"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trump-modi-agree-to-stay-engaged-on-trade-pact-after-latest-round-of-talks/articleshow/130492074.cms",
+          "published_at": "24 Apr \u00b7 16:43 IST",
+          "standalone_social": false,
+          "context": "India and US have been negotiating a bilateral trade deal; India faces 26% tariff threat while seeking preferential access for its exports.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 13,
+          "score": 74,
+          "topic": "Shriram Finance Q4 Earnings",
+          "domain": "india",
+          "headline": "Shriram Finance Q4 profit jumps 41% to \u20b93,014 crore, AUM up 15%",
+          "summary": "Shriram Finance reported a 41% year-on-year surge in Q4 standalone net profit to \u20b93,014 crore, with net interest income rising 21% to \u20b96,751 crore and total assets under management growing 15% to \u20b9302,274 crore. The company recommended a final dividend of \u20b96 per share.",
+          "signal": "Shriram Finance's robust growth in AUM and profitability signals continued strength in India's NBFC lending cycle despite macro headwinds \u2014 a buy signal for the financials sector.",
+          "sources": [
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/shriram-finance-q4-results-net-profit-jumps-41-to-rs-3-014-crore-yoy-final-dividend-of-rs-6-share-recommended-11777023894364.html",
+          "published_at": "24 Apr \u00b7 15:16 IST",
+          "standalone_social": false,
+          "context": "Shriram Finance is India's largest retail NBFC by AUM; strong quarterly results contrast with broader market weakness.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 14,
+          "score": 73,
+          "topic": "Romania Political Crisis Minority",
+          "domain": "europe",
+          "headline": "Romania's largest party quits government, leaving minority cabinet",
+          "summary": "Romania's biggest political party abandoned the coalition government over disagreements on unpopular austerity measures, leaving Prime Minister Ilie Bolojan leading a minority cabinet without a parliamentary majority. The political rupture complicates Romania's fiscal consolidation program and its relationship with EU budget requirements.",
+          "signal": "Romania's minority government collapse risk heightens pressure on Bucharest's EU fiscal commitments and may trigger early elections \u2014 a political risk premium for Romanian assets.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-23/romanian-cabinet-loses-parliamentary-majority-as-top-party-quits",
+          "published_at": "23 Apr \u00b7 17:10 IST",
+          "standalone_social": false,
+          "context": "Romania has been under EU fiscal surveillance; austerity demands have created domestic political backlash across the political spectrum.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 15,
+          "score": 72,
+          "topic": "Taiwan Airspace Isolation China",
+          "domain": "geopolitics",
+          "headline": "Xi weaponizes foreign airspace to block Taiwan leaders from skies",
+          "summary": "President Xi Jinping has expanded China's campaign to isolate Taiwan by pressuring foreign governments to deny overflight rights to Taiwanese officials, adding airspace denial to existing diplomatic, economic, and organizational exclusion tactics. The move represents a new dimension in Beijing's multi-front pressure campaign against Taipei.",
+          "signal": "Weaponizing airspace access against Taiwan signals Beijing is escalating its isolation toolkit beyond traditional diplomatic channels \u2014 watch for third-country compliance as a leading indicator.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-23/xi-weaponizes-foreign-airspace-in-latest-bid-to-isolate-taiwan",
+          "published_at": "23 Apr \u00b7 17:03 IST",
+          "standalone_social": false,
+          "context": "China has intensified pressure on Taiwan across multiple domains; airspace denial is an emerging grey-zone tactic.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 16,
+          "score": 71,
+          "topic": "India Energy Crisis EV Shift",
+          "domain": "india",
+          "headline": "Iran war energy crisis accelerates India's pivot toward EVs",
+          "summary": "The Hormuz blockade-induced energy crisis is catalyzing a structural shift in India's automobile market toward electric vehicles, as surging crude prices make the long-term economics of EV adoption dramatically more compelling. Nikkei Asia reports this is reshaping Asia's auto industry map, with India emerging as a key beneficiary of accelerated EV adoption.",
+          "signal": "A sustained crude price shock acts as a forced accelerator for India's EV transition \u2014 watch for policy support announcements and acceleration in domestic EV manufacturing capacity.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-energy-crisis-drives-india-toward-evs-as-asia-s-auto-map-shifts",
+          "published_at": "24 Apr \u00b7 14:00 IST",
+          "standalone_social": false,
+          "context": "India is a major oil importer; the Hormuz crisis has dramatically increased the cost of energy imports, making EV subsidies more fiscally attractive.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 17,
+          "score": 70,
+          "topic": "Gold Silver Commodity Correction",
+          "domain": "commodities",
+          "headline": "Gold rally stalls near \u20b91.51 lakh; silver plunges 6% on risk-off",
+          "summary": "Gold prices in India are hovering around \u20b91,51,100, threatening to break a four-week rally as prices trade below key 20-day and 50-day exponential moving averages. Silver has seen a sharper correction of 6%, reflecting broader commodity market volatility tied to Iran war uncertainty and shifting risk sentiment.",
+          "signal": "Gold failing to hold above its EMAs despite maximum geopolitical stress suggests crowded long positioning may be unwinding \u2014 a warning for momentum traders in precious metals.",
+          "sources": [
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.livemint.com/market/commodities/gold-silver-outlook-gold-rate-set-to-break-4-week-rally-silver-price-plunges-6-key-levels-to-watch-11777022423272.html",
+          "published_at": "24 Apr \u00b7 15:01 IST",
+          "standalone_social": false,
+          "context": "Gold had rallied sharply on Iran war safe-haven demand; technical breakdown could signal short-term peak.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 18,
+          "score": 69,
+          "topic": "India Forex Reserves Rise",
+          "domain": "india",
+          "headline": "India's forex reserves rise $2.3 billion to $703 billion",
+          "summary": "India's foreign exchange reserves increased by $2.3 billion to $703.30 billion as of April 17, providing a substantial buffer as the rupee faces its steepest depreciation in over a decade. The reserve build partially offsets concerns about RBI's capacity to defend the currency against Iran war-driven pressures.",
+          "signal": "India's $703bn forex reserve cushion gives RBI ammunition to defend the rupee, but sustained FII outflows and crude-driven import costs could erode this buffer faster than expected.",
+          "sources": [
+            "Economic Times"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-forex-reserves-rise-2-3-billion-to-703-30-billion-as-of-april-17/articleshow/130492782.cms",
+          "published_at": "24 Apr \u00b7 17:07 IST",
+          "standalone_social": false,
+          "context": "RBI has been actively intervening in FX markets; reserve levels are closely watched as a gauge of intervention capacity.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 19,
+          "score": 68,
+          "topic": "Intel Earnings Surprise Surge",
+          "domain": "corporate",
+          "headline": "Intel shares soar 20% after Q1 earnings beat expectations",
+          "summary": "Intel posted first-quarter results that significantly beat analyst expectations, triggering a 20% surge in after-hours share price. The US government's stake in Intel, acquired under the Trump administration's semiconductor investment push, has risen nearly 300% in value.",
+          "signal": "Intel's 20% surge on an earnings beat signals the chipmaker's restructuring is gaining traction \u2014 and the government's near-300% return on its stake validates industrial policy bets on domestic semiconductor capacity.",
+          "sources": [
+            "Euronews Business"
+          ],
+          "source_url": "http://www.euronews.com/business/2026/04/24/intel-shares-soar-20-on-earnings-beat-and-stronger-than-expected-outlook",
+          "published_at": "24 Apr \u00b7 14:18 IST",
+          "standalone_social": false,
+          "context": "Intel has been undergoing a major restructuring under CEO Pat Gelsinger's successor; US government invested in Intel under CHIPS Act.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 20,
+          "score": 67,
+          "topic": "Tamil Nadu Assembly Election",
+          "domain": "india",
+          "headline": "Tamil Nadu votes with 90% turnout; EVMs sealed ahead of May 4 count",
+          "summary": "Tamil Nadu recorded brisk polling with 90.10% voter turnout in Thursday's assembly election, with EVMs sealed and secured in strongrooms across districts including Coimbatore, Erode, and Virudhunagar. Counting is scheduled for May 4, 2026, in what political analysts describe as a three-cornered contest that film star Vijay could at best disrupt.",
+          "signal": "A 90%+ turnout in Tamil Nadu signals high anti-incumbency energy \u2014 the three-way contest outcome will determine if the DMK retains power or faces a surprise defeat.",
+          "sources": [
+            "The Hindu",
+            "Al Jazeera English"
+          ],
+          "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/evms-sealed-secured-in-strong-rooms-on-gct-campus-in-coimbatore/article70901250.ece",
+          "published_at": "24 Apr \u00b7 17:17 IST",
+          "standalone_social": false,
+          "context": "Tamil Nadu assembly election is one of India's most watched state contests; result on May 4 will set political tone for South India.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 21,
+          "score": 66,
+          "topic": "BOJ Yen Miscommunication Risk",
+          "domain": "japan",
+          "headline": "BlackRock warns yen faces risk from BOJ June rate hike communication failure",
+          "summary": "BlackRock portfolio manager Rie Shigekawa highlighted that the yen faces significant downside risk if the Bank of Japan fails to adequately prepare markets for a potential June interest-rate hike at its upcoming policy meeting. Poor communication around rate path guidance has historically caused sharp yen volatility.",
+          "signal": "BlackRock flagging BOJ communication risk as the primary yen vulnerability is a signal to watch June BOJ meeting minutes and Ueda press conference language very closely.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-23/blackrock-s-shigekawa-sees-risk-to-yen-on-boj-miscommunication",
+          "published_at": "23 Apr \u00b7 16:50 IST",
+          "standalone_social": false,
+          "context": "BOJ has been gradually exiting ultra-loose monetary policy; rate hike timing has major implications for yen carry trades globally.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 22,
+          "score": 65,
+          "topic": "Kuwait Drones Iraq Attack",
+          "domain": "middleeast",
+          "headline": "Kuwait border sites hit by two drones from Iraq amid Iran war spillover",
+          "summary": "Kuwait's Ministry of Defence announced that two border sites were attacked by drones originating from Iraq, marking a potential spillover of Iran war-related militant activity into Gulf states. The incident raises alarm about regional contagion from the broader US-Iran conflict.",
+          "signal": "Drone attacks on Kuwaiti soil from Iraqi territory signal Iran-aligned militia groups are expanding the conflict's geographic footprint into Gulf states \u2014 a major escalation trigger.",
+          "sources": [
+            "Middle East Eye"
+          ],
+          "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-army-says-border-sites-attacked-two-drones-iraq",
+          "published_at": "24 Apr \u00b7 16:54 IST",
+          "standalone_social": false,
+          "context": "Kuwait hosts significant US military presence; drone attacks from Iraq would implicate Iran-backed militia groups active in the Iraqi Popular Mobilization Forces.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 23,
+          "score": 63,
+          "topic": "Spain NATO Expulsion Threat",
+          "domain": "geopolitics",
+          "headline": "US threatens to expel Spain from NATO over Iran war dissent",
+          "summary": "A leaked Pentagon email revealed the US is considering punitive measures against NATO allies \u2014 including ejecting Spain from the alliance \u2014 for failing to support the American-Israeli war on Iran. Spanish Prime Minister Sanchez dismissed the threat, while former NATO envoy Kurt Volker warned European countries against criticizing Trump on Iran.",
+          "signal": "US threatening a NATO ally with expulsion over Iran war disagreement is an unprecedented rupture in the transatlantic alliance \u2014 European capitals must now calculate the cost of principled dissent.",
+          "sources": [
+            "Politico Europe",
+            "Middle East Eye"
+          ],
+          "source_url": "https://www.politico.eu/article/pedro-sanchez-donald-trump-nato-spain-nato-membership/",
+          "published_at": "24 Apr \u00b7 15:32 IST",
+          "standalone_social": false,
+          "context": "Several European allies have refused to endorse the US-Israel military campaign against Iran; a Pentagon email reportedly listed 'difficult' allies for potential punishment.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Pentagon email obtained by Reuters reveals US anger at Spain and the UK as Iran war tensions persist.",
+              "score": 37,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mkagf4cofn2q"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 24,
+          "score": 62,
+          "topic": "Japan Banks US Loans",
+          "domain": "japan",
+          "headline": "Japan's three megabanks and JBIC to deploy \u00a5250 billion for US projects",
+          "summary": "Japan's three major megabanks alongside JBIC have committed to providing \u00a5250 billion in loans for US infrastructure and investment projects, with additional tranches expected under the framework of bilateral tariff negotiations between Japan and the United States. The move signals Japan's strategic use of financial flows as part of trade diplomacy.",
+          "signal": "Japan deploying \u00a5250bn in US project loans is a classic mercantilist trade-off \u2014 buying goodwill with Trump administration to secure tariff relief on automotive and electronics exports.",
+          "sources": [
+            "Japan Times"
+          ],
+          "source_url": "https://www.japantimes.co.jp/business/2026/04/24/japan-banks-us-projects/",
+          "published_at": "24 Apr \u00b7 16:38 IST",
+          "standalone_social": false,
+          "context": "Japan-US tariff negotiations ongoing; Japan has historically used investment commitments to US as diplomatic currency.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 25,
+          "score": 60,
+          "topic": "DeepSeek V4 AI Challenge",
+          "domain": "macro",
+          "headline": "China's DeepSeek unveils V4 AI model in fresh US rivalry challenge",
+          "summary": "Chinese AI lab DeepSeek has unveiled its V4 model, representing a fresh challenge to US AI leadership from OpenAI, Google, and Anthropic. The release continues the pattern of Chinese AI models matching or approaching frontier US capabilities at significantly lower cost.",
+          "signal": "DeepSeek V4 launch sustains the competitive pressure on US AI valuations \u2014 investors in US AI companies must price in accelerating Chinese capability parity.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-unveils-v4-ai-model-in-fresh-challenge-to-us-rivals",
+          "published_at": "24 Apr \u00b7 10:00 IST",
+          "standalone_social": false,
+          "context": "DeepSeek's earlier models caused a major selloff in US AI and semiconductor stocks in early 2025; V4 is a continued escalation.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 26,
+          "score": 58,
+          "topic": "Norway Social Media Under-16 Ban",
+          "domain": "macro",
+          "headline": "Norway to ban social media use by children under 16",
+          "summary": "Norway has announced plans to prohibit social media use by children under 16, requiring platforms to implement strict age verification. The move mirrors similar legislation in Australia, France, and Turkey and reflects a growing global regulatory wave targeting the impact of algorithmic content on young users.",
+          "signal": "Norway's ban accelerates regulatory momentum for age-gating social media globally \u2014 platform companies face compliance infrastructure costs and potential market access restrictions in high-income markets.",
+          "sources": [
+            "Indian Express",
+            "NDTV Profit"
+          ],
+          "source_url": "https://indianexpress.com/article/technology/tech-news-technology/norway-plans-to-ban-social-media-use-by-children-under-16-10654026/",
+          "published_at": "24 Apr \u00b7 17:02 IST",
+          "standalone_social": false,
+          "context": "Australia passed a similar ban in late 2024; European nations are racing to implement child safety frameworks for social platforms.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 27,
+          "score": 57,
+          "topic": "US Office Vacancy WeWork Crisis",
+          "domain": "markets",
+          "headline": "WeWork vacates 70 NYC leases as US office vacancy hits 20%",
+          "summary": "US office vacancy has reached 20% nationally, and WeWork's bankruptcy-driven decision to vacate 70 office leases in New York City is expected to significantly worsen the commercial real estate crisis. The development raises systemic concerns for regional banks with heavy CRE exposure.",
+          "signal": "WeWork vacating 70 NYC leases into a 20% vacancy market is a supply shock that will suppress Manhattan office rents for years \u2014 regional bank CRE loan books face elevated default risk.",
+          "sources": [
+            "@kobeissiletter"
+          ],
+          "source_url": "https://t.me/kobeissiletter",
+          "published_at": "24 Apr \u00b7 12:00 IST",
+          "standalone_social": true,
+          "context": "WeWork emerged from bankruptcy proceedings; office market has not recovered to pre-2020 levels despite return-to-office mandates.",
+          "social_signals": [
+            {
+              "handle": "kobeissiletter",
+              "platform": "telegram",
+              "text": "20% of US offices are vacant and WeWork's bankruptcy is going to make this crisis worse. WeWork just announced that they will be vacating 70 office leases in New York City.",
+              "score": 60,
+              "url": "https://t.me/kobeissiletter"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        }
+      ],
+      "social_count": 80,
+      "tg_count": 50,
+      "tw_count": 0,
+      "bk_count": 30,
+      "local_items": [
+        {
+          "source": "Indian Express",
+          "title": "Former Pakistan cricketer Basit Ali on Mumbai Indians team performance: \u2018Mrs Ambani jab unke bache ko gussa ayega na tab danda denge\u2026ab out nehi hona\u2019",
+          "summary": "",
+          "url": "https://indianexpress.com/article/sports/cricket/hardik-pandya-ambani-mi-vs-csk-points-table-10653899/",
+          "platform": "rss",
+          "weight": 80
+        },
+        {
+          "source": "LiveMint Markets",
+          "title": "Small-cap stock Krystal Integrated Services jumps 2.5% despite stock market sell-off",
+          "summary": "Krystal Integrated Services Limited's share price rose 2.5% on April 24 after winning a  \u20b9138 crore solar contract from Maharashtra. The stock peaked at  \u20b9643 before settling at  \u20b9588.70, amidst an overall market decline due to rising crude prices and geopolitical tensions.",
+          "url": "https://www.livemint.com/market/stock-market-news/smallcap-stock-krystal-integrated-services-share-price-jumps-2-5-despite-stock-market-selloff-11777027643784.html",
+          "platform": "rss",
+          "weight": 82
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-24T09:16:56.230517+00:00",
       "timestamp_ist": "24 Apr 2026 \u00b7 14:46 IST",
       "story_count": 26,
@@ -19734,447 +20337,6 @@
               "url": "https://bsky.app/profile/theguardian.com/post/3mjx4fb7vtd25"
             }
           ],
-          "trend": "stable",
-          "breaking_on_social": false
-        }
-      ],
-      "social_count": 80,
-      "tg_count": 50,
-      "tw_count": 0,
-      "bk_count": 30
-    },
-    {
-      "timestamp": "2026-04-20T18:16:12.681005+00:00",
-      "timestamp_ist": "20 Apr 2026 \u00b7 23:46 IST",
-      "story_count": 20,
-      "avg_score": 56,
-      "stories": [
-        {
-          "rank": 1,
-          "score": 85,
-          "topic": "US-Iran War Escalation",
-          "domain": "geopolitics",
-          "headline": "Iran blocks Hormuz Strait as US peace talks stall",
-          "summary": "Iran has doubled down on restricting ships through the Strait of Hormuz as tensions escalate with the US over dueling blockades. President Trump announced US negotiators including VP Vance will head to Pakistan for renewed talks with Iran as a Wednesday ceasefire deadline approaches.",
-          "signal": "Oil markets face severe disruption if Hormuz remains closed; watch for breakthrough or further escalation by Wednesday deadline.",
-          "sources": [
-            "Associated Press",
-            "Al Jazeera English",
-            "Bloomberg",
-            "Nikkei Asia",
-            "Times of India"
-          ],
-          "source_url": "https://apnews.com/article/us-iran-war-israel-hormuz-19-april-2026-0a637f98d588930f195f61cffe07d4f3",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [
-            {
-              "handle": "bloomberg.com",
-              "platform": "bluesky",
-              "text": "President Donald Trump said a US delegation including Vice President JD Vance is en route to Pakistan for talks with Iran",
-              "score": 50,
-              "url": "https://bsky.app/profile/bloomberg.com/post/3mjx2hogyt724"
-            },
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "'Israel never talked me into the war with Iran,' Trump says",
-              "score": 46,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mjwrwlx6jv2h"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 2,
-          "score": 82,
-          "topic": "Louisiana Mass Shooting",
-          "domain": "geopolitics",
-          "headline": "Eight children killed in Louisiana mass shooting rampage",
-          "summary": "A gunman killed eight children aged 1 to 14 years old in domestic-related shootings at two different homes in Shreveport, Louisiana early Sunday. Police describe it as a domestic disturbance in what marks the nation's deadliest mass shooting in over two years.",
-          "signal": "Renewed focus on gun control legislation likely; monitor for political response and policy proposals.",
-          "sources": [
-            "Associated Press",
-            "BBC News",
-            "Al Jazeera English"
-          ],
-          "source_url": "https://apnews.com/live/louisiana-shooting-2026",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 3,
-          "score": 78,
-          "topic": "Big Tech Market Rally",
-          "domain": "markets",
-          "headline": "Big Tech powers S&P 500 to new highs",
-          "summary": "Big Tech stocks are powering the S&P 500 Index to new heights with a $4 trillion boomerang rally, giving investors confidence the equity market has room to run. The Nasdaq faced potential end to its 13-day winning streak amid renewed US-Iran tensions affecting oil prices.",
-          "signal": "Watch for earnings season performance to sustain momentum; macro risks from Iran war could derail rally.",
-          "sources": [
-            "Bloomberg",
-            "LiveMint Markets"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/big-tech-s-4-trillion-boomerang-powers-s-p-500-to-new-heights",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 4,
-          "score": 75,
-          "topic": "Oil Price Surge",
-          "domain": "commodities",
-          "headline": "Brent crude jumps 8% on Iran tensions escalation",
-          "summary": "Oil prices rebounded sharply as US-Iran tensions flared over the Strait of Hormuz blockade, with Brent jumping 8%. US airline stocks fell up to 6% as fuel costs threaten profits, while Energy Secretary warns gas may stay above $3 until next year.",
-          "signal": "Monitor for supply disruptions and inflation pressures if Hormuz crisis persists; airline sector particularly vulnerable.",
-          "sources": [
-            "Bloomberg",
-            "LiveMint Markets"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/us-energy-chief-says-gasoline-may-not-dip-below-3-til-next-year",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 5,
-          "score": 72,
-          "topic": "Bulgaria Election Results",
-          "domain": "europe",
-          "headline": "Russia-sympathizer Radev wins Bulgaria election amid political deadlock",
-          "summary": "Former President Rumen Radev, who opposes sanctions against Russia and military aid for Ukraine, is on track to win Bulgaria's eighth general election since 2021. Exit polls suggest he may have a chance to end years of political deadlock in the EU member state.",
-          "signal": "Watch for EU cohesion challenges if Bulgaria shifts toward Russia-friendly policies under Radev leadership.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/bulgarian-russia-sympathizer-radev-is-heading-for-election-win",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 6,
-          "score": 68,
-          "topic": "London Synagogue Attacks",
-          "domain": "geopolitics",
-          "headline": "Met Police probe Iran links to London synagogue arsons",
-          "summary": "Metropolitan Police are investigating potential Iran links to arson attacks on London synagogues, including the latest at Kenton United Synagogue. The attacks at Jewish sites come amid broader Middle East tensions and concerns about Iranian-sponsored activities in the UK.",
-          "signal": "Monitor for escalation of proxy tensions in Europe and increased security measures at Jewish facilities.",
-          "sources": [
-            "Al Jazeera English",
-            "BBC News"
-          ],
-          "source_url": "https://www.aljazeera.com/news/2026/4/19/met-police-investigate-potential-iran-links-to-london-arson-attacks",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 7,
-          "score": 65,
-          "topic": "Vitol War Losses",
-          "domain": "commodities",
-          "headline": "Vitol makes $2B profit despite Iran war losses",
-          "summary": "Energy trading giant Vitol Group reported roughly $2 billion in first-quarter profits despite losses in parts of its business due to the Iran war. The world's top energy trader is working to reassure lenders about its financial position amid ongoing conflict disruptions.",
-          "signal": "Energy trading sector resilient but watch for broader commodity market stress if conflict intensifies.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-19/vitol-made-about-2-billion-in-first-quarter-despite-war-losses",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 8,
-          "score": 62,
-          "topic": "Hungarian Government Transition",
-          "domain": "europe",
-          "headline": "Magyar names first ministers, dismantles Orban's centralized model",
-          "summary": "Incoming Hungarian PM Peter Magyar announced his first ministers and a 16-portfolio cabinet, dismantling Viktor Orban's centralized government model. Magyar also committed to halting Hungary's departure from the International Criminal Court and would arrest Netanyahu if he visits.",
-          "signal": "Significant EU relations shift likely as Hungary pivots from Orban's Russia-friendly policies toward mainstream European positions.",
-          "sources": [
-            "Politico Europe",
-            "Middle East Eye"
-          ],
-          "source_url": "https://www.politico.eu/article/peter-magyar-names-first-ministers-in-incoming-hungarian-government-tisza/",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 9,
-          "score": 60,
-          "topic": "WeWork Office Crisis",
-          "domain": "corporate",
-          "headline": "WeWork bankruptcy worsens office vacancy crisis with 70 NYC leases",
-          "summary": "WeWork announced it will vacate 70 office leases in New York City as part of its bankruptcy proceedings. With 20% of US offices already vacant, the move threatens to worsen the commercial real estate crisis significantly.",
-          "signal": "Commercial real estate sector faces accelerating downturn; monitor REIT performance and urban office market values.",
-          "sources": [],
-          "source_url": "",
-          "standalone_social": true,
-          "context": "Major indicator of commercial real estate stress with potential systemic implications for urban markets and financial institutions.",
-          "social_signals": [
-            {
-              "handle": "kobeissiletter",
-              "platform": "telegram",
-              "text": "20% of US offices are vacant and WeWork's bankruptcy is going to make this crisis worse. WeWork just announced that they will be vacating 70 office leases in New York City.",
-              "score": 60,
-              "url": "https://t.me/kobeissiletter"
-            }
-          ],
-          "trend": "falling",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 10,
-          "score": 58,
-          "topic": "India Core Sector Contraction",
-          "domain": "india",
-          "headline": "India core sector contracts 0.4% in March, worst in 19 months",
-          "summary": "India's core sector activity contracted 0.4% in March 2026 due to West Asia impact, marking the worst performance in 19 months. Four out of eight core sectors contracted, with full-year 2025-26 growth the lowest since the COVID-19 pandemic.",
-          "signal": "Indian economic momentum weakening due to Middle East disruptions; watch for broader industrial impact and policy response.",
-          "sources": [
-            "Hindu Business"
-          ],
-          "source_url": "https://www.thehindu.com/business/core-sector-activity-contracts-04-in-march-2026-on-west-asia-impact-worst-in-19-months/article70884762.ece",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "falling",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 11,
-          "score": 55,
-          "topic": "Israel Gaza Military Expansion",
-          "domain": "middleeast",
-          "headline": "Satellite images show Israel expanding Gaza military sites permanently",
-          "summary": "Satellite imagery reveals Israel building permanent military bases in Gaza as US-backed reconstruction plans stall. The expansion raises questions about long-term Israeli presence in the territory despite international reconstruction efforts.",
-          "signal": "Long-term Israeli occupation of Gaza increasingly likely; monitor for international response and reconstruction fund implications.",
-          "sources": [
-            "Al Jazeera English"
-          ],
-          "source_url": "https://www.aljazeera.com/news/2026/4/19/satellite-images-reveal-israel-expanding-gaza-military-sites",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 12,
-          "score": 50,
-          "topic": "Singer Murder Charges",
-          "domain": "corporate",
-          "headline": "Singer D4vd charged with murder of 14-year-old",
-          "summary": "Singer D4vd has been charged with the murder of a 14-year-old girl who authorities say was found dismembered in his Tesla. The breaking news represents a major criminal case involving a music industry figure.",
-          "signal": "Watch for music industry and Tesla brand impact; criminal proceedings likely to dominate headlines.",
-          "sources": [],
-          "source_url": "",
-          "standalone_social": true,
-          "context": "High-profile criminal case involving entertainment industry figure that could have broad cultural and legal implications.",
-          "social_signals": [
-            {
-              "handle": "apnews.com",
-              "platform": "bluesky",
-              "text": "BREAKING: Singer D4vd has been charged with the murder of a 14-year-old girl who authorities say was found dismembered in his Tesla.",
-              "score": 50,
-              "url": "https://bsky.app/profile/apnews.com/post/3mjwxt327nz2i"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 13,
-          "score": 48,
-          "topic": "Housing Market Trends",
-          "domain": "markets",
-          "headline": "US housing listings surge 36,000 in October shift",
-          "summary": "Active listings on the US housing market jumped by nearly 36,000 in October 2023, marking the highest reported jump in October according to Reventure. The surge represents a significant trend shift in housing market dynamics.",
-          "signal": "Housing market cooling accelerating; monitor for price corrections and mortgage demand impacts on financial sector.",
-          "sources": [],
-          "source_url": "",
-          "standalone_social": true,
-          "context": "Significant housing market indicator suggesting potential correction after years of tight inventory and rising prices.",
-          "social_signals": [
-            {
-              "handle": "kobeissiletter",
-              "platform": "telegram",
-              "text": "Very interesting trend shift in the housing market: Active listings on the US housing market jumped by nearly 36,000 in October 2023",
-              "score": 48,
-              "url": "https://t.me/kobeissiletter"
-            }
-          ],
-          "trend": "falling",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 14,
-          "score": 45,
-          "topic": "Japan Retailer Acquisition",
-          "domain": "japan",
-          "headline": "Nojima to acquire Hitachi appliance unit for $630M+",
-          "summary": "Japanese retailer Nojima will buy Hitachi's appliance unit for over $630 million, marking a significant consolidation in Japan's home appliance sector. The deal represents major restructuring in the domestic electronics market.",
-          "signal": "Japan appliance sector consolidation accelerating; watch for efficiency gains and market share implications.",
-          "sources": [
-            "Nikkei Asia"
-          ],
-          "source_url": "https://asia.nikkei.com/business/business-deals/japan-retailer-nojima-to-buy-hitachi-appliance-unit-for-over-630m",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 15,
-          "score": 42,
-          "topic": "US Household Debt Records",
-          "domain": "macro",
-          "headline": "US household debt hits record $17.29 trillion",
-          "summary": "The United States now has record $17.29 trillion in household debt, including record $12.14 trillion in mortgages, $1.60 trillion in auto loans, and $1.08 trillion in credit card debt. All major consumer debt categories have reached unprecedented levels.",
-          "signal": "Consumer financial stress indicators flashing red; monitor for defaults and spending pullback affecting economic growth.",
-          "sources": [],
-          "source_url": "",
-          "standalone_social": true,
-          "context": "Critical macroeconomic indicator showing potential consumer vulnerability and systemic risk to financial system.",
-          "social_signals": [
-            {
-              "handle": "kobeissiletter",
-              "platform": "telegram",
-              "text": "The U.S. Now Has: 1. Record $17.29 trillion in household debt 2. Record $12.14 trillion in mortgages 3. Record $1.60 trillion in auto loans 4. Record $1.08 trillion in credit card",
-              "score": 41,
-              "url": "https://t.me/kobeissiletter"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 16,
-          "score": 40,
-          "topic": "Psychedelic Therapy Stocks",
-          "domain": "markets",
-          "headline": "Psychedelic therapy stocks surge on Trump executive order",
-          "summary": "Shares of companies involved in psychedelic-related therapies are surging in premarket trading after President Donald Trump signed an executive order to expedite research and access. The move represents a significant policy shift toward alternative mental health treatments.",
-          "signal": "New healthcare sector opportunity emerging; watch for regulatory approvals and clinical trial developments.",
-          "sources": [],
-          "source_url": "",
-          "standalone_social": true,
-          "context": "Significant policy development opening new healthcare investment theme with potential FDA approval implications.",
-          "social_signals": [
-            {
-              "handle": "bloomberg.com",
-              "platform": "bluesky",
-              "text": "Shares of companies involved in psychedelic-related therapies are surging in premarket trading Monday after President Donald Trump signed an executive order to expedite research and access.",
-              "score": 40,
-              "url": "https://bsky.app/profile/bloomberg.com/post/3mjwvccvwlp2g"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 17,
-          "score": 38,
-          "topic": "North Carolina Park Shooting",
-          "domain": "geopolitics",
-          "headline": "Two dead in North Carolina park shooting escalation",
-          "summary": "A planned fight among young people escalated into a shooting at a North Carolina park Monday morning that left two people dead. Multiple people opened fire as the confrontation escalated, with several victims and suspects identified including juveniles.",
-          "signal": "Youth violence trends concerning; monitor for broader social unrest indicators and policy responses.",
-          "sources": [
-            "NDTV Profit"
-          ],
-          "source_url": "https://www.ndtvprofit.com/world/north-carolina-mass-shooting-multiple-people-opened-fire-as-planned-fight-escalates-11384888",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [
-            {
-              "handle": "apnews.com",
-              "platform": "bluesky",
-              "text": "Authorities say a planned fight among young people escalated into a shooting at a North Carolina park Monday morning that left two people dead.",
-              "score": 31,
-              "url": "https://bsky.app/profile/apnews.com/post/3mjx2dawofh2i"
-            }
-          ],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 18,
-          "score": 35,
-          "topic": "Kashmir Bus Crash",
-          "domain": "geopolitics",
-          "headline": "21 killed as bus crashes into Kashmir gorge",
-          "summary": "At least 21 people were killed when a bus crashed into a gorge in Kashmir. The accident represents one of the deadliest road incidents in the region recently.",
-          "signal": "Regional transportation safety concerns; monitor for infrastructure investment and safety regulation responses.",
-          "sources": [],
-          "source_url": "",
-          "standalone_social": true,
-          "context": "Significant transportation accident highlighting infrastructure challenges in sensitive geopolitical region.",
-          "social_signals": [
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "At least 21 killed as bus crashes into Kashmir gorge",
-              "score": 36,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mjx2csozyv2h"
-            }
-          ],
-          "trend": "stable",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 19,
-          "score": 32,
-          "topic": "Ukraine Defense Innovation",
-          "domain": "geopolitics",
-          "headline": "Ukraine showcases drone warfare innovations against Russia",
-          "summary": "Ukraine is demonstrating remarkable resilience against Russia through its innovative defense industry, producing millions of drones, long-range missiles, and robotic systems. These advanced weapons allow Ukraine to strike deep behind enemy lines while preserving soldiers.",
-          "signal": "Defense technology revolution accelerating; monitor for broader military procurement shifts and defense stock implications.",
-          "sources": [
-            "Times of India"
-          ],
-          "source_url": "https://timesofindia.indiatimes.com/defence/international/drones-robots-precision-fire-how-ukraine-is-defying-russian-juggernaut-reinventing-modern-warfare/articleshow/130393189.cms",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 20,
-          "score": 30,
-          "topic": "Bayern Munich Bundesliga Victory",
-          "domain": "corporate",
-          "headline": "Bayern Munich clinches record-extending Bundesliga title",
-          "summary": "Bayern Munich has secured another Bundesliga title with a 4-2 victory over Stuttgart, moving 15 points clear of Borussia Dortmund with four rounds remaining. This extends their record-breaking dominance of German football.",
-          "signal": "German football commercial dominance continues; monitor for league competitiveness and broadcast value implications.",
-          "sources": [
-            "Associated Press"
-          ],
-          "source_url": "https://apnews.com/article/bayern-munich-bundesliga-title-stuttgart-cadfaa33abe814100d5f0bf1ba712877",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
           "trend": "stable",
           "breaking_on_social": false
         }
