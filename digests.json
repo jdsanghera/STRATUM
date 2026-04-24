@@ -1,6 +1,597 @@
 {
   "digests": [
     {
+      "timestamp": "2026-04-24T20:13:16.582823+00:00",
+      "timestamp_ist": "25 Apr 2026 \u00b7 01:43 IST",
+      "story_count": 26,
+      "avg_score": 72,
+      "stories": [
+        {
+          "rank": 1,
+          "score": 92,
+          "topic": "Iran-US War Hormuz Crisis",
+          "domain": "geopolitics",
+          "headline": "Iran attacks ships in Hormuz; US-Iran talks resume in Islamabad",
+          "summary": "Iran attacked three ships near the Strait of Hormuz as confusion deepened over the blockade that has triggered a global energy crisis, with a fifth of world oil supply cut off. Diplomatic momentum is building as Iranian FM Araghchi arrives in Islamabad for talks with US envoys Witkoff and Kushner, with Trump saying Iran is preparing an offer to meet US demands.",
+          "signal": "Parallel military escalation and diplomatic track create high volatility window \u2014 oil and shipping markets remain acutely exposed to any breakdown.",
+          "sources": [
+            "Associated Press",
+            "Al Jazeera English",
+            "Bloomberg",
+            "Middle East Eye",
+            "Indian Express",
+            "NDTV Profit"
+          ],
+          "source_url": "https://apnews.com/live/iran-war-israel-trump-04-23-2026",
+          "published_at": "23 Apr \u00b7 06:01 IST",
+          "standalone_social": false,
+          "context": "War began February 28 with US-Israel strikes on Iran; Hormuz blockade in place since; ceasefire talks ongoing via Oman, Pakistan, Qatar.",
+          "social_signals": [
+            {
+              "handle": "apnews.com",
+              "platform": "bluesky",
+              "text": "BREAKING: The U.S. imposes sanctions on China-based oil refinery, as well as dozens of firms and tankers accused of shipping Iranian oil.",
+              "score": 45,
+              "url": "https://bsky.app/profile/apnews.com/post/3mkb6byhpin26"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Israeli attacks on Lebanon may violate international law, UN warns",
+              "score": 44,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mkbb7gyjbr2k"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 2,
+          "score": 88,
+          "topic": "Meta Microsoft AI Layoffs",
+          "domain": "corporate",
+          "headline": "Meta cuts 8,000 jobs, Microsoft offers buyouts amid AI spending surge",
+          "summary": "Meta confirmed it will lay off approximately 8,000 workers \u2014 10% of its workforce \u2014 in its largest round of job cuts since 2023, redirecting capital to artificial intelligence infrastructure. Microsoft simultaneously offered voluntary buyouts to a similar number of employees as both tech giants streamline operations to fund heavy AI investment cycles.",
+          "signal": "Simultaneous workforce reductions at two of the world's largest tech companies signal a structural AI-driven reallocation of headcount that is likely to accelerate sector-wide.",
+          "sources": [
+            "Associated Press",
+            "BBC News",
+            "Bloomberg"
+          ],
+          "source_url": "https://apnews.com/article/microsoft-voluntary-buyouts-ai-224eee4489cbc227244558ff02f5919a",
+          "published_at": "24 Apr \u00b7 01:05 IST",
+          "standalone_social": false,
+          "context": "Meta previously cut 21,000 jobs across 2022-2023; this new round reflects AI capex prioritization over headcount.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 3,
+          "score": 85,
+          "topic": "India Markets Sensex Selloff",
+          "domain": "india",
+          "headline": "Sensex plunges 1,000 pts on Iran tensions, IT sector rout",
+          "summary": "Indian equity markets fell for a third consecutive session as the BSE Sensex dropped 999 points to settle at 76,664, dragged by heavy selling in IT stocks and rising crude oil prices tied to the Hormuz blockade. The rupee weakened 22 paise to 94.23 against the dollar as risk aversion spread across emerging markets.",
+          "signal": "Sustained IT weakness combined with high crude and a weakening rupee creates a compounding headwind for Indian corporate margins heading into Q1FY27 earnings season.",
+          "sources": [
+            "Hindu Business Line",
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.thehindu.com/business/markets/markets-slump-for-3rd-day-on-surging-oil-prices-massive-selling-in-it-stocks-sensex-drops-1k-points/article70901505.ece",
+          "published_at": "24 Apr \u00b7 17:25 IST",
+          "standalone_social": false,
+          "context": "Indian markets had posted a two-week winning streak before this selloff; FII flows remain selectively negative.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 4,
+          "score": 84,
+          "topic": "Reliance Industries Q4 Results",
+          "domain": "india",
+          "headline": "Reliance Q4 profit drops 13% as war-hit O2C segment drags earnings",
+          "summary": "Reliance Industries reported a consolidated net profit of \u20b916,971 crore in Q4FY26, down 13% year-on-year, as its oil-to-chemicals (O2C) segment was battered by the Iran war's impact on crude feedstock costs and refining margins. Revenue grew 13% to \u20b92.99 trillion, with Jio Platforms and Reliance Retail providing relative stability.",
+          "signal": "RIL's O2C drag is a direct Iran-war transmission mechanism into India's largest company \u2014 sustained Hormuz disruption will keep this segment under pressure through FY27.",
+          "sources": [
+            "LiveMint Companies",
+            "Nikkei Asia",
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.livemint.com/companies/company-results/reliance-industries-profit-dips-13-as-war-hit-o2c-drags-retail-and-jio-steady-11777040614137.html",
+          "published_at": "24 Apr \u00b7 21:09 IST",
+          "standalone_social": false,
+          "context": "Nikkei Asia separately confirmed the profit fall with Iran war attribution; Jio Q4 profit rose 13% separately.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 5,
+          "score": 82,
+          "topic": "EU Cyprus Summit Strategy",
+          "domain": "europe",
+          "headline": "EU leaders at Cyprus summit confront Trump, budget, and defence gaps",
+          "summary": "Twenty-nine EU leaders gathered in Cyprus for a summit dominated by concerns about US reliability under Trump, with Macron warning that the US, China, and Russia are now actively working against European interests. Key fault lines emerged over the bloc's \u20ac1.8 trillion budget negotiation \u2014 described as 'extremely difficult' \u2014 and efforts to clarify a common EU defence pact without conflicting with NATO.",
+          "signal": "The post-Orb\u00e1n EU is running out of internal scapegoats and must now confront strategic autonomy questions with real fiscal and defence commitments.",
+          "sources": [
+            "Politico Europe",
+            "Bloomberg"
+          ],
+          "source_url": "https://www.politico.eu/article/13-things-we-learned-at-eu-summit-cyprus/",
+          "published_at": "24 Apr \u00b7 21:40 IST",
+          "standalone_social": false,
+          "context": "Macron also hinted at a post-presidency role outside politics while attending the summit.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 6,
+          "score": 81,
+          "topic": "Intel Earnings Chip Rally",
+          "domain": "markets",
+          "headline": "Intel blockbuster earnings send chip stocks to record Wall Street highs",
+          "summary": "Intel posted stronger-than-expected first-quarter results, sending its shares up more than 20-27% in extended trading and triggering a broad rally across semiconductor stocks including Nvidia, AMD, and Qualcomm. Nvidia reclaimed a $5 trillion market cap as AI-related chip demand signalling lifted the entire sector.",
+          "signal": "Intel's turnaround \u2014 alongside Nvidia's $5T milestone \u2014 confirms AI infrastructure spending is translating into hard earnings, potentially re-rating the entire semis complex.",
+          "sources": [
+            "LiveMint Markets",
+            "Euronews Business",
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/intels-blockbuster-earnings-propel-chip-stocks-to-record-highs-on-wall-street-11777044310406.html",
+          "published_at": "24 Apr \u00b7 22:33 IST",
+          "standalone_social": false,
+          "context": "US government stake in Intel acquired under Trump administration is up nearly 300% on the move.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 7,
+          "score": 80,
+          "topic": "US Iran Nuclear Deal Risk",
+          "domain": "geopolitics",
+          "headline": "Trump's rushed Iran deal risks worse outcome than 2018 abandoned accord",
+          "summary": "Bloomberg analysis warns that Trump's urgency to end the Iran war \u2014 driven partly by social media posturing that is dividing his own advisers \u2014 risks producing a nuclear agreement weaker than the JCPOA he abandoned in his first term. Trump's brash online threats are complicating diplomatic efforts even as the US dispatches Witkoff and Kushner to Islamabad for talks.",
+          "signal": "A structurally weak nuclear deal under time pressure could lock in Iranian enrichment capabilities, creating a long-term proliferation risk that markets are not yet pricing.",
+          "sources": [
+            "Bloomberg",
+            "Indian Express",
+            "Middle East Eye"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-23/trump-s-rush-to-end-iran-war-risks-delivering-weak-nuclear-deal",
+          "published_at": "24 Apr \u00b7 00:00 IST",
+          "standalone_social": false,
+          "context": "Prediction markets including Polymarket \u2014 partially backed by Trump's son \u2014 are seeing heavy volume on Iran ceasefire outcomes.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "Russian, UAE foreign ministers seek resumption of talks to achieve Middle East agreement",
+              "score": 40,
+              "url": "https://bsky.app/profile/reuters.com/post/3mkbbrx7kb32n"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 8,
+          "score": 78,
+          "topic": "AAP Rajya Sabha Exodus",
+          "domain": "india",
+          "headline": "Raghav Chadha leads seven AAP MPs to BJP in Rajya Sabha blow",
+          "summary": "Aam Aadmi Party suffered a severe parliamentary setback as Rajya Sabha MP Raghav Chadha led six other MPs in defecting to the BJP, boosting the ruling party's upper house tally to 113 and reducing AAP to just three members. The mass exodus \u2014 triggered by Chadha's removal as deputy leader \u2014 follows AAP's electoral losses and raises fundamental questions about the party's survival as a national force.",
+          "signal": "AAP's near-erasure from the Rajya Sabha dramatically weakens opposition cohesion in Parliament, consolidating BJP's legislative dominance heading into state election cycles.",
+          "sources": [
+            "Times of India"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/india/fastest-growing-startup-to-implosion-future-tense-for-aap-as-raghav-chadha-arvind-kejriwal-swati-maliwal-bjp-leads-rajya-sabha-exodus/articleshow/130499473.cms",
+          "published_at": "24 Apr \u00b7 22:10 IST",
+          "standalone_social": false,
+          "context": "Opposition bloc strength falls to 77 in Rajya Sabha; AAP had once held 10 seats.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 9,
+          "score": 77,
+          "topic": "US Sanctions China Iranian Oil",
+          "domain": "geopolitics",
+          "headline": "US sanctions Chinese refinery, dozens of tankers over Iranian oil",
+          "summary": "The Trump administration imposed fresh sanctions on a China-based oil refinery and dozens of firms and tankers accused of shipping Iranian crude, tightening economic pressure as nuclear talks progress. Separately, $344 million in Iran-linked cryptocurrency was frozen as Washington intensifies its maximum-pressure campaign even during the diplomatic track.",
+          "signal": "Simultaneous sanctions escalation and diplomacy suggest the US is using economic coercion as a negotiating lever \u2014 Chinese refiners face immediate operational and compliance risk.",
+          "sources": [
+            "Middle East Eye",
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-chinese-refinery-over-iranian-oil-purchases",
+          "published_at": "25 Apr \u00b7 01:20 IST",
+          "standalone_social": false,
+          "context": "Iran's crypto holdings reached $7.8 billion in 2025 per Chainalysis data.",
+          "social_signals": [
+            {
+              "handle": "apnews.com",
+              "platform": "bluesky",
+              "text": "BREAKING: The U.S. imposes sanctions on China-based oil refinery, as well as dozens of firms and tankers accused of shipping Iranian oil.",
+              "score": 45,
+              "url": "https://bsky.app/profile/apnews.com/post/3mkb6byhpin26"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 10,
+          "score": 76,
+          "topic": "Dollar Gold Forex Iran",
+          "domain": "markets",
+          "headline": "Dollar hits 10-day high on Iran tensions; gold gains on talk optimism",
+          "summary": "The US dollar jumped to its highest level in 10 days as intensifying Middle East hostilities dampened risk sentiment, before giving back some gains as the DOJ dropped its probe into Fed Chair Jerome Powell, clearing a path for Kevin Warsh as his successor. Gold advanced on optimism around US-Iran talks resuming, with the Fed's rate path also in focus.",
+          "signal": "The dollar-gold correlation is fracturing \u2014 dollar gains on geopolitical risk while gold also rises on diplomatic optimism, suggesting markets are pricing both escalation and resolution simultaneously.",
+          "sources": [
+            "Bloomberg",
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-23/dollar-jumps-to-highest-in-10-days-as-us-iran-tensions-intensify",
+          "published_at": "24 Apr \u00b7 00:12 IST",
+          "standalone_social": false,
+          "context": "DOJ dropping Powell probe is widely seen as clearing the path for Warsh nomination as Fed Chair.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "How the DOJ went from investigating Powell to dropping the case",
+              "score": 40,
+              "url": "https://bsky.app/profile/reuters.com/post/3mkbd6an6o72x"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 11,
+          "score": 75,
+          "topic": "India Credit RBI Easing",
+          "domain": "india",
+          "headline": "India credit flows surge 38% in FY26 on RBI rate easing cycle",
+          "summary": "Credit flows in India jumped 38% in FY26 as the Reserve Bank of India's easing cycle boosted demand across retail and corporate lending segments. India's forex reserves rose to $703 billion even as the rupee slipped 14 paise, reflecting the complex interplay of global risk aversion and domestic monetary accommodation.",
+          "signal": "A 38% credit growth surge signals strong domestic demand transmission from RBI easing \u2014 watch for Q1FY27 NPA data to assess whether this growth is quality-adjusted.",
+          "sources": [
+            "Economic Times",
+            "Hindu Business Line"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/news/economy/policy/credit-flows-jump-38-in-fy26-as-rbi-easing-boosts-demand/articleshow/130503325.cms",
+          "published_at": "25 Apr \u00b7 00:44 IST",
+          "standalone_social": false,
+          "context": "RBI has cut rates twice in 2026 so far; forex reserves at $703bn provide 11+ months import cover.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 12,
+          "score": 74,
+          "topic": "Jio Reliance Retail Earnings",
+          "domain": "india",
+          "headline": "Jio Q4 profit rises 13%; Reliance Retail hits record revenue in FY26",
+          "summary": "Jio Platforms posted a 13% rise in Q4 profit driven by subscriber growth, rising data usage, and broadband traction, though higher finance costs capped gains ahead of its planned 2026 IPO. Reliance Retail reported its highest-ever quarterly revenue but profit grew only 0.5% as margins slipped amid rapid store and e-commerce scale-up.",
+          "signal": "Jio's IPO pipeline and Retail's scale momentum remain intact, but margin compression at both units warrants scrutiny as Reliance navigates the O2C drag.",
+          "sources": [
+            "LiveMint Companies"
+          ],
+          "source_url": "https://www.livemint.com/companies/company-results/jio-platforms-q4fy26-results-reliance-jio-infocomm-arpu-growth-telecom-earnings-5g-spectrum-cost-ipo-subscriber-growth-11776999757398.html",
+          "published_at": "24 Apr \u00b7 20:01 IST",
+          "standalone_social": false,
+          "context": "JioStar (media JV) separately reported a 53% drop in quarterly profit as ad slowdown and content costs weighed.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 13,
+          "score": 73,
+          "topic": "TEPCO Japan Sovereign Fund",
+          "domain": "japan",
+          "headline": "TEPCO to appoint JICF sovereign wealth fund head as new chairman",
+          "summary": "Tokyo Electric Power Company is set to name the head of Japan's sovereign wealth fund JICF as its new chairman, marking the first time a financier rather than an energy industry veteran will lead the utility since the 2011 Fukushima disaster. The appointment signals a shift toward financial restructuring and capital efficiency at the state-supported utility.",
+          "signal": "A sovereign fund CEO taking TEPCO's chairmanship suggests Japan is pivoting toward monetizing TEPCO's asset base and accelerating its financial normalization.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/business/energy/tepco-to-name-head-of-japan-sovereign-wealth-fund-as-new-chairman",
+          "published_at": "24 Apr \u00b7 12:00 IST",
+          "standalone_social": false,
+          "context": "Nikkei's Japanese-language Bluesky account also reported this story.",
+          "social_signals": [
+            {
+              "handle": "nikkei.com",
+              "platform": "bluesky",
+              "text": "\u6771\u4eac\u96fb\u529b\u4f1a\u9577\u306bJIC\u306e\u6a2a\u5c3e\u656c\u4ecbCEO\u3001\u521d\u306e\u91d1\u878d\u51fa\u8eab\u8005\u3000\u56fd\u3068\u8abf\u6574\u3078",
+              "score": 35,
+              "url": "https://bsky.app/profile/nikkei.com/post/3mkanqhyfy52r"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 14,
+          "score": 72,
+          "topic": "Tamil Nadu Assembly Election",
+          "domain": "india",
+          "headline": "Tamil Nadu records 83% voter turnout in 2026 assembly polls",
+          "summary": "Tamil Nadu's 2026 assembly election recorded an 83.41% voter turnout as of 8pm on polling day, sharply higher than the 59.75% seen in 2021, primarily because the electorate shrank from 40.57 lakh to 28.93 lakh following a Special Intensive Revision. The absolute number of voters turning out remained close to 24 lakh in both elections, indicating the turnout surge is largely a statistical effect of the reduced roll.",
+          "signal": "The SIR-adjusted electorate compression makes direct turnout comparisons misleading \u2014 actual voter mobilisation trends require absolute vote-count analysis for accurate seat projection.",
+          "sources": [
+            "The Hindu"
+          ],
+          "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/post-sir-electorate-drop-drives-turnout-surge-votes-remain-steady-compared-to-2021-election/article70898707.ece",
+          "published_at": "25 Apr \u00b7 01:11 IST",
+          "standalone_social": false,
+          "context": "Thoothukudi constituency also pushed past 80% turnout in steady voting.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 15,
+          "score": 71,
+          "topic": "Sebi Broker Capital Rules",
+          "domain": "india",
+          "headline": "Sebi proposes variable net worth norms linking broker capital to client risk",
+          "summary": "India's Securities and Exchange Board of India (Sebi) has proposed a sweeping overhaul of broker capital rules, tying variable net worth requirements to active client base size, credit balances, and operational risk metrics. The proposal would tighten capital buffers significantly for larger brokerages and marks a structural upgrade to market infrastructure regulation.",
+          "signal": "Sebi's variable net worth framework will disproportionately impact large discount brokers with high client volumes \u2014 watch for sector re-rating as compliance costs get quantified.",
+          "sources": [
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.livemint.com/market/india-brokerage-firms-new-sebi-variable-net-worth-norms-market-risk-11777037755280.html",
+          "published_at": "24 Apr \u00b7 20:28 IST",
+          "standalone_social": false,
+          "context": "Sebi has been systematically tightening F&O and broker regulations through 2025-26.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 16,
+          "score": 70,
+          "topic": "Hegseth Fires Navy Secretary",
+          "domain": "geopolitics",
+          "headline": "Defense Secretary Hegseth fires Navy Secretary John Phelan",
+          "summary": "US Defense Secretary Pete Hegseth fired Navy Secretary John Phelan, continuing a pattern of senior civilian military leadership dismissals under the Trump administration. The timing \u2014 amid active naval operations in the Strait of Hormuz against Iran \u2014 raises questions about command continuity at the Department of the Navy.",
+          "signal": "Leadership instability at the Navy's civilian command during active Hormuz naval operations is an operational risk factor that markets and allies are likely watching closely.",
+          "sources": [
+            "The Wall Street Journal"
+          ],
+          "source_url": "https://www.wsj.com/politics/national-security/john-phelan-quits-as-u-s-navy-secretary-4fcd286b",
+          "published_at": "23 Apr \u00b7 15:22 IST",
+          "standalone_social": false,
+          "context": "Phelan is at least the third senior Pentagon official removed since Trump returned to office.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 17,
+          "score": 68,
+          "topic": "Caspian Energy Route Investment",
+          "domain": "commodities",
+          "headline": "Caspian transit routes gain strategic premium as Iran war disrupts energy flows",
+          "summary": "With the Strait of Hormuz blockaded, governments and energy companies are accelerating investment in Caspian Sea transit corridors as the alternative route keeping Eurasian energy flowing. The shift is creating significant infrastructure investment opportunities while cementing the geopolitical importance of Azerbaijan, Kazakhstan, and Georgia as transit states.",
+          "signal": "The Hormuz blockade is structurally repricing Caspian corridor assets \u2014 a sustained ceasefire may not fully reverse the investment case given its strategic redundancy value.",
+          "sources": [
+            "Euronews Business"
+          ],
+          "source_url": "http://www.euronews.com/business/2026/04/24/why-investment-in-caspian-transit-routes-is-crucial-for-energy-security",
+          "published_at": "24 Apr \u00b7 20:28 IST",
+          "standalone_social": false,
+          "context": "Europe's fuel price spikes since the Iran war vary sharply by country per Euronews ranking analysis.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 18,
+          "score": 67,
+          "topic": "IndusInd Bank FY27 Reset",
+          "domain": "india",
+          "headline": "IndusInd Bank targets FY27 recovery after derivatives microfinance crisis",
+          "summary": "IndusInd Bank reported a return to profit in the March quarter and laid out a FY27 growth reset plan, targeting loan and deposit growth in line with industry averages after a year marked by derivative accounting irregularities and microfinance stress. Management flagged war-related uncertainty as keeping the near-term outlook cautious.",
+          "signal": "IndusInd's credibility on FY27 guidance will depend on clean resolution of its derivatives restatement \u2014 the war uncertainty caveat gives management escape room if targets are missed.",
+          "sources": [
+            "LiveMint Companies"
+          ],
+          "source_url": "https://www.livemint.com/companies/company-results/indusind-bank-growth-fy27-derivatives-microfinance-profit-turnaround-11777042339464.html",
+          "published_at": "24 Apr \u00b7 21:20 IST",
+          "standalone_social": false,
+          "context": "IndusInd has been under RBI and market scrutiny since its derivative accounting crisis emerged in early 2025.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 19,
+          "score": 65,
+          "topic": "J&K Statehood Urdu Policy Row",
+          "domain": "india",
+          "headline": "Urdu dropped as mandatory for J&K revenue services, sparking political row",
+          "summary": "Jammu & Kashmir authorities have removed Urdu as a mandatory requirement for entry into revenue services, triggering a political controversy over language rights and cultural identity in the union territory. Separately, BJP rejected demands to restore J&K's statehood, saying it cannot be done to 'oblige Prince Omar' Abdullah, as CM Abdullah accused the Centre of punishing J&K voters.",
+          "signal": "The convergence of language policy changes and statehood denial signals a continued Centre-J&K tension that could feed into broader regional political dynamics ahead of any assembly calendar.",
+          "sources": [
+            "Times of India"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/india/urdu-no-longer-mandatory-for-jk-revenue-services-sparks-row/articleshow/130502017.cms",
+          "published_at": "25 Apr \u00b7 00:01 IST",
+          "standalone_social": false,
+          "context": "Six people were also detained under PSA in Kashmir for allegedly inciting student protests.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 20,
+          "score": 64,
+          "topic": "UK Proxy Attacks Warning",
+          "domain": "europe",
+          "headline": "UK PM Starmer warns of growing state-backed proxy attack threat",
+          "summary": "British Prime Minister Keir Starmer said proxy attacks on UK soil \u2014 conducted by agents of foreign states \u2014 represent a real and growing concern, without naming specific countries. The warning comes amid heightened European security awareness following revelations of state-sponsored sabotage operations across the continent.",
+          "signal": "Starmer's public warning signals UK intelligence is tracking escalating foreign interference operations, likely tied to Russia and Iran, that could strain diplomatic relations.",
+          "sources": [
+            "BBC News"
+          ],
+          "source_url": "https://www.bbc.co.uk/news/articles/clyxlnzrq41o",
+          "published_at": "23 Apr \u00b7 01:07 IST",
+          "standalone_social": false,
+          "context": "Trump separately told the BBC that King Charles's visit could 'absolutely' repair UK-US relations.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 21,
+          "score": 63,
+          "topic": "Sitharaman AI Banking Threat",
+          "domain": "india",
+          "headline": "FM Sitharaman flags Claude AI cyber threat, urges banks to act",
+          "summary": "Finance Minister Nirmala Sitharaman specifically warned Indian banks about the cybersecurity risks posed by advanced AI systems including Claude, calling on the financial sector to strengthen defences against AI-powered cyber attacks. The alert marks one of the first instances of a senior Indian policymaker naming a specific AI model as a systemic threat vector.",
+          "signal": "A Finance Minister-level AI cyber warning to banks is a regulatory signal that RBI-supervised entities should expect formal AI risk guidelines in the near term.",
+          "sources": [
+            "Economic Times"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fm-nirmala-sitharaman-flags-ai-cyber-threat-asks-banks-to-act/articleshow/130503327.cms",
+          "published_at": "25 Apr \u00b7 00:48 IST",
+          "standalone_social": false,
+          "context": "India's banking sector has faced multiple cyberattacks in 2025-26; RBI has been issuing progressively stricter IT governance norms.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 22,
+          "score": 62,
+          "topic": "IPL 2026 Kohli RCB",
+          "domain": "india",
+          "headline": "Kohli smashes 300th six as RCB beat GT by five wickets at Chinnaswamy",
+          "summary": "Virat Kohli hit an 81-run knock including his 300th IPL six \u2014 the first batter to reach the landmark for a single franchise \u2014 as RCB chased down 206 against Gujarat Titans at the Chinnaswamy Stadium, winning by five wickets. Sai Sudharsan's century of 100 was not enough for GT as Kohli and Devdutt Padikkal's 115-run partnership sealed the result.",
+          "signal": "Kohli's milestone performance ahead of Chinnaswamy's farewell fixtures will drive RCB broadcast ratings and merchandise revenue \u2014 a positive signal for IPL's commercial cycle.",
+          "sources": [
+            "Times of India",
+            "Indian Express",
+            "NDTV Profit"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/one-hundred-not-enough-sai-sudharsan-watches-virat-kohli-take-over-chinnaswamy-as-rcb-beat-gt-by-five-wickets/articleshow/130501275.cms",
+          "published_at": "24 Apr \u00b7 23:32 IST",
+          "standalone_social": false,
+          "context": "RCB move to second spot on the IPL 2026 points table with this win.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 23,
+          "score": 61,
+          "topic": "Niti Aayog Ashok Lahiri",
+          "domain": "india",
+          "headline": "Economist Ashok Lahiri from West Bengal named NITI Aayog Vice-Chairman",
+          "summary": "Economist Ashok Lahiri, a former member of the 15th Finance Commission and a prominent West Bengal-based figure, has been appointed Vice-Chairman of NITI Aayog. The appointment carries political significance given BJP's sustained focus on consolidating influence in West Bengal ahead of the 2026 state elections.",
+          "signal": "Lahiri's appointment is both a policy and political signal \u2014 his Finance Commission background suggests NITI Aayog may sharpen its fiscal federalism agenda.",
+          "sources": [
+            "NDTV News"
+          ],
+          "source_url": "https://www.ndtv.com/india-news/niti-aayog-west-bengal-member-economist-ashok-lahiri-from-west-bengal-to-be-niti-aayog-vice-chairman-11405810",
+          "published_at": "25 Apr \u00b7 00:23 IST",
+          "standalone_social": false,
+          "context": "West Bengal assembly elections are due in 2026; BJP has been intensifying its Bengal outreach.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 24,
+          "score": 60,
+          "topic": "Amazon Meta Graviton Chip Deal",
+          "domain": "corporate",
+          "headline": "Amazon shares hit record high on Graviton chip supply deal with Meta",
+          "summary": "Amazon shares rose 3.2% to a record high of $263.13 after the company announced a deal to supply its in-house Graviton processors to Meta for AI workloads, with Meta shares also rising 3.3% on the news. The partnership represents a significant bet by Meta on custom silicon over third-party alternatives, directly benefiting AWS's infrastructure business.",
+          "signal": "Amazon's custom chip gaining Meta as a customer validates its vertical integration strategy and could displace Nvidia workloads at the margin \u2014 a competitive signal for the AI hardware market.",
+          "sources": [
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/amazon-shares-rise-over-3-to-record-high-after-tie-up-with-meta-to-supply-graviton-chips-11777050809131.html",
+          "published_at": "24 Apr \u00b7 23:05 IST",
+          "standalone_social": false,
+          "context": "Meta's AI capital expenditure programme is being simultaneously funded by the 8,000-person workforce reduction.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 25,
+          "score": 58,
+          "topic": "Vedanta Plant Explosion NHRC",
+          "domain": "india",
+          "headline": "National Human Rights Commission notices Vedanta over explosion killing 25",
+          "summary": "India's National Human Rights Commission issued notices to authorities following a deadly explosion at a Vedanta plant on April 14 that killed 25 workers, with many still hospitalised. The NHRC intervention escalates regulatory and reputational pressure on Vedanta amid ongoing scrutiny of its industrial safety record.",
+          "signal": "NHRC engagement signals potential for stronger central oversight of Vedanta's operations \u2014 a material ESG and regulatory risk for the group's listed entities.",
+          "sources": [
+            "NDTV News"
+          ],
+          "source_url": "https://www.ndtv.com/india-news/national-rights-panel-issues-notice-over-explosion-at-vedanta-plant-which-killed-25-11405897",
+          "published_at": "25 Apr \u00b7 00:39 IST",
+          "standalone_social": false,
+          "context": "Hindustan Zinc, a Vedanta subsidiary, separately announced plans to double output by 2030.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 26,
+          "score": 55,
+          "topic": "ISRO QKD Quantum Breakthrough",
+          "domain": "india",
+          "headline": "ISRO demonstrates free-space quantum key distribution over 300 metres",
+          "summary": "The Indian Space Research Organisation made a breakthrough demonstration of free-space Quantum Key Distribution (QKD) over 300 metres, a critical step toward secure satellite-based quantum communications. The achievement positions India as an emerging player in quantum-secure communications infrastructure.",
+          "signal": "ISRO's QKD demonstration is a foundational milestone for India's quantum communications programme \u2014 defence and banking sectors are the most immediate strategic beneficiaries.",
+          "sources": [
+            "Telegram/@isroofficial"
+          ],
+          "source_url": "https://t.me/isroofficial",
+          "published_at": "24 Apr \u00b7 12:00 IST",
+          "standalone_social": true,
+          "context": "ISRO also separately launched a sounding rocket RH-560 from Sriharikota.",
+          "social_signals": [
+            {
+              "handle": "isroofficial",
+              "platform": "telegram",
+              "text": "ISRO makes breakthrough demonstration of free-space Quantum Key Distribution (QKD) over 300 m",
+              "score": 39,
+              "url": "https://t.me/isroofficial"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        }
+      ],
+      "social_count": 80,
+      "tg_count": 50,
+      "tw_count": 0,
+      "bk_count": 30,
+      "local_items": [
+        {
+          "source": "Indian Express",
+          "title": "Why even paid seats aren\u2019t guaranteed: The lesson one passenger learned on a Pune-Bengaluru flight",
+          "summary": "",
+          "url": "https://indianexpress.com/article/lifestyle/denied-boarding-web-check-confirmed-ticket-guidelines-expert-10649929/",
+          "platform": "rss",
+          "weight": 80
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-24T16:15:00.084041+00:00",
       "timestamp_ist": "24 Apr 2026 \u00b7 21:45 IST",
       "story_count": 27,
@@ -20210,458 +20801,6 @@
             }
           ],
           "trend": "rising",
-          "breaking_on_social": true
-        }
-      ],
-      "social_count": 80,
-      "tg_count": 50,
-      "tw_count": 0,
-      "bk_count": 30
-    },
-    {
-      "timestamp": "2026-04-21T04:28:42.119410+00:00",
-      "timestamp_ist": "21 Apr 2026 \u00b7 09:58 IST",
-      "story_count": 20,
-      "avg_score": 72,
-      "stories": [
-        {
-          "rank": 1,
-          "score": 90,
-          "topic": "US-Iran Ship Seizure",
-          "domain": "geopolitics",
-          "headline": "US Seizes Iranian Ship as Hormuz Standoff Escalates",
-          "summary": "The United States has seized an Iranian-flagged cargo ship attempting to navigate past the Strait of Hormuz blockade, with Trump announcing forces stopped the vessel by 'blowing a hole' in its engine room. Iran has condemned the action as 'piracy' and vowed to respond, while both nations maintain competing blockades that have disrupted global shipping.",
-          "signal": "Watch for Iranian retaliation and further shipping disruptions through this critical oil transit route.",
-          "sources": [
-            "Associated Press",
-            "Bloomberg",
-            "Al Jazeera",
-            "BBC News"
-          ],
-          "source_url": "https://apnews.com/article/us-iran-war-israel-hormuz-19-april-2026-0a637f98d588930f195f61cffe07d4f3",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "BREAKING: US President Donald Trump has taken to his Truth Social platform to criticise the CNN broadcaster and other outlets for their coverage of the US's bombing of Iran's nuclear sites last year.",
-              "score": 59,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mjy3ihuj3222"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 2,
-          "score": 88,
-          "topic": "Oil Prices Surge",
-          "domain": "commodities",
-          "headline": "Oil Prices Jump 7% on Iran Conflict",
-          "summary": "Brent crude has surged more than 7 percent amid escalating US-Iran tensions and standoffs in the Strait of Hormuz. Mixed signals on peace talks and competing blockades by both nations have disrupted shipping through the world's most critical oil transit route.",
-          "signal": "Energy sector volatility likely to persist until Iran situation resolves; watch for broader inflationary impacts.",
-          "sources": [
-            "Associated Press",
-            "Bloomberg",
-            "Al Jazeera",
-            "LiveMint"
-          ],
-          "source_url": "https://apnews.com/article/oil-prices-crude-iran-war-4de9058b58ed944a4113dfb2cf6369c8",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 3,
-          "score": 85,
-          "topic": "Tim Cook Apple Succession",
-          "domain": "corporate",
-          "headline": "Tim Cook Steps Down as Apple CEO",
-          "summary": "Apple has announced that John Ternus, head of hardware engineering, will replace Tim Cook as CEO on September 1, 2026. Cook, who has led Apple since 2011, will transition to the newly created role of executive chairman.",
-          "signal": "Major leadership transition at world's most valuable company could impact product strategy and innovation focus.",
-          "sources": [
-            "The Hindu",
-            "Times of India",
-            "LiveMint",
-            "DW Business"
-          ],
-          "source_url": "https://www.thehindu.com/business/Industry/apple-ceo-john-ternus-tim-cook-steps-down/article70886197.ece",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [
-            {
-              "handle": "theguardian.com",
-              "platform": "bluesky",
-              "text": "Tim Cook to step down as CEO of Apple: 'the greatest privilege of my life'",
-              "score": 41,
-              "url": "https://bsky.app/profile/theguardian.com/post/3mjxdwmw2er24"
-            }
-          ],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 4,
-          "score": 83,
-          "topic": "Starmer Mandelson Vetting Scandal",
-          "domain": "geopolitics",
-          "headline": "Starmer Faces Parliament Over Mandelson Appointment",
-          "summary": "British Prime Minister Keir Starmer faces a parliamentary showdown over his appointment of Peter Mandelson as US ambassador. Starmer will appear before lawmakers Monday regarding the vetting of Mandelson, a Jeffrey Epstein associate, after civil servants allegedly withheld information from the PM.",
-          "signal": "UK political stability at risk as Starmer's leadership faces credibility test over high-profile diplomatic appointment.",
-          "sources": [
-            "Associated Press",
-            "BBC News",
-            "Politico Europe"
-          ],
-          "source_url": "https://apnews.com/article/starmer-mandelson-epstein-parliament-statement-1f434ae174c37ae8a1a0c11204573f83",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [
-            {
-              "handle": "theguardian.com",
-              "platform": "bluesky",
-              "text": "Starmer accuses Robbins of obstructing truth about Mandelson vetting",
-              "score": 31,
-              "url": "https://bsky.app/profile/theguardian.com/post/3mjxbwe762b25"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 5,
-          "score": 82,
-          "topic": "US-Philippines Military Exercises",
-          "domain": "geopolitics",
-          "headline": "US Opens Record Military Drills With Philippines",
-          "summary": "The United States has begun its largest defense exercises with the Philippines as Washington maintains Indo-Pacific military presence to counter China amid the Middle East war. The expanded drills underscore America's commitment to regional allies despite resource strain from the Iran conflict.",
-          "signal": "US strategic pivot challenges as military resources stretch between Middle East and Asia-Pacific theaters.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/us-opens-record-drills-with-philippines-as-iran-war-rattles-allies",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 6,
-          "score": 81,
-          "topic": "Korean Stocks AI Rally",
-          "domain": "markets",
-          "headline": "Korean Stocks Hit Record on AI Resurgence",
-          "summary": "South Korean stocks have erased losses from the Iran war and hit record highs as chipmakers rally on renewed artificial intelligence optimism. The recovery demonstrates how tech sector momentum can overcome geopolitical concerns when investor focus shifts back to growth themes.",
-          "signal": "AI trade resilience suggests tech valuations may be supported despite geopolitical volatility.",
-          "sources": [
-            "Bloomberg",
-            "LiveMint",
-            "Nikkei Asia"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/korean-stocks-erase-war-loss-as-chipmakers-rise-on-ai-resurgence",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 7,
-          "score": 79,
-          "topic": "Louisiana Mass Shooting",
-          "domain": "geopolitics",
-          "headline": "Eight Children Killed in Louisiana Mass Shooting",
-          "summary": "A gunman killed eight children, including seven of his own, in domestic violence shootings at two homes in Shreveport, Louisiana. The children ranged in age from 1 to 14 years old in what authorities describe as the deadliest mass shooting in more than two years.",
-          "signal": "Domestic violence incident highlights ongoing gun violence crisis but unlikely to drive policy changes.",
-          "sources": [
-            "Associated Press",
-            "BBC News",
-            "Al Jazeera"
-          ],
-          "source_url": "https://apnews.com/article/shreveport-mass-shooting-louisiana-15098626d4c868b2bbc8a957a6a6ead8",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 8,
-          "score": 78,
-          "topic": "Japan Defense Export Changes",
-          "domain": "geopolitics",
-          "headline": "Japan Scraps Weapons Export Ban",
-          "summary": "Japan has approved scrapping most restrictions on lethal weapons exports, marking a historic shift from its postwar pacifist policy. Prime Minister Takaichi's cabinet approved changes to defense export rules that will create a larger market for arms companies.",
-          "signal": "Japan's defense industry expansion signals broader Indo-Pacific militarization amid China tensions.",
-          "sources": [
-            "NDTV Profit"
-          ],
-          "source_url": "https://www.ndtvprofit.com/world/japan-scraps-most-curbs-on-exporting-weapons-in-historic-shift-11385924#publisher=newsstand",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [
-            {
-              "handle": "apnews.com",
-              "platform": "bluesky",
-              "text": "Japan approved scrapping a ban on lethal weapons exports, a major change of its postwar pacifist policy, as the country seeks to build up its arms industry and deepen cooperation with defense partners",
-              "score": 34,
-              "url": "https://bsky.app/profile/apnews.com/post/3mjy26gat6e2c"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 9,
-          "score": 76,
-          "topic": "China Solar Capacity Controls",
-          "domain": "commodities",
-          "headline": "China Urges Solar Industry Capacity Curbs",
-          "summary": "Chinese authorities have called for 'every effort' to strengthen capacity controls in the solar industry as the sector continues struggling with excess production. The government intervention highlights China's attempts to manage industrial overcapacity amid global trade tensions.",
-          "signal": "Solar supply chain consolidation ahead; watch for pricing impacts and trade policy responses.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/china-s-government-urges-every-effort-to-curb-solar-capacity",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 10,
-          "score": 74,
-          "topic": "Emerging Market Currency Weakness",
-          "domain": "macro",
-          "headline": "Emerging Currencies Fall on Iran Tensions",
-          "summary": "Emerging-market currencies weakened as the dollar and oil prices rose following re-escalation of US-Iran tensions. The standoff in the Strait of Hormuz has triggered risk-off sentiment and flight to safe haven assets.",
-          "signal": "EM currency pressure likely to persist until geopolitical risks subside; monitor central bank interventions.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/emerging-market-currencies-fall-as-us-iran-tensions-resurface",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "falling",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 11,
-          "score": 72,
-          "topic": "Canadian US Economic Ties",
-          "domain": "macro",
-          "headline": "Canada Seeks to Reduce US Economic Dependence",
-          "summary": "Canadian Prime Minister Mark Carney says Canada's strong economic ties to the US were once a strength but are now a weakness that must be corrected. Canada is working to strengthen economic relationships with other countries amid shifting US relations.",
-          "signal": "North American trade realignment could create new opportunities and risks for cross-border investments.",
-          "sources": [
-            "Associated Press",
-            "Al Jazeera"
-          ],
-          "source_url": "https://apnews.com/article/canada-carney-economic-ties-us-cbf3bc6cbfde27cfae7d85602126785a",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "A Cuban Foreign Ministry official said exchange with Washington was 'respectful and professional' and devoid of threats",
-              "score": 41,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mjxyigi6yx2a"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 12,
-          "score": 71,
-          "topic": "India-US Trade Deal",
-          "domain": "india",
-          "headline": "India-US Trade Agreement Nearly Complete",
-          "summary": "India and the United States are nearing a bilateral trade agreement with negotiators reporting significant progress and only a few issues remaining. Discussions are described as positive and productive, focusing on market access and tariff alignment.",
-          "signal": "Potential trade deal could boost bilateral commerce and provide India buffer against China trade tensions.",
-          "sources": [
-            "Times of India"
-          ],
-          "source_url": "https://timesofindia.indiatimes.com/business/india-business/positive-and-productive-india-us-trade-deal-almost-done-in-washington/articleshow/130407077.cms",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 13,
-          "score": 69,
-          "topic": "Japanese Life Insurer JGB Buying",
-          "domain": "markets",
-          "headline": "Major Japanese Insurer Slowing JGB Purchases",
-          "summary": "Fukoku Mutual Life Insurance plans to slow purchases of Japanese government debt this fiscal year as it sees limited upside in super-long bond yields. The move reflects shifting portfolio allocation strategies among major institutional investors.",
-          "signal": "JGB demand dynamics changing as institutional investors reassess duration risk and yield prospects.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/major-japanese-life-insurer-to-slow-buying-of-domestic-debt",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 14,
-          "score": 68,
-          "topic": "Singapore Banking Cybersecurity",
-          "domain": "corporate",
-          "headline": "Singapore Urges Banks Fix Security Gaps",
-          "summary": "Singapore's financial regulator is urging banks to plug cybersecurity holes as concerns over Anthropic's latest AI model Mythos spread to Asia. The warning highlights growing risks from advanced AI systems to financial infrastructure.",
-          "signal": "Cybersecurity spending likely to increase across Asian financial sector as AI threats evolve.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/singapore-urges-banks-to-fix-security-gaps-amid-mythos-ai-fears",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 15,
-          "score": 65,
-          "topic": "Japan Primary Surplus Plan",
-          "domain": "macro",
-          "headline": "Japan Opposition Pushes Five-Year Surplus Road Map",
-          "summary": "A Japanese opposition party leader says the government should present a five-year road map toward achieving primary surplus by around 2030 as interest rates rise. The call reflects growing fiscal concerns as Japan faces higher borrowing costs.",
-          "signal": "Japan fiscal consolidation pressure mounting as rising rates increase debt servicing burden.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/japan-s-opposition-urges-5-year-path-to-achieve-primary-surplus",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 16,
-          "score": 64,
-          "topic": "Copper Price Drop",
-          "domain": "commodities",
-          "headline": "Copper Falls From Two-Month High",
-          "summary": "Copper dropped from its highest close since early February as ceasefire talks between Washington and Tehran were thrown into uncertainty after the US seized an Iranian ship. The metal's decline reflects broader risk-off sentiment from escalating tensions.",
-          "signal": "Industrial metals vulnerable to geopolitical shocks; watch for demand impact if tensions persist.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/copper-drops-from-two-month-high-as-us-iran-tensions-escalate",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "falling",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 17,
-          "score": 62,
-          "topic": "Bulgaria Election Results",
-          "domain": "europe",
-          "headline": "Former Bulgarian President's Party Wins Election",
-          "summary": "Exit polls show former President Rumen Radev's Progressive Bulgaria party winning 38.1 percent of the vote in Bulgaria's election. The result could bring political stability to a country that has struggled with coalition governments.",
-          "signal": "Bulgarian political stability could improve EU decision-making and attract investment flows.",
-          "sources": [
-            "Al Jazeera"
-          ],
-          "source_url": "https://www.aljazeera.com/news/2026/4/19/exit-poll-shows-former-president-radevs-party-set-to-win-bulgaria-election",
-          "standalone_social": false,
-          "context": "",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 18,
-          "score": 60,
-          "topic": "WeWork Office Crisis",
-          "domain": "markets",
-          "headline": "WeWork Bankruptcy Worsening Office Crisis",
-          "summary": "WeWork announced it will vacate 70 office leases in New York City as 20% of US offices remain vacant. The bankruptcy is expected to exacerbate the commercial real estate crisis affecting major urban markets.",
-          "signal": "Commercial real estate distress deepening; watch for broader financial system impacts through bank exposures.",
-          "sources": [
-            "@kobeissiletter"
-          ],
-          "source_url": "",
-          "standalone_social": true,
-          "context": "Major real estate disruption from WeWork's collapse could signal broader commercial property crisis.",
-          "social_signals": [
-            {
-              "handle": "kobeissiletter",
-              "platform": "telegram",
-              "text": "20% of US offices are vacant and WeWork's, $WE, bankruptcy is going to make this crisis worse. WeWork just announced that they will be vacating 70 office leases in New York City. But it gets",
-              "score": 60,
-              "url": "https://t.me/kobeissiletter"
-            }
-          ],
-          "trend": "falling",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 19,
-          "score": 50,
-          "topic": "Real Estate Lawsuit Wave",
-          "domain": "markets",
-          "headline": "New Real Estate Lawsuit Filed",
-          "summary": "Lawyers who won $1.8 billion against the National Association of Realtors filed a new suit for anyone who sold a home over the last five years. The original lawsuit was filed in 2020, suggesting potential for massive industry disruption.",
-          "signal": "Real estate industry facing potential billion-dollar liability wave that could reshape commission structures.",
-          "sources": [
-            "@kobeissiletter"
-          ],
-          "source_url": "",
-          "standalone_social": true,
-          "context": "Massive legal action against real estate industry could transform home-selling economics.",
-          "social_signals": [
-            {
-              "handle": "kobeissiletter",
-              "platform": "telegram",
-              "text": "JUST IN: Lawyers who won $1.8 billion lawsuit against the National Association of Realtors file new suit for anyone who has sold a home over the last 5 years. The original lawsuit was filed in 20",
-              "score": 50,
-              "url": "https://t.me/kobeissiletter"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 20,
-          "score": 50,
-          "topic": "Bezos Amazon Share Sale",
-          "domain": "corporate",
-          "headline": "Bezos Sells $666M Amazon Shares",
-          "summary": "Jeff Bezos sold $665.9 million in Amazon shares this week, offloading 2.97 million shares. The sale continues the Amazon founder's pattern of reducing his stake in the company he built.",
-          "signal": "Monitor for broader insider selling trends that could signal market timing concerns among tech leaders.",
-          "sources": [
-            "@thewirenews"
-          ],
-          "source_url": "",
-          "standalone_social": true,
-          "context": "Large insider selling by tech founder could indicate market timing or diversification strategy.",
-          "social_signals": [
-            {
-              "handle": "thewirenews",
-              "platform": "telegram",
-              "text": "JUST IN: Jeff Bezos Sells $665.9M in Amazon Shares The Amazon founder offloaded 2.97 million shares this week, totaling $665.9 million in proceeds.",
-              "score": 50,
-              "url": "https://t.me/thewirenews"
-            }
-          ],
-          "trend": "stable",
           "breaking_on_social": true
         }
       ],
