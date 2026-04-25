@@ -1,6 +1,667 @@
 {
   "digests": [
     {
+      "timestamp": "2026-04-25T20:10:14.253836+00:00",
+      "timestamp_ist": "26 Apr 2026 \u00b7 01:40 IST",
+      "story_count": 28,
+      "avg_score": 72,
+      "stories": [
+        {
+          "rank": 1,
+          "score": 92,
+          "topic": "US-Iran War Hormuz Standoff",
+          "domain": "geopolitics",
+          "headline": "Trump cancels Pakistan envoy trip as US-Iran talks collapse",
+          "summary": "US President Trump abruptly canceled a planned trip by envoys Kushner and Witkoff to Islamabad for Iran peace talks, citing 'too much time wasted' and confusion in Tehran's leadership. Iran's Foreign Minister Araghchi left Pakistan without meeting US officials, later traveling to Oman, while the Strait of Hormuz blockade and ceasefire with Lebanon remain in fragile limbo.",
+          "signal": "Diplomatic breakdown raises near-term risk of conflict resumption; Oman now emerging as alternative back-channel.",
+          "sources": [
+            "Associated Press",
+            "Politico Europe",
+            "Times of India",
+            "The Hindu",
+            "S. China Morning Post",
+            "Middle East Eye",
+            "Nikkei Asia"
+          ],
+          "source_url": "https://apnews.com/live/iran-war-israel-trump-04-24-2026",
+          "published_at": "24 Apr \u00b7 06:31 IST",
+          "standalone_social": false,
+          "context": "Eight-week-old US-Iran conflict; second round of talks fails before starting",
+          "social_signals": [
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "President Donald Trump said he canceled a planned trip to Pakistan by his top envoys for negotiations over the Iran conflict, according to Fox News.",
+              "score": 47,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mkdmgakzls2b"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "BREAKING: US President Donald Trump says he's ready to make a deal with 'whoever is running the show' in Iran and adds that he hasn't 'even thought about' continuing the ceasefire yet.",
+              "score": 54,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mkdr5345bk2p"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Iranian FM Abbas Araghchi has arrived in Oman with messages for both Pakistan and the US, as he expressed doubt about Washington's sincerity in trying to resolve the issue through talks.",
+              "score": 38,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mkdjyt4e7k2p"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 2,
+          "score": 90,
+          "topic": "Hormuz Blockade Global Trade Shock",
+          "domain": "commodities",
+          "headline": "Panama Canal fees hit $4M as Hormuz chaos reshapes global trade",
+          "summary": "Businesses are paying up to $4 million to expedite Panama Canal crossings to avoid the Strait of Hormuz closure, which has caused seismic shifts in global shipping routes. Airlines worldwide are canceling flights as jet fuel prices spike due to Middle East war disruption, with passenger rights varying widely by jurisdiction.",
+          "signal": "Persistent Hormuz closure is embedding a structural cost shock across shipping, aviation, and energy supply chains globally.",
+          "sources": [
+            "Associated Press",
+            "Bloomberg",
+            "Al Jazeera English"
+          ],
+          "source_url": "https://apnews.com/article/panama-canal-trade-strait-of-hormuz-iran-war-middle-east-shipment-d6a2aa2a21f29bfdf313182e753e1c41",
+          "published_at": "24 Apr \u00b7 10:35 IST",
+          "standalone_social": false,
+          "context": "Ongoing Strait of Hormuz blockade since US-Iran conflict began eight weeks ago",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 3,
+          "score": 88,
+          "topic": "US Iran Oil Sanctions China",
+          "domain": "geopolitics",
+          "headline": "US sanctions China refinery, 40 shippers over Iranian oil exports",
+          "summary": "The Trump administration sanctioned a major China-based oil refinery and approximately 40 shipping companies as part of a campaign to eliminate Iranian oil revenues, complementing the naval blockade of the Strait of Hormuz. The move escalates economic pressure on both Iran and China simultaneously, risking a secondary sanctions confrontation with Beijing.",
+          "signal": "Simultaneous pressure on Iran and Chinese buyers signals an escalation ladder that could draw Beijing into the conflict economically.",
+          "sources": [
+            "Associated Press",
+            "Al Jazeera English"
+          ],
+          "source_url": "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7",
+          "published_at": "24 Apr \u00b7 23:42 IST",
+          "standalone_social": false,
+          "context": "Part of Trump max-pressure campaign on Iran; China is largest buyer of sanctioned Iranian crude",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 4,
+          "score": 86,
+          "topic": "Israel Lebanon Ceasefire Violations",
+          "domain": "middleeast",
+          "headline": "Netanyahu orders forceful Hezbollah strikes despite ceasefire extension",
+          "summary": "Israeli Prime Minister Netanyahu ordered the military to 'forcefully attack' Hezbollah positions in Lebanon even as the ceasefire with Lebanon was extended, with six people killed in southern Lebanon strikes. The pattern mirrors Gaza tactics and signals Israel is using the ceasefire as a tool of controlled escalation rather than genuine de-escalation.",
+          "signal": "Israel's dual-track ceasefire-plus-strikes strategy risks collapsing Lebanon truce and drawing the US into a wider regional confrontation.",
+          "sources": [
+            "Middle East Eye",
+            "The National (UAE)",
+            "Channel News Asia",
+            "AP News"
+          ],
+          "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-israeli-army-vigorously-attack-hezbollah-positions",
+          "published_at": "25 Apr \u00b7 23:21 IST",
+          "standalone_social": false,
+          "context": "Lebanon ceasefire extended this week; Israel simultaneously bombing southern Lebanon",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 5,
+          "score": 84,
+          "topic": "Russia Ukraine Energy War",
+          "domain": "geopolitics",
+          "headline": "Russian oil exports slump as Ukraine targets ports and refineries",
+          "summary": "Ukrainian strikes on Russian ports and oil refineries have caused Russian oil exports to potentially fall to their lowest levels since 2023, despite a US sanctions waiver that had offered Moscow partial relief. The disruption compounds the global oil supply squeeze already caused by the Hormuz blockade.",
+          "signal": "Twin supply shocks from Hormuz and Russian export disruption create compounding upward pressure on global oil prices.",
+          "sources": [
+            "Al Jazeera English",
+            "Bloomberg"
+          ],
+          "source_url": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries",
+          "published_at": "24 Apr \u00b7 22:22 IST",
+          "standalone_social": false,
+          "context": "US sanctions waiver on Russian oil was part of Ukraine peace negotiations",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 6,
+          "score": 82,
+          "topic": "Reliance Industries Record Profit",
+          "domain": "india",
+          "headline": "Reliance Industries first Indian firm to cross $10bn annual profit",
+          "summary": "Reliance Industries has become the first Indian company to cross $10 billion in annual profit, marking a landmark corporate milestone for India's largest private enterprise. The achievement comes despite global macro headwinds from the Middle East conflict affecting energy and petrochemical margins.",
+          "signal": "Reliance's scale milestone signals India's emergence as a global corporate powerhouse and likely re-rating catalyst for the stock.",
+          "sources": [
+            "Economic Times"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-becomes-first-indian-firm-to-cross-10-billion-annual-profit/articleshow/130512249.cms",
+          "published_at": "25 Apr \u00b7 15:31 IST",
+          "standalone_social": false,
+          "context": "FY26 full-year results; RIL is India's most valuable company by market cap",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 7,
+          "score": 80,
+          "topic": "Axis Bank IDFC Earnings Provisions",
+          "domain": "india",
+          "headline": "Axis Bank sets aside \u20b92,001cr buffer; IDFC First absorbs fraud hit",
+          "summary": "Axis Bank frontloaded \u20b92,001 crore in one-time provisions in Q4 FY26, citing macro and geopolitical risks from the West Asia war, with margins expected to face near-term pressure. IDFC First Bank said its \u20b9590 crore fraud impact is now fully absorbed, with new business unaffected and strong FY27 growth expected.",
+          "signal": "Indian private banks are proactively building war-risk buffers, signaling concern about contagion from Middle East disruption on NPA cycles.",
+          "sources": [
+            "LiveMint Companies"
+          ],
+          "source_url": "https://www.livemint.com/companies/company-results/axis-bank-frontloads-fy27-provisions-amid-west-asia-war-uncertainty-11777128136699.html",
+          "published_at": "25 Apr \u00b7 20:57 IST",
+          "standalone_social": false,
+          "context": "Q4 FY26 earnings season; Indian banks exposed to Middle East NRI remittances and trade finance",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 8,
+          "score": 78,
+          "topic": "AAP Political Crisis Rebellion",
+          "domain": "india",
+          "headline": "AAP faces existential crisis as Raghav Chadha leads MP exodus",
+          "summary": "Aam Aadmi Party faces a deepening internal rebellion with Raghav Chadha accusing the party of being in 'corrupt and compromised hands,' triggering an MP exodus and speculation about defections. Rival parties including Uddhav Sena are also reportedly experiencing internal fractures as India's political landscape enters a period of high volatility ahead of key state elections.",
+          "signal": "AAP's fragmentation ahead of Punjab assembly elections could reshape northern India's political calculus, benefiting BJP and Congress.",
+          "sources": [
+            "NDTV News",
+            "Economic Times",
+            "The Hindu"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/news/politics-and-nation/aap-in-corrupt-and-compromised-hands-no-room-for-honest-workers-raghav-chadha/articleshow/130514523.cms",
+          "published_at": "25 Apr \u00b7 17:37 IST",
+          "standalone_social": false,
+          "context": "AAP lost Delhi assembly elections; Punjab remains its only state government",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 9,
+          "score": 77,
+          "topic": "DOJ Powell Probe Dropped Warsh",
+          "domain": "macro",
+          "headline": "DOJ drops Powell probe, clearing path for Warsh Fed succession",
+          "summary": "The Justice Department ended its criminal investigation into Federal Reserve Chair Jerome Powell, removing a key obstacle to the confirmation of his expected successor Kevin Warsh. Markets are now focused on whether Warsh, seen as more politically aligned with Trump, would accelerate rate cuts after taking office.",
+          "signal": "Warsh's anticipated Fed leadership could shift rate trajectory dovishly, with significant implications for USD, Treasuries, and EM capital flows including India.",
+          "sources": [
+            "Associated Press",
+            "NDTV Profit"
+          ],
+          "source_url": "https://apnews.com/article/federal-reserve-investigation-powell-justice-department-28d04cc0d99cda25cea69931f65e25d3",
+          "published_at": "24 Apr \u00b7 19:58 IST",
+          "standalone_social": false,
+          "context": "Trump has repeatedly called for Powell's removal; Warsh was a former Fed governor",
+          "social_signals": [
+            {
+              "handle": "thewirenews",
+              "platform": "telegram",
+              "text": "TRUMP: Tariffs Didn't Raise Inflation Trump cites a CEA study showing zero inflation impact from tariffs and urges Powell to cut rates immediately.",
+              "score": 37,
+              "url": "https://t.me/thewirenews"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 10,
+          "score": 76,
+          "topic": "US Trump Asylum Ban Blocked",
+          "domain": "macro",
+          "headline": "US appeals court blocks Trump's border asylum ban",
+          "summary": "A three-judge panel of the US Court of Appeals struck down President Trump's executive order suspending asylum access at the southern border, ruling it 'cast aside federal laws' affording the right to seek asylum. The decision is expected to be appealed to the Supreme Court, setting up a major constitutional confrontation over executive immigration power.",
+          "signal": "Supreme Court escalation likely before summer recess, with the outcome reshaping the scope of presidential emergency powers over immigration.",
+          "sources": [
+            "Associated Press",
+            "Al Jazeera English"
+          ],
+          "source_url": "https://apnews.com/article/trump-asylum-appeals-court-ed8f8f193579b757d7f384cd7f9e9e60",
+          "published_at": "24 Apr \u00b7 22:11 IST",
+          "standalone_social": false,
+          "context": "Part of Trump's multi-front immigration crackdown; third federal court to block asylum restrictions",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 11,
+          "score": 75,
+          "topic": "West Bengal Elections BJP TMC",
+          "domain": "india",
+          "headline": "Mamata rallies opposition ahead of May 4 West Bengal polls",
+          "summary": "West Bengal Chief Minister Mamata Banerjee, backed by Hemant Soren, Tejashwi Yadav, and Arvind Kejriwal, warned BJP it would face the 'real jhal' in the May 4 elections. The multi-party opposition bloc signals a coordinated strategy to defend TMC's stronghold against BJP's sustained push in the state.",
+          "signal": "West Bengal result on May 4 will be a litmus test for INDIA alliance cohesion and BJP's state-level expansion strategy.",
+          "sources": [
+            "Economic Times"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/west-bengal/west-bengal-polls-mamata-banerjee-says-bengal-will-show-bjp-real-jhal-on-may-4/articleshow/130521717.cms",
+          "published_at": "26 Apr \u00b7 00:09 IST",
+          "standalone_social": false,
+          "context": "West Bengal assembly by-elections scheduled May 4, 2026",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 12,
+          "score": 74,
+          "topic": "UK Falklands US Leverage Threat",
+          "domain": "europe",
+          "headline": "Pentagon document floats Falklands review to pressure UK on Iran",
+          "summary": "An internal Pentagon document reportedly raised the prospect of changing the US position on Falklands sovereignty as leverage against the UK for not joining the Iran war coalition, triggering a sharp response from Downing Street asserting British sovereignty. Analysts note Trump sees UK reluctance as an opportunity for strategic coercion.",
+          "signal": "US willingness to weaponize historical UK vulnerabilities signals Trump's transactional approach extends to NATO allies, with major implications for European security commitments.",
+          "sources": [
+            "BBC News"
+          ],
+          "source_url": "https://www.bbc.co.uk/news/articles/cde51y0zgjyo",
+          "published_at": "24 Apr \u00b7 16:52 IST",
+          "standalone_social": false,
+          "context": "UK declined to participate in US military operations in the Strait of Hormuz",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 13,
+          "score": 73,
+          "topic": "Japan Minesweepers Hormuz Deployment",
+          "domain": "japan",
+          "headline": "Japan assesses sending minesweepers to Strait of Hormuz post-war",
+          "summary": "Japan's Defense Ministry is assessing the legal feasibility of deploying minesweepers to the Strait of Hormuz after a potential ceasefire, as Tokyo weighs its national interest in securing energy transit routes. Japan and the EU also agreed to partner on undersea cable protection amid growing infrastructure security concerns.",
+          "signal": "Japan's Hormuz deployment consideration marks a significant evolution in its security posture and could set precedent for post-war maritime role.",
+          "sources": [
+            "Japan Times",
+            "Nikkei Asia"
+          ],
+          "source_url": "https://www.japantimes.co.jp/news/2026/04/25/japan/sdf-consider-minesweepers/",
+          "published_at": "25 Apr \u00b7 11:56 IST",
+          "standalone_social": false,
+          "context": "Japan imports ~90% of energy through Hormuz; Kishida-era pacifist constraints remain",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 14,
+          "score": 72,
+          "topic": "France Greece Defense Pact EU Bonds",
+          "domain": "europe",
+          "headline": "France and Greece sign defense pact, call for EU Covid debt delay",
+          "summary": "French President Macron and Greek Prime Minister Mitsotakis signed nine bilateral deals including an extended mutual defense pact in Athens, amid broader European geopolitical realignment. Macron also called it 'idiotic' to immediately repay COVID-era EU debt and jointly pushed for more EU bonds, escalating European fiscal tensions.",
+          "signal": "Franco-Greek axis is building a southern European bloc to push for fiscal flexibility and deeper defense integration ahead of EU budget negotiations.",
+          "sources": [
+            "Politico Europe"
+          ],
+          "source_url": "https://www.politico.eu/article/france-and-greece-exchange-mutual-defense-promises-amid-geopolitical-turmoil/",
+          "published_at": "25 Apr \u00b7 19:42 IST",
+          "standalone_social": false,
+          "context": "European defense spending debates intensified by US unreliability signals",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 15,
+          "score": 71,
+          "topic": "Gaza Palestinian Municipal Elections",
+          "domain": "middleeast",
+          "headline": "Palestinians vote in first Gaza elections in over two decades",
+          "summary": "Palestinians in the occupied West Bank and parts of Gaza participated in municipal elections for the first time in over 20 years, with the Palestinian Authority seeking to reinforce its claim to authority over Gaza. Israeli-imposed restrictions forced creative workarounds, while Israeli strikes continued during voting.",
+          "signal": "PA's electoral gambit to reassert Gaza legitimacy could reshape post-war governance negotiations, directly impacting US and Israeli post-conflict plans.",
+          "sources": [
+            "Times of India",
+            "Middle East Eye",
+            "Japan Times"
+          ],
+          "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-vote-first-elections-war-amid-ongoing-israeli-attacks",
+          "published_at": "25 Apr \u00b7 22:43 IST",
+          "standalone_social": false,
+          "context": "Last Palestinian elections were in 2006; Hamas won and split from PA",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 16,
+          "score": 70,
+          "topic": "Netanyahu Prostate Cancer Treatment",
+          "domain": "middleeast",
+          "headline": "Netanyahu treated for early-stage prostate cancer, claims good health",
+          "summary": "Israeli Prime Minister Benjamin Netanyahu disclosed he was treated for an early-stage malignant prostate tumor that has been removed, saying he is in 'excellent physical condition.' The disclosure raises questions about leadership continuity during an active multi-front military conflict.",
+          "signal": "Netanyahu's health disclosure mid-conflict could fuel succession speculation within Likud and affect Israeli negotiating posture on ceasefires.",
+          "sources": [
+            "BBC News"
+          ],
+          "source_url": "https://www.bbc.co.uk/news/articles/ckgw72lrvn3o",
+          "published_at": "24 Apr \u00b7 18:07 IST",
+          "standalone_social": false,
+          "context": "Netanyahu faces ICC arrest warrant and ongoing domestic legal battles alongside war leadership",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 17,
+          "score": 68,
+          "topic": "Skyroot Vikram-1 Private Launch",
+          "domain": "india",
+          "headline": "Skyroot's Vikram-1 targets June for India's first private orbital launch",
+          "summary": "Skyroot Aerospace has flagged off its Vikram-1 rocket targeting a June 2026 launch that would mark India's first private orbital mission, a significant milestone for ISRO's commercialization strategy. The launch positions India as an emerging private launch market competing with SpaceX and global new-space players.",
+          "signal": "Successful Vikram-1 orbital launch would be a transformative signal for Indian private space investment and defense-dual-use capabilities.",
+          "sources": [
+            "Economic Times"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/news/science/skyroot-flags-off-vikram-1-targets-june-launch-for-indias-first-private-orbital-mission/articleshow/130511994.cms",
+          "published_at": "25 Apr \u00b7 15:15 IST",
+          "standalone_social": false,
+          "context": "ISRO's IN-SPACe framework enabling private launches; Skyroot previously launched suborbital Vikram-S",
+          "social_signals": [
+            {
+              "handle": "isroofficial",
+              "platform": "telegram",
+              "text": "ISRO makes breakthrough demonstration of free-space Quantum Key Distribution (QKD) over 300 m",
+              "score": 39,
+              "url": "https://t.me/isroofficial"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 18,
+          "score": 67,
+          "topic": "Brazil Ethanol Fuel Blend Hike",
+          "domain": "commodities",
+          "headline": "Brazil raises ethanol gasoline blend to offset Middle East fuel shock",
+          "summary": "Brazil is increasing the mandatory ethanol blend in gasoline to reduce dependence on petroleum-based fuel amid rising costs from the Middle East conflict. The move leverages Brazil's world-leading sugarcane ethanol infrastructure to shield domestic consumers from the global fuel price spike.",
+          "signal": "Brazil's ethanol pivot could accelerate demand for sugarcane ethanol globally and boost agricultural commodity prices for sugar producers.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-24/brazil-setting-higher-ethanol-blend-to-stem-fuel-impact-from-war",
+          "published_at": "24 Apr \u00b7 00:29 IST",
+          "standalone_social": false,
+          "context": "Brazil is world's second-largest ethanol producer; already uses ~27% ethanol blend",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 19,
+          "score": 66,
+          "topic": "UCO Bank Q4 Results Dividend",
+          "domain": "india",
+          "headline": "UCO Bank Q4 profit surges 22% to \u20b9801 crore, declares dividend",
+          "summary": "UCO Bank reported a 22% year-on-year rise in net profit to \u20b9801 crore for Q4 FY26, while declaring a final dividend of \u20b90.44 per share. The performance reflects continued improvement in India's public sector banking sector driven by credit growth and lower provisioning.",
+          "signal": "PSU bank earnings momentum continues; dividend declaration signals confidence in sustained profitability ahead of credit cycle turn.",
+          "sources": [
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.ndtvprofit.com/markets/uco-bank-q4-net-profit-up-22-to-rs-801-crore-11409034",
+          "published_at": "25 Apr \u00b7 22:07 IST",
+          "standalone_social": false,
+          "context": "PSU banks broadly strong in FY26; UCO Bank recovering from earlier capital adequacy concerns",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 20,
+          "score": 65,
+          "topic": "Orb\u00e1n Quits Hungarian Parliament",
+          "domain": "europe",
+          "headline": "Orb\u00e1n relinquishes parliament seat after election defeat, eyes party return",
+          "summary": "Hungarian Prime Minister Viktor Orb\u00e1n has given up his seat in parliament following his party Fidesz's election loss, while planning to seek re-election as party leader in a June vote. The move signals Orb\u00e1n is repositioning for a political comeback rather than accepting defeat, maintaining his grip on the Hungarian right.",
+          "signal": "Orb\u00e1n's retention of party leadership keeps him a potent force in European far-right politics and a continued disruptive element in EU-NATO consensus.",
+          "sources": [
+            "Politico Europe",
+            "Channel News Asia"
+          ],
+          "source_url": "https://www.politico.eu/article/orban-relinquishes-seat-in-hungarys-parliament/",
+          "published_at": "26 Apr \u00b7 01:07 IST",
+          "standalone_social": false,
+          "context": "Fidesz lost Hungarian parliamentary elections in first defeat in 16 years",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 21,
+          "score": 64,
+          "topic": "Intertek Rejects EQT Takeover",
+          "domain": "corporate",
+          "headline": "UK's Intertek rejects \u00a38.3bn unsolicited EQT private equity bid",
+          "summary": "UK-listed product testing company Intertek Group rejected an unsolicited \u00a38.3 billion ($11.2 billion) takeover offer from Swedish private equity firm EQT AB, calling the bid inadequate. The rejection sets the stage for a potential higher bid or hostile takeover attempt in the testing and certification sector.",
+          "signal": "EQT's aggressive move on Intertek signals continued PE appetite for quality services businesses; counter-offer or bidding war likely.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-24/intertek-rejects-8-3-billion-unsolicited-takeover-bid-from-eqt",
+          "published_at": "24 Apr \u00b7 23:26 IST",
+          "standalone_social": false,
+          "context": "Intertek is FTSE 100 company; EQT is one of Europe's largest PE firms",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 22,
+          "score": 63,
+          "topic": "Manipur Violence Meitei Children",
+          "domain": "india",
+          "headline": "Clashes erupt across Manipur after killing of two Meitei children",
+          "summary": "Protests spiraled into widespread clashes across Manipur's valley districts following the killing of two Meitei children, with COCOMI organizing a major rally. The incident reignites the ethnic conflict between Meitei and Kuki communities that has simmered since May 2023, threatening renewed large-scale violence.",
+          "signal": "Manipur's ethnic fault line remains a critical security risk; fresh violence could pressure the central government to deploy additional paramilitary forces.",
+          "sources": [
+            "Indian Express"
+          ],
+          "source_url": "https://indianexpress.com/article/india/manipur-imphal-clashes-cocomi-rally-protests-10655973/",
+          "published_at": "25 Apr \u00b7 22:54 IST",
+          "standalone_social": false,
+          "context": "Manipur ethnic conflict began May 2023; over 250 killed and 60,000 displaced",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 23,
+          "score": 62,
+          "topic": "Mali Bamako Terror Attacks",
+          "domain": "geopolitics",
+          "headline": "Al Qaeda-linked JNIM claims coordinated attacks on Mali capital Bamako",
+          "summary": "Al Qaeda-affiliated JNIM claimed responsibility alongside the Tuareg-led FLA for coordinated attacks on military barracks and other targets in Mali's capital Bamako and other locations, with fighting ongoing. The attack marks a significant escalation of jihadist operations in the Sahel, hitting the capital for the first time in years.",
+          "signal": "Bamako attacks signal JNIM's growing operational reach and could accelerate collapse of Mali's junta security architecture built around Wagner successor forces.",
+          "sources": [
+            "S. China Morning Post"
+          ],
+          "source_url": "https://www.scmp.com/news/world/africa/article/3351434/mali-junta-reports-terrorist-attacks-several-targets",
+          "published_at": "25 Apr \u00b7 18:49 IST",
+          "standalone_social": false,
+          "context": "Mali expelled French and UN forces; relies on Russian mercenaries (Africa Corps)",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "Al Qaeda-linked JNIM says it carried out Mali attacks with Tuareg-led FLA, SITE reports",
+              "score": 50,
+              "url": "https://bsky.app/profile/reuters.com/post/3mkdq3ehpol25"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 24,
+          "score": 60,
+          "topic": "India Textiles Exports Decline",
+          "domain": "india",
+          "headline": "India textiles and garment exports fall 2.2% in FY26",
+          "summary": "India's textiles and garment exports declined 2.2% in FY2025-26 according to the Global Trade Research Initiative, bucking the broader merchandise export trend. The fall comes despite India's positioning as a China-plus-one beneficiary, suggesting structural competitiveness gaps remain in the sector.",
+          "signal": "Textiles export weakness undermines India's ambitions to capture market share from China; sector may need targeted export incentives to recover.",
+          "sources": [
+            "Hindu Business"
+          ],
+          "source_url": "https://www.thehindu.com/business/Industry/textiles-and-garment-exports-fall-22-in-2025-26-global-trade-research-initiative/article70904902.ece",
+          "published_at": "25 Apr \u00b7 14:27 IST",
+          "standalone_social": false,
+          "context": "India textiles sector employs 45 million people; key export earner",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 25,
+          "score": 58,
+          "topic": "IndiGo Sindoor Ban Controversy",
+          "domain": "india",
+          "headline": "IndiGo denies banning sindoor and tilak amid viral document row",
+          "summary": "IndiGo airline denied reports that it had banned religious symbols including sindoor and mangalsutra for cabin crew, calling a widely circulated grooming policy document 'fabricated.' The controversy erupted on social media and risks significant reputational and regulatory consequences given India's religious sensitivities.",
+          "signal": "Fake-document social media attack on IndiGo illustrates growing risk of coordinated disinformation campaigns targeting Indian corporates on religious themes.",
+          "sources": [
+            "LiveMint Companies"
+          ],
+          "source_url": "https://www.livemint.com/companies/news/-fabricated-documents-indigo-on-social-media-uproar-over-airlines-grooming-policy-11777109656994.html",
+          "published_at": "25 Apr \u00b7 15:24 IST",
+          "standalone_social": false,
+          "context": "Religious discrimination allegations are politically explosive in India's current climate",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 26,
+          "score": 57,
+          "topic": "IPL 2026 SRH Record Chase",
+          "domain": "india",
+          "headline": "SRH chase 229 as Sooryavanshi hits third-fastest IPL century",
+          "summary": "Sunrisers Hyderabad pulled off a record 229-run chase against Rajasthan Royals, with Ishan Kishan scoring 74 off 31 balls to seal a five-wicket win, despite teenage sensation Vaibhav Sooryavanshi hitting the third-fastest century in IPL history off 36 balls. The result sees SRH leapfrog RR in the IPL 2026 points table.",
+          "signal": "Sooryavanshi's explosive batting at 15 years old marks the emergence of a generational Indian cricket talent with massive commercial potential.",
+          "sources": [
+            "Times of India",
+            "Economic Times",
+            "NDTV Profit",
+            "Indian Express"
+          ],
+          "source_url": "https://economictimes.indiatimes.com/news/sports/ipl-2026-srh-eclipse-sooryavanshis-third-fastest-ipl-ton-for-5-wicket-win-over-rr/articleshow/130521532.cms",
+          "published_at": "25 Apr \u00b7 22:13 IST",
+          "standalone_social": false,
+          "context": "IPL 2026 ongoing; Sooryavanshi is youngest player in tournament history",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "Sooryavanshi fastest to reach 1,000 runs in T20s as teenager smashes 36-ball ton in IPL",
+              "score": 40,
+              "url": "https://bsky.app/profile/reuters.com/post/3mkdrfib6262v"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 27,
+          "score": 55,
+          "topic": "British Columbia LNG Gas Royalty",
+          "domain": "commodities",
+          "headline": "British Columbia new gas royalty regime spooks LNG investors",
+          "summary": "British Columbia Premier David Eby's government is finalizing a new royalty regime on natural gas extraction that has rattled energy companies, with major new LNG investments hanging in the balance amid the global energy scramble triggered by the Hormuz crisis. The regime change comes even as Canada approved Enbridge's C$4 billion Sunrise pipeline.",
+          "signal": "BC's royalty uncertainty at a moment of peak LNG demand could redirect major investment to rival export hubs in Qatar, US Gulf Coast, and Australia.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-24/british-columbia-sparks-angst-over-gas-tax-change-amid-lng-race",
+          "published_at": "24 Apr \u00b7 00:27 IST",
+          "standalone_social": false,
+          "context": "Canada racing to develop LNG exports as Europe and Asia seek non-Russian, non-Middle East gas",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 28,
+          "score": 52,
+          "topic": "US Dead Agents Mexico Drug Op",
+          "domain": "geopolitics",
+          "headline": "Two US agents killed in Mexico drug lab op without authorization",
+          "summary": "Two US agents died during an operation to dismantle a suspected Mexican narcotics laboratory, with Mexico's security cabinet stating the agents had no authorization to conduct such operations on Mexican territory. The incident inflames US-Mexico tensions over sovereignty and unilateral US counter-narcotics actions.",
+          "signal": "Unauthorized US operations on Mexican soil risk triggering a diplomatic crisis that could complicate border security and trade negotiations.",
+          "sources": [],
+          "source_url": "https://bsky.app/profile/bloomberg.com/post/3mkdmwdynmt2u",
+          "published_at": "25 Apr \u00b7 21:00 IST",
+          "standalone_social": true,
+          "context": "Trump administration has designated Mexican cartels as terror organizations",
+          "social_signals": [
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "Two US agents who died after an operation to dismantle a suspected Mexican narcotics laboratory had no permission to be carrying out operations of this kind, according to the nation's security cabinet.",
+              "score": 34,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mkdmwdynmt2u"
+            },
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Mexican government says it is seeking details after incident raises questions about US activities on its territory.",
+              "score": 47,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mkdmnfd3ud2h"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        }
+      ],
+      "social_count": 80,
+      "tg_count": 50,
+      "tw_count": 0,
+      "bk_count": 30,
+      "local_items": [
+        {
+          "source": "Indian Express",
+          "title": "Dusty grounds of Vadgaon Sahani: A small Pune village that cradles Kabaddi",
+          "summary": "",
+          "url": "https://indianexpress.com/article/cities/pune/vadgaon-sahani-junnar-kabaddi-chi-pandhari-pune-village-sports-heritage-10655966/",
+          "platform": "rss",
+          "weight": 80
+        },
+        {
+          "source": "NDTV News",
+          "title": "All Not Well In Uddhav Sena? MPs' 'Courtesy' Meetings Spark Exodus Buzz",
+          "summary": "A section of MPs is believed to be exploring other political options.",
+          "url": "https://www.ndtv.com/india-news/all-not-well-in-uddhav-sena-mps-courtesy-meetings-spark-exodus-buzz-11409388#publisher=newsstand",
+          "platform": "rss",
+          "weight": 79
+        },
+        {
+          "source": "NDTV Profit",
+          "title": "ISL 2025-26 Points Table: BFC vs MCFC Ends Goalless; Mohun Bagan Biggest Winners With Game In Hand",
+          "summary": "Bengaluru FC dominated 66% possession but couldn't manage a single shot on target against Mumbai.",
+          "url": "https://www.ndtvprofit.com/sports/football-indian-super-league-isl-2025-26-points-table-bengaluru-vs-mumbai-city-mohun-bagan-super-giant-east-bengal-fc-goa-jamshedpur-roundglass-punjab-11408520#publisher=newsstand",
+          "platform": "rss",
+          "weight": 78
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-25T20:00:19.476369+00:00",
       "timestamp_ist": "26 Apr 2026 \u00b7 01:30 IST",
       "story_count": 27,
@@ -20951,646 +21612,6 @@
           "url": "https://www.livemint.com/companies/suzlon-eyes-europe-comeback-next-gen-wind-turbines-blue-sky-product-platform-11776752822916.html",
           "platform": "rss",
           "weight": 80
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-21T11:27:35.754855+00:00",
-      "timestamp_ist": "21 Apr 2026 \u00b7 16:57 IST",
-      "story_count": 23,
-      "avg_score": 71,
-      "stories": [
-        {
-          "rank": 1,
-          "score": 92,
-          "topic": "US-Iran Ceasefire Talks Collapse Risk",
-          "domain": "geopolitics",
-          "headline": "Iran wavers on Islamabad talks as US seizes ship, ceasefire expires",
-          "summary": "The fragile two-week US-Iran ceasefire is set to expire at 0000 GMT Wednesday, with Iran refusing to commit to a second round of Islamabad talks after the US seized the Iranian cargo vessel Touska near the Strait of Hormuz, which Tehran condemned as 'piracy'. Pakistan stands ready to host multi-day negotiations even as US President Trump sent his team to Islamabad, but Iranian officials remain publicly uncommitted amid rising tensions from the naval blockade.",
-          "signal": "Ceasefire expiry without a new agreement risks immediate resumption of hostilities and a permanent Hormuz closure, with cascading consequences for global energy markets.",
-          "sources": [
-            "Associated Press",
-            "Bloomberg",
-            "Al Jazeera English",
-            "Indian Express"
-          ],
-          "source_url": "https://apnews.com/article/iran-us-israel-war-what-to-know-beb5625f8537ceaf22c061cf073210aa",
-          "published_at": "20 Apr \u00b7 00:00 IST",
-          "standalone_social": false,
-          "context": "Over 3,375 Iranians confirmed killed in the war per Iran's own forensic chief. US maintains full naval blockade of Strait of Hormuz.",
-          "social_signals": [
-            {
-              "handle": "bloomberg.com",
-              "platform": "bluesky",
-              "text": "Uncertainty surrounds a new round of US-Iran talks, and a two-week ceasefire is almost up, but markets are rallying: Here is your Evening Briefing.",
-              "score": 31,
-              "url": "https://bsky.app/profile/bloomberg.com/post/3mjyrnjtkqs2j"
-            },
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "German Foreign Minister Johann Wadephul urged Iran to hold constructive talks with the US in Islamabad, for 'the sake of its own people.'",
-              "score": 37,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mjynhdlsns2f"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 2,
-          "score": 88,
-          "topic": "Japan 7.5 Earthquake Tsunami Alert",
-          "domain": "japan",
-          "headline": "Magnitude 7.5 quake strikes northern Japan, tsunami warning issued",
-          "summary": "A powerful 7.5-magnitude earthquake struck off the Sanriku coast in northern Japan at approximately 4:53 p.m. local time, prompting the Japan Meteorological Agency to issue a tsunami warning across the region from Hokkaido to Chiba Prefecture. Prime Minister Sanae Takaichi activated a government crisis management team, and authorities are urging residents to prepare for aftershocks following what was later revised to a 7.7 magnitude jolt.",
-          "signal": "Potential for significant infrastructure disruption and humanitarian impact in Japan's northern coastal regions; watch for supply chain effects on Japanese manufacturing exports.",
-          "sources": [
-            "Associated Press",
-            "Al Jazeera English",
-            "Japan Times"
-          ],
-          "source_url": "https://apnews.com/article/japan-earthquake-tsunami-0746aebae49fc6cc37e20836ca37d570",
-          "published_at": "20 Apr \u00b7 13:49 IST",
-          "standalone_social": false,
-          "context": "Japan Times subsequently explained preparedness advisories for a broader region, suggesting authorities fear potential follow-on seismic activity.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 3,
-          "score": 85,
-          "topic": "Strait of Hormuz Shipping Crisis",
-          "domain": "commodities",
-          "headline": "Hormuz blockade strands thousands of sailors; scam messages target ships",
-          "summary": "The UN's International Maritime Organization appealed for international help for thousands of seafarers stranded in the Strait of Hormuz as the US naval blockade paralyses the world's most critical oil shipping chokepoint. Simultaneously, maritime security firm MARISKS warned shipping companies that fraudulent messages impersonating Iranian authorities are demanding cryptocurrency payments for 'safe passage clearance', exploiting the desperation of stranded crews.",
-          "signal": "The compounding crisis of physical blockade plus digital fraud vectors signals a deepening humanitarian and commercial emergency that may force governments to urgently negotiate passage corridors.",
-          "sources": [
-            "Channel News Asia",
-            "Times of India",
-            "NDTV Profit",
-            "Middle East Eye"
-          ],
-          "source_url": "https://www.channelnewsasia.com/world/iran-war-un-international-maritime-organization-strait-hormuz-stranded-sailors-6070751",
-          "published_at": "21 Apr \u00b7 15:03 IST",
-          "standalone_social": false,
-          "context": "AP reported an Iraqi ship captain navigating volatile Hormuz waters; Bloomberg earlier noted oil prices seen staying above $85/barrel even if blockade lifts.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 4,
-          "score": 83,
-          "topic": "Apple CEO Succession Tim Cook",
-          "domain": "corporate",
-          "headline": "Tim Cook steps down as Apple CEO; hardware veteran Ternus named successor",
-          "summary": "Apple confirmed that Tim Cook is stepping down after a 15-year tenure that saw the company's market capitalisation grow by over $3.3 trillion, with hardware engineering veteran Jeff Ternus named as his successor. Analysts interpret the appointment of a device-focused engineer as a signal that Apple is doubling down on its hardware-first strategy even as AI reshapes the broader technology landscape.",
-          "signal": "Ternus's appointment over an AI-native candidate suggests Apple's near-term product roadmap will prioritise device integration over pure software AI plays, with implications for the Apple ecosystem investment thesis.",
-          "sources": [
-            "Euronews Business",
-            "LiveMint Companies"
-          ],
-          "source_url": "http://www.euronews.com/business/2026/04/21/tim-cook-names-successor-as-he-steps-down-as-apple-ceo",
-          "published_at": "21 Apr \u00b7 11:01 IST",
-          "standalone_social": false,
-          "context": "Nikkei Japanese-language social post noted Ternus as a 'Jobs philosophy' inheritor focused on design and simplicity.",
-          "social_signals": [
-            {
-              "handle": "nikkei.com",
-              "platform": "bluesky",
-              "text": "Apple\u306e\u30bf\u30fc\u30ca\u30b9\u6b21\u671fCEO\u300c\u30b8\u30e7\u30d6\u30ba\u54f2\u5b66\u300d\u306e\u7d99\u627f\u8005\u3000\u30c7\u30b6\u30a4\u30f3\u3092\u8ffd\u6c42 - \u5275\u696d\u8005\u306e\u30b7\u30f3\u30d7\u30eb\u306a\u6a5f\u80fd\u7f8e\u3078\u306e\u3053\u3060\u308f\u308a\u3092\u53d7\u3051\u7d99\u3044\u3067\u3044\u307e\u3059\u3002",
-              "score": 43,
-              "url": "https://bsky.app/profile/nikkei.com/post/3mjyrpqjugh2s"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 5,
-          "score": 82,
-          "topic": "Iran War Global Energy Shock",
-          "domain": "commodities",
-          "headline": "Iran war reshapes global energy; India faces first diesel hike in four years",
-          "summary": "The Iran war is forcing a sweeping reckoning across global energy markets: India's truckers are bracing for the first significant diesel price increase in four years as fuel rationing looms, Colombia is accelerating its pivot away from LNG dependence, and the EU is proposing emergency jet fuel distribution measures among member states as Hormuz flows remain at a standstill. Bloomberg reported private renewable energy investments in Africa are also set to accelerate as nations scramble to cut oil import dependence.",
-          "signal": "Synchronised energy-cost shocks across emerging markets signal inflationary second-order effects that could prompt central bank policy responses in India, Colombia, and Southeast Asia within weeks.",
-          "sources": [
-            "Bloomberg",
-            "LiveMint Markets"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/india-s-truckers-brace-for-first-diesel-price-hike-in-four-years",
-          "published_at": "20 Apr \u00b7 13:58 IST",
-          "standalone_social": false,
-          "context": "Oil prices seen staying above $85/barrel even if Hormuz reopens per domestic Indian brokerages. EU separately warned against early nuclear plant closures.",
-          "social_signals": [
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "As Iran crisis drags on, fears of global food catastrophe grow",
-              "score": 36,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mjytcoq6o42l"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 6,
-          "score": 80,
-          "topic": "Indian Markets Iran Peace Rally",
-          "domain": "india",
-          "headline": "Sensex jumps 753 points on Iran peace talk hopes; rupee falls",
-          "summary": "Indian equity markets extended gains for a third consecutive session with the Sensex rising 753 points (0.96%) to 79,273 and the Nifty 50 climbing 212 points (0.87%) to 24,576, driven by optimism over potential US-Iran Islamabad talks. The rupee, however, weakened 32 paise to 93.48 against the dollar as uncertainty over the ceasefire outcome weighed on the currency even as equities rallied.",
-          "signal": "The rupee-equity divergence signals that portfolio inflows are chasing risk-on sentiment while currency traders remain hedged against a ceasefire breakdown, a split positioning that could unwind sharply on negative Islamabad news.",
-          "sources": [
-            "LiveMint Markets",
-            "The Hindu",
-            "Hindu Business",
-            "NDTV Profit"
-          ],
-          "source_url": "https://www.livemint.com/market/stock-market-news/sensex-jumps-753-points-nifty-50-ends-above-24-550-investors-earn-3-lakh-crore-in-a-day-us-iran-peace-talks-in-focus-11776764475798.html",
-          "published_at": "21 Apr \u00b7 11:09 IST",
-          "standalone_social": false,
-          "context": "Nestle India shares jumped over 8% after a Q4 profit beat. HCLTech and Persistent Systems also reporting Q4 results.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 7,
-          "score": 78,
-          "topic": "EU Hungary LGBTQ Court Ruling",
-          "domain": "europe",
-          "headline": "EU top court strikes down Hungary's anti-LGBTQ+ laws as rights breach",
-          "summary": "The European Union's Court of Justice ruled that Hungary's ban on mentions of homosexuality in media accessible to children and its prohibition of Pride marches violates EU fundamental values, delivering a landmark legal blow to Viktor Orb\u00e1n's government. The ruling coincides with Hungary's absence from a key EU foreign ministers' meeting in Luxembourg, where observers noted the lack of Budapest's usual obstructionism may allow meaningful movement on several geopolitical files.",
-          "signal": "The ruling deepens the EU-Hungary institutional rift and could accelerate Budapest's political isolation within EU decision-making bodies, potentially enabling faster consensus on contested foreign policy questions.",
-          "sources": [
-            "Politico Europe",
-            "The Guardian (Bluesky)"
-          ],
-          "source_url": "https://www.politico.eu/article/eu-top-court-strikes-down-hungarys-anti-lgbtq-rules/",
-          "published_at": "21 Apr \u00b7 13:43 IST",
-          "standalone_social": false,
-          "context": "Orb\u00e1n's EU ambassador B\u00e1lint \u00d3dor reportedly faces being sidelined as Hungary's influence in Brussels wanes.",
-          "social_signals": [
-            {
-              "handle": "theguardian.com",
-              "platform": "bluesky",
-              "text": "EU's top court finds Hungary's anti-LGBTQ+ law in breach of key values",
-              "score": 35,
-              "url": "https://bsky.app/profile/theguardian.com/post/3mjyttp4vrq25"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 8,
-          "score": 76,
-          "topic": "BOJ Rate Hike Pause June",
-          "domain": "japan",
-          "headline": "BOJ to skip rate hike next week; June seen as next window",
-          "summary": "Nikkei Asia reported that the Bank of Japan is expected to hold rates unchanged at its upcoming meeting, with June now seen as the next viable window for a potential hike as the central bank monitors both domestic economic conditions and global volatility stemming from the Iran war and Hormuz disruptions. The pause comes against a backdrop of Japan facing simultaneous pressures from the 7.5-magnitude earthquake aftermath and elevated energy import costs.",
-          "signal": "A confirmed BOJ pause would support yen carry trade positions and keep Japanese government bond yields compressed, but June guidance language will be critical for positioning in USD/JPY.",
-          "sources": [
-            "Nikkei Asia"
-          ],
-          "source_url": "https://asia.nikkei.com/economy/boj-to-skip-rate-hike-next-week-june-seen-as-next-window",
-          "published_at": "21 Apr \u00b7 16:20 IST",
-          "standalone_social": false,
-          "context": "Japan also announcing \u00a51 trillion investment plan to secure recycled resources and PM Takaichi planning foreign policy speech in Vietnam focused on economic security.",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 9,
-          "score": 75,
-          "topic": "UK Mandelson Appointment Controversy",
-          "domain": "europe",
-          "headline": "Sacked UK official claims PM pressured him to rush Mandelson Washington appointment",
-          "summary": "Former top Foreign Office official Olly Robbins told a parliamentary committee he faced 'constant pressure' from Prime Minister Keir Starmer's office to expedite Peter Mandelson's appointment as UK Ambassador to Washington without adequate vetting, and was separately asked to find a job for a Starmer aide without informing Foreign Secretary David Lammy. The testimony deepens a constitutional row over the use of diplomatic appointments for political patronage and threatens to further destabilise the Starmer government.",
-          "signal": "The Robbins revelations suggest a systemic breakdown in the division between Downing Street and the Foreign Office, creating potential for a ministerial-level casualty and weakening UK diplomatic credibility in Washington at a critical geopolitical moment.",
-          "sources": [
-            "Politico Europe",
-            "S. China Morning Post",
-            "The Guardian (Bluesky)"
-          ],
-          "source_url": "https://www.politico.eu/article/uk-officials-saw-no-need-vet-peter-mandelson-sacked-olly-robbins-claims/",
-          "published_at": "21 Apr \u00b7 14:47 IST",
-          "standalone_social": false,
-          "context": "The Guardian described the Foreign Affairs Committee hearing as 'astonishing'. Lammy's position may come under scrutiny.",
-          "social_signals": [
-            {
-              "handle": "theguardian.com",
-              "platform": "bluesky",
-              "text": "Olly Robbins: I was asked to find job for Starmer aide and not tell David Lammy",
-              "score": 31,
-              "url": "https://bsky.app/profile/theguardian.com/post/3mjys7ufj3325"
-            },
-            {
-              "handle": "theguardian.com",
-              "platform": "bluesky",
-              "text": "Writing some analysis for @andrewsparrowgdn.bsky.social's top live blog of this astonishing FAC hearing with Olly Robbins",
-              "score": 38,
-              "url": "https://bsky.app/profile/theguardian.com/post/3mjym2biskk2k"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 10,
-          "score": 74,
-          "topic": "US-Iraq Dollar Access Suspension",
-          "domain": "middleeast",
-          "headline": "US suspends Iraq dollar access to curb Iranian militia influence",
-          "summary": "The United States has suspended Iraq's access to dollar-clearing mechanisms as a pressure tactic to reduce Iranian influence and the operational capacity of Tehran-aligned militias operating inside Iraqi territory. The National (UAE) reported the move signals Washington is escalating financial warfare against Iran's regional proxy network even as ceasefire talks proceed in Islamabad.",
-          "signal": "Dollar suspension targeting Iraq creates a significant sovereign stress point and risks deepening Iraqi dependence on alternative currency arrangements with China or Russia, with potential contagion to Gulf banking systems.",
-          "sources": [
-            "The National (UAE)"
-          ],
-          "source_url": "https://www.thenationalnews.com/news/mena/2026/04/21/us-suspends-iraqs-dollar-access-as-pressure-tactic-to-curb-iranian-influence-and-militias/",
-          "published_at": "21 Apr \u00b7 15:57 IST",
-          "standalone_social": false,
-          "context": "AP separately reported Iranian commanders granting greater autonomy to Iraqi militias, suggesting Tehran's command-and-control is decentralising under war pressure.",
-          "social_signals": [
-            {
-              "handle": "apnews.com",
-              "platform": "bluesky",
-              "text": "Iran has granted its commanders greater autonomy over militias in Iraq, allowing some groups to carry out operations without Tehran's approval, a shift driven by the pressures of the war.",
-              "score": 34,
-              "url": "https://bsky.app/profile/apnews.com/post/3mjytdbpf5425"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 11,
-          "score": 73,
-          "topic": "EU Israel Relations Suspension Push",
-          "domain": "europe",
-          "headline": "EU states discuss partial suspension of Israeli relations over Lebanon war",
-          "summary": "Several EU member states are actively discussing a proposal to partially suspend relations with Israel over its conduct in Lebanon, with Belgium's Foreign Minister describing Israeli actions as 'totally unacceptable' ahead of a foreign ministers' meeting in Luxembourg. The National (UAE) reported three EU governments wrote to foreign policy chief Kaja Kallas citing Israeli human rights violations, signalling a potential majority forming around punitive diplomatic measures.",
-          "signal": "A formal EU decision on partial suspension would mark the most significant Western diplomatic rupture with Israel in the current conflict cycle and could trigger Israeli retaliatory steps affecting European business and intelligence cooperation.",
-          "sources": [
-            "The National (UAE)",
-            "Middle East Eye",
-            "Al Jazeera (Bluesky)"
-          ],
-          "source_url": "https://www.thenationalnews.com/news/europe/2026/04/21/eu-states-to-discuss-push-for-partial-suspension-of-israeli-relations-over-lebanon-war/",
-          "published_at": "21 Apr \u00b7 15:48 IST",
-          "standalone_social": false,
-          "context": "Hezbollah reportedly still contesting Israeli advances in southern Lebanese towns of Bint Jbeil and Khiam.",
-          "social_signals": [
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "In a letter to EU foreign policy chief Kaja Kallas, the three governments say Israel is violating 'human rights'.",
-              "score": 31,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mjypxfxajg24"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 12,
-          "score": 72,
-          "topic": "Japan China East China Sea Tensions",
-          "domain": "japan",
-          "headline": "Japan protests China's new East China Sea structure amid military drills",
-          "summary": "The Japanese government formally lodged a diplomatic protest with Beijing over China's construction of a new unspecified structure in the East China Sea, as tensions between the two nations simmer against a backdrop of ongoing Chinese military drills in the region. The protest coincides with Japan's PM Takaichi planning a foreign policy speech in Vietnam centred on renewing Japan's Free and Open Indo-Pacific Strategy with a sharper economic security focus.",
-          "signal": "China's infrastructure moves in the East China Sea, combined with Tokyo's simultaneous pivot toward Vietnam and Southeast Asia, signals a deliberate Japanese strategy of building coalitions to balance Beijing before any Hormuz-related economic normalisation.",
-          "sources": [
-            "Bloomberg",
-            "Japan Times"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/japan-protests-china-s-work-on-new-structure-in-east-china-sea",
-          "published_at": "20 Apr \u00b7 14:53 IST",
-          "standalone_social": false,
-          "context": "IHI and Mitsubishi Heavy also boosting defence production as Japan eases arms export rules.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 13,
-          "score": 70,
-          "topic": "China Hormuz Energy Strategy Pivot",
-          "domain": "macro",
-          "headline": "China's State Council convenes emergency energy strategy review over Hormuz shock",
-          "summary": "Premier Li Qiang convened a high-level State Council study session to review China's energy strategy, calling energy security a 'pillar of national stability' as the Hormuz shipping crisis threatens to become a long-term economic liability for the world's largest oil importer. Nikkei Asia separately reported China cut domestic gasoline prices for the first time this year despite the Iran war, suggesting Beijing is using strategic reserves and alternative supply routes to absorb the shock.",
-          "signal": "China's dual-track response \u2014 emergency strategic review plus consumer price cuts \u2014 indicates Beijing is prioritising social stability over market signals, a posture that could accelerate China's push for alternative Middle East supply agreements outside dollar-denominated channels.",
-          "sources": [
-            "S. China Morning Post",
-            "Nikkei Asia"
-          ],
-          "source_url": "https://www.scmp.com/economy/china-economy/article/3350896/china-confronts-middle-east-supply-shock-state-council-mulls-energy-strategy",
-          "published_at": "21 Apr \u00b7 16:30 IST",
-          "standalone_social": false,
-          "context": "China's silver imports also hit record highs in March, potentially reflecting industrial hedging behaviour.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 14,
-          "score": 68,
-          "topic": "Nigerian Coup Plot Foiled",
-          "domain": "geopolitics",
-          "headline": "Nigeria foils coup plot against Tinubu; retired general among six charged",
-          "summary": "Nigerian authorities announced they have foiled a plot to overthrow President Bola Tinubu and charged six individuals, including a retired major general and a serving police inspector, with terrorism and treason offences. The revelation of a military-linked conspiracy targeting the Tinubu government signals ongoing political instability in Africa's most populous nation amid broader economic pressures from the Iran war's energy price shock.",
-          "signal": "A credible coup attempt involving active and retired military personnel suggests Nigeria's institutional cohesion is under strain; investors in Nigerian sovereign debt and oil assets should monitor political risk premium closely.",
-          "sources": [
-            "AP News (Bluesky)"
-          ],
-          "source_url": "https://bsky.app/profile/apnews.com/post/3mjyrsmx63w2y",
-          "published_at": "21 Apr \u00b7 16:45 IST",
-          "standalone_social": true,
-          "context": "Nigeria is Africa's largest oil producer and a key sub-Saharan economy. No corroborating wire story available at time of publication.",
-          "social_signals": [
-            {
-              "handle": "apnews.com",
-              "platform": "bluesky",
-              "text": "Nigerian authorities said they had foiled a plot to overthrow President Bola Tinubu and charged six people, including a retired major general and a serving police inspector, with terrorism and treason.",
-              "score": 50,
-              "url": "https://bsky.app/profile/apnews.com/post/3mjyrsmx63w2y"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 15,
-          "score": 67,
-          "topic": "Hybe BTS Founder Arrest Sought",
-          "domain": "corporate",
-          "headline": "South Korean police seek arrest warrant for Hybe founder Bang Si-hyuk",
-          "summary": "Seoul Metropolitan Police are moving to detain Bang Si-hyuk, the founder of K-pop giant Hybe \u2014 parent company of BTS \u2014 in an expanding investment fraud investigation that South China Morning Post noted has spilled into the politics of Seoul's alliance with Washington. Police sought the arrest warrant after Bang requested permission to travel overseas, which authorities refused.",
-          "signal": "The targeting of K-pop's most powerful executive for investment fraud signals intensifying South Korean regulatory scrutiny of entertainment conglomerates; watch for spillover effects on Hybe's stock and its US joint venture activities.",
-          "sources": [
-            "S. China Morning Post",
-            "AP News (Bluesky)"
-          ],
-          "source_url": "https://www.scmp.com/week-asia/people/article/3350898/south-korean-police-seek-arrest-warrant-hybe-founder-bang-after-travel-request",
-          "published_at": "21 Apr \u00b7 16:39 IST",
-          "standalone_social": false,
-          "context": "Seoul shares separately hit a record high on tech sector rally per Nikkei Asia.",
-          "social_signals": [
-            {
-              "handle": "apnews.com",
-              "platform": "bluesky",
-              "text": "South Korean police are seeking to arrest music mogul Bang Si-Hyuk, chairman of the agency behind K-pop supergroup BTS, as they expand an investment fraud investigation.",
-              "score": 38,
-              "url": "https://bsky.app/profile/apnews.com/post/3mjyrnem45c2w"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 16,
-          "score": 65,
-          "topic": "Israel Post-War Stock Boom",
-          "domain": "markets",
-          "headline": "Israeli stocks hit record valuations as investors price post-war tech boom",
-          "summary": "Bloomberg reported Israeli equities are breaking out of an 18-year valuation range, with investors paying record multiples on bets the country is positioned for a technology-led economic boom in the post-war period. The surge in Israeli stock valuations stands in sharp contrast to regional disruption, reflecting market conviction that Israeli tech infrastructure has survived the conflict largely intact.",
-          "signal": "Record Israeli equity multiples represent a crowded trade that is highly sensitive to ceasefire negotiations; any breakdown in Islamabad talks could trigger rapid multiple compression.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/israeli-stock-valuations-soar-as-investors-bet-on-post-war-boom",
-          "published_at": "20 Apr \u00b7 14:26 IST",
-          "standalone_social": false,
-          "context": "Gaza reconstruction discussions with DP World also reportedly underway via Trump's 'Board of Peace'.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 17,
-          "score": 63,
-          "topic": "SpaceX IPO Musk Voting Control",
-          "domain": "corporate",
-          "headline": "Musk and SpaceX insiders retain voting control post-IPO, filing shows",
-          "summary": "Reuters exclusively reported that Elon Musk and company insiders will retain voting control of SpaceX following its anticipated IPO, according to a filing, preserving Musk's ability to make unilateral strategic decisions on the world's most valuable private space company. The structure mirrors the dual-class share arrangements used by Musk at Tesla and is likely to draw scrutiny from institutional investors.",
-          "signal": "The retained voting control structure will suppress SpaceX's institutional investor appeal and may cap the IPO premium, but removes the risk of shareholder activism affecting launch cadence or defence contracts.",
-          "sources": [
-            "Reuters (Bluesky)"
-          ],
-          "source_url": "https://bsky.app/profile/reuters.com/post/3mjyu65ont22m",
-          "published_at": "21 Apr \u00b7 16:45 IST",
-          "standalone_social": true,
-          "context": "Reuters Bluesky post only; wire article not yet in feed at time of compilation.",
-          "social_signals": [
-            {
-              "handle": "reuters.com",
-              "platform": "bluesky",
-              "text": "Exclusive: Musk and insiders to retain voting control of SpaceX after IPO, filing shows",
-              "score": 40,
-              "url": "https://bsky.app/profile/reuters.com/post/3mjyu65ont22m"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 18,
-          "score": 62,
-          "topic": "India Pakistan ISI Operatives Delhi",
-          "domain": "india",
-          "headline": "Two alleged ISI operatives arrested for planning Delhi-NCR hotel attacks",
-          "summary": "Delhi Police Special Cell arrested two individuals described as ISI operatives who were allegedly planning shooting attacks on hotels and clubs in the Delhi-NCR region, Indian Express reported. The arrests come against a backdrop of heightened India-Pakistan tensions following the Pahalgam terror attack that killed tourists in Kashmir.",
-          "signal": "ISI-linked urban attack plots targeting civilian hospitality venues in India's capital signal a potential escalation in cross-border terrorism that could harden New Delhi's diplomatic posture toward Islamabad.",
-          "sources": [
-            "Indian Express"
-          ],
-          "source_url": "https://indianexpress.com/article/india/delhi-police-special-cell-arrest-operatives-ncr-hotel-shooting-10648368/",
-          "published_at": "21 Apr \u00b7 16:51 IST",
-          "standalone_social": false,
-          "context": "NDTV carried ongoing coverage of the Pahalgam attack's emotional fallout, with an iconic image of survivor Himanshi Narwal circulating widely.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 19,
-          "score": 60,
-          "topic": "Trump Insider Trading Pattern",
-          "domain": "macro",
-          "headline": "BBC identifies pattern of trading spikes before Trump public announcements",
-          "summary": "A BBC investigation found a consistent pattern of abnormal spikes in trading activity ahead of public announcements by US President Donald Trump, raising serious insider trading concerns around the current administration. The investigation adds to existing scrutiny of financial conflicts around the Trump presidency and could trigger Congressional or SEC-level inquiries.",
-          "signal": "If corroborated by regulators, trading patterns tied to presidential announcements represent a systemic market integrity risk and could prompt emergency disclosure reforms affecting White House communications protocols.",
-          "sources": [
-            "BBC News"
-          ],
-          "source_url": "https://www.bbc.co.uk/news/articles/cge0grppe3po",
-          "published_at": "19 Apr \u00b7 23:22 IST",
-          "standalone_social": false,
-          "context": "Separately, AP reported US importers can begin seeking refunds for tariffs struck down by the Supreme Court, suggesting active judicial checks on Trump executive trade actions.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 20,
-          "score": 58,
-          "topic": "J.P. Morgan S&P 500 Target Raised",
-          "domain": "markets",
-          "headline": "J.P. Morgan lifts S&P 500 year-end target to 7,600 on AI earnings",
-          "summary": "J.P. Morgan raised its S&P 500 year-end price target to 7,600, citing AI-driven earnings momentum as the primary catalyst, according to a Reuters Bluesky post. The upgrade comes as LiveMint separately flagged debate among experts over whether the US market's stretched valuations and geopolitical risk exposure set the stage for a deep correction.",
-          "signal": "J.P. Morgan's bullish revision provides a sentiment floor for US equities but the divergence from bear-case analysts on valuation and geopolitical risk creates elevated volatility potential around any Hormuz or Iran ceasefire developments.",
-          "sources": [
-            "Reuters (Bluesky)"
-          ],
-          "source_url": "https://bsky.app/profile/reuters.com/post/3mjysidbtgl2q",
-          "published_at": "21 Apr \u00b7 16:45 IST",
-          "standalone_social": true,
-          "context": "Seoul shares hit record high on tech rally per Nikkei Asia, suggesting AI-driven equity optimism is not confined to the US.",
-          "social_signals": [
-            {
-              "handle": "reuters.com",
-              "platform": "bluesky",
-              "text": "J.P. Morgan lifts S&P 500 year-end target to 7,600 on AI-driven earnings",
-              "score": 36,
-              "url": "https://bsky.app/profile/reuters.com/post/3mjysidbtgl2q"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 21,
-          "score": 57,
-          "topic": "UK Electricity Gas Benchmark Decoupling",
-          "domain": "europe",
-          "headline": "UK to drop natural gas as electricity price benchmark amid Hormuz crisis",
-          "summary": "The UK government announced plans to decouple electricity pricing from natural gas benchmarks, a structural reform The National (UAE) and Reuters both flagged as accelerated by the Iran war's disruption to gas supply chains. The move would fundamentally alter the UK's electricity market design and reduce consumer exposure to gas-price volatility driven by Middle East conflicts.",
-          "signal": "If implemented, decoupling gas from electricity pricing would be the most significant UK energy market reform in a generation and could serve as a template for other European markets considering similar structural changes.",
-          "sources": [
-            "The National (UAE)",
-            "Reuters (Bluesky)"
-          ],
-          "source_url": "https://www.thenationalnews.com/news/uk/2026/04/21/uk-to-drop-natural-gas-as-the-benchmark-for-electricity-prices/",
-          "published_at": "21 Apr \u00b7 15:28 IST",
-          "standalone_social": false,
-          "context": "EU simultaneously warned against early nuclear exits, suggesting a coordinated European pivot toward long-term energy security reforms.",
-          "social_signals": [
-            {
-              "handle": "reuters.com",
-              "platform": "bluesky",
-              "text": "UK moves to weaken link between electricity and gas prices",
-              "score": 40,
-              "url": "https://bsky.app/profile/reuters.com/post/3mjytlxnftu2x"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 22,
-          "score": 55,
-          "topic": "France Central Bank US Gold Repatriation",
-          "domain": "macro",
-          "headline": "Banque de France books \u00a52.3 trillion profit repatriating gold from US",
-          "summary": "The Banque de France generated approximately 2.3 trillion yen (equivalent) in profits after selling gold held in the United States and repurchasing equivalent amounts in Europe, benefiting from price movements during the transaction, according to a Nikkei Japanese-language social post. The French central bank governor emphasised there was no political motivation, but the move reflects broader central bank gold repatriation trends as geopolitical trust in US custodianship erodes.",
-          "signal": "Central bank gold repatriation from US custody, even when framed as apolitical, signals a structural shift in reserve asset management philosophy that reinforces the gold safe-haven bid and weakens dollar hegemony narratives.",
-          "sources": [
-            "Nikkei (Bluesky)"
-          ],
-          "source_url": "https://bsky.app/profile/nikkei.com/post/3mjyp5jm5752r",
-          "published_at": "21 Apr \u00b7 16:45 IST",
-          "standalone_social": true,
-          "context": "Tether separately reported to hold $8B in Swiss gold vault per @thewirenews Telegram. China silver imports at record highs.",
-          "social_signals": [
-            {
-              "handle": "nikkei.com",
-              "platform": "bluesky",
-              "text": "\u30d5\u30e9\u30f3\u30b9\u4e2d\u9280\u3001\u30a2\u30e1\u30ea\u30ab\u304b\u3089\u91d1\u3092\u672c\u56fd\u306b\u79fb\u52d5\u30002.3\u5146\u5186\u306e\u5229\u76ca\u306b - \u30a2\u30e1\u30ea\u30ab\u3067\u3044\u3063\u305f\u3093\u58f2\u5374\u3057\u6b27\u5dde\u3067\u540c\u91cf\u3092\u8cb7\u3044\u76f4\u3057\u305f\u3068\u3053\u308d\u3001\u4fa1\u683c\u5909\u52d5\u3067\u5de8\u984d\u306e\u5229\u76ca\u304c\u767a\u751f",
-              "score": 40,
-              "url": "https://bsky.app/profile/nikkei.com/post/3mjyp5jm5752r"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 23,
-          "score": 53,
-          "topic": "Louisiana Mass Shooting Eight Children",
-          "domain": "geopolitics",
-          "headline": "Man kills eight children including seven of his own in Shreveport shooting",
-          "summary": "A gunman in Shreveport, Louisiana killed eight children, including seven of his own aged 1 to 14, and shot two women across two homes in what authorities described as a domestic violence attack \u2014 the deadliest US shooting in more than two years. The incident reignited national debate over domestic violence, gun access, and child safety in the United States.",
-          "signal": "The scale of child fatalities in a domestic violence incident will intensify pressure on Congress for legislative action on firearms and domestic abuse prevention, though the current political environment makes legislative progress unlikely.",
-          "sources": [
-            "Associated Press",
-            "BBC News"
-          ],
-          "source_url": "https://apnews.com/article/shreveport-louisiana-shooting-children-981e69dcfee2361fe81e27199c8b9b05",
-          "published_at": "19 Apr \u00b7 17:07 IST",
-          "standalone_social": false,
-          "context": "Nation's deadliest shooting in over two years per AP.",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        }
-      ],
-      "social_count": 80,
-      "tg_count": 50,
-      "tw_count": 0,
-      "bk_count": 30,
-      "local_items": [
-        {
-          "source": "The Hindu",
-          "title": "Photographer Jina Park explores India in debut exhibition \u2018Lyrical Encounter: India Through a Korean Lens\u2019 in Chennai",
-          "summary": "Jina Park takes us through an immersive journey across the country \u2014 from the ghats of Benaras to the mountains of Ladakh, and the deserts of Rajasthan, the bustling lanes of Mumbai, and through Tamil Nadu, where she now lives",
-          "url": "https://www.thehindu.com/entertainment/art/photographer-jina-park-explores-india-in-debut-exhibition-lyrical-encounter-india-through-a-korean-lens-in-chennai/article70887988.ece",
-          "platform": "rss",
-          "weight": 81
-        },
-        {
-          "source": "NDTV News",
-          "title": "Yusuf Pathan's In-Laws Beat Mumbai Family With Sticks, Baseball Bat, Arrested",
-          "summary": "Salman (L), one of the victims, suffered a fractured hand.",
-          "url": "https://www.ndtv.com/india-news/yusuf-pathans-in-laws-beat-mumbai-family-with-sticks-baseball-bat-arrested-11387424#publisher=newsstand",
-          "platform": "rss",
-          "weight": 79
-        },
-        {
-          "source": "LiveMint Markets",
-          "title": "Crypto investment trend: Millennials, Gen X lead adoption signalling market participation shift in India \u2014 What we know",
-          "summary": "There is a surge in crypto adoption among older millennials and Gen X in India, with Uttar Pradesh and Maharashtra leading. The 35+ demographic is now the fastest-growing segment indicating shift towards focus on long-term investment, as per a CoinSwitch report.",
-          "url": "https://www.livemint.com/market/cryptocurrency/cryptocurrency-investment-trend-millennials-gen-x-lead-adoption-india-crypto-market-eye-shift-mature-participation-11776763947013.html",
-          "platform": "rss",
-          "weight": 82
-        },
-        {
-          "source": "LiveMint Markets",
-          "title": "Top Gainers &amp; Losers on April 21: Nestle India, Groww, PNB Housing, Bank of Maharashtra, Sobha among top gainers",
-          "summary": "On April 21, the Indian stock market closed higher due to optimistic investor sentiment linked to potential peace talks involving Iran. The Nifty 50 and Sensex rose, with notable gains in FMCG, Realty, and Private Bank sectors, while Nifty Pharma lagged slightly.",
-          "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-april-21-nestle-india-groww-pnb-housing-bank-of-maharashtra-sobha-among-top-gainers-11776764290508.html",
-          "platform": "rss",
-          "weight": 82
-        },
-        {
-          "source": "LiveMint Companies",
-          "title": "Suzlon eyes Europe comeback with next-gen wind turbines",
-          "summary": "The Pune-based company on Tuesday launched two new turbine designs for the European market with capacities of 5 MW and 6.3 MW, based on its new Blue Sky product platform. These add to its portfolio of 2.1 MW and 3 MW machines.",
-          "url": "https://www.livemint.com/companies/suzlon-eyes-europe-comeback-next-gen-wind-turbines-blue-sky-product-platform-11776752822916.html",
-          "platform": "rss",
-          "weight": 80
-        },
-        {
-          "source": "NDTV Profit",
-          "title": "Marathi Proficiency Row: 15 Lakh Auto Drivers To Protest Across Maharashtra From May 4",
-          "summary": "Nearly 15 lakh auto drivers across the state, which will include around 5 lakh drivers from the Mumbai Metropolitan Region will participate in the agitation.",
-          "url": "https://www.ndtvprofit.com/india/marathi-proficiency-row-15-lakh-auto-drivers-to-protest-across-maharashtra-from-may-4-11387503#publisher=newsstand",
-          "platform": "rss",
-          "weight": 78
         }
       ]
     }
