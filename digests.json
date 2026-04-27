@@ -1,6 +1,604 @@
 {
   "digests": [
     {
+      "timestamp": "2026-04-27T18:00:36.516875+00:00",
+      "timestamp_ist": "27 Apr 2026 \u00b7 23:30 IST",
+      "story_count": 26,
+      "avg_score": 71,
+      "stories": [
+        {
+          "rank": 1,
+          "score": 92,
+          "topic": "Trump Correspondents Dinner Shooting",
+          "domain": "geopolitics",
+          "headline": "Armed attacker targets Trump officials at DC correspondents' dinner",
+          "summary": "A gunman armed with guns and knives attempted to breach the ballroom at the White House Correspondents' Association dinner, leading to Trump's evacuation; the suspect, identified as Cole Tomas Allen of Torrance, California, is believed to have been targeting the president and top administration officials. White House Press Secretary Karoline Leavitt called it a 'third major assassination attempt' against Trump, who subsequently called for unity while also using the incident to advocate for a new White House ballroom.",
+          "signal": "The attack intensifies scrutiny on Secret Service protocols and raises the political temperature around Trump's personal security narrative heading into a volatile legislative season.",
+          "sources": [
+            "Associated Press",
+            "Bloomberg",
+            "BBC News",
+            "Al Jazeera English"
+          ],
+          "source_url": "https://apnews.com/article/trump-correspondents-dinner-scene-confusion-fear-34cbc1493e91d32f76ce4383c009447b",
+          "published_at": "26 Apr \u00b7 02:18 IST",
+          "standalone_social": false,
+          "context": "Third security incident involving Trump in three years; suspect was reportedly a hotel guest who bypassed outer security.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "White House says press dinner shooting was third major assassination attempt against Trump",
+              "score": 52,
+              "url": "https://bsky.app/profile/reuters.com/post/3mkimi5xoe624"
+            },
+            {
+              "handle": "apnews.com",
+              "platform": "bluesky",
+              "text": "Journalists in Washington are accustomed to chasing stories. But on Saturday, the story came to them \u2014 hundreds of them \u2014 as they were suddenly thrust into chaos when a gunman tried to storm the annual dinner",
+              "score": 40,
+              "url": "https://bsky.app/profile/apnews.com/post/3mkilvrnpnn2c"
+            },
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "'Sense of disbelief': how the White House press dinner attack unfolded",
+              "score": 37,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mkiljbnieu25"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 2,
+          "score": 88,
+          "topic": "US-Iran War Diplomacy Stalled",
+          "domain": "geopolitics",
+          "headline": "US-Iran peace talks stall; Rubio sets nuclear condition for any deal",
+          "summary": "US-Iran negotiations remain deadlocked after Trump cancelled envoys' trips and said Iran made no satisfactory offer; Secretary of State Rubio called Iran 'serious' but rejected a conditional Hormuz reopening proposal and insisted any deal must prevent Tehran from developing nuclear weapons. Iran's Foreign Minister Araghchi met Putin in Saint Petersburg after arriving from Pakistan, blaming Washington for the failure of talks.",
+          "signal": "Stalled diplomacy with Iran's FM now in Moscow signals a potential Russia-Iran alignment that could harden Tehran's negotiating position and keep oil markets volatile.",
+          "sources": [
+            "Al Jazeera English",
+            "Middle East Eye",
+            "Politico Europe",
+            "NDTV Profit",
+            "The Hindu"
+          ],
+          "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip",
+          "published_at": "26 Apr \u00b7 00:00 IST",
+          "standalone_social": false,
+          "context": "Strait of Hormuz remains blocked; Brent crude above $108; major central banks meeting this week.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "Trump discussed new Iran proposal with national security aides on Monday, White House says",
+              "score": 52,
+              "url": "https://bsky.app/profile/reuters.com/post/3mkimztrjh32v"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 3,
+          "score": 85,
+          "topic": "Strait of Hormuz Oil Crisis",
+          "domain": "commodities",
+          "headline": "Hormuz blockade drives Brent above $108; airlines near bankruptcy",
+          "summary": "The Iran-triggered Strait of Hormuz closure has sent Brent crude above $108 per barrel, with DW and Euronews reporting that global energy markets are in structural disruption and Gulf states are fast-tracking bypass pipeline plans. American budget airlines are seeking $2.5 billion in US government assistance as jet fuel costs have roughly doubled, and Ryanair CEO Michael O'Leary warned two or three European carriers including Wizz Air and airBaltic could go bankrupt this winter.",
+          "signal": "Sustained Hormuz closure is creating cascading second-order damage to aviation and logistics sectors beyond energy markets \u2014 watch for sovereign bailout requests and credit stress in low-cost carriers.",
+          "sources": [
+            "DW Business",
+            "Euronews Business",
+            "The Hindu Business",
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.dw.com/en/will-the-iran-war-end-strait-of-hormuz-oil-supremacy/a-76893004",
+          "published_at": "27 Apr \u00b7 13:33 IST",
+          "standalone_social": false,
+          "context": "India's Petroleum Ministry says no need to import petrol/diesel yet; Caspian and Central Asian oil markets recalibrating.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 4,
+          "score": 83,
+          "topic": "Mali Defence Minister Killed",
+          "domain": "geopolitics",
+          "headline": "Mali's defence minister killed as armed groups launch coordinated attacks",
+          "summary": "Mali's Defence Minister Sadio Camara was killed when his residence in the garrison town of Kati came under attack as part of simultaneous co-ordinated strikes by armed groups across the country; Russian Wagner mercenaries are reportedly withdrawing from Kidal following renewed clashes. Security has deteriorated sharply in Mali with rival armed factions now joining forces against the state, threatening the junta's grip on power.",
+          "signal": "The killing of the defence minister is a watershed moment for the Sahel \u2014 Wagner withdrawal from Kidal combined with coordinated rebel advances could trigger rapid territorial fragmentation.",
+          "sources": [
+            "Al Jazeera English",
+            "BBC News"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks",
+          "published_at": "26 Apr \u00b7 10:50 IST",
+          "standalone_social": false,
+          "context": "Mali has experienced accelerating security deterioration since military coup; Wagner presence has been a contested stabilising factor.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "Timeline: How Mali went from democracy beacon to instability",
+              "score": 36,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mkiikdflbt23"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 5,
+          "score": 82,
+          "topic": "India Sensex Rebound DII Rescue",
+          "domain": "india",
+          "headline": "Sensex surges 639 points as DIIs absorb 4x FII net sales",
+          "summary": "Indian equity markets rebounded sharply after a three-day decline, with the Sensex jumping 639 points driven by Reliance Industries and Sun Pharma amid positive global cues; domestic institutional investors mopped up approximately four times the volume of net FII selling to stabilise D-Street. The rupee settled marginally higher at 94.15 against the dollar despite headwinds from elevated crude prices and continued foreign portfolio outflows.",
+          "signal": "DII dominance in absorbing foreign sell-offs suggests India's domestic liquidity buffer is robust, but the rupee at 94.15 with crude above $108 keeps stagflation risk firmly on the table.",
+          "sources": [
+            "The Hindu Business",
+            "NDTV Profit",
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.thehindu.com/business/markets/stock-markets-bounce-back-after-three-day-decline-sensex-jumps-639-points/article70912204.ece",
+          "published_at": "27 Apr \u00b7 18:15 IST",
+          "standalone_social": false,
+          "context": "FII sell-off driven by Iran war uncertainty and rising crude; Brent above $108 is structurally negative for India's import bill.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 6,
+          "score": 80,
+          "topic": "Coal India Q4 Results",
+          "domain": "india",
+          "headline": "Coal India Q4 profit jumps 11% to \u20b910,839 crore, beats estimates",
+          "summary": "Coal India reported a consolidated net profit of \u20b910,839 crore for Q4FY26, beating market expectations and rising 11.15% year-on-year from \u20b99,751 crore; sequentially the profit surged 51.4% from \u20b97,157 crore. The company also declared a final dividend of \u20b95.25 per share, rewarding investors amid a strong operational quarter.",
+          "signal": "Coal India's strong beat provides a floor for PSU sector sentiment on D-Street and signals robust domestic energy demand despite the Iran-war-driven crude spike.",
+          "sources": [
+            "LiveMint Markets"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/coal-india-q4-results-net-profit-jumps-11-yoy-to-rs-10-839-crore-declares-final-dividend-of-rs-5-25-per-share-11777301843024.html",
+          "published_at": "27 Apr \u00b7 20:29 IST",
+          "standalone_social": false,
+          "context": "Coal India is India's largest coal producer and a key PSU bellwether; strong results come amid energy security focus during Hormuz crisis.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 7,
+          "score": 78,
+          "topic": "UltraTech Cement Record Profit",
+          "domain": "india",
+          "headline": "UltraTech Cement posts record \u20b98,165 crore FY26 profit, up 35%",
+          "summary": "UltraTech Cement crossed the \u20b98,000 crore annual profit mark for the first time in FY26, with consolidated net profit rising 35.12% year-on-year to \u20b98,165.64 crore despite fuel and power costs rising 6% and freight costs rising 10%. Management indicated demand remains intact, providing confidence in India's infrastructure build-out cycle.",
+          "signal": "UltraTech's record profit amid rising input costs signals strong pricing power in India's cement sector, bullish for construction and real estate linked equities.",
+          "sources": [
+            "LiveMint Companies"
+          ],
+          "source_url": "https://www.livemint.com/companies/company-results/ultratech-cement-posts-record-fy26-net-profit-amid-rising-costs-sees-demand-intact-revenue-11777295652685.html",
+          "published_at": "27 Apr \u00b7 20:35 IST",
+          "standalone_social": false,
+          "context": "UltraTech is India's largest cement company and a proxy for government infra spending momentum.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 8,
+          "score": 76,
+          "topic": "Kevin Warsh Fed Confirmation",
+          "domain": "macro",
+          "headline": "Tillis drops blockade on Warsh Fed nomination after DOJ ends Powell probe",
+          "summary": "Senator Thom Tillis said he is dropping his blockade of Kevin Warsh's nomination to head the Federal Reserve after the Department of Justice ended a criminal probe targeting incumbent Fed Chair Jerome Powell. The development clears a significant political obstacle for Warsh's confirmation, potentially accelerating a change at the top of the US central bank.",
+          "signal": "Warsh's path to the Fed chairmanship is now materially clearer \u2014 markets should price in a more politically aligned Fed posture on rate cuts if confirmation proceeds rapidly.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-26/tillis-says-he-s-prepared-to-move-ahead-with-warsh-confirmation",
+          "published_at": "26 Apr \u00b7 19:04 IST",
+          "standalone_social": false,
+          "context": "Trump has publicly pressured Powell to cut rates; Warsh is seen as more politically amenable to the administration.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 9,
+          "score": 75,
+          "topic": "Great Nicobar India Strategic Outpost",
+          "domain": "india",
+          "headline": "India's Great Nicobar build-up alarms China over energy choke-point",
+          "summary": "India is accelerating development of a major port and military infrastructure on Great Nicobar Island, a strategic location near the Strait of Malacca that gives New Delhi leverage over China's energy supply lines and maritime trade routes. The project has gained urgency amid the Strait of Hormuz crisis, as global maritime trade disruptions intensify focus on alternative chokepoints.",
+          "signal": "Great Nicobar development is India's asymmetric hedge against Chinese naval expansion \u2014 the Hormuz crisis has dramatically elevated the geostrategic value of this investment.",
+          "sources": [
+            "Times of India"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/defence/news/great-nicobar-island-indias-new-economic-and-military-outpost-that-can-threaten-chinas-energy-security/articleshow/130553190.cms",
+          "published_at": "27 Apr \u00b7 17:34 IST",
+          "standalone_social": false,
+          "context": "India has ramped up maritime investment as part of its Indo-Pacific strategy; China's energy imports are heavily routed through Malacca.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 10,
+          "score": 74,
+          "topic": "OpenAI Ends Microsoft Exclusivity",
+          "domain": "corporate",
+          "headline": "OpenAI ends Microsoft exclusivity, opens AI models to Amazon, Google cloud",
+          "summary": "OpenAI has ended its exclusive cloud partnership with Microsoft and will now offer its AI models on Amazon Web Services and Google Cloud platforms, marking a significant strategic pivot that eliminates Microsoft's revenue share on resold OpenAI products. The move accelerates competition among hyperscalers for AI infrastructure contracts and broadens OpenAI's distribution reach.",
+          "signal": "OpenAI's multi-cloud pivot is a structural negative for Microsoft's AI moat but bullish for Google and Amazon cloud revenue \u2014 watch for repricing of cloud AI infrastructure stocks.",
+          "sources": [
+            "LiveMint Companies"
+          ],
+          "source_url": "https://www.livemint.com/companies/news/openai-ends-microsoft-exclusivity-to-offer-ai-models-on-amazon-google-cloud-platforms-11777302330146.html",
+          "published_at": "27 Apr \u00b7 21:10 IST",
+          "standalone_social": false,
+          "context": "Bloomberg social signals flagged Google worker protests against military AI contracts on the same day, adding pressure to AI governance discourse.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 11,
+          "score": 73,
+          "topic": "Italy Extradites Chinese Hacker to US",
+          "domain": "geopolitics",
+          "headline": "Italy agrees to extradite Chinese national wanted by US for hacking",
+          "summary": "The Italian government has decided to extradite a Chinese man wanted by the United States on hacking charges, according to people familiar with the matter, in a rare instance of a European ally complying with a US cyber-espionage extradition request involving a Chinese national. The decision is expected to draw a sharp reaction from Beijing and could test Italy-China diplomatic relations.",
+          "signal": "Italy's extradition decision signals a hardening of European alignment with US cyber enforcement priorities \u2014 likely to accelerate Chinese countermeasures against European firms operating in China.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-26/italy-decides-to-extradite-chinese-man-wanted-by-us-for-hacking",
+          "published_at": "26 Apr \u00b7 21:30 IST",
+          "standalone_social": false,
+          "context": "Extraditions of Chinese nationals to the US are extremely rare; this case likely involves state-linked cyber operations.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 12,
+          "score": 72,
+          "topic": "Japan Life Insurers Domestic Bond Shift",
+          "domain": "japan",
+          "headline": "Half of Japan's major life insurers to expand domestic bond holdings",
+          "summary": "Nikkei Asia reports that approximately half of Japan's major life insurance companies plan to significantly increase their domestic bond holdings, a shift that reflects both rising JGB yields and the desire to reduce foreign currency exposure amid geopolitical uncertainty driven by the Iran war and Hormuz crisis. The pivot could provide meaningful demand support for Japanese government bonds at a critical juncture for the Bank of Japan's policy normalisation.",
+          "signal": "A coordinated shift by Japanese life insurers into domestic bonds could tighten JGB spreads and complicate BOJ's exit from yield curve control \u2014 watch this as a key variable for global duration markets.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/business/insurance/half-of-japan-s-major-life-insurers-to-expand-domestic-bond-holdings",
+          "published_at": "27 Apr \u00b7 09:00 IST",
+          "standalone_social": false,
+          "context": "Japan is a major importer of crude oil via Hormuz; life insurer asset allocation shifts can move JGB markets materially.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 13,
+          "score": 71,
+          "topic": "China Blocks Meta Manus AI Deal",
+          "domain": "corporate",
+          "headline": "China blocks Meta's acquisition of AI startup Manus on security grounds",
+          "summary": "Beijing has blocked Meta's attempted acquisition of Chinese AI startup Manus, citing national security concerns and fears of technology leakage, in a move that reflects Beijing's broader policy of restricting American capital access to its domestic AI ecosystem. Manus's 'general AI agent' technology was developed in China but had been seeking to relocate operations ahead of the deal.",
+          "signal": "China's veto of the Manus-Meta deal signals that US-China AI decoupling is accelerating beyond semiconductors into software and agent-layer AI \u2014 a new front in the tech war.",
+          "sources": [
+            "Times of India"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/china-to-mark-zuckerbergs-meta-you-cannot-buy-this-company/articleshow/130549821.cms",
+          "published_at": "27 Apr \u00b7 14:51 IST",
+          "standalone_social": false,
+          "context": "Meta has been aggressively acquiring AI capabilities globally; China's blocking marks an escalation of tech nationalism.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 14,
+          "score": 70,
+          "topic": "China EU Made in Europe Countermeasures",
+          "domain": "geopolitics",
+          "headline": "China threatens retaliation over EU 'Made in Europe' procurement rules",
+          "summary": "Beijing has released a statement condemning the EU's 'Made in Europe' rules for public procurement in strategic sectors including EVs, green technology and steel, arguing the measures create investment discrimination and threatening countermeasures if the policy is enacted. The EU unveiled the rules in March requiring minimum EU-made content thresholds for companies accessing public funding in these sectors.",
+          "signal": "China-EU trade tensions are structurally escalating \u2014 European clean-tech and steel sectors face retaliatory tariff risk as Beijing maps its countermeasure options.",
+          "sources": [
+            "The Hindu",
+            "Euronews Business"
+          ],
+          "source_url": "https://www.thehindu.com/news/international/china-vows-countermeasures-if-eu-enacts-made-in-europe-plan/article70913665.ece",
+          "published_at": "27 Apr \u00b7 15:02 IST",
+          "standalone_social": false,
+          "context": "EU-China trade relations already strained by EV tariffs; 'Made in Europe' rules add another friction point.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 15,
+          "score": 69,
+          "topic": "RCB IPL Dominant Win",
+          "domain": "india",
+          "headline": "RCB rout DC for 75 in 9-wicket win; Kohli first to 9,000 IPL runs",
+          "summary": "Royal Challengers Bengaluru demolished Delhi Capitals for just 75 runs \u2014 the worst Powerplay batting performance in recent IPL history \u2014 with Josh Hazlewood and Bhuvneshwar Kumar sharing six wickets inside the first six overs, before Virat Kohli completed a nine-wicket chase and became the first batter in IPL history to reach 9,000 runs. RCB move to 12 points and close the gap with league leaders Punjab Kings.",
+          "signal": "RCB's bowling depth and Kohli's milestone form make them the primary title contender threat to Punjab Kings in the second half of IPL 2026.",
+          "sources": [
+            "Times of India",
+            "Indian Express",
+            "ET Top Stories",
+            "NDTV Profit"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-josh-hazlewood-bhuvneshwar-kumar-wreak-havoc-as-rcb-blow-away-dc-for-75-in-9-wicket-win/articleshow/130560321.cms",
+          "published_at": "27 Apr \u00b7 22:21 IST",
+          "standalone_social": false,
+          "context": "IPL 2026 is in its second half; RCB were eliminated early in recent seasons but are now genuine contenders.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 16,
+          "score": 68,
+          "topic": "Syria Assad Era Trial Damascus",
+          "domain": "middleeast",
+          "headline": "Syria puts first Assad-era security chief on trial in Damascus",
+          "summary": "Syria's new authorities have put Atef Najib, the former head of political security in Deraa province \u2014 a key figure whose brutal crackdown on protesters in 2011 helped ignite the Syrian civil war \u2014 on trial in Damascus, charged with crimes against the Syrian people. The prosecution marks the first formal accountability proceedings against a senior Assad-era official in the Syrian capital.",
+          "signal": "Transitional justice proceedings against senior Assad-era figures are beginning \u2014 this will be closely watched as a test of Syria's new government's legitimacy and rule-of-law commitments.",
+          "sources": [
+            "Al Jazeera English"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/26/syria-puts-al-assad-era-officials-on",
+          "published_at": "26 Apr \u00b7 12:31 IST",
+          "standalone_social": false,
+          "context": "Assad fell from power in late 2024; the new Damascus government faces pressure to prosecute officials responsible for mass atrocities.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 17,
+          "score": 67,
+          "topic": "UK Financial Services Reform Bill",
+          "domain": "europe",
+          "headline": "UK to introduce major City financial reform bill in King's Speech",
+          "summary": "The UK government will include a sweeping financial services reform bill in the King's Speech on May 13, the Financial Times has reported, citing government officials, in what would be the most significant overhaul of the City of London's regulatory architecture in years. UK PM Starmer simultaneously faces a parliamentary probe over Mandelson that has generated calls for his resignation.",
+          "signal": "UK financial services reform signals Labour's intent to use regulatory simplification to attract post-Brexit capital flows \u2014 a positive for London's competitiveness if delivered.",
+          "sources": [
+            "Bloomberg",
+            "The Hindu"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-04-26/city-shake-up-bill-to-be-included-in-king-s-speech-ft-reports",
+          "published_at": "26 Apr \u00b7 19:54 IST",
+          "standalone_social": false,
+          "context": "UK has been seeking to revitalise its financial sector post-Brexit; Starmer government under political pressure on multiple fronts.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 18,
+          "score": 66,
+          "topic": "India Petroleum Supply Security",
+          "domain": "india",
+          "headline": "India says no need to import petrol or diesel despite Hormuz crisis",
+          "summary": "India's Petroleum Ministry has said it does not foresee any requirement to import petrol or diesel, pushing back against consumer panic-buying triggered by the ongoing Strait of Hormuz closure and concerns about fuel price surges. However, forex traders noted that elevated crude prices continue to restrict rupee gains and weigh on India's current account.",
+          "signal": "India's public assurance on fuel stocks is confidence-boosting but markets remain alert \u2014 any Hormuz escalation that crimps Indian crude supply would be a macro shock of the first order.",
+          "sources": [
+            "The Hindu"
+          ],
+          "source_url": "https://www.thehindu.com/business/do-not-foresee-any-requirement-to-import-petrol-or-diesel-petroleum-ministry/article70912796.ece",
+          "published_at": "27 Apr \u00b7 23:11 IST",
+          "standalone_social": false,
+          "context": "India imports approximately 85% of its crude oil; Hormuz closure affects roughly 20% of global oil trade.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 19,
+          "score": 65,
+          "topic": "Hitachi AI Growth Buybacks",
+          "domain": "japan",
+          "headline": "Hitachi plans buybacks and AI expansion after record profit year",
+          "summary": "Hitachi is gearing up for share buybacks and aggressive pursuit of AI-driven growth following a record profit year, according to Nikkei Asia, positioning the Japanese conglomerate as one of the primary domestic beneficiaries of enterprise AI spending in Asia. The company's pivot toward high-margin digital infrastructure signals broader corporate Japan's strategy of using AI as a margin expansion lever.",
+          "signal": "Hitachi's buyback and AI double-down is a template other Japanese conglomerates are likely to follow \u2014 watch for accelerated AI capex announcements across the Nikkei 225 this earnings season.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/business/companies/hitachi-gears-up-for-buybacks-chases-ai-growth-after-record-profit",
+          "published_at": "27 Apr \u00b7 10:00 IST",
+          "standalone_social": false,
+          "context": "Japanese corporates are under shareholder pressure to improve ROE; AI investment provides both a growth and efficiency narrative.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 20,
+          "score": 63,
+          "topic": "Pakistan Taliban Border Clash",
+          "domain": "geopolitics",
+          "headline": "Six Pakistani soldiers killed in fresh Taliban border clashes",
+          "summary": "Six Pakistani soldiers were killed and one captured in renewed border clashes with Taliban forces, with four additional deaths reported in a separate missile strike in Kandahar, underscoring the escalating security crisis along the Pakistan-Afghanistan frontier. The violence comes as Pakistan simultaneously opens new transit routes to facilitate Iranian trade, a move that complicates Islamabad's geopolitical positioning.",
+          "signal": "Pakistan faces a dangerous two-front squeeze \u2014 Taliban border violence in the northwest and Iranian war-related economic pressure \u2014 testing the Islamabad government's strategic coherence.",
+          "sources": [
+            "Times of India"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/world/pakistan/six-pakistani-soldiers-killed-one-captured-amid-fresh-taliban-pakistan-border-clashes/articleshow/130560332.cms",
+          "published_at": "27 Apr \u00b7 22:33 IST",
+          "standalone_social": false,
+          "context": "Pakistan-Taliban tensions have been rising since the Doha Agreement breakdown; Islamabad is caught between US and Iran pressure.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 21,
+          "score": 62,
+          "topic": "Bahrain Iran War Citizenship Revocations",
+          "domain": "middleeast",
+          "headline": "Bahrain revokes citizenship of 69 people over support for Iranian attacks",
+          "summary": "Bahrain has revoked the citizenship of 69 nationals and their family members for alleged support of Iranian military attacks, and simultaneously called for global action on Iran's Strait of Hormuz blockade, signalling Manama's increasingly open alignment with US and Saudi Arabia against Tehran. The UK government is also set to formally proscribe Iran's IRGC, with campaigners claiming it as a victory.",
+          "signal": "Gulf states are escalating domestic purges of Iran-linked individuals as the war widens \u2014 this hardens the Arab-Persian divide and complicates any diplomatic off-ramp for Tehran.",
+          "sources": [
+            "The National UAE",
+            "Middle East Eye"
+          ],
+          "source_url": "https://www.thenationalnews.com/news/gulf/2026/04/27/bahrain-revokes-citizenship-of-69-people-over-support-for-iranian-attacks/",
+          "published_at": "27 Apr \u00b7 20:22 IST",
+          "standalone_social": false,
+          "context": "Bahrain has a Shia majority population but is governed by a Sunni royal family with close ties to Saudi Arabia.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 22,
+          "score": 60,
+          "topic": "Palestine Abbas Election Sweep",
+          "domain": "middleeast",
+          "headline": "Abbas loyalists sweep Palestinian elections including Gaza City seats",
+          "summary": "Palestinian elections saw Abbas loyalists sweep seats including some in Gaza, though voter turnout in the territory remained severely depressed due to the ongoing conflict and what Al Jazeera described as the continuing impact of the genocide. Israel's concurrent escalation in western Gaza \u2014 advancing ground forces while sidelining the new US-backed technocratic administration \u2014 throws the political transition into question.",
+          "signal": "Abbas's electoral consolidation amid Israel's military expansion creates a legitimacy paradox \u2014 a PA strengthened at the ballot but operationally paralysed on the ground.",
+          "sources": [
+            "Al Jazeera English"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city",
+          "published_at": "26 Apr \u00b7 16:50 IST",
+          "standalone_social": false,
+          "context": "Gaza post-ceasefire governance is fiercely contested between the PA, Hamas, and US-backed technocrats.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 23,
+          "score": 58,
+          "topic": "Samsung China Exit Strategy",
+          "domain": "corporate",
+          "headline": "Samsung eyes exit from China TV and appliance market to focus on US",
+          "summary": "Samsung Electronics is considering withdrawing from TV and home appliance sales in China to redirect resources toward the US market, according to Nikkei Asia, a strategic retreat that reflects both intensifying Chinese competition and the business logic of doubling down on higher-margin Western markets. The move would mark a significant retrenchment by one of the world's largest consumer electronics companies from its second-largest global market.",
+          "signal": "Samsung's China exit, if confirmed, is a bellwether for broader Korean and Japanese corporate decoupling from Chinese consumer markets \u2014 watch for similar announcements from Sony, LG and Panasonic.",
+          "sources": [
+            "Nikkei Asia"
+          ],
+          "source_url": "https://asia.nikkei.com/business/electronics/samsung-eyes-exit-from-china-tv-appliance-sales-to-focus-on-us",
+          "published_at": "27 Apr \u00b7 10:00 IST",
+          "standalone_social": false,
+          "context": "Chinese brands like Xiaomi, TCL and Hisense have captured dominant market share in Chinese consumer electronics.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 24,
+          "score": 56,
+          "topic": "India Global M&A Dealmaking Surge",
+          "domain": "india",
+          "headline": "Indian companies accelerate global buyouts \u2014 Sun Pharma, Tata, Bajaj lead",
+          "summary": "Indian corporations are stepping up global acquisition activity with large deals by Sun Pharma, Coforge, Tata Motors and Bajaj Auto signalling a structural shift toward capability-led international growth; Sun Pharma's Organon acquisition at $12.5 billion has made Dilip Shanghvi one of the most prolific global buyout practitioners from emerging markets. The trend reflects Indian firms using strong domestic balance sheets to secure technology and scale in overseas markets.",
+          "signal": "India's outbound M&A surge is a structural theme \u2014 watch for a new wave of Indian premium-to-global-peer valuations as acquirer status becomes embedded in corporate narratives.",
+          "sources": [
+            "LiveMint Companies",
+            "ET Top Stories"
+          ],
+          "source_url": "https://www.livemint.com/companies/indian-firms-global-acquisitions-sun-pharma-m-a-tata-motors-iveco-ktm-bajaj-coforge-deals-11777279595473.html",
+          "published_at": "27 Apr \u00b7 17:34 IST",
+          "standalone_social": false,
+          "context": "Indian outbound FDI has been rising since 2022; pharma, auto and IT are the most active sectors.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 25,
+          "score": 55,
+          "topic": "ISRO Quantum Key Distribution",
+          "domain": "india",
+          "headline": "ISRO demonstrates free-space quantum key distribution over 300 metres",
+          "summary": "India's ISRO has achieved a breakthrough demonstration of free-space Quantum Key Distribution over 300 metres, a critical step toward building a quantum-secured satellite communications network that would be immune to conventional cyber-interception. ISRO also launched a sounding rocket RH-560 from Sriharikota in a separate mission on the same day.",
+          "signal": "ISRO's QKD milestone positions India as a serious contender in the quantum communications race alongside China, the US and Europe \u2014 watch for defence and government procurement implications.",
+          "sources": [
+            "Telegram: @isroofficial"
+          ],
+          "source_url": "https://t.me/isroofficial",
+          "published_at": "27 Apr \u00b7 12:00 IST",
+          "standalone_social": true,
+          "context": "China has already demonstrated satellite-based QKD at 1,200 km; India's ground-level demonstration is an early-stage but significant step.",
+          "social_signals": [
+            {
+              "handle": "isroofficial",
+              "platform": "telegram",
+              "text": "ISRO makes breakthrough demonstration of free-space Quantum Key Distribution (QKD) over 300 m",
+              "score": 39,
+              "url": "https://t.me/isroofficial"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 26,
+          "score": 54,
+          "topic": "Google Workers Protest Military AI",
+          "domain": "corporate",
+          "headline": "580+ Google workers urge Pichai to refuse classified military AI work",
+          "summary": "More than 580 Google employees including hundreds of AI researchers have signed a letter urging CEO Sundar Pichai to refuse classified military AI contracts, following reports that a senior Pentagon official is already in talks with Google about such work. The internal protest echoes the 2018 'Project Maven' rebellion that forced Google to end its first military AI contract.",
+          "signal": "Renewed employee resistance to military AI at Google risks repeating the Project Maven exodus \u2014 any contract announcement could trigger significant attrition among top AI researchers.",
+          "sources": [
+            "Bloomberg (Bluesky)"
+          ],
+          "source_url": "https://bsky.app/profile/bloomberg.com/post/3mkihwydemk2g",
+          "published_at": "27 Apr \u00b7 14:00 IST",
+          "standalone_social": true,
+          "context": "The Pentagon is rapidly expanding AI procurement; Google is competing with Microsoft and Palantir for classified contracts.",
+          "social_signals": [
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "Exclusive: More than 580 Google workers including hundreds of AI researchers urge CEO Sundar Pichai to refuse classified military AI work, after senior Pentagon official tells me he is already in talks",
+              "score": 49,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mkihwydemk2g"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        }
+      ],
+      "social_count": 80,
+      "tg_count": 50,
+      "tw_count": 0,
+      "bk_count": 30,
+      "local_items": [
+        {
+          "source": "Times of India",
+          "title": "Vande Bharat derailment: Coach slips off tracks at Pune station",
+          "summary": "",
+          "url": "https://timesofindia.indiatimes.com/india/vande-bharat-derailment-coach-slips-off-tracks-at-pune-station/articleshow/130559924.cms",
+          "platform": "rss",
+          "weight": 80
+        },
+        {
+          "source": "NDTV Profit",
+          "title": "TCS Nashik 'Conversion' Case: Nashik Court To Rule On Accused Nida Khan's Anticipatory Bail Plea This Week",
+          "summary": "Khan on April 18 moved the Nashik court seeking anticipatory bail",
+          "url": "https://www.ndtvprofit.com/india/tcs-nashik-conversion-case-nashik-court-to-rule-on-accused-nida-khans-anticipatory-bail-plea-this-week-11417115#publisher=newsstand",
+          "platform": "rss",
+          "weight": 78
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-27T15:30:26.209074+00:00",
       "timestamp_ist": "27 Apr 2026 \u00b7 21:00 IST",
       "story_count": 27,
@@ -21073,572 +21671,6 @@
           "weight": 79
         }
       ]
-    },
-    {
-      "timestamp": "2026-04-22T21:14:59.343180+00:00",
-      "timestamp_ist": "23 Apr 2026 \u00b7 02:44 IST",
-      "story_count": 24,
-      "avg_score": 77,
-      "stories": [
-        {
-          "rank": 1,
-          "score": 93,
-          "topic": "Iran Ceasefire Extension Hormuz Standoff",
-          "domain": "geopolitics",
-          "headline": "Trump Extends Iran Truce But Hormuz Blockade Remains, Talks Falter",
-          "summary": "President Trump announced an extension of the US-Iran ceasefire after planned diplomatic talks in Pakistan were scrapped, but maintained the naval blockade of the Strait of Hormuz, demanding Iran produce a 'unified proposal' to end the war. Iran's negotiator declared reopening Hormuz 'impossible' amid what Tehran calls ongoing ceasefire violations by the US maritime blockade, while Iranian Revolutionary Guards reported seizing two ships attempting to cross the strait.",
-          "signal": "Ceasefire extension without Hormuz resolution keeps energy markets in sustained crisis mode; risk of military escalation remains elevated as both sides harden positions.",
-          "sources": [
-            "Bloomberg",
-            "AP News",
-            "Al Jazeera",
-            "The Hindu"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/us-iran-peace-talks-uncertain-with-vance-trip-scrapped",
-          "published_at": "21 Apr \u00b7 00:00 IST",
-          "standalone_social": false,
-          "context": "US-Israeli strikes eliminated Iran's supreme leader and top leadership earlier in the conflict; Iran's new leadership is navigating war-end talks while resisting what it frames as coercive terms.",
-          "social_signals": [
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf says US and Israel will not achieve their goals 'through bullying'.",
-              "score": 41,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mk4bx6xthn2e"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 2,
-          "score": 91,
-          "topic": "Oil Shock Hormuz Long-Term Impact",
-          "domain": "commodities",
-          "headline": "Top Traders Warn Billion-Barrel Oil Shock Outlasts Iran War",
-          "summary": "The world's largest oil traders warned at a major conference that the impact of the Iran war on global oil flows will persist for months even after any deal to reopen the Strait of Hormuz, with some suggesting shipping patterns through the waterway may never fully normalise. Oilfield services firm Weatherford additionally warned that earnings hits from the war will worsen this quarter before any eventual rebound, while sanctioned tankers continue moving in and out of the Gulf despite the blockade.",
-          "signal": "Structural oil supply disruption is being priced in beyond the ceasefire timeline; energy investors should expect sustained backwardation and supply chain repricing.",
-          "sources": [
-            "Bloomberg",
-            "LiveMint",
-            "Middle East Eye"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/top-traders-say-billion-barrel-oil-shock-to-echo-long-after-war",
-          "published_at": "21 Apr \u00b7 18:48 IST",
-          "standalone_social": false,
-          "context": "Brent crude trading near $99.75/barrel; Hormuz handles roughly 20% of global oil trade.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 3,
-          "score": 88,
-          "topic": "India State Assembly Elections",
-          "domain": "india",
-          "headline": "Tamil Nadu, West Bengal Vote April 23; Rs 1,000 Crore Seized Pre-Poll",
-          "summary": "Tamil Nadu votes across all 234 assembly seats and West Bengal begins its first phase of polling on April 23, with high-stakes contests pitting DMK against AIADMK in the south and TMC against BJP in Bengal. Over Rs 1,000 crore in cash, liquor, and inducements have been seized across both states, with massive central force deployments and AI-based surveillance deployed in West Bengal amid concerns over electoral integrity.",
-          "signal": "Outcomes in Tamil Nadu and Bengal will reshape India's federal political balance and signal the durability of regional party dominance ahead of 2029 general elections.",
-          "sources": [
-            "Times of India",
-            "NDTV",
-            "Economic Times",
-            "The Hindu"
-          ],
-          "source_url": "https://timesofindia.indiatimes.com/india/assembly-elections-2026-tamil-nadu-to-vote-across-all-seats-bengal-in-phase-1-can-stalin-mamata-hold-their-bastions-dmk-aiadmk-tmc-bjp-congress-vijay-tvk/articleshow/130447043.cms",
-          "published_at": "22 Apr \u00b7 17:26 IST",
-          "standalone_social": false,
-          "context": "Stalin's DMK faces the newly formed TVK as a challenger in Tamil Nadu; Mamata Banerjee's TMC is under pressure from BJP in northern Bengal constituencies.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 4,
-          "score": 86,
-          "topic": "Europe Iran War Energy Shock",
-          "domain": "europe",
-          "headline": "Germany Halves GDP Forecast; EU Eyes Jet Fuel Shortage Options",
-          "summary": "Germany officially halved its 2026 GDP growth forecast from 1% to 0.5%, directly attributing the revision to energy price shocks stemming from the Iran war and Hormuz blockade, while EU leaders meeting in Cyprus grappled with the bloc's dependence on imported jet fuel now threatened by the conflict. The European Commission is exploring emergency fuel reserve options as airlines face mounting fuel-cost pressures, with United Airlines already cutting its full-year profit forecast.",
-          "signal": "European economic vulnerability to Middle East energy shocks is crystallising into hard GDP downgrades; European equities and the euro face further pressure if Hormuz remains closed.",
-          "sources": [
-            "Euronews",
-            "Politico Europe",
-            "Al Jazeera",
-            "Bloomberg"
-          ],
-          "source_url": "http://www.euronews.com/business/2026/04/22/germany-halves-gdp-forecast-from-1-to-05-due-to-iran-war-fallout",
-          "published_at": "22 Apr \u00b7 15:11 IST",
-          "standalone_social": false,
-          "context": "EU leaders held an emergency summit in Cyprus focused on Iran war fallout, energy security, and the bloc's multi-year budget.",
-          "social_signals": [
-            {
-              "handle": "theguardian.com",
-              "platform": "bluesky",
-              "text": "How Ireland's war-driven fuel blockades revealed the true cost of Europe's oil addiction",
-              "score": 31,
-              "url": "https://bsky.app/profile/theguardian.com/post/3mk47df347g2z"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 5,
-          "score": 85,
-          "topic": "Israeli Strikes Kill Lebanon Journalists",
-          "domain": "middleeast",
-          "headline": "Israeli Strike Kills Lebanese Journalist Amal Khalil in South Lebanon",
-          "summary": "Lebanese journalist Amal Khalil was killed in an Israeli airstrike in southern Lebanon, with her employer Al-Akhbar newspaper confirming her death after her body was recovered hours after the attack; colleague Zeinab Faraj was wounded and is stable after surgery. A Red Cross vehicle evacuating the wounded journalists also came under Israeli fire, and Israel's military struck the house where the journalists had taken shelter after an initial attack, according to Lebanon's health ministry.",
-          "signal": "Targeting of journalists in active conflict zones escalates press freedom and international humanitarian law concerns; expect UN Security Council condemnations and NGO pressure campaigns.",
-          "sources": [
-            "Middle East Eye",
-            "AP News (social)",
-            "Al Jazeera (social)"
-          ],
-          "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-journalist-amal-khalil-killed-israeli-strike",
-          "published_at": "23 Apr \u00b7 00:47 IST",
-          "standalone_social": false,
-          "context": "Israel has continued military operations in southern Lebanon in parallel with the Iran ceasefire; Lebanon's war with Israel remains a separate active front.",
-          "social_signals": [
-            {
-              "handle": "apnews.com",
-              "platform": "bluesky",
-              "text": "The body of a Lebanese journalist killed in an Israeli airstrike on southern Lebanon has been recovered hours after the attack. The daily Al-Akhbar newspaper confirmed that its reporter, Amal Khalil.",
-              "score": 44,
-              "url": "https://bsky.app/profile/apnews.com/post/3mk4favhdd22i"
-            },
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "Journalists wounded in Israeli attacks in at-Tiri, Lebanon's National News Agency (NNA) reports.",
-              "score": 45,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mk44wcfzf52e"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 6,
-          "score": 84,
-          "topic": "Global Markets Ceasefire Relief Rally",
-          "domain": "markets",
-          "headline": "Wall Street Surges, Gold Jumps $70 on Iran Ceasefire Extension",
-          "summary": "US equity markets rallied sharply after Trump's ceasefire extension announcement, with the Dow gaining 0.72%, S&P 500 up 0.65%, and Nasdaq up 0.76%, while gold futures surged $70/oz and silver rose $2.14/oz as safe-haven demand spiked on sustained geopolitical uncertainty. Indian markets moved in the opposite direction with Sensex tumbling 757 points, dragged by IT shares and a jump in oil prices, as the rupee weakened to near 94 per US dollar.",
-          "signal": "Divergence between US and Indian equity reactions signals India-specific vulnerabilities from oil import costs and IT sector headwinds; watch RBI's next policy response.",
-          "sources": [
-            "LiveMint",
-            "Hindu Business",
-            "Bloomberg"
-          ],
-          "source_url": "https://www.livemint.com/market/stock-market-news/wall-street-surges-after-trump-extends-iran-ceasefire-11776864300315.html",
-          "published_at": "22 Apr \u00b7 16:52 IST",
-          "standalone_social": false,
-          "context": "Brent crude near $99.75/barrel; Indian equity markets sensitive to oil-price-driven current account pressures.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 7,
-          "score": 82,
-          "topic": "Starmer Mandelson Vetting Crisis",
-          "domain": "europe",
-          "headline": "Mandelson Vetting Fiasco Leaves Starmer Looking Like Lame Duck",
-          "summary": "Former top official Sir Olly Robbins told a public inquiry that No. 10 had a 'dismissive attitude' toward security vetting for Peter Mandelson's appointment as UK ambassador to Washington, and that Starmer's team was advised to wait for clearances before making the appointment. Bloomberg and multiple Politico reports describe 48 hours of brutal public testimony that has left the UK prime minister looking increasingly isolated, with senior aides publicly distancing themselves from the decision at least four times in one week.",
-          "signal": "Starmer's political authority is materially weakened ahead of local elections; watch for cabinet reshuffles or a formal inquiry that could further paralyse the government.",
-          "sources": [
-            "Bloomberg",
-            "BBC News",
-            "Politico Europe"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/mandelson-vetting-fiasco-leaves-starmer-looking-like-lame-duck",
-          "published_at": "21 Apr \u00b7 12:37 IST",
-          "standalone_social": false,
-          "context": "Mandelson's appointment was controversial given his extensive China business ties; the vetting row has now consumed weeks of parliamentary and media attention.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 8,
-          "score": 81,
-          "topic": "Fed Chair Warsh Nomination Hearing",
-          "domain": "macro",
-          "headline": "Fed Nominee Warsh Vows Independence at Senate Hearing; Tillis Adds Probe Condition",
-          "summary": "Kevin Warsh told his Senate confirmation hearing he is 'no sock puppet' for Donald Trump and pledged Federal Reserve independence, as the hearing spotlighted deep concerns among senators about his proximity to the president who has publicly demanded rate cuts. Republican Senator Thom Tillis signalled he would back Warsh's confirmation only if an ongoing criminal inquiry into the Fed is dropped and Congress launches its own investigation, adding a significant new condition to the path for Warsh's approval.",
-          "signal": "Warsh's nomination faces material obstacles from within the Republican caucus; prolonged uncertainty over Fed leadership is a risk factor for dollar and rate markets.",
-          "sources": [
-            "Bloomberg",
-            "Al Jazeera"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/tillis-signals-openness-to-warsh-vote-if-congress-adds-fed-probe",
-          "published_at": "21 Apr \u00b7 19:07 IST",
-          "standalone_social": false,
-          "context": "Trump has been publicly pressuring the Fed to cut rates while simultaneously nominating a replacement for the current chair.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 9,
-          "score": 80,
-          "topic": "Jio Allianz Insurance JV India",
-          "domain": "india",
-          "headline": "Jio Financial and Allianz Form 50-50 Non-Life Insurance Joint Venture",
-          "summary": "Jio Financial Services and German insurer Allianz have agreed to a 50-50 joint venture to establish a new non-life and health insurance company in India, aiming to build a 'new model' for general insurance by combining Jio's 450 million-plus digital user base with Allianz's global underwriting expertise. The deal displaces the long-standing Bajaj Allianz partnership and signals a major restructuring of India's insurance sector ahead of anticipated regulatory liberalisation.",
-          "signal": "Jio's entry into insurance could materially disrupt incumbent players; watch Bajaj Finserv and existing general insurers for valuation re-rating risk.",
-          "sources": [
-            "LiveMint",
-            "Economic Times"
-          ],
-          "source_url": "https://www.livemint.com/companies/jio-allianz-form-50-50-joint-venture-to-set-up-non-life-insurance-company-bajaj-finserv-11776864087974.html",
-          "published_at": "22 Apr \u00b7 21:03 IST",
-          "standalone_social": false,
-          "context": "Jio Financial Services has been aggressively expanding into financial services including mutual funds, broking, and now insurance.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 10,
-          "score": 79,
-          "topic": "Tech Mahindra Q4 FY26 Results",
-          "domain": "india",
-          "headline": "Tech Mahindra Rebounds With 2% Revenue Growth After Two-Year Decline",
-          "summary": "Tech Mahindra reported FY26 revenue of $6.39 billion, nearly 2% growth that ended a two-year revenue decline and beat street expectations, as the company accelerates its transition to an AI-led service delivery model. However, the IT firm's headcount fell by 1,993 employees as it pushes for AI-driven efficiency, raising questions about the employment implications of the sector-wide shift toward automation.",
-          "signal": "Tech Mahindra's turnaround validates the restructuring thesis but the headcount drop signals AI-led margin improvement comes at a labour cost; watch sector peers for similar trends.",
-          "sources": [
-            "LiveMint"
-          ],
-          "source_url": "https://www.livemint.com/companies/company-results/tech-mahindra-revenue-growth-profit-turnaround-it-sector-india-results-hcl-infosys-tcs-11776859269018.html",
-          "published_at": "22 Apr \u00b7 18:56 IST",
-          "standalone_social": false,
-          "context": "Indian IT sector is under pressure from AI disruption and slower discretionary tech spending from US and European clients.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 11,
-          "score": 78,
-          "topic": "Adobe $25B Buyback AI Disruption",
-          "domain": "corporate",
-          "headline": "Adobe Announces $25 Billion Buyback Amid AI Disruption Share Slide",
-          "summary": "Adobe Inc. announced a $25 billion stock buyback programme to be executed over four years following a significant decline in share value driven by investor anxiety about AI disruption to its creative software business. The move is one of the largest buyback announcements in recent tech history and signals management confidence in the stock's intrinsic value despite competitive pressure from generative AI image tools.",
-          "signal": "Adobe's buyback is a major capital allocation signal but does not resolve the fundamental AI disruption narrative; watch whether the programme actually lifts the stock or is seen as financial engineering.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/adobe-announces-25-billion-buyback-following-share-slide",
-          "published_at": "21 Apr \u00b7 20:16 IST",
-          "standalone_social": false,
-          "context": "Adobe's stock has been under sustained pressure as generative AI tools from OpenAI, Midjourney, and others threaten its core Photoshop and Creative Cloud franchise.",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 12,
-          "score": 77,
-          "topic": "Russia Blocks Kazakh Oil Germany",
-          "domain": "europe",
-          "headline": "Russia to Block Kazakh Oil Flow to Key Berlin Refinery From May 1",
-          "summary": "Germany confirmed that Russia will block flows of Kazakh oil through the Druzhba pipeline to a critical refinery that supplies much of Berlin's energy needs, effective May 1, adding a separate European energy shock on top of the Iran war's Hormuz disruption. The EU is concurrently finalising a \u20ac90 billion Ukraine loan that hinges partly on Hungary ending its opposition, with Kyiv hopeful that the Druzhba pipeline restoration for Ukraine aid flows will unlock that financing.",
-          "signal": "Germany faces a compounding energy crisis from both Middle East and Russian sources simultaneously; Berlin's industrial base faces acute fuel cost pressure heading into Q2.",
-          "sources": [
-            "DW Business",
-            "Al Jazeera",
-            "Politico Europe"
-          ],
-          "source_url": "https://www.dw.com/en/russia-to-block-kazakh-oil-flows-on-key-pipeline-supplying-berlin/a-76895743",
-          "published_at": "22 Apr \u00b7 18:05 IST",
-          "standalone_social": false,
-          "context": "Germany had been diversifying away from Russian energy since 2022 but retains residual pipeline dependencies; the Druzhba cutoff adds to post-Iran-war energy stress.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 13,
-          "score": 76,
-          "topic": "India Germany Defence Pacts",
-          "domain": "india",
-          "headline": "India and Germany Sign Defence Cooperation Pacts Including Submarine Deal",
-          "summary": "India and Germany have signed a series of defence cooperation agreements, with Germany's defence minister indicating the two countries expect to finalise a submarine deal 'soon', marking a significant step in India's effort to diversify its defence procurement away from Russia. The agreements span maritime, technology transfer, and co-production frameworks and signal deepening India-Europe security ties in the context of the ongoing Iran war and global supply chain realignments.",
-          "signal": "An India-Germany submarine deal would be one of India's largest European defence contracts and a strategic pivot with implications for Indian Navy modernisation and Make in India shipbuilding.",
-          "sources": [
-            "Indian Express",
-            "Reuters (social)"
-          ],
-          "source_url": "https://indianexpress.com/article/india/india-germany-ink-defence-cooperation-pacts-10650954/",
-          "published_at": "23 Apr \u00b7 01:48 IST",
-          "standalone_social": false,
-          "context": "India is the world's largest arms importer and has been actively diversifying suppliers; Germany is keen to expand its defence industrial exports.",
-          "social_signals": [
-            {
-              "handle": "reuters.com",
-              "platform": "bluesky",
-              "text": "Germany expects to sign submarine deal with India 'soon', defence minister says",
-              "score": 52,
-              "url": "https://bsky.app/profile/reuters.com/post/3mk4ei3bogw2p"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 14,
-          "score": 75,
-          "topic": "Trump Economy Approval Slump",
-          "domain": "macro",
-          "headline": "Trump Economic Approval Drops to 30% as Iran War Drives Prices Up",
-          "summary": "A new AP-NORC poll shows Trump's approval rating on the economy has fallen sharply to 30% in April from 38% in March, as the Iran war drives up fuel and consumer prices and household costs mount. The poll represents a significant political vulnerability for the administration as the war's economic fallout widens beyond energy markets into consumer sentiment.",
-          "signal": "A 30% economic approval rating is a historically low threshold that typically precedes midterm election setbacks; watch for policy pivots on Iran talks or domestic relief measures.",
-          "sources": [
-            "AP News"
-          ],
-          "source_url": "https://apnews.com/article/trump-approval-iran-economy-cost-of-living-poll-fff492898cc8ff34e11df90ec4837a79",
-          "published_at": "21 Apr \u00b7 20:05 IST",
-          "standalone_social": false,
-          "context": "Iran war-driven fuel price increases are feeding through to consumer goods, airline fares, and logistics costs across the US economy.",
-          "social_signals": [],
-          "trend": "falling",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 15,
-          "score": 74,
-          "topic": "GE Vernova Data Centre Surge",
-          "domain": "corporate",
-          "headline": "GE Vernova Shares Jump 15% to Record High on Data Centre Demand",
-          "summary": "GE Vernova surged 15.2% to $1,142 per share after the energy technology company raised its full-year 2026 revenue outlook to $44.5\u2013$45.5 billion, driven by surging demand for power equipment from hyperscale data centre operators. Q1 revenue rose 16% year-on-year to $9.3 billion with a profit of $4.8 billion, making it one of the strongest quarters in the company's post-GE spinoff history.",
-          "signal": "GE Vernova's results confirm that data centre power infrastructure is a structural growth theme immune to broader macro headwinds; a re-rating of the power equipment sector is underway.",
-          "sources": [
-            "LiveMint"
-          ],
-          "source_url": "https://www.livemint.com/market/stock-market-news/ge-vernova-shares-jump-over-15-to-record-high-after-company-raises-2026-outlook-on-data-centre-demand-11776871936817.html",
-          "published_at": "22 Apr \u00b7 21:45 IST",
-          "standalone_social": false,
-          "context": "AI infrastructure buildout is driving unprecedented electricity demand; GE Vernova makes gas turbines, wind turbines, and grid equipment.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 16,
-          "score": 73,
-          "topic": "Tesla Q1 Earnings Beat",
-          "domain": "corporate",
-          "headline": "Tesla Q1 Earnings Beat Estimates; Analysts Forecast 30% Profit Surge",
-          "summary": "Tesla reported first-quarter earnings that beat Wall Street estimates, with analysts forecasting adjusted quarterly earnings up 30% year-on-year, supported by progress in robotics and autonomous driving business lines. The results provide a near-term profitability signal even as the electric vehicle maker navigates brand headwinds from CEO Elon Musk's political activities and trade war disruptions.",
-          "signal": "Tesla's Q1 beat reduces immediate bear-case pressure but does not resolve longer-term demand concerns in key markets like China and Europe; watch Q2 delivery guidance closely.",
-          "sources": [
-            "LiveMint",
-            "Bloomberg (social)"
-          ],
-          "source_url": "https://www.livemint.com/market/tesla-stock-rises-over-1-as-analysts-predict-exceptional-q1-earnings-11776874932456.html",
-          "published_at": "22 Apr \u00b7 22:15 IST",
-          "standalone_social": false,
-          "context": "Tesla has faced declining sales in multiple markets amid political controversy around Musk; the earnings beat is being watched as a signal of business resilience.",
-          "social_signals": [
-            {
-              "handle": "bloomberg.com",
-              "platform": "bluesky",
-              "text": "Tesla reported first-quarter earnings that beat Wall Street's estimates, a sign profitability is holding up as the electric-vehicle maker invests in new business lines around robotics and driverless cars.",
-              "score": 44,
-              "url": "https://bsky.app/profile/bloomberg.com/post/3mk4crxofgx25"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 17,
-          "score": 72,
-          "topic": "Indian Rupee Weakens Oil Pressure",
-          "domain": "india",
-          "headline": "Rupee Nears 94/Dollar as Oil Prices Jump; Sensex Falls 757 Points",
-          "summary": "The Indian rupee weakened to near 94 per US dollar, settling 39 paise lower, as Brent crude trading near $99.75/barrel put significant pressure on India's import bill and current account. The BSE Sensex simultaneously tumbled 756.84 points or 0.95% to settle at 78,516.49, dragged by IT sector weakness and the oil price surge, snapping a three-day winning streak.",
-          "signal": "India's twin vulnerability to oil prices and a weak rupee is being exposed; if Brent crosses $100/barrel sustainably, RBI may face a difficult trade-off between rate cuts and currency defence.",
-          "sources": [
-            "Hindu Business",
-            "LiveMint"
-          ],
-          "source_url": "https://www.thehindu.com/business/markets/rupee-nears-94-per-us-dollar-level-settles-39-paise-lower/article70892526.ece",
-          "published_at": "22 Apr \u00b7 16:52 IST",
-          "standalone_social": false,
-          "context": "India imports approximately 85% of its crude oil needs; every $10/barrel increase in oil prices widens the current account deficit by approximately 0.4% of GDP.",
-          "social_signals": [],
-          "trend": "falling",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 18,
-          "score": 71,
-          "topic": "Japan MBK Makino Acquisition Blocked",
-          "domain": "japan",
-          "headline": "Japan Government Blocks Asian PE Firm MBK's Makino Fr\u00e4s Acquisition on Security Grounds",
-          "summary": "The Japanese government has issued a rare stop order to MBK Partners, an Asia-based private equity firm, blocking its acquisition of Makino Milling Machine on national security grounds under the Foreign Exchange and Foreign Trade Act \u2014 the first such stop order since the law was tightened in 2017. The move signals Japan's increasing scrutiny of foreign takeovers in precision manufacturing and defence-adjacent industries.",
-          "signal": "Japan is hardening its foreign investment screening in strategic manufacturing; PE firms targeting Japanese industrial assets face significantly elevated regulatory risk.",
-          "sources": [
-            "Nikkei (social)"
-          ],
-          "source_url": "https://bsky.app/profile/nikkei.com/post/3mk3obafjkh2p",
-          "published_at": "22 Apr \u00b7 16:00 IST",
-          "standalone_social": false,
-          "context": "Japan revised its foreign investment screening rules in 2017 and again in 2020; Makino is a major global CNC machine tool maker used in aerospace and automotive manufacturing.",
-          "social_signals": [
-            {
-              "handle": "nikkei.com",
-              "platform": "bluesky",
-              "text": "\u7267\u91ce\u30d5\u30e9\u30a4\u30b9\u88fd\u4f5c\u6240\u306e\u8cb7\u53ce\u3001\u30a2\u30b8\u30a2MBK\u30d1\u30fc\u30c8\u30ca\u30fc\u30ba\u306b\u4e2d\u6b62\u52e7\u544a \u653f\u5e9c\u304c\u5b89\u4fdd\u4e0a\u306e\u61f8\u5ff5 \u5916\u70ba\u6cd5\u306b\u57fa\u3065\u304f\u4e2d\u6b62\u52e7\u544a\u306f2017\u5e74\u306e\u540c\u6cd5\u6539\u6b63\u4ee5\u964d\u3067\u306f\u521d\u3081\u3066\u306e\u4e8b\u4f8b",
-              "score": 43,
-              "url": "https://bsky.app/profile/nikkei.com/post/3mk3obafjkh2p"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 19,
-          "score": 70,
-          "topic": "UK Smoking Ban Generation",
-          "domain": "europe",
-          "headline": "UK Agrees Generational Smoking Ban for Those Born After 2008",
-          "summary": "The UK Parliament has agreed landmark legislation that will prohibit anyone born after January 1, 2009 from ever legally purchasing cigarettes, creating what the government describes as a 'smoke-free generation' by progressively raising the legal age of sale each year. The measure is one of the most ambitious tobacco control policies globally and follows similar initiatives in New Zealand.",
-          "signal": "The UK smoking ban sets a global precedent for generational prohibition policies; tobacco companies face long-run structural demand destruction in a major market.",
-          "sources": [
-            "BBC News"
-          ],
-          "source_url": "https://www.bbc.co.uk/news/articles/cn08jy6w0l5o",
-          "published_at": "21 Apr \u00b7 10:22 IST",
-          "standalone_social": false,
-          "context": "The UK had been debating this legislation for over a year; it follows the model pioneered by New Zealand before that country reversed its own ban.",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 20,
-          "score": 68,
-          "topic": "Prudential Japan Fraud Suspension",
-          "domain": "japan",
-          "headline": "Prudential Japan Suspends Sales 180 Days Over Fraud Allegations",
-          "summary": "Prudential Life Insurance Japan has extended its sales suspension by an additional 180 days following an escalating series of complaints related to alleged misuse of customer funds, with Nikkei Asia reporting the company has acknowledged the issue as organisational in nature rather than isolated incidents. Three Japanese insurers have also separately been found to have improperly handled confidential Toyota information, pointing to a broader corporate governance crisis in Japan's insurance sector.",
-          "signal": "Japan's insurance sector faces a systemic trust and regulatory crisis; expect the FSA to impose stricter oversight and possible industry-wide audits of customer fund handling.",
-          "sources": [
-            "Japan Times",
-            "Nikkei Asia"
-          ],
-          "source_url": "https://www.japantimes.co.jp/business/2026/04/22/companies/prudential-six-months/",
-          "published_at": "22 Apr \u00b7 14:35 IST",
-          "standalone_social": false,
-          "context": "Prudential Japan is a major life insurer operating under license in Japan's regulated insurance market; extended suspensions are rare and signal severe regulatory concern.",
-          "social_signals": [],
-          "trend": "falling",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 21,
-          "score": 67,
-          "topic": "Nvidia VAST Data $30B Valuation",
-          "domain": "corporate",
-          "headline": "Nvidia-Backed VAST Data Valued at $30 Billion in New Funding Round",
-          "summary": "VAST Data, an AI data infrastructure company backed by Nvidia, has reached a $30 billion valuation in its latest funding round, reflecting surging investor appetite for AI storage and data management infrastructure that underpins large language model training and inference. The valuation makes VAST Data one of the highest-valued private AI infrastructure companies globally.",
-          "signal": "The $30 billion VAST Data valuation signals that AI infrastructure-layer startups \u2014 not just model companies \u2014 are attracting top-tier capital at premium multiples.",
-          "sources": [
-            "Reuters (social)"
-          ],
-          "source_url": "https://bsky.app/profile/reuters.com/post/3mk4flqctnk2g",
-          "published_at": "21 Apr \u00b7 19:00 IST",
-          "standalone_social": false,
-          "context": "Nvidia has been strategically investing in AI software and infrastructure companies to extend its ecosystem beyond GPU hardware.",
-          "social_signals": [
-            {
-              "handle": "reuters.com",
-              "platform": "bluesky",
-              "text": "Nvidia-backed VAST Data valued at $30 billion in latest funding round",
-              "score": 48,
-              "url": "https://bsky.app/profile/reuters.com/post/3mk4flqctnk2g"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 22,
-          "score": 65,
-          "topic": "OpenAI New Image Model Charts",
-          "domain": "corporate",
-          "headline": "OpenAI Releases Image Model Upgrade; Names First EMEA Managing Director",
-          "summary": "OpenAI unveiled an upgraded AI image-generation model specifically engineered to produce accurate charts, scientific diagrams, and complex professional visualisations, targeting enterprise and research users where precision matters more than artistic generation. The company simultaneously appointed Emmanuel Marill, a former Airbnb executive, as its first managing director for Europe, Middle East, and Africa, as political pressure grows in those regions over dependence on US AI services.",
-          "signal": "OpenAI's dual move \u2014 new technical capability plus regional leadership \u2014 signals an accelerating push into professional and regulated markets where geopolitical AI sovereignty concerns are highest.",
-          "sources": [
-            "Bloomberg",
-            "LiveMint"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-21/openai-unveils-image-model-that-s-better-at-charts-and-diagrams",
-          "published_at": "21 Apr \u00b7 18:16 IST",
-          "standalone_social": false,
-          "context": "OpenAI faces growing regulatory and political scrutiny in Europe; the EMEA appointment is seen as a move to localise engagement with Brussels and regional governments.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 23,
-          "score": 63,
-          "topic": "India Domestic Real Estate Boom",
-          "domain": "india",
-          "headline": "India Real Estate Inflows Jump 72% to $5.1B in Q1 on Domestic Capital",
-          "summary": "India's real estate sector saw domestic capital inflows surge 72% to $5.1 billion in Q1 2026, with domestic investors now driving the country's property boom rather than foreign institutional capital. The shift marks a structural change in India's real estate funding model as local high-net-worth individuals, family offices, and domestic funds fill the gap left by cautious foreign investors navigating global uncertainty.",
-          "signal": "Domestic capital dominance in Indian real estate reduces currency and foreign capital flow risks for the sector; watch for premium residential and commercial segments to continue outperforming.",
-          "sources": [
-            "Economic Times"
-          ],
-          "source_url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/domestic-capital-drives-indias-real-estate-boom-as-inflows-jump-72-to-5-1-billion-in-q1/articleshow/130451215.cms",
-          "published_at": "23 Apr \u00b7 00:56 IST",
-          "standalone_social": false,
-          "context": "India's residential real estate market has been on a multi-year upcycle driven by post-COVID urbanisation, rising incomes, and constrained supply in major metros.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 24,
-          "score": 61,
-          "topic": "EU Montenegro Accession Treaty",
-          "domain": "europe",
-          "headline": "EU Moves to Draft Montenegro Accession Treaty in Enlargement Push",
-          "summary": "The European Union has moved to begin drafting a formal accession treaty with Montenegro, in what would be a significant milestone for the country's two-decade bid to join the bloc and a signal of renewed EU enlargement momentum in the Western Balkans. The move comes as the EU seeks to use enlargement as a geopolitical tool to anchor the region against Russian and Chinese influence.",
-          "signal": "Montenegro accession progress accelerates EU Balkans strategy; watch for renewed political pressure on Serbia and Bosnia to advance their own reform processes.",
-          "sources": [
-            "Reuters (social)"
-          ],
-          "source_url": "https://bsky.app/profile/reuters.com/post/3mk4fuozpe22g",
-          "published_at": "21 Apr \u00b7 20:00 IST",
-          "standalone_social": false,
-          "context": "Montenegro has been an EU candidate since 2010 and opened accession negotiations in 2012; it is considered the most advanced candidate country in the Western Balkans.",
-          "social_signals": [
-            {
-              "handle": "reuters.com",
-              "platform": "bluesky",
-              "text": "EU moves to start drafting Montenegro accession treaty",
-              "score": 40,
-              "url": "https://bsky.app/profile/reuters.com/post/3mk4fuozpe22g"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        }
-      ],
-      "social_count": 78,
-      "tg_count": 50,
-      "tw_count": 0,
-      "bk_count": 28,
-      "local_items": []
     }
   ],
   "archives": []
