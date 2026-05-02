@@ -1,6 +1,675 @@
 {
   "digests": [
     {
+      "timestamp": "2026-05-02T07:17:32.293830+00:00",
+      "timestamp_ist": "02 May 2026 \u00b7 12:47 IST",
+      "story_count": 26,
+      "avg_score": 70,
+      "stories": [
+        {
+          "rank": 1,
+          "score": 88,
+          "topic": "Iran War Ceasefire Status",
+          "domain": "geopolitics",
+          "headline": "Trump claims Iran war 'terminated' to dodge congressional deadline",
+          "summary": "The Trump administration declared the Iran war 'terminated' in a letter to Congress, arguing the April ceasefire means no new congressional authorization is required under the 60-day War Powers Act threshold. Iran's senior military officials countered that renewed conflict is 'likely,' with Tehran calling the US ports siege 'intolerable' and Trump saying he is 'not happy' with Iran's latest peace proposals.",
+          "signal": "The widening gap between Washington's legal framing and Tehran's military posture significantly raises the risk of renewed hostilities despite the nominal ceasefire.",
+          "sources": [
+            "AP News",
+            "Politico Europe",
+            "Al Jazeera",
+            "The National (UAE)",
+            "Middle East Eye"
+          ],
+          "source_url": "https://apnews.com/article/trump-war-powers-pentagon-iran-422311a4443b987af87cd4ca35d54f48",
+          "published_at": "01 May \u00b7 06:05 IST",
+          "standalone_social": false,
+          "context": "War Powers Resolution requires congressional approval after 60 days; ceasefire began early April.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "US President Donald Trump says the latest Iranian peace proposal includes demands he 'can't agree to'.",
+              "score": 47,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mku2zpauo42v"
+            },
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "Iran standoff could leave Trump worse off than before he went to war reut.rs/4cKzXsj",
+              "score": 28,
+              "url": "https://bsky.app/profile/reuters.com/post/3mktuv2gbqk2m"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 2,
+          "score": 85,
+          "topic": "Strait of Hormuz Oil Disruption",
+          "domain": "commodities",
+          "headline": "US seizes Iranian oil 'like pirates'; sanctions threat on shipping firms",
+          "summary": "Trump publicly boasted that the US Navy is seizing Iranian ships and cargo near the Strait of Hormuz 'like pirates,' calling it 'a very profitable business,' while the US warned shipping firms they could face sanctions for paying Iranian tolls to transit the strait. Crude futures fell on hopes for US-Iran negotiations even as oil-dependent economies scrambled to secure supplies.",
+          "signal": "US sanctions on shipping firms paying Iranian tolls could trigger a sharp reduction in Hormuz transit volumes, escalating the global energy supply shock.",
+          "sources": [
+            "LiveMint",
+            "Middle East Eye",
+            "Indian Express",
+            "Al Jazeera"
+          ],
+          "source_url": "https://www.livemint.com/companies/us-warns-shipping-firms-they-could-face-sanctions-over-paying-iranian-tolls-in-the-strait-of-hormuz-11777705811731.html",
+          "published_at": "30 Apr \u00b7 03:01 IST",
+          "standalone_social": false,
+          "context": "Strait of Hormuz handles roughly 20% of global oil trade; Iran has been levying transit tolls since blockade began.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 3,
+          "score": 84,
+          "topic": "Japan Yen Intervention",
+          "domain": "finance",
+          "headline": "Japan intervenes in yen market; rally risks fading without follow-through",
+          "summary": "Japanese authorities intervened in currency markets to support the yen, with the dollar-yen correlation to Brent crude hitting its highest level since 2021 just before the move. Analysts warn the intervention-fueled rally is at risk of evaporating quickly given persistent structural weaknesses, and Japan may need to re-enter the market to defend the exchange rate.",
+          "signal": "Without sustained intervention or a structural shift in oil prices, the yen rally is likely temporary, keeping import-cost inflation elevated for Japan.",
+          "sources": [
+            "Bloomberg",
+            "Nikkei Asia",
+            "Japan Times",
+            "LiveMint"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-05-01/yen-s-correlation-with-oil-hit-2021-high-before-intervention",
+          "published_at": "01 May \u00b7 11:41 IST",
+          "standalone_social": false,
+          "context": "Yen weakness driven by energy import costs surging due to Hormuz disruption.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 4,
+          "score": 82,
+          "topic": "US Troops Germany Withdrawal",
+          "domain": "geopolitics",
+          "headline": "Pentagon withdraws 5,000 US troops from Germany amid Merz tensions",
+          "summary": "Defense Secretary Pete Hegseth ordered the withdrawal of approximately 5,000 American troops from Germany, reducing the US presence to roughly 33,000, in a move widely seen as reflecting Trump administration tensions with Berlin over the Iran war. German Chancellor Friedrich Merz had recently clashed with Trump over the conflict, accelerating fears of a weakened NATO posture in Europe.",
+          "signal": "The troop drawdown signals Washington is willing to use military deployments as leverage in alliance disputes, accelerating European defense autonomy efforts.",
+          "sources": [
+            "Politico Europe",
+            "The National (UAE)",
+            "Middle East Eye"
+          ],
+          "source_url": "https://www.politico.eu/article/pentagon-orders-withdrawal-of-5000-us-troops-from-germany/",
+          "published_at": "02 May \u00b7 11:21 IST",
+          "standalone_social": false,
+          "context": "Germany hosts the largest US troop presence in Europe; move follows Merz-Trump dispute over Iran war strategy.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "US embassy warns citizens in UK as threat level raised to 'severe'",
+              "score": 46,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mktze2rbyi2k"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 5,
+          "score": 80,
+          "topic": "India State Elections Counting",
+          "domain": "india",
+          "headline": "Supreme Court backs EC on Bengal counting staff; TMC plea dismissed",
+          "summary": "India's Supreme Court dismissed the Trinamool Congress petition against deployment of central government staff for vote counting in West Bengal, recording the Election Commission's assurance that its April 13 circular would be followed. West Bengal re-polling recorded over 16% voter turnout in early hours, while Kerala finalised counting arrangements with 15,465 officials across 140 centres ahead of May 4 results.",
+          "signal": "The Supreme Court's decisive rejection of TMC's plea strengthens the Election Commission's authority ahead of a closely contested Bengal result on May 4.",
+          "sources": [
+            "Times of India",
+            "The Hindu",
+            "Indian Express",
+            "ET Top Stories",
+            "NDTV News"
+          ],
+          "source_url": "https://indianexpress.com/article/legal-news/sc-backs-ec-counting-staff-bengal-tmc-plea-dismissed-10667200/",
+          "published_at": "02 May \u00b7 11:00 IST",
+          "standalone_social": false,
+          "context": "Assembly elections 2026 results due May 4 across West Bengal, Kerala, Tamil Nadu, and other states.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 6,
+          "score": 79,
+          "topic": "Adani Group Restructuring",
+          "domain": "india",
+          "headline": "Adani Group unveils operating model overhaul to accelerate growth",
+          "summary": "Gautam Adani's conglomerate announced a major restructuring of its operating model aimed at cutting decision-making time and pushing for accelerated growth across its diversified businesses. The move is seen as part of Adani's broader effort to restore investor confidence and sharpen execution following the turbulence of the past two years.",
+          "signal": "The restructuring signals Adani Group is entering an aggressive expansion phase and could trigger significant portfolio rebalancing by institutional investors.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-05-01/adani-group-unveils-restructuring-as-it-positions-for-growth",
+          "published_at": "01 May \u00b7 12:00 IST",
+          "standalone_social": false,
+          "context": "Adani Group has been rebuilding its market position since the Hindenburg Research short-seller report in 2023.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 7,
+          "score": 78,
+          "topic": "Iran Internet Shutdown Economy",
+          "domain": "middleeast",
+          "headline": "Iran's 90-million-person internet blackout devastates online economy",
+          "summary": "Iran's near-total disconnection from the global internet since early 2026 \u2014 one of the world's longest national shutdowns \u2014 has devastated a thriving online economy that had previously defied years of sanctions and government restrictions. Businesses relying on digital platforms, e-commerce, and international connectivity have been crushed, compounding the economic damage from the US siege.",
+          "signal": "The prolonged internet shutdown is creating irreversible structural damage to Iran's private sector, reducing negotiating leverage for any post-war economic recovery.",
+          "sources": [
+            "AP News"
+          ],
+          "source_url": "https://apnews.com/article/iran-us-war-internet-business-economy-online-9e1cc7c871cfea25978e3e518065cc26",
+          "published_at": "01 May \u00b7 10:39 IST",
+          "standalone_social": false,
+          "context": "Iran has 90 million citizens; its internet economy had grown significantly despite prior Western sanctions.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 8,
+          "score": 77,
+          "topic": "India Emergency Alert System",
+          "domain": "india",
+          "headline": "India launches nationwide cell broadcast disaster alert system test",
+          "summary": "The Indian government conducted a nationwide test of its new cell broadcast emergency alert system on May 2, sending loud alarm-like notifications to mobile phones across cities including Delhi-NCR and Hyderabad in multiple languages. The SACHET system, which has sent over 134 billion SMS alerts historically, marks a significant upgrade to India's disaster warning infrastructure.",
+          "signal": "India's nationwide cell broadcast alert rollout positions the country among a small group of nations with mass-scale real-time disaster communication capability.",
+          "sources": [
+            "Times of India",
+            "The Hindu",
+            "NDTV News",
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.ndtv.com/india-news/india-tests-emergency-alert-system-citizens-receive-dummy-message-on-phones-11438502",
+          "published_at": "02 May \u00b7 11:59 IST",
+          "standalone_social": false,
+          "context": "Cell broadcast differs from SMS; it reaches all active devices in a geographic area simultaneously.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 9,
+          "score": 76,
+          "topic": "Golders Green Jewish Stabbing",
+          "domain": "europe",
+          "headline": "Man charged with attempted murder over antisemitic Golders Green stabbings",
+          "summary": "A 45-year-old man, Essa Suleiman, was charged with two counts of attempted murder after stabbing two Jewish men in London's Golders Green area, with a third charge relating to a separate earlier attack. The case sparked political controversy as the Met Police chief defended officers' conduct after the Green Party leader criticised how the suspect was subdued.",
+          "signal": "The attack and subsequent political fallout over policing could accelerate UK government discussions on restricting pro-Palestine rallies and reviewing hate crime enforcement.",
+          "sources": [
+            "AP News",
+            "BBC News"
+          ],
+          "source_url": "https://apnews.com/article/london-jewish-stabbing-d892f8e3446b03fdcb0e59d97465ccd7",
+          "published_at": "01 May \u00b7 11:41 IST",
+          "standalone_social": false,
+          "context": "UK threat level raised to 'severe' for American citizens in country per US Embassy warning.",
+          "social_signals": [
+            {
+              "handle": "aljazeera.com",
+              "platform": "bluesky",
+              "text": "US embassy warns citizens in UK as threat level raised to 'severe'",
+              "score": 46,
+              "url": "https://bsky.app/profile/aljazeera.com/post/3mktze2rbyi2k"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 10,
+          "score": 75,
+          "topic": "Air India Flight Cuts",
+          "domain": "india",
+          "headline": "Air India slashes international routes through July on fuel costs",
+          "summary": "Air India announced cuts to international flights through July 2026 as surging jet fuel prices and West Asian airspace closures linked to the Iran war make many routes unprofitable, according to CEO Campbell Wilson. The airline group recorded losses exceeding \u20b922,000 crore in FY2026, compounding the pressure on India's flagship carrier.",
+          "signal": "Air India's route cuts signal the Iran war's economic impact is cascading directly into India's aviation sector, with broader implications for Indian tourism and business travel.",
+          "sources": [
+            "LiveMint"
+          ],
+          "source_url": "https://www.livemint.com/companies/news/air-india-to-cut-international-flights-until-july-2026-as-fuel-costs-and-airspace-closures-make-routes-unprofitable-11777702684492.html",
+          "published_at": "02 May \u00b7 11:54 IST",
+          "standalone_social": false,
+          "context": "Air India is majority-owned by Tata Group after its 2022 acquisition from the government.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 11,
+          "score": 74,
+          "topic": "UAE Exits OPEC",
+          "domain": "middleeast",
+          "headline": "UAE exits OPEC in strategic shift driven by Iran war pressures",
+          "summary": "The UAE has formally exited OPEC in what analysts describe as a well-planned strategic shift accelerated by economic and geopolitical factors stemming from the US-Iran war. The move reflects Abu Dhabi's desire for greater flexibility to manage its own oil output and deepen bilateral energy relationships outside the cartel framework.",
+          "signal": "UAE's OPEC exit weakens the cartel's cohesion and could enable Abu Dhabi to rapidly scale production to exploit the Hormuz supply shock, putting it at odds with Saudi Arabia.",
+          "sources": [
+            "LiveMint"
+          ],
+          "source_url": "https://www.livemint.com/market/stock-market-news/uae-exits-opec-what-forced-the-west-asian-nation-to-junk-the-oil-cartel-amid-the-us-iran-war-explained-11777684127139.html",
+          "published_at": "02 May \u00b7 07:33 IST",
+          "standalone_social": false,
+          "context": "UAE has long been at odds with OPEC's quota restrictions, preferring higher output levels.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 12,
+          "score": 73,
+          "topic": "Trump EU Auto Tariffs",
+          "domain": "macro",
+          "headline": "Trump threatens 25% tariffs on EU automobiles amid trade tensions",
+          "summary": "President Trump threatened to raise tariffs on EU automobiles to 25%, escalating trade tensions between Washington and Brussels despite a trade framework agreement reached last year. The threat comes as the EU and US continue to spar over the terms and timeline of their broader trade deal.",
+          "signal": "An auto tariff escalation would hit German and French manufacturers hardest, risking a significant GDP drag for economies already under pressure from the Iran war energy shock.",
+          "sources": [
+            "Politico Europe"
+          ],
+          "source_url": "https://www.politico.com/news/2026/05/01/trump-tariffs-eu-automobiles-trade-00902679",
+          "published_at": "01 May \u00b7 22:23 IST",
+          "standalone_social": false,
+          "context": "EU-US trade deal reached last year is still being implemented; auto tariffs have been a persistent sticking point.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 13,
+          "score": 72,
+          "topic": "India Q4 Earnings Season",
+          "domain": "india",
+          "headline": "L&T, M&M, Bajaj Auto, Paytm, Swiggy among key Q4 results next week",
+          "summary": "A major wave of Indian corporate earnings is due next week, with L&T, Mahindra & Mahindra, Bajaj Auto, Paytm, Swiggy, Meesho, Titan, Hero MotoCorp, and Kalyan Jewellers among the prominent firms reporting Q4 FY2026 results. The earnings season will be closely watched for signals on consumer demand, infrastructure spending, and the impact of global energy costs on Indian corporates.",
+          "signal": "Q4 results from diversified conglomerates like L&T and M&M will be key indicators of whether India's corporate sector has managed to absorb the Iran war commodity shock.",
+          "sources": [
+            "NDTV Profit"
+          ],
+          "source_url": "https://www.ndtvprofit.com/markets/q4-results-next-week-larsen-and-toubro-mahindra-and-mahindra-bajaj-auto-paytm-swiggy-meesho-among-key-companies-to-declare-earnings-11430672",
+          "published_at": "02 May \u00b7 11:11 IST",
+          "standalone_social": false,
+          "context": "India's Q4 FY2026 (Jan-Mar) earnings season kicks off in earnest next week.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 14,
+          "score": 70,
+          "topic": "Sandeep Pathak FIR Punjab",
+          "domain": "india",
+          "headline": "BJP's Sandeep Pathak faces FIRs, likely arrest after AAP defection",
+          "summary": "Two non-bailable FIRs were lodged against Rajya Sabha MP Sandeep Pathak by Punjab Police following his high-profile switch from the Aam Aadmi Party to the BJP, with police reportedly reaching his Delhi residence. The cases come amid escalating political tensions in Punjab, with AAP accusing the BJP of orchestrating the defection.",
+          "signal": "The FIRs against Pathak signal an escalating legal-political war in Punjab that could destabilise BJP's nascent coalition-building efforts in AAP's home state.",
+          "sources": [
+            "Times of India",
+            "Indian Express",
+            "ET Top Stories",
+            "NDTV News"
+          ],
+          "source_url": "https://www.ndtv.com/india-news/sandeep-pathak-who-switched-from-aap-to-bjp-faces-likely-arrest-in-punjab-11438396",
+          "published_at": "02 May \u00b7 11:04 IST",
+          "standalone_social": false,
+          "context": "Pathak was a senior AAP leader who defected to BJP in a surprise move days earlier.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 15,
+          "score": 68,
+          "topic": "Cognizant AI Layoffs",
+          "domain": "corporate",
+          "headline": "Cognizant lays off staff as AI drives 'real and accelerating' industry shift",
+          "summary": "Cognizant announced employee layoffs citing 'real and accelerating' changes driven by artificial intelligence, according to an internal memo that also outlined the company's Astreya acquisition and plans to redirect savings toward AI investments. The move reflects a broader pattern of IT services firms restructuring headcount as AI automation reduces demand for traditional outsourcing.",
+          "signal": "Cognizant's AI-driven layoffs are a bellwether for the Indian IT sector, signalling that workforce reduction for AI reinvestment is accelerating industrywide.",
+          "sources": [
+            "LiveMint"
+          ],
+          "source_url": "https://www.livemint.com/companies/news/cognizant-to-lay-off-employees-as-ai-drives-real-and-accelerated-change-11777700436203.html",
+          "published_at": "02 May \u00b7 11:26 IST",
+          "standalone_social": false,
+          "context": "Cognizant employs over 300,000 people, predominantly in India.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 16,
+          "score": 66,
+          "topic": "Russia Ukraine Overnight Attacks",
+          "domain": "geopolitics",
+          "headline": "Russia launches overnight strikes on Black Sea and central Ukraine",
+          "summary": "Russian forces struck targets across Ukraine overnight, hitting towns on the Black Sea coast and in central Ukraine, killing at least one person and injuring several others. Ukrainian forces simultaneously struck Russia's oil hub of Tuapse for the fourth time, with the Guardian reporting mounting environmental disaster from the attacks.",
+          "signal": "Continued Russian strikes on Black Sea infrastructure risk further disruption to Ukrainian grain exports already under pressure from the global energy crisis.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "source_url": "https://www.aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight",
+          "published_at": "01 May \u00b7 12:12 IST",
+          "standalone_social": false,
+          "context": "Russia-Ukraine war continues despite international focus shifting to Iran conflict.",
+          "social_signals": [
+            {
+              "handle": "theguardian.com",
+              "platform": "bluesky",
+              "text": "Ukraine war briefing: Russian oil hub of Tuapse hit for fourth time as environmental disaster mounts",
+              "score": 41,
+              "url": "https://bsky.app/profile/theguardian.com/post/3mktxvueorz26"
+            }
+          ],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 17,
+          "score": 65,
+          "topic": "Japan Naphtha Supply Security",
+          "domain": "japan",
+          "headline": "Japan PM Takaichi assures naphtha supply amid Hormuz closure fears",
+          "summary": "Japanese Prime Minister Sanae Takaichi assured domestic companies that naphtha supply will be sufficient to meet demand through next year, even as firms raise concerns about supply chain instability following the effective closure of the Strait of Hormuz. Japan's petrochemical and manufacturing sectors are heavily reliant on naphtha sourced via the Hormuz corridor.",
+          "signal": "Tokyo's proactive supply assurance suggests Japan has activated strategic reserves or secured alternative supply routes, but structural vulnerability to Hormuz remains acute.",
+          "sources": [
+            "Bloomberg",
+            "Japan Times",
+            "Nikkei Asia"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-05-01/japan-s-takaichi-assures-on-naphtha-supply-amid-firms-concerns",
+          "published_at": "01 May \u00b7 08:38 IST",
+          "standalone_social": false,
+          "context": "Japan imports nearly 90% of its energy; naphtha is a critical feedstock for plastics and chemicals industries.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 18,
+          "score": 64,
+          "topic": "Jabalpur Cruise Boat Tragedy",
+          "domain": "india",
+          "headline": "Nine dead in MP cruise boat capsize; pilot and staff sacked",
+          "summary": "A cruise boat overturned in Jabalpur, Madhya Pradesh, killing at least nine people, with video footage capturing passengers frantically waiting for life jackets in the moments before the vessel capsized. Authorities swiftly sacked the boat pilot and other staff for negligence, with the incident highlighting persistent safety failures on India's inland waterways.",
+          "signal": "The Jabalpur boat tragedy is likely to trigger fresh regulatory scrutiny of India's commercial inland waterway tourism operations.",
+          "sources": [
+            "Times of India",
+            "NDTV News"
+          ],
+          "source_url": "https://www.ndtv.com/india-news/madhya-pradesh-boat-tragedy-jabalpur-cruise-boat-pilot-other-staff-sacked-after-9-killed-in-tragedy-11438430",
+          "published_at": "02 May \u00b7 10:33 IST",
+          "standalone_social": false,
+          "context": "India has seen multiple river boat accidents in recent years due to overloading and lack of safety equipment.",
+          "social_signals": [],
+          "trend": "stable",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 19,
+          "score": 63,
+          "topic": "Israel Iron Beam UAE Deployment",
+          "domain": "middleeast",
+          "headline": "Israel deploys 'Iron Beam' laser defence to UAE against Iranian drones",
+          "summary": "Israel has reportedly sent its advanced Iron Beam laser defence system alongside surveillance technology to the UAE as a counter to Iranian drone threats, marking a significant step in bilateral defence cooperation. The deployment comes alongside increased US military sales to Gulf allies amid the broader Iran war, underscoring a rapidly consolidating regional security architecture.",
+          "signal": "Iron Beam's UAE deployment is a strategic signal that Israel is actively expanding its defensive perimeter to Gulf partners, potentially drawing UAE deeper into the Iran confrontation.",
+          "sources": [
+            "Times of India"
+          ],
+          "source_url": "https://timesofindia.indiatimes.com/defence/international/israel-sends-uae-laser-weapon-called-iron-beam-what-it-means-in-face-of-iranian-drones-and-why-is-it-important/articleshow/130709133.cms",
+          "published_at": "02 May \u00b7 10:41 IST",
+          "standalone_social": false,
+          "context": "Iron Beam is an energy-based air defence system capable of intercepting drones, rockets, and mortars at low cost per shot.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 20,
+          "score": 62,
+          "topic": "Meta Humanoid Robot Acquisition",
+          "domain": "corporate",
+          "headline": "Meta acquires humanoid robot startup amid 8,000-job cut wave",
+          "summary": "Meta Platforms acquired Assured Robot Intelligence, a humanoid robot AI startup, as CEO Mark Zuckerberg raised capital spending guidance to $145 billion while simultaneously announcing plans to lay off 8,000 employees. The acquisition signals Meta's pivot toward physical AI systems as Zuckerberg channels workforce savings into robotics and artificial general intelligence research.",
+          "signal": "Meta's simultaneous mass layoffs and robotics acquisition crystallises the tech industry's accelerating substitution of human labour with AI-physical systems.",
+          "sources": [
+            "LiveMint"
+          ],
+          "source_url": "https://www.livemint.com/companies/news/meta-acquires-humanoid-robot-startup-assured-robot-intelligence-weeks-after-announcing-8-000-layoffs-11777692898608.html",
+          "published_at": "02 May \u00b7 09:26 IST",
+          "standalone_social": false,
+          "context": "Meta joins Google, Amazon, and Tesla in the humanoid robotics race.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 21,
+          "score": 60,
+          "topic": "GameStop eBay Takeover Bid",
+          "domain": "corporate",
+          "headline": "GameStop prepares eBay takeover offer; stock surges 15%",
+          "summary": "GameStop is reportedly preparing a formal takeover offer for eBay as CEO Ryan Cohen builds a significant stake in the e-commerce giant ahead of a potential bid, causing eBay shares to surge 15% after-hours. The move represents Ryan Cohen's boldest strategic bet since transforming GameStop, potentially reshaping the US e-commerce landscape.",
+          "signal": "A GameStop-eBay deal would be the most disruptive retail M&A move of 2026 and test whether Cohen's meme-stock capital base can finance a serious corporate acquisition.",
+          "sources": [
+            "LiveMint"
+          ],
+          "source_url": "https://www.livemint.com/companies/news/gamestop-prepares-ebay-takeover-offer-in-ryan-cohens-boldest-move-yet-stocks-jump-15-per-cent-11777681014875.html",
+          "published_at": "02 May \u00b7 05:58 IST",
+          "standalone_social": false,
+          "context": "Ryan Cohen turned GameStop into a cash-rich company after the 2021 short squeeze; he has been building eBay position.",
+          "social_signals": [],
+          "trend": "rising",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 22,
+          "score": 58,
+          "topic": "Sumitomo Madagascar Nickel Exit",
+          "domain": "commodities",
+          "headline": "Japan's Sumitomo divests Madagascar nickel project stake",
+          "summary": "Sumitomo Corp. announced plans to sell its majority stake in the Ambatovy nickel project in Madagascar following a strategic review of market conditions, marking a significant retreat from one of the world's largest laterite nickel operations. The exit reflects broader pressure on nickel economics from the rise of Indonesian supply and weakening battery-metal demand growth.",
+          "signal": "Sumitomo's Ambatovy exit further concentrates global nickel supply in Indonesia, reinforcing China's upstream control over EV battery supply chains.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "source_url": "https://www.bloomberg.com/news/articles/2026-05-01/japan-s-sumitomo-to-divest-stake-in-madagascar-nickel-project",
+          "published_at": "01 May \u00b7 10:43 IST",
+          "standalone_social": false,
+          "context": "Ambatovy is a major nickel-cobalt laterite project; Sumitomo has faced persistent cost overruns there.",
+          "social_signals": [],
+          "trend": "falling",
+          "breaking_on_social": false
+        },
+        {
+          "rank": 23,
+          "score": 55,
+          "topic": "Nobel Laureate Mohammadi Cardiac Crisis",
+          "domain": "middleeast",
+          "headline": "Nobel laureate Narges Mohammadi hospitalised after cardiac crisis in Iran",
+          "summary": "Jailed Iranian Nobel Peace Prize laureate Narges Mohammadi was taken to hospital after suffering a cardiac crisis, according to her foundation, raising urgent international concern about her health and treatment in custody. Mohammadi has been imprisoned for her human rights activism and has previously undertaken hunger strikes in protest.",
+          "signal": "Mohammadi's health crisis will intensify Western diplomatic pressure on Iran's human rights record at a particularly sensitive moment in ceasefire negotiations.",
+          "sources": [
+            "Reuters (BlueSky)"
+          ],
+          "source_url": "https://bsky.app/profile/reuters.com/post/3mku32stlsz2t",
+          "published_at": "02 May \u00b7 12:00 IST",
+          "standalone_social": true,
+          "context": "Mohammadi won the 2023 Nobel Peace Prize while in Evin Prison, Tehran.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "Nobel laureate Mohammadi in Iran hospital after 'cardiac crisis', foundation says reut.rs/4cUR6hO",
+              "score": 46,
+              "url": "https://bsky.app/profile/reuters.com/post/3mku32stlsz2t"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 24,
+          "score": 54,
+          "topic": "Spirit Airlines Shutdown",
+          "domain": "corporate",
+          "headline": "Spirit Airlines ceases operations after 34 years, all flights cancelled",
+          "summary": "Spirit Airlines announced it is going out of business and has begun an orderly wind-down of operations, cancelling all flights and advising passengers not to go to the airport after 34 years as a budget carrier. The collapse ends one of America's most recognisable ultra-low-cost airline brands, which had struggled with debt, failed merger attempts, and surging fuel costs.",
+          "signal": "Spirit's liquidation removes significant low-cost capacity from US domestic routes, likely pushing fares higher and accelerating consolidation among remaining carriers.",
+          "sources": [
+            "AP News (BlueSky)",
+            "Bloomberg (BlueSky)"
+          ],
+          "source_url": "https://bsky.app/profile/apnews.com/post/3mku27sxvwx25",
+          "published_at": "02 May \u00b7 12:00 IST",
+          "standalone_social": true,
+          "context": "Spirit had been in bankruptcy proceedings and failed acquisition by Frontier Airlines.",
+          "social_signals": [
+            {
+              "handle": "apnews.com",
+              "platform": "bluesky",
+              "text": "Spirit Airlines, an impish upstart that shook the industry with its irreverent ads and deep discount fares, announced Saturday that it has gone out of business after 34 years.",
+              "score": 49,
+              "url": "https://bsky.app/profile/apnews.com/post/3mku27sxvwx25"
+            },
+            {
+              "handle": "bloomberg.com",
+              "platform": "bluesky",
+              "text": "Spirit has started an orderly wind-down of operations. All flights have been canceled and passengers have been advised not to go to the airport.",
+              "score": 44,
+              "url": "https://bsky.app/profile/bloomberg.com/post/3mku3flmorc2i"
+            }
+          ],
+          "trend": "falling",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 25,
+          "score": 53,
+          "topic": "Pras Michel Prison Sentence",
+          "domain": "geopolitics",
+          "headline": "Fugees rapper Pras Michel reports to prison for 14-year sentence",
+          "summary": "Grammy-winning rapper Prakazrel 'Pras' Michel of the Fugees reported to federal prison to begin serving a 14-year sentence following his conviction for illegally funnelling millions of dollars in foreign contributions into US political campaigns. The case is closely linked to the 1MDB Malaysian corruption scandal and the foreign influence operations of fugitive financier Jho Low.",
+          "signal": "Michel's imprisonment closes a high-profile chapter in the 1MDB saga, but related foreign influence investigations in the US remain ongoing.",
+          "sources": [
+            "AP News (BlueSky)"
+          ],
+          "source_url": "https://bsky.app/profile/apnews.com/post/3mktxokjk552t",
+          "published_at": "02 May \u00b7 12:00 IST",
+          "standalone_social": true,
+          "context": "Michel was convicted in 2023; sentencing and appeals delayed his reporting to prison.",
+          "social_signals": [
+            {
+              "handle": "apnews.com",
+              "platform": "bluesky",
+              "text": "Grammy-winning rapper Prakazrel 'Pras' Michel of the Fugees has reported to federal prison to begin a 14-year sentence following a conviction over illegally funneling millions of dollars in foreign co",
+              "score": 55,
+              "url": "https://bsky.app/profile/apnews.com/post/3mktxokjk552t"
+            }
+          ],
+          "trend": "stable",
+          "breaking_on_social": true
+        },
+        {
+          "rank": 26,
+          "score": 52,
+          "topic": "Mexico Governor Ruben Rocha Resign",
+          "domain": "geopolitics",
+          "headline": "Mexican Sinaloa governor Ruben Rocha steps down amid crisis",
+          "summary": "Mexican governor Ruben Rocha of Sinaloa state has resigned, according to the New York Times, amid ongoing cartel violence and political pressure in one of Mexico's most volatile regions. Sinaloa has been engulfed in a brutal cartel civil war since mid-2024, and Rocha's departure signals deepening institutional failure in the state.",
+          "signal": "Rocha's resignation further destabilises Sinaloa's governance at a time when cartel fragmentation continues to produce record violence, complicating Mexico-US security cooperation.",
+          "sources": [
+            "Reuters (BlueSky)"
+          ],
+          "source_url": "https://bsky.app/profile/reuters.com/post/3mktzehfcit2z",
+          "published_at": "02 May \u00b7 12:00 IST",
+          "standalone_social": true,
+          "context": "Sinaloa has been a battleground between factions of the Sinaloa Cartel since the arrest of El Mayo Zambada.",
+          "social_signals": [
+            {
+              "handle": "reuters.com",
+              "platform": "bluesky",
+              "text": "Mexican governor Ruben Rocha steps down, NYT reports reut.rs/4n1l0Wc",
+              "score": 50,
+              "url": "https://bsky.app/profile/reuters.com/post/3mktzehfcit2z"
+            }
+          ],
+          "trend": "rising",
+          "breaking_on_social": true
+        }
+      ],
+      "social_count": 75,
+      "tg_count": 45,
+      "tw_count": 0,
+      "bk_count": 30,
+      "local_items": [
+        {
+          "source": "Times of India",
+          "title": "\u2018I am vegetarian so need to get my protein\u2019: When Google CEO talked about his breakfast",
+          "summary": "Google CEO Sundar Pichai revealed his morning habits. He wakes early, reads news, and enjoys a vegetarian breakfast. Pichai is particular about his tea, describing it as very English. He exercises later in the day. Pichai also shared his favorite Indian dishes from Bengaluru, Delhi, and Mumbai. He e",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/when-google-ceo-sundar-pichai-said-on-his-daily-breakfast-i-am-vegetarian-so-need-to-get-my-protein-and-i-still-am-very-particular-about-having-/articleshow/130683217.cms",
+          "platform": "rss",
+          "weight": 80
+        },
+        {
+          "source": "The Hindu",
+          "title": "Fenty Beauty in India is a flex. But will it last?",
+          "summary": "From the hype around the Fenty pop-up in Mumbai, Fenty ki Haveli, to its Reliance-backed scale, the brand has a lot going for it, except answers on whether performance can outpace hype",
+          "url": "https://www.thehindu.com/life-and-style/fenty-beauty-in-india-is-a-flex-but-will-it-last/article70923859.ece",
+          "platform": "rss",
+          "weight": 81
+        },
+        {
+          "source": "NDTV News",
+          "title": "Maharashtra Board HSC Scorecard Out 2026: Official Websites, Direct Link To Download",
+          "summary": "Maharashtra Board 12th Result Out Today: Check direct link here",
+          "url": "https://www.ndtv.com/education/maharashtra-board-hsc-scorecard-out-2026-official-websites-direct-link-to-download-11438536#publisher=newsstand",
+          "platform": "rss",
+          "weight": 79
+        },
+        {
+          "source": "NDTV News",
+          "title": "Maharashtra Board 12th Result 2026 (OUT) LIVE: HSC Scorecard Released, Download Link Here",
+          "summary": "Maharashtra Board HSC (Class 12) Result 2026 LIVE Updates: Scorecard Out Today",
+          "url": "https://www.ndtv.com/education/maharashtra-hsc-result-2026-live-updates-msbshse-board-class-12-results-scorecard-download-link-pass-percentage-toppers-list-11437987#publisher=newsstand",
+          "platform": "rss",
+          "weight": 79
+        },
+        {
+          "source": "NDTV News",
+          "title": "Maharashtra HSC Result 2026 Out: Steps, Direct Link To Download Marksheet",
+          "summary": "Maharashtra HSC Result 2026: Visit the official website: mahahsscboard.in.",
+          "url": "https://www.ndtv.com/education/maharashtra-hsc-result-2026-out-steps-direct-link-to-download-marksheet-11438498#publisher=newsstand",
+          "platform": "rss",
+          "weight": 79
+        },
+        {
+          "source": "NDTV News",
+          "title": "Maharashtra HSC Result 2026: Girls Outshine Boys Again, Overall Pass Percentage At 89.79%",
+          "summary": "Maharashtra HSC 2026 Result Declared, Girls Outperform Boys",
+          "url": "https://www.ndtv.com/education/maharashtra-hsc-result-2026-girls-outshine-boys-again-overall-pass-percentage-at-89-78-11438515#publisher=newsstand",
+          "platform": "rss",
+          "weight": 79
+        },
+        {
+          "source": "NDTV Profit",
+          "title": "Maharashtra HSC Result 2026 OUT! Check Direct Link And Steps To Download Class 12 Marksheet",
+          "summary": "Maharashtra HSC Result 2026 announced via press conference. The overall pass percentage is 89.79%",
+          "url": "https://www.ndtvprofit.com/india/maharashtra-hsc-result-2026-out-check-direct-link-and-steps-to-download-class-12-marksheet-11438486#publisher=newsstand",
+          "platform": "rss",
+          "weight": 78
+        }
+      ]
+    },
+    {
       "timestamp": "2026-05-02T07:14:16.774964+00:00",
       "timestamp_ist": "02 May 2026 \u00b7 12:44 IST",
       "story_count": 25,
@@ -20883,649 +21552,6 @@
           "url": "https://indianexpress.com/article/cities/mumbai/dog-bites-rabies-death-maharashtra-10657019/",
           "platform": "rss",
           "weight": 80
-        },
-        {
-          "source": "LiveMint Markets",
-          "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 26 April 2026",
-          "summary": "Gold Rate Today: Here are the 26 April gold rates in key cities, such as Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, and Mumbai.",
-          "url": "https://www.livemint.com/market/commodities/gold-rate-today-check-live-price-of-22k-24k-18k-gold-prices-on-26-april-2026-bengaluru-chennai-delhi-hyderabad-mumbai-11777184660851.html",
-          "platform": "rss",
-          "weight": 82
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-26T12:03:44.274272+00:00",
-      "timestamp_ist": "26 Apr 2026 \u00b7 17:33 IST",
-      "story_count": 26,
-      "avg_score": 69,
-      "stories": [
-        {
-          "rank": 1,
-          "score": 91,
-          "topic": "WHCD Shooting Trump Evacuated",
-          "domain": "geopolitics",
-          "headline": "Gunman Storms White House Correspondents Dinner; Trump Evacuated Safely",
-          "summary": "A suspect identified as Cole Tomas Allen, 31, of Torrance, California, breached security at the White House Correspondents' Association Dinner and opened fire, prompting Secret Service to evacuate President Trump from the main stage. Investigators found the gunman assembled a long weapon in an unsecured area near a terrace entrance after staying at the host hotel, exposing critical gaps in outer security layers.",
-          "signal": "A successful security penetration at a high-profile presidential event will trigger urgent Secret Service reviews and intensify debate over threat escalation against Trump.",
-          "sources": [
-            "Times of India",
-            "Politico",
-            "Japan Times",
-            "The National (UAE)",
-            "Middle East Eye"
-          ],
-          "source_url": "https://www.politico.com/news/2026/04/25/trump-evacuated-from-white-house-correspondents-association-dinner-00892113",
-          "published_at": "26 Apr \u00b7 07:10 IST",
-          "standalone_social": false,
-          "context": "Multiple named publications and wire-weight outlets confirmed Trump's evacuation; suspect in custody. Bloomberg social broke it first.",
-          "social_signals": [
-            {
-              "handle": "bloomberg.com",
-              "platform": "bluesky",
-              "text": "BREAKING: Donald Trump said a suspect who disrupted the White House press dinner was carrying multiple weapons but was subdued and in custody",
-              "score": 51,
-              "url": "https://bsky.app/profile/bloomberg.com/post/3mkel5mgoze2x"
-            },
-            {
-              "handle": "bloomberg.com",
-              "platform": "bluesky",
-              "text": "The annual White House Correspondents' Dinner was plunged into chaos after shots were heard at the event",
-              "score": 40,
-              "url": "https://bsky.app/profile/bloomberg.com/post/3mkeo6u3fex25"
-            },
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "Timeline reveals assassination attempts on Trump, including incidents during his presidency and campaign rallies.",
-              "score": 31,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mkfiylzj3f2b"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        },
-        {
-          "rank": 2,
-          "score": 88,
-          "topic": "US-Iran War Diplomacy Stall",
-          "domain": "geopolitics",
-          "headline": "Trump Cancels Kushner-Witkoff Pakistan Trip; Iran Talks Collapse at Day 57",
-          "summary": "President Trump abruptly cancelled a planned diplomatic mission by envoys Steve Witkoff and Jared Kushner to Pakistan for talks with Iranian Foreign Minister Araghchi, citing 'too much time wasted' and confusion in Tehran's leadership, even as Iran's Araghchi had already arrived in Islamabad. Iran's FM separately held talks in Oman on Hormuz security and ceasefire efforts, while Tehran said it would not negotiate under threat.",
-          "signal": "The collapse of the Pakistan back-channel deepens the diplomatic impasse and raises the probability of prolonged conflict with sustained Hormuz disruption and oil price volatility.",
-          "sources": [
-            "AP News",
-            "Al Jazeera",
-            "Politico",
-            "Bloomberg",
-            "NDTV Profit",
-            "Japan Times"
-          ],
-          "source_url": "https://apnews.com/live/iran-war-israel-trump-04-25-2026",
-          "published_at": "25 Apr \u00b7 01:38 IST",
-          "standalone_social": false,
-          "context": "Multiple independent strong sources confirm both the cancellation and the Oman diplomatic activity; AP and Politico corroborate directly.",
-          "social_signals": [
-            {
-              "handle": "reuters.com",
-              "platform": "bluesky",
-              "text": "Iran's Araqchi discusses efforts to end war and Hormuz security with Oman",
-              "score": 36,
-              "url": "https://bsky.app/profile/reuters.com/post/3mkfhuxlhxa2x"
-            }
-          ],
-          "trend": "falling",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 3,
-          "score": 85,
-          "topic": "Mali Nationwide Rebel Attacks",
-          "domain": "geopolitics",
-          "headline": "Pro-Al Qaeda Rebels Launch Nationwide Mali Assault; Defence Minister Killed",
-          "summary": "Armed groups coordinated simultaneous attacks across Mali, including near Bamako's airport and military bases outside the capital, with explosions and sustained gunfire reported in several cities. Mali's Defence Minister Sadio Camara was reportedly killed in the assault, attributed to pro-Al Qaeda rebels in one of the country's most severe security incidents in years.",
-          "signal": "The killing of Mali's Defence Minister signals a severe collapse of state security and could accelerate the country's slide into ungoverned territory, with implications for Sahel-wide stability.",
-          "sources": [
-            "BBC News",
-            "Al Jazeera",
-            "The National (UAE)"
-          ],
-          "source_url": "https://www.bbc.co.uk/news/articles/clyx7nnrkqdo",
-          "published_at": "25 Apr \u00b7 09:21 IST",
-          "standalone_social": false,
-          "context": "BBC, Al Jazeera and The National all independently confirm attacks; Al Jazeera Bluesky confirmed minister killed.",
-          "social_signals": [
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "Mali's Defence Minister Sadio Camara killed amid coordinated attacks",
-              "score": 42,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mkfhcx3jny22"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 4,
-          "score": 83,
-          "topic": "Hormuz Blockade Global Refining Crisis",
-          "domain": "commodities",
-          "headline": "Hormuz Blockade Triggers Global Refining Crisis; Malacca Strait Under Spotlight",
-          "summary": "The ongoing blockade of the Strait of Hormuz is creating an acute global refining crisis with no quick resolution in sight, as analysts warn of supply disruptions rippling through 22% of world maritime trade routed via the Malacca Strait. The International Chamber of Shipping has separately condemned US and Iranian seizures of vessels as violations of international law, demanding immediate crew releases.",
-          "signal": "Sustained Hormuz disruption is a structural shock to Asian energy supply chains, particularly for India and Japan, with $100 oil scenarios now in active institutional planning.",
-          "sources": [
-            "The National (UAE)",
-            "Japan Times",
-            "Al Jazeera",
-            "NDTV Profit"
-          ],
-          "source_url": "https://www.thenationalnews.com/business/energy/2026/04/26/no-quick-or-easy-answers-to-the-global-refining-crisis-as-hormuz-blockade-continues/",
-          "published_at": "25 Apr \u00b7 06:27 IST",
-          "standalone_social": false,
-          "context": "Multiple regional and financial sources converge on Hormuz as the dominant commodity risk vector.",
-          "social_signals": [
-            {
-              "handle": "theguardian.com",
-              "platform": "bluesky",
-              "text": "The great energy pivot: US oil and Chinese solar are the winners in Trump's war on Iran",
-              "score": 31,
-              "url": "https://bsky.app/profile/theguardian.com/post/3mkfhm4pzz526"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 5,
-          "score": 80,
-          "topic": "India Oil Price Hormuz Risk",
-          "domain": "india",
-          "headline": "$100 Oil and Hormuz Disruption Raise Macro Risks for India: Union Bank",
-          "summary": "Union Bank of India's research report warns that surging crude prices driven by West Asia tensions and potential Strait of Hormuz disruptions are stoking inflation, weakening the rupee, and straining India's external balances. Indian market strategists from Mahindra Manulife note that geopolitical volatility will linger as the dominant market theme even after conflict resolution.",
-          "signal": "Elevated oil and a weaker rupee create a stagflationary pinch for India that limits RBI's rate-cut room even as growth moderates.",
-          "sources": [
-            "NDTV Profit",
-            "LiveMint Markets"
-          ],
-          "source_url": "https://www.ndtvprofit.com/economy/100-oil-hormuz-disruption-raise-risks-for-india-s-economy-union-bank-of-india-report-11411261",
-          "published_at": "26 Apr \u00b7 09:43 IST",
-          "standalone_social": false,
-          "context": "Two independent Indian financial publications flag Hormuz as India's top macro risk; consistent with broader global analysis.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 6,
-          "score": 78,
-          "topic": "West Bengal Elections Phase 2",
-          "domain": "india",
-          "headline": "PM Modi Rallies in Bengal; TMC-BJP Clashes Mar Phase 2 Polling",
-          "summary": "Prime Minister Modi held rallies in West Bengal ahead of Phase 2 assembly elections, pledging CAA citizenship for Matua Namasudras and sharply attacking the Trinamool Congress government, while violence erupted between TMC and BJP supporters in Howrah and Haroa. Security has been intensified at counting centres across districts as the election approaches a critical phase.",
-          "signal": "Escalating poll violence and Modi's targeted community outreach on CAA suggest BJP is making an aggressive play for traditional TMC vote banks in eastern Bengal.",
-          "sources": [
-            "Times of India",
-            "ET Top Stories",
-            "The Hindu",
-            "NDTV News",
-            "Indian Express"
-          ],
-          "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-pm-modi-pledges-citizenship-for-matua-namasudras-under-caa/articleshow/130529950.cms",
-          "published_at": "26 Apr \u00b7 10:50 IST",
-          "standalone_social": false,
-          "context": "Multiple Indian outlets across the political spectrum cover the same election cycle independently.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 7,
-          "score": 76,
-          "topic": "India IT Stocks Q4 Results",
-          "domain": "india",
-          "headline": "TCS, Infosys, Wipro Q4 Results Weigh on Indian IT Stocks Outlook",
-          "summary": "India's IT sector stocks remain under pressure after a mixed Q4 earnings season, with the Nifty IT index declining on cautious management commentary and conservative FY27 guidance citing uncertain global demand and AI disruption. Analysts at LiveMint recommend selective positioning, with HCL Tech and TCS viewed more favourably than Infosys and Wipro amid the current macro environment.",
-          "signal": "Conservative IT guidance reflects slowing discretionary tech spending globally; sector rotation away from IT into domestic consumption plays is expected to accelerate.",
-          "sources": [
-            "LiveMint Markets"
-          ],
-          "source_url": "https://www.livemint.com/market/stock-market-news/tcs-vs-infosys-vs-wipro-vs-hcl-tech-vs-tech-mahindra-which-it-stock-to-buy-after-q4-results-2026-11777195140659.html",
-          "published_at": "26 Apr \u00b7 15:43 IST",
-          "standalone_social": false,
-          "context": "Credible financial publisher with direct earnings analysis; finance-specific cluster per rules.",
-          "social_signals": [],
-          "trend": "falling",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 8,
-          "score": 75,
-          "topic": "India Sensex Nifty Outlook",
-          "domain": "india",
-          "headline": "Sensex, Nifty End Week in Red Amid US-Iran War Uncertainty",
-          "summary": "Indian equity indices closed the week lower on Friday April 24, with markets expected to remain volatile in the coming week due to geopolitical tensions from the US-Iran conflict and its cascading effects on oil and currency. The NSE and BSE will also be closed on May 1 for Maharashtra Day, compressing the trading window.",
-          "signal": "Indian markets face a dual headwind of geopolitical risk and an earnings season with mixed results; Nifty 50 is vulnerable to further downside if crude spikes above $100.",
-          "sources": [
-            "LiveMint Markets"
-          ],
-          "source_url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-us-iran-war-uncertainty-11777182174343.html",
-          "published_at": "26 Apr \u00b7 10:24 IST",
-          "standalone_social": false,
-          "context": "Dedicated India finance publisher; markets cluster per rules.",
-          "social_signals": [],
-          "trend": "falling",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 9,
-          "score": 74,
-          "topic": "EU Russia Sanctions China Backlash",
-          "domain": "europe",
-          "headline": "China Demands EU Remove Firms From Russia Sanctions; Warns Retaliation",
-          "summary": "China's Ministry of Commerce issued a sharp warning to the European Union after Chinese companies and individuals were included in Brussels' 20th Russia sanctions package, threatening unspecified countermeasures to 'resolutely safeguard' their interests. The SCMP and Politico Europe independently confirmed the demarche, reflecting escalating EU-China friction over Ukraine-related economic measures.",
-          "signal": "Beijing's forceful sanctions pushback signals a hardening of China's position on European economic coercion and raises risk of targeted Chinese trade retaliation against EU firms.",
-          "sources": [
-            "Politico Europe",
-            "S. China Morning Post"
-          ],
-          "source_url": "https://www.politico.eu/article/eu-will-bear-all-consequences-china-lashes-out-over-russia-sanctions/",
-          "published_at": "26 Apr \u00b7 17:09 IST",
-          "standalone_social": false,
-          "context": "Two independent strong sources with weight 81 and 82 confirm the same diplomatic development.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 10,
-          "score": 72,
-          "topic": "Germany Merz Economic Renewal Fails",
-          "domain": "europe",
-          "headline": "Merz's 2026 German Growth Promise Unravels Amid Iran War Fallout",
-          "summary": "Bloomberg's analysis finds Chancellor Friedrich Merz's flagship 'growth year' pledge for Germany is deteriorating week by week despite massive fiscal stimulus, as the US-Iran war suppresses demand and disrupts European supply chains. The euro area's business activity contracted for the first time since 2024, with services leading the pullback, compounding Merz's political vulnerability.",
-          "signal": "Germany's economic weakness combined with a fragile Merz coalition and upcoming local elections creates heightened political risk for Europe's largest economy.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-25/merz-s-big-year-of-economic-renewal-in-germany-is-going-awry",
-          "published_at": "25 Apr \u00b7 06:30 IST",
-          "standalone_social": false,
-          "context": "Bloomberg wire-weight publication; supported by euro area PMI contraction data from same source.",
-          "social_signals": [],
-          "trend": "falling",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 11,
-          "score": 71,
-          "topic": "Gaza Palestine Food Crisis Elections",
-          "domain": "middleeast",
-          "headline": "Gaza Faces 100% Acute Food Insecurity; First Municipal Polls in 20 Years",
-          "summary": "The Global Network Against Food Crises reports that 100% of Gaza's population faces acute food insecurity due to the ongoing Israeli war, while Palestinians in Deir el-Balah voted in the first municipal election in 20 years amid widespread scepticism about meaningful change. Israeli airstrikes continued to kill civilians including a pregnant woman and her two children, despite a nominal ceasefire.",
-          "signal": "The simultaneous humanitarian collapse and political process in Gaza reflect a deeply contradictory post-war trajectory that risks delegitimizing any negotiated settlement.",
-          "sources": [
-            "Al Jazeera",
-            "AP News"
-          ],
-          "source_url": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years",
-          "published_at": "25 Apr \u00b7 08:37 IST",
-          "standalone_social": false,
-          "context": "Al Jazeera and AP provide independent coverage of both humanitarian and political dimensions.",
-          "social_signals": [
-            {
-              "handle": "aljazeera.com",
-              "platform": "bluesky",
-              "text": "According to the Global Network Against Food Crises, 100% of Gaza's population are facing acute food insecurity",
-              "score": 36,
-              "url": "https://bsky.app/profile/aljazeera.com/post/3mkfi3wcw2s2w"
-            },
-            {
-              "handle": "apnews.com",
-              "platform": "bluesky",
-              "text": "Palestinians have buried a pregnant woman and her two children killed in Israeli strikes in Gaza.",
-              "score": 41,
-              "url": "https://bsky.app/profile/apnews.com/post/3mkf6xb2loh2p"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 12,
-          "score": 70,
-          "topic": "Lebanon Ceasefire Violations Deaths",
-          "domain": "middleeast",
-          "headline": "2,490 Killed in Lebanon Since March; Israel Drops Leaflets Over South",
-          "summary": "Lebanon's health ministry reports 2,496 killed and 7,725 wounded from Israeli attacks since March 2, as Israel dropped leaflets threatening civilians in southern Lebanon's Sour district and continued strikes despite the nominal ceasefire. A Lebanese journalist also recounted hours of agony after an Israeli airstrike killed her colleague, with AP reporting on the human cost.",
-          "signal": "The mounting Lebanon death toll and continued Israeli leaflet campaigns suggest the ceasefire is increasingly nominal, raising the risk of Hezbollah retaliation that could reignite full-scale conflict.",
-          "sources": [
-            "Middle East Eye",
-            "AP News"
-          ],
-          "source_url": "https://apnews.com/article/lebanon-israel-hezbollah-journalist-killed-amal-khalil-4dd23ffb0fd8146253b686e5acfc076d",
-          "published_at": "24 Apr \u00b7 19:51 IST",
-          "standalone_social": false,
-          "context": "AP and Middle East Eye independently cover Lebanon casualty data and ongoing strikes.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 13,
-          "score": 69,
-          "topic": "Fed Chair Warsh Rate Cut Outlook",
-          "domain": "macro",
-          "headline": "Warsh Nears Fed Chair Role; Rate Cuts Remain Distant Despite Trump Pressure",
-          "summary": "AP reports that Kevin Warsh is edging closer to being named Federal Reserve chair, but borrowing cost relief for Americans on mortgages and auto loans is not imminent even if he assumes the role quickly. Trump's repeated demands for immediate rate cuts face structural resistance from persistent inflation dynamics and Warsh's own hawkish track record.",
-          "signal": "Warsh's likely nomination creates a short-term dovish narrative trade but long-term policy uncertainty as markets price in the risk of Fed independence erosion.",
-          "sources": [
-            "AP News"
-          ],
-          "source_url": "https://apnews.com/article/inflation-trump-federal-reserve-warsh-bcaac06bfee8bb92a900366b2d03ce01",
-          "published_at": "25 Apr \u00b7 10:00 IST",
-          "standalone_social": false,
-          "context": "Wire-weight AP exclusive on Fed succession; significant market-moving implication.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 14,
-          "score": 68,
-          "topic": "King Charles US State Visit",
-          "domain": "geopolitics",
-          "headline": "King Charles Embarks on High-Stakes US State Visit Amid Special Relationship Strain",
-          "summary": "King Charles III begins a state visit to the United States, with BBC and AP both framing it as his toughest test amid deteriorating US-UK relations, European pushback on US threats to Spain, and difficult trade and defence negotiations. King Charles was also reported to have expressed relief that Trump and the First Lady were unharmed after the WHCD shooting.",
-          "signal": "The visit's success or failure will calibrate European confidence in the US-UK bilateral relationship as a stabilising transatlantic anchor.",
-          "sources": [
-            "BBC News",
-            "AP News"
-          ],
-          "source_url": "https://www.bbc.co.uk/news/articles/ce35xkgjqd5o",
-          "published_at": "25 Apr \u00b7 04:01 IST",
-          "standalone_social": false,
-          "context": "Two strong sources independently cover the state visit with strong geopolitical framing.",
-          "social_signals": [
-            {
-              "handle": "reuters.com",
-              "platform": "bluesky",
-              "text": "King Charles relieved Trump and first lady unharmed after shooting",
-              "score": 36,
-              "url": "https://bsky.app/profile/reuters.com/post/3mkfigudf4a25"
-            }
-          ],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 15,
-          "score": 67,
-          "topic": "UAE Industrial Fund Established",
-          "domain": "middleeast",
-          "headline": "UAE Launches Dh1bn National Industrial Resilience Fund",
-          "summary": "The UAE announced a Dh1 billion ($272 million) national fund to support industrial sector resilience, with Prime Minister Mohammed bin Rashid overseeing the initiative as part of a broader economic diversification strategy. The fund is being positioned as a response to global supply chain vulnerabilities exposed by the US-Iran conflict and Hormuz disruptions.",
-          "signal": "The UAE's industrial fund signals Gulf states are accelerating domestic economic buffers against conflict-driven supply chain shocks, reducing dependence on open global trade.",
-          "sources": [
-            "The National (UAE)",
-            "Middle East Eye"
-          ],
-          "source_url": "https://www.thenationalnews.com/business/economy/2026/04/26/uae-sets-up-dh1bn-national-fund-to-support-industrial-sector/",
-          "published_at": "26 Apr \u00b7 15:46 IST",
-          "standalone_social": false,
-          "context": "Two independent regional sources confirm the fund announcement.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 16,
-          "score": 65,
-          "topic": "India Gold Silver Volatility War",
-          "domain": "india",
-          "headline": "Gold and Silver Under Pressure in India Despite US-Iran War Volatility",
-          "summary": "LiveMint reports that gold and silver prices in India have remained volatile and under pressure since the start of the US-Iran war, with experts divided on whether the correction represents a buying opportunity or signals further downside. The 22K gold rate in major Indian cities is being tracked closely by retail investors amid currency weakness and inflation concerns.",
-          "signal": "Precious metal volatility in India reflects conflicting safe-haven demand against a stronger dollar narrative; war resolution could trigger sharp corrections.",
-          "sources": [
-            "LiveMint Markets"
-          ],
-          "source_url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-precious-metals-remain-volatile-amid-us-iran-war-is-it-right-time-to-buy-11777189317687.html",
-          "published_at": "26 Apr \u00b7 12:28 IST",
-          "standalone_social": false,
-          "context": "Dedicated India finance publisher; commodity price cluster per rules.",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 17,
-          "score": 63,
-          "topic": "India Q4 Earnings Season Preview",
-          "domain": "india",
-          "headline": "Maruti, Vedanta, HUL to Report Q4 Results Next Week; Market Eyes Catalysts",
-          "summary": "India's earnings season continues next week with key results from Maruti Suzuki, Vedanta, Adani Enterprises, and Hindustan Unilever, which analysts expect to be significant stock-specific catalysts against a backdrop of geopolitical uncertainty and currency pressure. The buy-on-dips strategy is gaining traction among retail investors, but institutional caution persists.",
-          "signal": "Q4 results from domestic consumption bellwethers will determine whether India's market can decouple from global geopolitical headwinds.",
-          "sources": [
-            "LiveMint Markets"
-          ],
-          "source_url": "https://www.livemint.com/market/stock-market-news/q4-results-2026-maruti-suzuki-vedanta-adani-ent-hul-among-companies-to-declare-earnings-next-week-full-list-here-11777185824521.html",
-          "published_at": "26 Apr \u00b7 12:59 IST",
-          "standalone_social": false,
-          "context": "India-specific earnings calendar from credible financial publisher; finance cluster per rules.",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 18,
-          "score": 62,
-          "topic": "Japan EU Undersea Cable Partnership",
-          "domain": "japan",
-          "headline": "Japan and EU to Partner on Undersea Cable Protection Framework",
-          "summary": "Nikkei Asia reports that Japan and the European Union are forming a strategic partnership on undersea cable protection, reflecting shared concerns about infrastructure vulnerability amid the US-Iran conflict's disruption of global communications and energy networks. The initiative follows growing evidence of state-linked sabotage of undersea infrastructure across the Indo-Pacific and North Atlantic.",
-          "signal": "The Japan-EU cable pact is a significant step in hardening critical digital infrastructure and signals deepening non-NATO security cooperation between Asia and Europe.",
-          "sources": [
-            "Nikkei Asia"
-          ],
-          "source_url": "https://asia.nikkei.com/business/telecommunication/japan-and-eu-to-partner-on-undersea-cable-protections",
-          "published_at": "26 Apr \u00b7 12:00 IST",
-          "standalone_social": false,
-          "context": "Nikkei Asia at weight 85 is a strong single source for an emerging Japan-focused story.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 19,
-          "score": 61,
-          "topic": "Japan Warship Export Expansion",
-          "domain": "japan",
-          "headline": "Japan Eyes Expanded Warship Exports Using Mogami-Class Frigate as Template",
-          "summary": "Japan is actively exploring expanded warship exports with the Mogami-class frigate as its primary export model, according to Nikkei Asia, as Tokyo leverages its loosened arms export rules to build deeper defence-industrial ties with Indo-Pacific partners. The move reflects Japan's broader strategic pivot toward active defence diplomacy.",
-          "signal": "Japan's warship export push represents a structural shift in its defence posture and could reshape regional naval balances, particularly in Southeast Asia.",
-          "sources": [
-            "Nikkei Asia"
-          ],
-          "source_url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-eyes-expanded-warship-exports-with-mogami-class-frigate-as-template",
-          "published_at": "26 Apr \u00b7 10:00 IST",
-          "standalone_social": false,
-          "context": "Nikkei Asia weight 85; emerging Japan defence story meeting the credible single-source threshold.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 20,
-          "score": 60,
-          "topic": "Syria Assad Officials First Trial",
-          "domain": "middleeast",
-          "headline": "Syria Opens First Public Trial of Assad-Era Security Officials in Damascus",
-          "summary": "Damascus has begun the first public trial of former Assad regime officials, with Atef Najib \u2014 a former army brigadier general and Assad cousin who headed the Political Security Branch in Daraa \u2014 as the primary defendant. The trial, reported exclusively by SCMP, marks a landmark moment in Syria's post-Assad transition and accountability process.",
-          "signal": "The Assad accountability process will define Syria's political legitimacy trajectory and could unlock international reconstruction funding conditional on transitional justice.",
-          "sources": [
-            "S. China Morning Post"
-          ],
-          "source_url": "https://www.scmp.com/news/world/middle-east/article/3351488/syria-begins-long-awaited-first-trial-of-assad-era-officials",
-          "published_at": "26 Apr \u00b7 17:22 IST",
-          "standalone_social": false,
-          "context": "SCMP weight 82; significant emerging geopolitical story meeting single credible source threshold.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 21,
-          "score": 59,
-          "topic": "Trump Firing Squad Death Penalty",
-          "domain": "geopolitics",
-          "headline": "Trump DOJ Authorises Firing Squad for Federal Executions",
-          "summary": "The Justice Department under the Trump administration has authorised the firing squad as a permitted method of federal execution alongside single-drug lethal injection, in a move to ramp up and expedite capital punishment. WSJ and AP independently confirmed the policy change, which marks the most significant expansion of US execution methods in decades.",
-          "signal": "The firing squad authorisation will face immediate legal challenges but signals the administration's intent to sharply accelerate federal executions in the current term.",
-          "sources": [
-            "AP News",
-            "The Wall Street Journal"
-          ],
-          "source_url": "https://apnews.com/article/death-penalty-firing-squads-justice-department-9e81687b80402e1e19d57bbc55772470",
-          "published_at": "24 Apr \u00b7 18:12 IST",
-          "standalone_social": false,
-          "context": "Two strong independent sources confirm; significant policy shift.",
-          "social_signals": [],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 22,
-          "score": 58,
-          "topic": "Nissan China Speed Strategy",
-          "domain": "japan",
-          "headline": "Nissan Bets on Chinese Manufacturing Speed to Reverse Decline",
-          "summary": "Bloomberg reports Nissan is pivoting its recovery strategy toward 'China Speed' \u2014 adopting rapid Chinese manufacturing and product development cycles \u2014 after severe headwinds in the US and Japan eroded its market position. The strategy reflects how Chinese automotive competitiveness is now being internalised as a model even by legacy Japanese automakers.",
-          "signal": "Nissan's China pivot is a bellwether for Japanese auto's structural competitiveness challenge; success or failure will influence how other Japanese OEMs respond to Chinese EV pressure.",
-          "sources": [
-            "Bloomberg"
-          ],
-          "source_url": "https://www.bloomberg.com/news/articles/2026-04-25/nissan-is-betting-on-china-speed-to-get-back-on-its-feet",
-          "published_at": "25 Apr \u00b7 07:55 IST",
-          "standalone_social": false,
-          "context": "Bloomberg wire-weight single source; corporate Japan story meeting finance/corporate cluster threshold.",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 23,
-          "score": 57,
-          "topic": "India Affordable Housing Sales Decline",
-          "domain": "india",
-          "headline": "Affordable Home Sales Down 23% in India's Top Eight Cities: Knight Frank",
-          "summary": "Knight Frank data cited by NDTV Profit shows affordable housing sales fell 23% year-on-year in January-March 2026 across India's top eight cities, with overall sales down 4% to 84,827 units, as elevated prices, softer demand, and West Asia conflict uncertainty weigh on buyer sentiment. The premium and luxury segments have shown relative resilience as Indian platforms like Myntra, Nykaa and Tata Cliq simultaneously pivot upmarket.",
-          "signal": "India's housing market bifurcation between declining affordability and buoyant premium demand points to deepening structural inequality with long-term macro implications.",
-          "sources": [
-            "NDTV Profit"
-          ],
-          "source_url": "https://www.ndtvprofit.com/economy/sales-of-affordable-homes-down-23-per-cent-in-january-march-in-top-eight-cities-knight-frank-11411206",
-          "published_at": "26 Apr \u00b7 16:10 IST",
-          "standalone_social": false,
-          "context": "NDTV Profit at weight 78 with Knight Frank third-party data; India finance/real estate cluster.",
-          "social_signals": [],
-          "trend": "falling",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 24,
-          "score": 55,
-          "topic": "Photographer Raghu Rai Dies",
-          "domain": "india",
-          "headline": "Legendary Indian Photographer Raghu Rai Dies at 83",
-          "summary": "Raghu Rai, one of India's most celebrated photographers known for his decades-long documentation of the country's political, cultural, and humanitarian landscape, has died at 83. The Hindu and Indian Express both published tributes describing his work as foundational to visual storytelling in modern India.",
-          "signal": "Raghu Rai's death marks the passing of a defining lens through which India's 20th-century history was visually recorded; his archive holds immense cultural heritage value.",
-          "sources": [
-            "The Hindu",
-            "Indian Express"
-          ],
-          "source_url": "https://www.thehindu.com/entertainment/art/raghu-rai-photographer-dies-obituary-april-26-2026/article70907984.ece",
-          "published_at": "26 Apr \u00b7 17:09 IST",
-          "standalone_social": false,
-          "context": "Two independent Indian publications confirm the death; significant cultural moment.",
-          "social_signals": [],
-          "trend": "stable",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 25,
-          "score": 53,
-          "topic": "London Marathon Sub-Two Hour Record",
-          "domain": "macro",
-          "headline": "Kenya's Sabastian Sawe Breaks Two-Hour Marathon Barrier with 1:59:30",
-          "summary": "Sabastian Sawe of Kenya became the first athlete to break the two-hour marathon barrier in an open, competitive race, setting a world record of 1:59:30 at the London Marathon 2026. The Guardian, NDTV Profit, and AP social all independently confirmed the achievement.",
-          "signal": "Sawe's record in a fully competitive open race, unlike Kipchoge's controlled attempt, will trigger immediate review of marathon world record status by World Athletics.",
-          "sources": [
-            "NDTV Profit",
-            "AP News"
-          ],
-          "source_url": "https://www.ndtvprofit.com/sports/london-marathon-2026-sabastian-sawe-becomes-first-person-to-break-two-hour-barrier-with-world-record-11411365",
-          "published_at": "26 Apr \u00b7 16:39 IST",
-          "standalone_social": false,
-          "context": "Multiple sources including AP social and The Guardian Bluesky confirm the historic record.",
-          "social_signals": [
-            {
-              "handle": "apnews.com",
-              "platform": "bluesky",
-              "text": "Sabastian Sawe of Kenya has become the first person to run a marathon in under 2 hours.",
-              "score": 36,
-              "url": "https://bsky.app/profile/apnews.com/post/3mkfgbibsv42y"
-            },
-            {
-              "handle": "theguardian.com",
-              "platform": "bluesky",
-              "text": "Sabastian Sawe breaks two-hour barrier to make history in London Marathon",
-              "score": 31,
-              "url": "https://bsky.app/profile/theguardian.com/post/3mkfhtcem742i"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": false
-        },
-        {
-          "rank": 26,
-          "score": 50,
-          "topic": "ISRO Quantum Key Distribution Breakthrough",
-          "domain": "india",
-          "headline": "ISRO Demonstrates Free-Space Quantum Key Distribution Over 300 Metres",
-          "summary": "ISRO announced a breakthrough demonstration of free-space Quantum Key Distribution (QKD) over 300 metres, a foundational step toward quantum-secured satellite communications. The announcement was made via ISRO's official Telegram channel, with no wire corroboration yet available.",
-          "signal": "ISRO's QKD demonstration positions India as an active player in the quantum communications race, with implications for secure government and defence satellite networks.",
-          "sources": [
-            "ISRO Official Telegram"
-          ],
-          "source_url": "https://t.me/isroofficial",
-          "published_at": "26 Apr \u00b7 14:00 IST",
-          "standalone_social": true,
-          "context": "Official government agency Telegram; credible institutional source despite social classification.",
-          "social_signals": [
-            {
-              "handle": "isroofficial",
-              "platform": "telegram",
-              "text": "ISRO makes breakthrough demonstration of free-space Quantum Key Distribution (QKD) over 300 m",
-              "score": 39,
-              "url": "https://t.me/isroofficial"
-            }
-          ],
-          "trend": "rising",
-          "breaking_on_social": true
-        }
-      ],
-      "social_count": 80,
-      "tg_count": 50,
-      "tw_count": 0,
-      "bk_count": 30,
-      "local_items": [
-        {
-          "source": "NDTV News",
-          "title": "Half-Sleeves, Shorts: Mumbai's New Dress Code For Inmates To Prevent Suicides",
-          "summary": "Apart from changes in clothing, the police are also modifying lock-up infrastructure",
-          "url": "https://www.ndtv.com/india-news/no-long-clothes-in-lock-ups-mumbai-police-tighten-anti-suicide-measures-11410917#publisher=newsstand",
-          "platform": "rss",
-          "weight": 79
         },
         {
           "source": "LiveMint Markets",
